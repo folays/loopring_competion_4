@@ -1,0 +1,124 @@
+DBG [29540-334] accountId  42138 sold__ NFT (to__ # 73811) for  2013.118 $ (1.500 ETH) validUntilTimeBetweenOrders 411649 seconds
+DBG [29541-213] accountId  42138 sold__ NFT (to__ # 38259) for  2017.445 $ (1.500 ETH) validUntilTimeBetweenOrders 2323445 seconds
+DBG [29545-114] accountId  42138 sold__ NFT (to__ # 73811) for   541.778 $ (0.400 ETH) validUntilTimeBetweenOrders 2319556 seconds
+DBG [29545-153] accountId  42138 sold__ NFT (to__ # 73811) for   541.778 $ (0.400 ETH) validUntilTimeBetweenOrders 2324164 seconds
+DBG [29553-21 ] accountId  42138 sold__ NFT (to__ #132866) for   531.771 $ (0.400 ETH) validUntilTimeBetweenOrders 2334769 seconds
+DBG [29595-246] accountId  42138 sold__ NFT (to__ # 51371) for  2006.996 $ (1.500 ETH) validUntilTimeBetweenOrders 2413519 seconds
+DBG [29604-188] accountId  42138 sold__ NFT (to__ # 73811) for  1863.450 $ (1.500 ETH) validUntilTimeBetweenOrders 2427479 seconds
+DBG [29604-222] accountId  42138 sold__ NFT (to__ # 73811) for  1871.412 $ (1.500 ETH) validUntilTimeBetweenOrders 2427479 seconds
+DBG [29605-58 ] accountId  42138 sold__ NFT (to__ # 73269) for  1876.460 $ (1.500 ETH) validUntilTimeBetweenOrders 2428784 seconds
+DBG [29606-100] accountId  42138 sold__ NFT (to__ #148030) for  1868.280 $ (1.500 ETH) validUntilTimeBetweenOrders 2430250 seconds
+DBG [29627-111] accountId  42138 sold__ NFT (to__ #112125) for  1940.679 $ (1.500 ETH) validUntilTimeBetweenOrders 2469179 seconds
+DBG [29638-98 ] accountId  42138 sold__ NFT (to__ #148123) for  1907.646 $ (1.500 ETH) validUntilTimeBetweenOrders 2487450 seconds
+DBG [29644-362] accountId  42138 sold__ NFT (to__ # 41721) for  1926.008 $ (1.500 ETH) validUntilTimeBetweenOrders 2495414 seconds
+DBG [29653-167] accountId  42138 sold__ NFT (to__ #132866) for  1973.530 $ (1.500 ETH) validUntilTimeBetweenOrders 2475020 seconds
+DBG [29690-172] accountId  42138 sold__ NFT (to__ # 94010) for  2824.404 $ (2.200 ETH) validUntilTimeBetweenOrders 30194 seconds
+DBG [30088-213] accountId  42138 sold__ NFT (to__ #187200) for  2012.306 $ (1.500 ETH) validUntilTimeBetweenOrders 133 seconds
+DBG [30854-120] accountId  42138 bought NFT (from # 49902) for   787.654 $ (0.620 ETH) validUntilTimeBetweenOrders 765565 seconds
+DBG [30970-66 ] accountId  42138 sold__ NFT (to__ # 49902) for  1940.847 $ (1.500 ETH) validUntilTimeBetweenOrders 104 seconds
+DBG [31466-341] accountId  42138 bought NFT (from #191351) for   160.322 $ (0.120 ETH) validUntilTimeBetweenOrders 5580 seconds
+DBG [31556-101] accountId  42138 bought NFT (from # 50830) for   180.780 $ (690.000 LRC) validUntilTimeBetweenOrders 1217800 seconds
+DBG [31559-221] accountId  42138 bought NFT (from #121661) for    52.465 $ (200.000 LRC) validUntilTimeBetweenOrders 1293951 seconds
+DBG [32781-34 ] accountId  42138 sold__ NFT (to__ # 57985) for    62.754 $ (0.050 ETH) validUntilTimeBetweenOrders 67 seconds
+DBG [32781-35 ] accountId  42138 sold__ NFT (to__ #112372) for   125.508 $ (0.100 ETH) validUntilTimeBetweenOrders 77 seconds
+DBG [32781-41 ] accountId  42138 sold__ NFT (to__ #153295) for    62.754 $ (0.050 ETH) validUntilTimeBetweenOrders 915 seconds
+DBG [32781-42 ] accountId  42138 sold__ NFT (to__ # 49902) for    62.754 $ (0.050 ETH) validUntilTimeBetweenOrders 889 seconds
+DBG [32781-43 ] accountId  42138 sold__ NFT (to__ #153295) for    62.754 $ (0.050 ETH) validUntilTimeBetweenOrders 916 seconds
+DBG [32781-44 ] accountId  42138 sold__ NFT (to__ # 41721) for    62.754 $ (0.050 ETH) validUntilTimeBetweenOrders 63 seconds
+DBG [32781-45 ] accountId  42138 sold__ NFT (to__ #148123) for    62.754 $ (0.050 ETH) validUntilTimeBetweenOrders 940 seconds
+DBG [32781-46 ] accountId  42138 sold__ NFT (to__ #176892) for    62.754 $ (0.050 ETH) validUntilTimeBetweenOrders 890 seconds
+DBG [32781-85 ] accountId  42138 sold__ NFT (to__ #176892) for    62.754 $ (0.050 ETH) validUntilTimeBetweenOrders 891 seconds
+DBG [32781-86 ] accountId  42138 sold__ NFT (to__ # 73269) for    62.754 $ (0.050 ETH) validUntilTimeBetweenOrders 945 seconds
+DBG [32781-87 ] accountId  42138 sold__ NFT (to__ # 41721) for    62.754 $ (0.050 ETH) validUntilTimeBetweenOrders 949 seconds
+DBG [32781-88 ] accountId  42138 sold__ NFT (to__ # 57985) for    62.754 $ (0.050 ETH) validUntilTimeBetweenOrders 935 seconds
+DBG [32781-89 ] accountId  42138 sold__ NFT (to__ # 73269) for    62.754 $ (0.050 ETH) validUntilTimeBetweenOrders 946 seconds
+DBG [32781-90 ] accountId  42138 sold__ NFT (to__ #153295) for    62.754 $ (0.050 ETH) validUntilTimeBetweenOrders 990 seconds
+DBG [32781-91 ] accountId  42138 sold__ NFT (to__ # 94010) for    62.754 $ (0.050 ETH) validUntilTimeBetweenOrders 970 seconds
+DBG [32781-92 ] accountId  42138 sold__ NFT (to__ # 41721) for    62.754 $ (0.050 ETH) validUntilTimeBetweenOrders 950 seconds
+DBG [32781-93 ] accountId  42138 sold__ NFT (to__ #176892) for    62.754 $ (0.050 ETH) validUntilTimeBetweenOrders 892 seconds
+DBG [32781-94 ] accountId  42138 sold__ NFT (to__ # 89550) for    62.754 $ (0.050 ETH) validUntilTimeBetweenOrders 984 seconds
+DBG [32781-95 ] accountId  42138 sold__ NFT (to__ #148123) for    62.754 $ (0.050 ETH) validUntilTimeBetweenOrders 999 seconds
+DBG [32781-96 ] accountId  42138 sold__ NFT (to__ #108022) for    62.754 $ (0.050 ETH) validUntilTimeBetweenOrders 964 seconds
+DBG [32781-97 ] accountId  42138 sold__ NFT (to__ # 73269) for    62.754 $ (0.050 ETH) validUntilTimeBetweenOrders 947 seconds
+DBG [32781-98 ] accountId  42138 sold__ NFT (to__ #176892) for    62.754 $ (0.050 ETH) validUntilTimeBetweenOrders 894 seconds
+DBG [32781-99 ] accountId  42138 sold__ NFT (to__ # 94010) for   125.508 $ (0.100 ETH) validUntilTimeBetweenOrders 971 seconds
+DBG [32781-100] accountId  42138 sold__ NFT (to__ # 89550) for    62.754 $ (0.050 ETH) validUntilTimeBetweenOrders 985 seconds
+DBG [32781-101] accountId  42138 sold__ NFT (to__ #153295) for    62.754 $ (0.050 ETH) validUntilTimeBetweenOrders 1025 seconds
+DBG [32781-102] accountId  42138 sold__ NFT (to__ #151077) for   125.508 $ (0.100 ETH) validUntilTimeBetweenOrders 634 seconds
+DBG [32781-112] accountId  42138 sold__ NFT (to__ #109914) for    62.754 $ (0.050 ETH) validUntilTimeBetweenOrders 992 seconds
+DBG [32781-121] accountId  42138 sold__ NFT (to__ # 41721) for    62.754 $ (0.050 ETH) validUntilTimeBetweenOrders 1006 seconds
+DBG [32781-124] accountId  42138 sold__ NFT (to__ #148123) for    62.754 $ (0.050 ETH) validUntilTimeBetweenOrders 1020 seconds
+DBG [32781-125] accountId  42138 sold__ NFT (to__ # 89550) for    62.754 $ (0.050 ETH) validUntilTimeBetweenOrders 986 seconds
+DBG [32781-127] accountId  42138 sold__ NFT (to__ # 73269) for    62.754 $ (0.050 ETH) validUntilTimeBetweenOrders 949 seconds
+DBG [32781-128] accountId  42138 sold__ NFT (to__ # 49902) for    62.754 $ (0.050 ETH) validUntilTimeBetweenOrders 1036 seconds
+DBG [32781-129] accountId  42138 sold__ NFT (to__ # 41721) for    62.754 $ (0.050 ETH) validUntilTimeBetweenOrders 1007 seconds
+DBG [32781-130] accountId  42138 sold__ NFT (to__ #108022) for    62.754 $ (0.050 ETH) validUntilTimeBetweenOrders 1046 seconds
+DBG [32781-131] accountId  42138 sold__ NFT (to__ #151077) for   125.508 $ (0.100 ETH) validUntilTimeBetweenOrders 635 seconds
+DBG [32781-132] accountId  42138 sold__ NFT (to__ # 94010) for   125.508 $ (0.100 ETH) validUntilTimeBetweenOrders 969 seconds
+DBG [32781-133] accountId  42138 sold__ NFT (to__ # 89550) for    62.754 $ (0.050 ETH) validUntilTimeBetweenOrders 1055 seconds
+DBG [32781-134] accountId  42138 sold__ NFT (to__ # 41721) for    62.754 $ (0.050 ETH) validUntilTimeBetweenOrders 1009 seconds
+DBG [32781-164] accountId  42138 sold__ NFT (to__ #151077) for   125.508 $ (0.100 ETH) validUntilTimeBetweenOrders 637 seconds
+DBG [32781-165] accountId  42138 sold__ NFT (to__ # 48877) for   125.508 $ (0.100 ETH) validUntilTimeBetweenOrders 1097 seconds
+DBG [32781-168] accountId  42138 sold__ NFT (to__ #109914) for    62.754 $ (0.050 ETH) validUntilTimeBetweenOrders 308 seconds
+DBG [32781-169] accountId  42138 sold__ NFT (to__ #151077) for    62.754 $ (0.050 ETH) validUntilTimeBetweenOrders 633 seconds
+DBG [32781-170] accountId  42138 sold__ NFT (to__ #176892) for    62.754 $ (0.050 ETH) validUntilTimeBetweenOrders 892 seconds
+DBG [32781-171] accountId  42138 sold__ NFT (to__ # 94010) for    62.754 $ (0.050 ETH) validUntilTimeBetweenOrders 973 seconds
+DBG [32781-172] accountId  42138 sold__ NFT (to__ #176892) for    62.754 $ (0.050 ETH) validUntilTimeBetweenOrders 890 seconds
+DBG [32781-190] accountId  42138 sold__ NFT (to__ #151077) for    62.754 $ (0.050 ETH) validUntilTimeBetweenOrders 635 seconds
+DBG [32781-192] accountId  42138 sold__ NFT (to__ #148123) for    62.754 $ (0.050 ETH) validUntilTimeBetweenOrders 1291 seconds
+DBG [32781-251] accountId  42138 sold__ NFT (to__ #100706) for    62.754 $ (0.050 ETH) validUntilTimeBetweenOrders 1631 seconds
+DBG [32781-252] accountId  42138 sold__ NFT (to__ #100706) for    62.754 $ (0.050 ETH) validUntilTimeBetweenOrders 815 seconds
+DBG [32781-273] accountId  42138 sold__ NFT (to__ #133472) for   125.508 $ (0.100 ETH) validUntilTimeBetweenOrders 1677 seconds
+DBG [32781-275] accountId  42138 sold__ NFT (to__ #126376) for    62.754 $ (0.050 ETH) validUntilTimeBetweenOrders 848 seconds
+DBG [32781-276] accountId  42138 sold__ NFT (to__ #126376) for    62.754 $ (0.050 ETH) validUntilTimeBetweenOrders 1663 seconds
+DBG [32781-277] accountId  42138 sold__ NFT (to__ #148962) for    62.754 $ (0.050 ETH) validUntilTimeBetweenOrders 1722 seconds
+DBG [32781-289] accountId  42138 sold__ NFT (to__ #126376) for    62.754 $ (0.050 ETH) validUntilTimeBetweenOrders 1816 seconds
+DBG [32781-290] accountId  42138 sold__ NFT (to__ #126376) for    62.754 $ (0.050 ETH) validUntilTimeBetweenOrders 1814 seconds
+DBG [32782-18 ] accountId  42138 sold__ NFT (to__ #126376) for    62.993 $ (0.050 ETH) validUntilTimeBetweenOrders 2125 seconds
+DBG [32782-33 ] accountId  42138 sold__ NFT (to__ #126376) for    62.993 $ (0.050 ETH) validUntilTimeBetweenOrders 2163 seconds
+DBG [32782-35 ] accountId  42138 sold__ NFT (to__ #126376) for   314.967 $ (0.250 ETH) validUntilTimeBetweenOrders 1372 seconds
+DBG [32782-51 ] accountId  42138 sold__ NFT (to__ #126376) for    62.993 $ (0.050 ETH) validUntilTimeBetweenOrders 1490 seconds
+DBG [32782-75 ] accountId  42138 sold__ NFT (to__ #151077) for    62.993 $ (0.050 ETH) validUntilTimeBetweenOrders 634 seconds
+DBG [32782-110] accountId  42138 sold__ NFT (to__ #126376) for   250.179 $ (0.200 ETH) validUntilTimeBetweenOrders 1741 seconds
+DBG [32782-156] accountId  42138 sold__ NFT (to__ # 60554) for    62.449 $ (0.050 ETH) validUntilTimeBetweenOrders 1558 seconds
+DBG [32782-176] accountId  42138 sold__ NFT (to__ #131505) for    62.449 $ (0.050 ETH) validUntilTimeBetweenOrders 1089 seconds
+DBG [32782-177] accountId  42138 sold__ NFT (to__ #189840) for    62.449 $ (0.050 ETH) validUntilTimeBetweenOrders 2316 seconds
+DBG [32782-181] accountId  42138 sold__ NFT (to__ # 73811) for    62.449 $ (0.050 ETH) validUntilTimeBetweenOrders 3149 seconds
+DBG [32782-185] accountId  42138 sold__ NFT (to__ #124602) for   124.898 $ (0.100 ETH) validUntilTimeBetweenOrders 2403 seconds
+DBG [32783-5  ] accountId  42138 sold__ NFT (to__ # 44079) for   124.898 $ (0.100 ETH) validUntilTimeBetweenOrders 2682 seconds
+DBG [32783-21 ] accountId  42138 sold__ NFT (to__ # 53112) for   187.348 $ (0.150 ETH) validUntilTimeBetweenOrders 2867 seconds
+DBG [32783-22 ] accountId  42138 sold__ NFT (to__ #186724) for   124.898 $ (0.100 ETH) validUntilTimeBetweenOrders 2939 seconds
+DBG [32783-42 ] accountId  42138 sold__ NFT (to__ #126138) for    62.427 $ (0.050 ETH) validUntilTimeBetweenOrders 3051 seconds
+DBG [32784-268] accountId  42138 sold__ NFT (to__ # 54717) for    62.765 $ (0.050 ETH) validUntilTimeBetweenOrders 5382 seconds
+DBG [32786-178] accountId  42138 sold__ NFT (to__ # 64352) for   189.229 $ (0.150 ETH) validUntilTimeBetweenOrders 8075 seconds
+DBG [32789-61 ] accountId  42138 sold__ NFT (to__ #126376) for   253.076 $ (0.200 ETH) validUntilTimeBetweenOrders 12208 seconds
+DBG [32790-238] accountId  42138 sold__ NFT (to__ #189840) for    62.939 $ (0.050 ETH) validUntilTimeBetweenOrders 14743 seconds
+DBG [32791-132] accountId  42138 sold__ NFT (to__ #188942) for    63.269 $ (0.050 ETH) validUntilTimeBetweenOrders 14619 seconds
+DBG [32808-14 ] accountId  42138 sold__ NFT (to__ # 38259) for    61.360 $ (0.050 ETH) validUntilTimeBetweenOrders 12152 seconds
+DBG [32808-15 ] accountId  42138 sold__ NFT (to__ # 38259) for    61.360 $ (0.050 ETH) validUntilTimeBetweenOrders 12151 seconds
+DBG [32808-30 ] accountId  42138 sold__ NFT (to__ # 38259) for    61.360 $ (0.050 ETH) validUntilTimeBetweenOrders 12153 seconds
+DBG [32808-31 ] accountId  42138 sold__ NFT (to__ # 38259) for    61.360 $ (0.050 ETH) validUntilTimeBetweenOrders 12149 seconds
+DBG [32833-93 ] accountId  42138 sold__ NFT (to__ #182273) for    61.265 $ (0.050 ETH) validUntilTimeBetweenOrders 66734 seconds
+DBG [32833-108] accountId  42138 sold__ NFT (to__ #182273) for    61.169 $ (0.050 ETH) validUntilTimeBetweenOrders 67549 seconds
+DBG [32846-64 ] accountId  42138 sold__ NFT (to__ #189840) for   122.062 $ (0.100 ETH) validUntilTimeBetweenOrders 84602 seconds
+DBG [32849-376] accountId  42138 sold__ NFT (to__ # 54717) for    61.194 $ (0.050 ETH) validUntilTimeBetweenOrders 90544 seconds
+DBG [32850-22 ] accountId  42138 sold__ NFT (to__ # 54717) for    61.194 $ (0.050 ETH) validUntilTimeBetweenOrders 90545 seconds
+DBG [32850-23 ] accountId  42138 sold__ NFT (to__ # 54717) for    61.194 $ (0.050 ETH) validUntilTimeBetweenOrders 90547 seconds
+DBG [32850-27 ] accountId  42138 sold__ NFT (to__ # 54717) for    61.194 $ (0.050 ETH) validUntilTimeBetweenOrders 90544 seconds
+DBG [32850-57 ] accountId  42138 sold__ NFT (to__ # 54717) for    61.194 $ (0.050 ETH) validUntilTimeBetweenOrders 89729 seconds
+DBG [32853-201] accountId  42138 sold__ NFT (to__ #131889) for    60.226 $ (0.050 ETH) validUntilTimeBetweenOrders 91045 seconds
+DBG [32855-20 ] accountId  42138 sold__ NFT (to__ #144609) for    59.654 $ (0.050 ETH) validUntilTimeBetweenOrders 96463 seconds
+DBG [32855-21 ] accountId  42138 sold__ NFT (to__ #144609) for    59.654 $ (0.050 ETH) validUntilTimeBetweenOrders 96464 seconds
+DBG [32855-22 ] accountId  42138 sold__ NFT (to__ #144609) for    59.654 $ (0.050 ETH) validUntilTimeBetweenOrders 96462 seconds
+DBG [32855-26 ] accountId  42138 sold__ NFT (to__ #144609) for    59.654 $ (0.050 ETH) validUntilTimeBetweenOrders 96466 seconds
+DBG [32855-79 ] accountId  42138 sold__ NFT (to__ #144609) for    59.250 $ (0.050 ETH) validUntilTimeBetweenOrders 96463 seconds
+DBG [32888-205] accountId  42138 sold__ NFT (to__ # 73811) for    62.492 $ (0.050 ETH) validUntilTimeBetweenOrders 146081 seconds
+DBG [32888-206] accountId  42138 sold__ NFT (to__ # 73811) for    62.492 $ (0.050 ETH) validUntilTimeBetweenOrders 146084 seconds
+DBG [32888-221] accountId  42138 sold__ NFT (to__ # 73811) for    62.492 $ (0.050 ETH) validUntilTimeBetweenOrders 146080 seconds
+DBG [32891-67 ] accountId  42138 sold__ NFT (to__ # 91473) for    61.896 $ (0.050 ETH) validUntilTimeBetweenOrders 148908 seconds
+DBG [33242-49 ] accountId  42138 sold__ NFT (to__ #179879) for    58.825 $ (0.050 ETH) validUntilTimeBetweenOrders 675677 seconds
+DBG [33242-50 ] accountId  42138 sold__ NFT (to__ #179879) for    58.825 $ (0.050 ETH) validUntilTimeBetweenOrders 675678 seconds
+DBG [33242-52 ] accountId  42138 sold__ NFT (to__ #179879) for    58.825 $ (0.050 ETH) validUntilTimeBetweenOrders 675679 seconds
+DBG [33242-65 ] accountId  42138 sold__ NFT (to__ #179879) for    58.550 $ (0.050 ETH) validUntilTimeBetweenOrders 675681 seconds
+DBG [33255-285] accountId  42138 sold__ NFT (to__ # 95025) for    57.037 $ (0.050 ETH) validUntilTimeBetweenOrders 694437 seconds
+DBG [33255-296] accountId  42138 sold__ NFT (to__ # 95025) for    57.037 $ (0.050 ETH) validUntilTimeBetweenOrders 694434 seconds

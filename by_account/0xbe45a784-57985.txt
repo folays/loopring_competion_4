@@ -1,0 +1,48 @@
+DBG [29454-167] accountId  57985 sold__ NFT (to__ #125795) for    93.147 $ (0.069 ETH) validUntilTimeBetweenOrders 548589 seconds
+DBG [29455-136] accountId  57985 sold__ NFT (to__ #162567) for   268.166 $ (0.200 ETH) validUntilTimeBetweenOrders 385446 seconds
+DBG [29730-306] accountId  57985 bought NFT (from #188749) for   206.016 $ (0.155 ETH) validUntilTimeBetweenOrders 35558 seconds
+DBG [29735-95 ] accountId  57985 sold__ NFT (to__ #162567) for   209.112 $ (0.158 ETH) validUntilTimeBetweenOrders 37243 seconds
+DBG [29922-370] accountId  57985 bought NFT (from #183393) for   111.172 $ (0.084 ETH) validUntilTimeBetweenOrders 892 seconds
+DBG [29924-232] accountId  57985 bought NFT (from #183393) for    55.608 $ (0.042 ETH) validUntilTimeBetweenOrders 1160 seconds
+DBG [29925-36 ] accountId  57985 bought NFT (from #183393) for    55.640 $ (0.042 ETH) validUntilTimeBetweenOrders 96 seconds
+DBG [29987-172] accountId  57985 bought NFT (from #177202) for    19.752 $ (0.015 ETH) validUntilTimeBetweenOrders 61 seconds
+DBG [30093-248] accountId  57985 bought NFT (from # 92477) for   121.767 $ (0.090 ETH) validUntilTimeBetweenOrders 156 seconds
+DBG [30095-148] accountId  57985 bought NFT (from # 92477) for    46.001 $ (0.034 ETH) validUntilTimeBetweenOrders 206 seconds
+DBG [30098-82 ] accountId  57985 bought NFT (from # 92477) for    60.613 $ (0.045 ETH) validUntilTimeBetweenOrders 369 seconds
+DBG [30100-117] accountId  57985 bought NFT (from # 92477) for    60.613 $ (0.045 ETH) validUntilTimeBetweenOrders 440 seconds
+DBG [30107-239] accountId  57985 bought NFT (from # 92477) for   152.575 $ (0.113 ETH) validUntilTimeBetweenOrders 67 seconds
+DBG [30110-226] accountId  57985 bought NFT (from # 92477) for    43.210 $ (0.032 ETH) validUntilTimeBetweenOrders 1007 seconds
+DBG [30152-109] accountId  57985 sold__ NFT (to__ # 54717) for   266.758 $ (0.200 ETH) validUntilTimeBetweenOrders 198497 seconds
+DBG [30153-100] accountId  57985 bought NFT (from # 92477) for    79.907 $ (0.060 ETH) validUntilTimeBetweenOrders 33422 seconds
+DBG [30153-104] accountId  57985 bought NFT (from # 92477) for    86.566 $ (0.065 ETH) validUntilTimeBetweenOrders 33422 seconds
+DBG [30153-130] accountId  57985 bought NFT (from # 92477) for    59.931 $ (0.045 ETH) validUntilTimeBetweenOrders 33575 seconds
+DBG [30280-3  ] accountId  57985 bought NFT (from #136216) for   117.277 $ (0.090 ETH) validUntilTimeBetweenOrders 95354 seconds
+DBG [30378-82 ] accountId  57985 bought NFT (from #146824) for   124.287 $ (0.092 ETH) validUntilTimeBetweenOrders 651 seconds
+DBG [30545-143] accountId  57985 sold__ NFT (to__ #167229) for    93.637 $ (0.069 ETH) validUntilTimeBetweenOrders 200928 seconds
+DBG [30546-156] accountId  57985 bought NFT (from # 92477) for    61.222 $ (0.045 ETH) validUntilTimeBetweenOrders 291354 seconds
+DBG [30546-186] accountId  57985 bought NFT (from #129418) for    17.686 $ (0.013 ETH) validUntilTimeBetweenOrders 39994 seconds
+DBG [30837-2  ] accountId  57985 sold__ NFT (to__ # 54717) for    38.016 $ (144.000 LRC) validUntilTimeBetweenOrders 1295899 seconds
+DBG [30841-257] accountId  57985 sold__ NFT (to__ #108758) for    17.840 $ (69.000 LRC) validUntilTimeBetweenOrders 1288531 seconds
+DBG [30873-124] accountId  57985 sold__ NFT (to__ #168723) for    17.678 $ (69.000 LRC) validUntilTimeBetweenOrders 1236136 seconds
+DBG [31190-3  ] accountId  57985 bought NFT (from #167356) for    64.674 $ (0.050 ETH) validUntilTimeBetweenOrders 1434481 seconds
+DBG [31450-34 ] accountId  57985 sold__ NFT (to__ #128713) for     2.500 $ (10.000 LRC) validUntilTimeBetweenOrders 307715 seconds
+DBG [31595-13 ] accountId  57985 sold__ NFT (to__ #128713) for     2.667 $ (10.000 LRC) validUntilTimeBetweenOrders 109680 seconds
+DBG [31790-184] accountId  57985 sold__ NFT (to__ # 34145) for     2.688 $ (10.000 LRC) validUntilTimeBetweenOrders 4606 seconds
+DBG [31790-185] accountId  57985 sold__ NFT (to__ # 34145) for     2.688 $ (10.000 LRC) validUntilTimeBetweenOrders 4589 seconds
+DBG [31792-274] accountId  57985 sold__ NFT (to__ #189840) for    11.231 $ (42.000 LRC) validUntilTimeBetweenOrders 1746 seconds
+DBG [32098-114] accountId  57985 bought NFT (from #177969) for     5.181 $ (0.003 ETH) validUntilTimeBetweenOrders 1496 seconds
+DBG [32409-94 ] accountId  57985 sold__ NFT (to__ #101446) for   118.059 $ (0.073 ETH) validUntilTimeBetweenOrders 15068 seconds
+DBG [32467-295] accountId  57985 bought NFT (from # 92477) for   142.586 $ (0.090 ETH) validUntilTimeBetweenOrders 3120307 seconds
+DBG [32781-34 ] accountId  57985 bought NFT (from # 42138) for    62.754 $ (0.050 ETH) validUntilTimeBetweenOrders 67 seconds
+DBG [32781-88 ] accountId  57985 bought NFT (from # 42138) for    62.754 $ (0.050 ETH) validUntilTimeBetweenOrders 935 seconds
+DBG [32953-106] accountId  57985 sold__ NFT (to__ #124200) for    94.365 $ (0.075 ETH) validUntilTimeBetweenOrders 31083 seconds
+DBG [32979-50 ] accountId  57985 sold__ NFT (to__ #164986) for  1882.125 $ (1.500 ETH) validUntilTimeBetweenOrders 13204 seconds
+DBG [33002-38 ] accountId  57985 bought NFT (from #225305) for   261.435 $ (0.217 ETH) validUntilTimeBetweenOrders 391 seconds
+DBG [33003-43 ] accountId  57985 bought NFT (from #186138) for   253.950 $ (0.210 ETH) validUntilTimeBetweenOrders 573 seconds
+DBG [33011-89 ] accountId  57985 bought NFT (from #175479) for    97.331 $ (0.080 ETH) validUntilTimeBetweenOrders 392 seconds
+DBG [33011-165] accountId  57985 bought NFT (from #175479) for    96.920 $ (0.080 ETH) validUntilTimeBetweenOrders 420 seconds
+DBG [33011-249] accountId  57985 bought NFT (from #175479) for    96.920 $ (0.080 ETH) validUntilTimeBetweenOrders 36 seconds
+DBG [33012-194] accountId  57985 bought NFT (from #175479) for   302.876 $ (0.250 ETH) validUntilTimeBetweenOrders 74 seconds
+DBG [33013-6  ] accountId  57985 bought NFT (from #136267) for   605.367 $ (0.500 ETH) validUntilTimeBetweenOrders 30 seconds
+DBG [33177-98 ] accountId  57985 bought NFT (from #179111) for    84.642 $ (0.070 ETH) validUntilTimeBetweenOrders 1188242 seconds
+DBG [33228-124] accountId  57985 sold__ NFT (to__ # 91473) for    35.147 $ (0.030 ETH) validUntilTimeBetweenOrders 33967 seconds

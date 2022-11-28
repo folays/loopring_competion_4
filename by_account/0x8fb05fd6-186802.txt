@@ -1,0 +1,316 @@
+DBG [29645-161] accountId 186802 sold__ NFT (to__ #132582) for    37.824 $ (0.029 ETH) validUntilTimeBetweenOrders 476 seconds
+DBG [29651-234] accountId 186802 bought NFT (from #120388) for    99.346 $ (0.075 ETH) validUntilTimeBetweenOrders 424 seconds
+DBG [29651-247] accountId 186802 bought NFT (from #120388) for    99.346 $ (0.075 ETH) validUntilTimeBetweenOrders 424 seconds
+DBG [29651-321] accountId 186802 bought NFT (from #120388) for    99.596 $ (0.075 ETH) validUntilTimeBetweenOrders 43 seconds
+DBG [29652-18 ] accountId 186802 sold__ NFT (to__ # 89729) for    30.503 $ (0.023 ETH) validUntilTimeBetweenOrders 91 seconds
+DBG [29652-52 ] accountId 186802 sold__ NFT (to__ #125512) for    27.850 $ (0.021 ETH) validUntilTimeBetweenOrders 49 seconds
+DBG [29652-53 ] accountId 186802 sold__ NFT (to__ #125512) for    27.850 $ (0.021 ETH) validUntilTimeBetweenOrders 19 seconds
+DBG [29652-108] accountId 186802 sold__ NFT (to__ #165103) for    27.703 $ (0.021 ETH) validUntilTimeBetweenOrders 158 seconds
+DBG [29652-109] accountId 186802 sold__ NFT (to__ #165103) for    27.703 $ (0.021 ETH) validUntilTimeBetweenOrders 292 seconds
+DBG [29652-111] accountId 186802 sold__ NFT (to__ #161948) for    27.703 $ (0.021 ETH) validUntilTimeBetweenOrders 37 seconds
+DBG [29653-280] accountId 186802 sold__ NFT (to__ # 38136) for    39.385 $ (0.030 ETH) validUntilTimeBetweenOrders 93 seconds
+DBG [29653-281] accountId 186802 sold__ NFT (to__ # 71674) for    59.084 $ (0.045 ETH) validUntilTimeBetweenOrders 14211 seconds
+DBG [29654-48 ] accountId 186802 sold__ NFT (to__ # 71674) for    52.343 $ (0.040 ETH) validUntilTimeBetweenOrders 11612 seconds
+DBG [29656-341] accountId 186802 sold__ NFT (to__ #125512) for    25.406 $ (0.019 ETH) validUntilTimeBetweenOrders 348 seconds
+DBG [29658-183] accountId 186802 sold__ NFT (to__ #125512) for    27.913 $ (0.021 ETH) validUntilTimeBetweenOrders 7020 seconds
+DBG [29658-290] accountId 186802 sold__ NFT (to__ #156232) for    25.199 $ (0.019 ETH) validUntilTimeBetweenOrders 3038 seconds
+DBG [29661-64 ] accountId 186802 sold__ NFT (to__ #126200) for    25.134 $ (0.019 ETH) validUntilTimeBetweenOrders 1253 seconds
+DBG [29661-65 ] accountId 186802 sold__ NFT (to__ #126200) for    27.781 $ (0.021 ETH) validUntilTimeBetweenOrders 3291 seconds
+DBG [29671-115] accountId 186802 sold__ NFT (to__ #134158) for    25.190 $ (0.019 ETH) validUntilTimeBetweenOrders 14545 seconds
+DBG [29678-22 ] accountId 186802 sold__ NFT (to__ #160230) for    55.430 $ (0.042 ETH) validUntilTimeBetweenOrders 14130 seconds
+DBG [29678-23 ] accountId 186802 sold__ NFT (to__ #160230) for    37.688 $ (0.029 ETH) validUntilTimeBetweenOrders 18144 seconds
+DBG [29686-128] accountId 186802 sold__ NFT (to__ #156232) for    67.139 $ (0.051 ETH) validUntilTimeBetweenOrders 944 seconds
+DBG [29686-163] accountId 186802 sold__ NFT (to__ #175346) for    24.675 $ (0.019 ETH) validUntilTimeBetweenOrders 1813 seconds
+DBG [29687-163] accountId 186802 sold__ NFT (to__ # 40985) for    10.915 $ (0.008 ETH) validUntilTimeBetweenOrders 64843 seconds
+DBG [29694-131] accountId 186802 sold__ NFT (to__ #129140) for    22.379 $ (0.017 ETH) validUntilTimeBetweenOrders 1615 seconds
+DBG [29708-96 ] accountId 186802 sold__ NFT (to__ #187028) for     2.716 $ (0.002 ETH) validUntilTimeBetweenOrders 88288 seconds
+DBG [29718-247] accountId 186802 sold__ NFT (to__ #127929) for   399.055 $ (0.299 ETH) validUntilTimeBetweenOrders 18391 seconds
+DBG [29721-168] accountId 186802 bought NFT (from #168818) for    62.393 $ (0.048 ETH) validUntilTimeBetweenOrders 27092 seconds
+DBG [29721-171] accountId 186802 bought NFT (from #152905) for    26.271 $ (0.020 ETH) validUntilTimeBetweenOrders 157 seconds
+DBG [29721-222] accountId 186802 bought NFT (from #143622) for    27.584 $ (0.021 ETH) validUntilTimeBetweenOrders 30087 seconds
+DBG [29757-163] accountId 186802 sold__ NFT (to__ #132582) for    26.709 $ (0.020 ETH) validUntilTimeBetweenOrders 1265 seconds
+DBG [29758-152] accountId 186802 sold__ NFT (to__ #120264) for    26.738 $ (0.020 ETH) validUntilTimeBetweenOrders 1182 seconds
+DBG [29758-166] accountId 186802 sold__ NFT (to__ #120264) for    20.050 $ (0.015 ETH) validUntilTimeBetweenOrders 2537 seconds
+DBG [29758-167] accountId 186802 sold__ NFT (to__ #120264) for    26.738 $ (0.020 ETH) validUntilTimeBetweenOrders 2539 seconds
+DBG [29760-88 ] accountId 186802 sold__ NFT (to__ #138239) for    26.826 $ (0.020 ETH) validUntilTimeBetweenOrders 3692 seconds
+DBG [29763-93 ] accountId 186802 bought NFT (from #128967) for     5.915 $ (0.004 ETH) validUntilTimeBetweenOrders 359 seconds
+DBG [29764-176] accountId 186802 sold__ NFT (to__ #138239) for    20.099 $ (0.015 ETH) validUntilTimeBetweenOrders 10872 seconds
+DBG [29765-296] accountId 186802 sold__ NFT (to__ #166154) for    26.873 $ (0.020 ETH) validUntilTimeBetweenOrders 88755 seconds
+DBG [29765-331] accountId 186802 sold__ NFT (to__ #138239) for    26.873 $ (0.020 ETH) validUntilTimeBetweenOrders 61 seconds
+DBG [29768-215] accountId 186802 sold__ NFT (to__ # 38861) for    26.302 $ (0.020 ETH) validUntilTimeBetweenOrders 3286 seconds
+DBG [29774-61 ] accountId 186802 bought NFT (from #188749) for  1024.120 $ (0.775 ETH) validUntilTimeBetweenOrders 106263 seconds
+DBG [29777-219] accountId 186802 sold__ NFT (to__ #113678) for    19.840 $ (0.015 ETH) validUntilTimeBetweenOrders 17093 seconds
+DBG [29779-62 ] accountId 186802 sold__ NFT (to__ #113678) for    26.356 $ (0.020 ETH) validUntilTimeBetweenOrders 2802 seconds
+DBG [29781-275] accountId 186802 sold__ NFT (to__ #132582) for    12.590 $ (0.009 ETH) validUntilTimeBetweenOrders 1596 seconds
+DBG [29819-224] accountId 186802 sold__ NFT (to__ #167340) for    13.536 $ (0.011 ETH) validUntilTimeBetweenOrders 5631 seconds
+DBG [29826-185] accountId 186802 sold__ NFT (to__ #144338) for   246.516 $ (0.189 ETH) validUntilTimeBetweenOrders 150 seconds
+DBG [29829-43 ] accountId 186802 sold__ NFT (to__ #171696) for   245.937 $ (0.189 ETH) validUntilTimeBetweenOrders 1322 seconds
+DBG [29833-181] accountId 186802 sold__ NFT (to__ # 36768) for    61.681 $ (0.047 ETH) validUntilTimeBetweenOrders 28994 seconds
+DBG [29834-138] accountId 186802 sold__ NFT (to__ # 36768) for     8.165 $ (0.006 ETH) validUntilTimeBetweenOrders 289273 seconds
+DBG [29868-180] accountId 186802 sold__ NFT (to__ # 33998) for   236.599 $ (0.178 ETH) validUntilTimeBetweenOrders 1721 seconds
+DBG [29870-273] accountId 186802 sold__ NFT (to__ #129042) for   243.405 $ (0.182 ETH) validUntilTimeBetweenOrders 814 seconds
+DBG [29887-56 ] accountId 186802 sold__ NFT (to__ # 40837) for   276.473 $ (0.200 ETH) validUntilTimeBetweenOrders 36866 seconds
+DBG [29938-245] accountId 186802 bought NFT (from #136267) for   138.304 $ (0.105 ETH) validUntilTimeBetweenOrders 17406 seconds
+DBG [29938-324] accountId 186802 sold__ NFT (to__ #154174) for   211.310 $ (0.160 ETH) validUntilTimeBetweenOrders 422 seconds
+DBG [29957-105] accountId 186802 sold__ NFT (to__ # 43891) for   321.125 $ (0.250 ETH) validUntilTimeBetweenOrders 53499 seconds
+DBG [29983-262] accountId 186802 sold__ NFT (to__ #136267) for     6.660 $ (0.005 ETH) validUntilTimeBetweenOrders 452 seconds
+DBG [29983-264] accountId 186802 sold__ NFT (to__ #144127) for    13.332 $ (0.010 ETH) validUntilTimeBetweenOrders 538 seconds
+DBG [29983-375] accountId 186802 sold__ NFT (to__ #144127) for    13.332 $ (0.010 ETH) validUntilTimeBetweenOrders 425 seconds
+DBG [29983-376] accountId 186802 sold__ NFT (to__ #132582) for    13.332 $ (0.010 ETH) validUntilTimeBetweenOrders 704 seconds
+DBG [29983-377] accountId 186802 sold__ NFT (to__ #132582) for    13.332 $ (0.010 ETH) validUntilTimeBetweenOrders 13 seconds
+DBG [29984-111] accountId 186802 sold__ NFT (to__ #168875) for     7.994 $ (0.006 ETH) validUntilTimeBetweenOrders 767 seconds
+DBG [29984-227] accountId 186802 sold__ NFT (to__ #132582) for     7.994 $ (0.006 ETH) validUntilTimeBetweenOrders 154 seconds
+DBG [29985-167] accountId 186802 sold__ NFT (to__ #128466) for    13.163 $ (0.010 ETH) validUntilTimeBetweenOrders 335 seconds
+DBG [29985-255] accountId 186802 sold__ NFT (to__ #144127) for    13.184 $ (0.010 ETH) validUntilTimeBetweenOrders 42 seconds
+DBG [30067-111] accountId 186802 sold__ NFT (to__ #178130) for   166.102 $ (0.125 ETH) validUntilTimeBetweenOrders 6828 seconds
+DBG [30087-126] accountId 186802 sold__ NFT (to__ #143083) for   173.267 $ (0.130 ETH) validUntilTimeBetweenOrders 30649 seconds
+DBG [30117-366] accountId 186802 bought NFT (from #176901) for   202.906 $ (0.150 ETH) validUntilTimeBetweenOrders 212 seconds
+DBG [30119-40 ] accountId 186802 bought NFT (from #149663) for   247.655 $ (0.182 ETH) validUntilTimeBetweenOrders 375 seconds
+DBG [30119-192] accountId 186802 bought NFT (from #129905) for   251.411 $ (0.185 ETH) validUntilTimeBetweenOrders 97 seconds
+DBG [30123-301] accountId 186802 bought NFT (from #124913) for   311.701 $ (0.230 ETH) validUntilTimeBetweenOrders 47 seconds
+DBG [30125-318] accountId 186802 bought NFT (from #189660) for   297.363 $ (0.220 ETH) validUntilTimeBetweenOrders 90 seconds
+DBG [30277-15 ] accountId 186802 sold__ NFT (to__ #133472) for    10.350 $ (0.008 ETH) validUntilTimeBetweenOrders 250 seconds
+DBG [30279-69 ] accountId 186802 sold__ NFT (to__ #128466) for    10.408 $ (0.008 ETH) validUntilTimeBetweenOrders 2666 seconds
+DBG [30279-71 ] accountId 186802 sold__ NFT (to__ #128466) for    10.408 $ (0.008 ETH) validUntilTimeBetweenOrders 3586 seconds
+DBG [30327-99 ] accountId 186802 sold__ NFT (to__ #171276) for   131.988 $ (0.100 ETH) validUntilTimeBetweenOrders 56 seconds
+DBG [30327-101] accountId 186802 sold__ NFT (to__ #172477) for   263.976 $ (0.200 ETH) validUntilTimeBetweenOrders 62 seconds
+DBG [30327-102] accountId 186802 sold__ NFT (to__ #133472) for   131.988 $ (0.100 ETH) validUntilTimeBetweenOrders 8 seconds
+DBG [30327-144] accountId 186802 sold__ NFT (to__ #145478) for   132.292 $ (0.100 ETH) validUntilTimeBetweenOrders 167 seconds
+DBG [30327-345] accountId 186802 sold__ NFT (to__ #120264) for    39.590 $ (0.030 ETH) validUntilTimeBetweenOrders 63 seconds
+DBG [30327-347] accountId 186802 sold__ NFT (to__ #162773) for   197.950 $ (0.150 ETH) validUntilTimeBetweenOrders 40 seconds
+DBG [30327-348] accountId 186802 sold__ NFT (to__ #133472) for    26.393 $ (0.020 ETH) validUntilTimeBetweenOrders 88 seconds
+DBG [30328-6  ] accountId 186802 sold__ NFT (to__ #128466) for     3.962 $ (0.003 ETH) validUntilTimeBetweenOrders 76 seconds
+DBG [30328-37 ] accountId 186802 sold__ NFT (to__ #133472) for     3.962 $ (0.003 ETH) validUntilTimeBetweenOrders 113 seconds
+DBG [30328-38 ] accountId 186802 sold__ NFT (to__ #162902) for     3.962 $ (0.003 ETH) validUntilTimeBetweenOrders 155 seconds
+DBG [30328-39 ] accountId 186802 sold__ NFT (to__ #164906) for   158.468 $ (0.120 ETH) validUntilTimeBetweenOrders 30 seconds
+DBG [30328-80 ] accountId 186802 sold__ NFT (to__ #164858) for   198.327 $ (0.150 ETH) validUntilTimeBetweenOrders 33 seconds
+DBG [30328-127] accountId 186802 sold__ NFT (to__ #128967) for    26.444 $ (0.020 ETH) validUntilTimeBetweenOrders 484 seconds
+DBG [30328-128] accountId 186802 sold__ NFT (to__ #143615) for    26.444 $ (0.020 ETH) validUntilTimeBetweenOrders 510 seconds
+DBG [30328-153] accountId 186802 sold__ NFT (to__ #133472) for     3.971 $ (0.003 ETH) validUntilTimeBetweenOrders 97 seconds
+DBG [30328-154] accountId 186802 sold__ NFT (to__ #128466) for    13.235 $ (0.010 ETH) validUntilTimeBetweenOrders 585 seconds
+DBG [30328-155] accountId 186802 sold__ NFT (to__ #128967) for     3.971 $ (0.003 ETH) validUntilTimeBetweenOrders 422 seconds
+DBG [30328-211] accountId 186802 sold__ NFT (to__ #162902) for     3.971 $ (0.003 ETH) validUntilTimeBetweenOrders 372 seconds
+DBG [30328-233] accountId 186802 sold__ NFT (to__ #133472) for   132.350 $ (0.100 ETH) validUntilTimeBetweenOrders 24 seconds
+DBG [30328-235] accountId 186802 sold__ NFT (to__ #133472) for    52.940 $ (0.040 ETH) validUntilTimeBetweenOrders 92 seconds
+DBG [30329-201] accountId 186802 sold__ NFT (to__ #128466) for     3.974 $ (0.003 ETH) validUntilTimeBetweenOrders 1213 seconds
+DBG [30330-265] accountId 186802 sold__ NFT (to__ #162706) for     3.974 $ (0.003 ETH) validUntilTimeBetweenOrders 2443 seconds
+DBG [30333-74 ] accountId 186802 sold__ NFT (to__ #168875) for     1.321 $ (0.001 ETH) validUntilTimeBetweenOrders 431 seconds
+DBG [30333-277] accountId 186802 sold__ NFT (to__ #143615) for     1.058 $ (0.001 ETH) validUntilTimeBetweenOrders 668 seconds
+DBG [30333-278] accountId 186802 sold__ NFT (to__ #164320) for     1.323 $ (0.001 ETH) validUntilTimeBetweenOrders 26 seconds
+DBG [30333-279] accountId 186802 sold__ NFT (to__ #183821) for     1.323 $ (0.001 ETH) validUntilTimeBetweenOrders 121 seconds
+DBG [30333-295] accountId 186802 sold__ NFT (to__ #183821) for     1.322 $ (0.001 ETH) validUntilTimeBetweenOrders 78 seconds
+DBG [30333-296] accountId 186802 sold__ NFT (to__ #183821) for     1.322 $ (0.001 ETH) validUntilTimeBetweenOrders 95 seconds
+DBG [30333-297] accountId 186802 sold__ NFT (to__ #183821) for     1.322 $ (0.001 ETH) validUntilTimeBetweenOrders 143 seconds
+DBG [30333-373] accountId 186802 sold__ NFT (to__ #128466) for     1.322 $ (0.001 ETH) validUntilTimeBetweenOrders 2749 seconds
+DBG [30333-374] accountId 186802 sold__ NFT (to__ #172477) for     1.322 $ (0.001 ETH) validUntilTimeBetweenOrders 701 seconds
+DBG [30334-17 ] accountId 186802 sold__ NFT (to__ #128967) for     1.322 $ (0.001 ETH) validUntilTimeBetweenOrders 434 seconds
+DBG [30334-18 ] accountId 186802 sold__ NFT (to__ #132582) for     1.322 $ (0.001 ETH) validUntilTimeBetweenOrders 723 seconds
+DBG [30334-19 ] accountId 186802 sold__ NFT (to__ #172477) for     1.322 $ (0.001 ETH) validUntilTimeBetweenOrders 1161 seconds
+DBG [30334-45 ] accountId 186802 sold__ NFT (to__ #132582) for     1.322 $ (0.001 ETH) validUntilTimeBetweenOrders 715 seconds
+DBG [30334-46 ] accountId 186802 sold__ NFT (to__ #132582) for     1.322 $ (0.001 ETH) validUntilTimeBetweenOrders 1323 seconds
+DBG [30334-47 ] accountId 186802 sold__ NFT (to__ #172477) for     1.322 $ (0.001 ETH) validUntilTimeBetweenOrders 1033 seconds
+DBG [30334-79 ] accountId 186802 sold__ NFT (to__ #113678) for     1.322 $ (0.001 ETH) validUntilTimeBetweenOrders 1047 seconds
+DBG [30334-101] accountId 186802 sold__ NFT (to__ #113678) for     1.321 $ (0.001 ETH) validUntilTimeBetweenOrders 844 seconds
+DBG [30334-102] accountId 186802 sold__ NFT (to__ #113678) for     1.321 $ (0.001 ETH) validUntilTimeBetweenOrders 903 seconds
+DBG [30334-103] accountId 186802 sold__ NFT (to__ #132582) for     1.321 $ (0.001 ETH) validUntilTimeBetweenOrders 1270 seconds
+DBG [30334-104] accountId 186802 sold__ NFT (to__ #113678) for     1.321 $ (0.001 ETH) validUntilTimeBetweenOrders 1645 seconds
+DBG [30334-125] accountId 186802 sold__ NFT (to__ #113678) for     1.318 $ (0.001 ETH) validUntilTimeBetweenOrders 903 seconds
+DBG [30334-126] accountId 186802 sold__ NFT (to__ #183821) for     1.318 $ (0.001 ETH) validUntilTimeBetweenOrders 2017 seconds
+DBG [30334-128] accountId 186802 sold__ NFT (to__ #113678) for     1.318 $ (0.001 ETH) validUntilTimeBetweenOrders 1645 seconds
+DBG [30334-129] accountId 186802 sold__ NFT (to__ #183821) for     1.318 $ (0.001 ETH) validUntilTimeBetweenOrders 1159 seconds
+DBG [30334-130] accountId 186802 sold__ NFT (to__ #113678) for     1.318 $ (0.001 ETH) validUntilTimeBetweenOrders 844 seconds
+DBG [30334-143] accountId 186802 sold__ NFT (to__ #183821) for     1.318 $ (0.001 ETH) validUntilTimeBetweenOrders 1315 seconds
+DBG [30334-144] accountId 186802 sold__ NFT (to__ #113678) for     5.271 $ (0.004 ETH) validUntilTimeBetweenOrders 1440 seconds
+DBG [30334-145] accountId 186802 sold__ NFT (to__ #166210) for     1.318 $ (0.001 ETH) validUntilTimeBetweenOrders 1647 seconds
+DBG [30334-146] accountId 186802 sold__ NFT (to__ #183821) for     1.318 $ (0.001 ETH) validUntilTimeBetweenOrders 1434 seconds
+DBG [30334-148] accountId 186802 sold__ NFT (to__ #164906) for     1.318 $ (0.001 ETH) validUntilTimeBetweenOrders 1732 seconds
+DBG [30334-167] accountId 186802 sold__ NFT (to__ #113678) for     1.318 $ (0.001 ETH) validUntilTimeBetweenOrders 1996 seconds
+DBG [30334-168] accountId 186802 sold__ NFT (to__ #113678) for     1.318 $ (0.001 ETH) validUntilTimeBetweenOrders 1853 seconds
+DBG [30334-169] accountId 186802 sold__ NFT (to__ #113678) for     1.318 $ (0.001 ETH) validUntilTimeBetweenOrders 1508 seconds
+DBG [30334-214] accountId 186802 sold__ NFT (to__ #113678) for     1.318 $ (0.001 ETH) validUntilTimeBetweenOrders 2139 seconds
+DBG [30334-215] accountId 186802 sold__ NFT (to__ #113678) for     1.318 $ (0.001 ETH) validUntilTimeBetweenOrders 2106 seconds
+DBG [30334-216] accountId 186802 sold__ NFT (to__ #113678) for     1.318 $ (0.001 ETH) validUntilTimeBetweenOrders 2204 seconds
+DBG [30334-217] accountId 186802 sold__ NFT (to__ #113678) for     1.318 $ (0.001 ETH) validUntilTimeBetweenOrders 1942 seconds
+DBG [30334-218] accountId 186802 sold__ NFT (to__ #113678) for     1.318 $ (0.001 ETH) validUntilTimeBetweenOrders 1855 seconds
+DBG [30334-271] accountId 186802 sold__ NFT (to__ #128466) for     1.318 $ (0.001 ETH) validUntilTimeBetweenOrders 1511 seconds
+DBG [30334-272] accountId 186802 sold__ NFT (to__ #128466) for     1.318 $ (0.001 ETH) validUntilTimeBetweenOrders 878 seconds
+DBG [30335-6  ] accountId 186802 sold__ NFT (to__ #183821) for     1.318 $ (0.001 ETH) validUntilTimeBetweenOrders 2614 seconds
+DBG [30336-3  ] accountId 186802 sold__ NFT (to__ #145147) for     1.315 $ (0.001 ETH) validUntilTimeBetweenOrders 2801 seconds
+DBG [30336-163] accountId 186802 sold__ NFT (to__ #127929) for     1.312 $ (0.001 ETH) validUntilTimeBetweenOrders 3538 seconds
+DBG [30336-164] accountId 186802 sold__ NFT (to__ #127929) for     1.312 $ (0.001 ETH) validUntilTimeBetweenOrders 3340 seconds
+DBG [30336-165] accountId 186802 sold__ NFT (to__ #127929) for     1.312 $ (0.001 ETH) validUntilTimeBetweenOrders 3299 seconds
+DBG [30555-202] accountId 186802 bought NFT (from #180861) for   507.365 $ (0.375 ETH) validUntilTimeBetweenOrders 242 seconds
+DBG [30555-214] accountId 186802 bought NFT (from #180861) for   507.365 $ (0.375 ETH) validUntilTimeBetweenOrders 242 seconds
+DBG [30555-216] accountId 186802 sold__ NFT (to__ #131249) for   236.770 $ (0.175 ETH) validUntilTimeBetweenOrders 45 seconds
+DBG [30555-326] accountId 186802 sold__ NFT (to__ # 60767) for   128.234 $ (0.095 ETH) validUntilTimeBetweenOrders 57 seconds
+DBG [30566-376] accountId 186802 bought NFT (from #129418) for    67.918 $ (0.050 ETH) validUntilTimeBetweenOrders 598 seconds
+DBG [30582-147] accountId 186802 bought NFT (from #180861) for    39.875 $ (0.030 ETH) validUntilTimeBetweenOrders 50841 seconds
+DBG [30582-149] accountId 186802 bought NFT (from #180861) for    39.875 $ (0.030 ETH) validUntilTimeBetweenOrders 50841 seconds
+DBG [30582-150] accountId 186802 bought NFT (from #180861) for    39.875 $ (0.030 ETH) validUntilTimeBetweenOrders 50002 seconds
+DBG [30586-249] accountId 186802 bought NFT (from #184009) for    26.670 $ (0.020 ETH) validUntilTimeBetweenOrders 112 seconds
+DBG [30590-87 ] accountId 186802 bought NFT (from # 94500) for    19.900 $ (0.015 ETH) validUntilTimeBetweenOrders 252 seconds
+DBG [30590-192] accountId 186802 sold__ NFT (to__ #171287) for     5.301 $ (0.004 ETH) validUntilTimeBetweenOrders 36 seconds
+DBG [30591-15 ] accountId 186802 sold__ NFT (to__ #175024) for     5.288 $ (0.004 ETH) validUntilTimeBetweenOrders 39 seconds
+DBG [30594-173] accountId 186802 sold__ NFT (to__ #115677) for     4.642 $ (0.004 ETH) validUntilTimeBetweenOrders 12043 seconds
+DBG [30596-110] accountId 186802 sold__ NFT (to__ # 40945) for     6.655 $ (0.005 ETH) validUntilTimeBetweenOrders 4931 seconds
+DBG [30610-119] accountId 186802 sold__ NFT (to__ # 38649) for   116.789 $ (0.087 ETH) validUntilTimeBetweenOrders 6920 seconds
+DBG [30717-190] accountId 186802 sold__ NFT (to__ # 37020) for   246.984 $ (0.189 ETH) validUntilTimeBetweenOrders 48 seconds
+DBG [30718-146] accountId 186802 bought NFT (from #175479) for  1300.003 $ (1.000 ETH) validUntilTimeBetweenOrders 103 seconds
+DBG [30720-75 ] accountId 186802 sold__ NFT (to__ #126200) for   346.628 $ (0.264 ETH) validUntilTimeBetweenOrders 39718 seconds
+DBG [30721-107] accountId 186802 sold__ NFT (to__ # 43742) for   345.422 $ (0.263 ETH) validUntilTimeBetweenOrders 185 seconds
+DBG [30721-135] accountId 186802 sold__ NFT (to__ #170536) for   345.422 $ (0.263 ETH) validUntilTimeBetweenOrders 35 seconds
+DBG [30721-162] accountId 186802 sold__ NFT (to__ #127190) for   104.892 $ (0.080 ETH) validUntilTimeBetweenOrders 8971 seconds
+DBG [30726-183] accountId 186802 sold__ NFT (to__ #176509) for   110.930 $ (0.085 ETH) validUntilTimeBetweenOrders 7637 seconds
+DBG [30733-335] accountId 186802 sold__ NFT (to__ #131644) for   109.134 $ (0.085 ETH) validUntilTimeBetweenOrders 11461 seconds
+DBG [30759-101] accountId 186802 sold__ NFT (to__ #124927) for    12.739 $ (0.010 ETH) validUntilTimeBetweenOrders 983 seconds
+DBG [30774-27 ] accountId 186802 sold__ NFT (to__ #126014) for     5.001 $ (0.004 ETH) validUntilTimeBetweenOrders 3244 seconds
+DBG [30832-139] accountId 186802 bought NFT (from #190473) for    64.793 $ (0.050 ETH) validUntilTimeBetweenOrders 2516 seconds
+DBG [30832-173] accountId 186802 bought NFT (from #190473) for    64.793 $ (0.050 ETH) validUntilTimeBetweenOrders 2628 seconds
+DBG [30832-241] accountId 186802 bought NFT (from #190473) for   103.663 $ (0.080 ETH) validUntilTimeBetweenOrders 2986 seconds
+DBG [30832-296] accountId 186802 bought NFT (from #190473) for   103.598 $ (0.080 ETH) validUntilTimeBetweenOrders 3521 seconds
+DBG [30834-134] accountId 186802 bought NFT (from #190473) for   103.562 $ (0.080 ETH) validUntilTimeBetweenOrders 185 seconds
+DBG [30837-193] accountId 186802 sold__ NFT (to__ # 64352) for    77.724 $ (0.060 ETH) validUntilTimeBetweenOrders 939 seconds
+DBG [30837-258] accountId 186802 sold__ NFT (to__ # 64352) for   207.265 $ (0.160 ETH) validUntilTimeBetweenOrders 1339 seconds
+DBG [30870-78 ] accountId 186802 sold__ NFT (to__ #131505) for    75.148 $ (0.060 ETH) validUntilTimeBetweenOrders 58454 seconds
+DBG [30874-300] accountId 186802 sold__ NFT (to__ #169504) for   152.992 $ (0.120 ETH) validUntilTimeBetweenOrders 3905 seconds
+DBG [30877-160] accountId 186802 bought NFT (from #183393) for   271.220 $ (0.210 ETH) validUntilTimeBetweenOrders 966 seconds
+DBG [30878-289] accountId 186802 bought NFT (from #183393) for   271.220 $ (0.210 ETH) validUntilTimeBetweenOrders 966 seconds
+DBG [30881-298] accountId 186802 sold__ NFT (to__ #124927) for    90.311 $ (0.070 ETH) validUntilTimeBetweenOrders 92 seconds
+DBG [30883-19 ] accountId 186802 sold__ NFT (to__ #138595) for    84.995 $ (0.066 ETH) validUntilTimeBetweenOrders 85 seconds
+DBG [30885-78 ] accountId 186802 sold__ NFT (to__ #152201) for    77.019 $ (0.060 ETH) validUntilTimeBetweenOrders 42 seconds
+DBG [30886-46 ] accountId 186802 sold__ NFT (to__ #163154) for    70.955 $ (0.055 ETH) validUntilTimeBetweenOrders 106 seconds
+DBG [30886-272] accountId 186802 sold__ NFT (to__ #163154) for    66.052 $ (0.051 ETH) validUntilTimeBetweenOrders 205 seconds
+DBG [30887-44 ] accountId 186802 sold__ NFT (to__ #138595) for    64.610 $ (0.050 ETH) validUntilTimeBetweenOrders 32 seconds
+DBG [30887-270] accountId 186802 sold__ NFT (to__ #124707) for    64.218 $ (0.050 ETH) validUntilTimeBetweenOrders 123 seconds
+DBG [30888-127] accountId 186802 sold__ NFT (to__ #135427) for    62.836 $ (0.049 ETH) validUntilTimeBetweenOrders 111 seconds
+DBG [30888-282] accountId 186802 sold__ NFT (to__ #120454) for    64.329 $ (0.050 ETH) validUntilTimeBetweenOrders 179 seconds
+DBG [30888-283] accountId 186802 sold__ NFT (to__ #139717) for    68.047 $ (0.053 ETH) validUntilTimeBetweenOrders 61 seconds
+DBG [30893-150] accountId 186802 bought NFT (from #191246) for    11.400 $ (0.009 ETH) validUntilTimeBetweenOrders 1538 seconds
+DBG [30904-155] accountId 186802 sold__ NFT (to__ #155258) for    54.182 $ (0.042 ETH) validUntilTimeBetweenOrders 13 seconds
+DBG [30936-25 ] accountId 186802 sold__ NFT (to__ # 96034) for    11.820 $ (0.009 ETH) validUntilTimeBetweenOrders 2838 seconds
+DBG [30946-77 ] accountId 186802 bought NFT (from #188603) for    26.186 $ (0.020 ETH) validUntilTimeBetweenOrders 1324979 seconds
+DBG [30946-281] accountId 186802 bought NFT (from #188603) for    26.223 $ (0.020 ETH) validUntilTimeBetweenOrders 1325194 seconds
+DBG [30946-282] accountId 186802 bought NFT (from #188603) for    26.223 $ (0.020 ETH) validUntilTimeBetweenOrders 1325194 seconds
+DBG [30946-283] accountId 186802 bought NFT (from #188603) for    26.223 $ (0.020 ETH) validUntilTimeBetweenOrders 1308741 seconds
+DBG [30992-353] accountId 186802 bought NFT (from #183513) for   321.476 $ (0.250 ETH) validUntilTimeBetweenOrders 14 seconds
+DBG [30994-0  ] accountId 186802 sold__ NFT (to__ #105701) for   179.761 $ (0.140 ETH) validUntilTimeBetweenOrders 159 seconds
+DBG [30995-105] accountId 186802 sold__ NFT (to__ #136594) for   128.493 $ (0.100 ETH) validUntilTimeBetweenOrders 38 seconds
+DBG [30995-328] accountId 186802 sold__ NFT (to__ # 81650) for   141.174 $ (0.110 ETH) validUntilTimeBetweenOrders 56 seconds
+DBG [30996-261] accountId 186802 sold__ NFT (to__ #187172) for   121.604 $ (0.095 ETH) validUntilTimeBetweenOrders 95 seconds
+DBG [30997-22 ] accountId 186802 sold__ NFT (to__ #127004) for   140.804 $ (0.110 ETH) validUntilTimeBetweenOrders 1449 seconds
+DBG [30997-54 ] accountId 186802 sold__ NFT (to__ # 41270) for   140.804 $ (0.110 ETH) validUntilTimeBetweenOrders 426 seconds
+DBG [30999-93 ] accountId 186802 bought NFT (from #120388) for    96.239 $ (0.075 ETH) validUntilTimeBetweenOrders 180 seconds
+DBG [30999-105] accountId 186802 bought NFT (from #120388) for    96.239 $ (0.075 ETH) validUntilTimeBetweenOrders 180 seconds
+DBG [30999-148] accountId 186802 bought NFT (from #120388) for    96.239 $ (0.075 ETH) validUntilTimeBetweenOrders 180 seconds
+DBG [30999-152] accountId 186802 bought NFT (from #120388) for    96.239 $ (0.075 ETH) validUntilTimeBetweenOrders 180 seconds
+DBG [30999-199] accountId 186802 bought NFT (from #138916) for    38.495 $ (0.030 ETH) validUntilTimeBetweenOrders 1480 seconds
+DBG [30999-311] accountId 186802 sold__ NFT (to__ #162706) for    25.600 $ (0.020 ETH) validUntilTimeBetweenOrders 50 seconds
+DBG [30999-324] accountId 186802 sold__ NFT (to__ #124602) for    38.349 $ (0.030 ETH) validUntilTimeBetweenOrders 258 seconds
+DBG [30999-337] accountId 186802 sold__ NFT (to__ # 89729) for    23.040 $ (0.018 ETH) validUntilTimeBetweenOrders 427 seconds
+DBG [31000-196] accountId 186802 sold__ NFT (to__ #166989) for   191.574 $ (0.150 ETH) validUntilTimeBetweenOrders 3026 seconds
+DBG [31001-175] accountId 186802 sold__ NFT (to__ #134475) for    20.435 $ (0.016 ETH) validUntilTimeBetweenOrders 2568 seconds
+DBG [31006-22 ] accountId 186802 sold__ NFT (to__ #124752) for    15.337 $ (0.012 ETH) validUntilTimeBetweenOrders 1134 seconds
+DBG [31011-139] accountId 186802 sold__ NFT (to__ # 38378) for    15.349 $ (0.012 ETH) validUntilTimeBetweenOrders 10716 seconds
+DBG [31014-14 ] accountId 186802 sold__ NFT (to__ #125952) for    15.385 $ (0.012 ETH) validUntilTimeBetweenOrders 11627 seconds
+DBG [31037-261] accountId 186802 sold__ NFT (to__ #115677) for    16.697 $ (0.013 ETH) validUntilTimeBetweenOrders 3069 seconds
+DBG [31038-202] accountId 186802 sold__ NFT (to__ #100075) for    19.248 $ (0.015 ETH) validUntilTimeBetweenOrders 15041 seconds
+DBG [31044-168] accountId 186802 sold__ NFT (to__ #159679) for    18.263 $ (0.014 ETH) validUntilTimeBetweenOrders 1901 seconds
+DBG [31044-193] accountId 186802 sold__ NFT (to__ # 33390) for    19.575 $ (0.015 ETH) validUntilTimeBetweenOrders 1349 seconds
+DBG [31049-66 ] accountId 186802 sold__ NFT (to__ # 64352) for    20.818 $ (0.016 ETH) validUntilTimeBetweenOrders 5751 seconds
+DBG [31069-11 ] accountId 186802 sold__ NFT (to__ # 64315) for   263.326 $ (0.199 ETH) validUntilTimeBetweenOrders 21113 seconds
+DBG [31075-101] accountId 186802 sold__ NFT (to__ #163460) for    29.337 $ (0.022 ETH) validUntilTimeBetweenOrders 372 seconds
+DBG [31099-9  ] accountId 186802 sold__ NFT (to__ #126200) for   192.680 $ (0.144 ETH) validUntilTimeBetweenOrders 16202 seconds
+DBG [31099-10 ] accountId 186802 sold__ NFT (to__ #126200) for   192.680 $ (0.144 ETH) validUntilTimeBetweenOrders 16221 seconds
+DBG [31129-7  ] accountId 186802 sold__ NFT (to__ #186096) for   170.033 $ (0.130 ETH) validUntilTimeBetweenOrders 639 seconds
+DBG [31129-89 ] accountId 186802 bought NFT (from #149015) for   286.936 $ (0.220 ETH) validUntilTimeBetweenOrders 148 seconds
+DBG [31129-95 ] accountId 186802 bought NFT (from #189538) for    91.506 $ (0.070 ETH) validUntilTimeBetweenOrders 9045 seconds
+DBG [31129-97 ] accountId 186802 bought NFT (from #183513) for    65.361 $ (0.050 ETH) validUntilTimeBetweenOrders 1233691 seconds
+DBG [31129-107] accountId 186802 bought NFT (from #149015) for   221.823 $ (0.170 ETH) validUntilTimeBetweenOrders 219 seconds
+DBG [31130-4  ] accountId 186802 bought NFT (from #181734) for    88.878 $ (0.068 ETH) validUntilTimeBetweenOrders 93531 seconds
+DBG [31149-34 ] accountId 186802 sold__ NFT (to__ #189710) for    94.903 $ (0.073 ETH) validUntilTimeBetweenOrders 289588 seconds
+DBG [31199-56 ] accountId 186802 bought NFT (from #188603) for   255.868 $ (0.200 ETH) validUntilTimeBetweenOrders 1785938 seconds
+DBG [31284-26 ] accountId 186802 sold__ NFT (to__ # 57887) for    28.111 $ (0.022 ETH) validUntilTimeBetweenOrders 241836 seconds
+DBG [31344-98 ] accountId 186802 sold__ NFT (to__ #161948) for    95.387 $ (0.073 ETH) validUntilTimeBetweenOrders 296556 seconds
+DBG [31354-45 ] accountId 186802 sold__ NFT (to__ #126014) for   194.740 $ (0.148 ETH) validUntilTimeBetweenOrders 4083 seconds
+DBG [31356-194] accountId 186802 sold__ NFT (to__ #163275) for   207.310 $ (0.158 ETH) validUntilTimeBetweenOrders 3246 seconds
+DBG [31357-32 ] accountId 186802 bought NFT (from #175901) for   131.022 $ (0.100 ETH) validUntilTimeBetweenOrders 985 seconds
+DBG [31357-91 ] accountId 186802 bought NFT (from #175901) for   131.022 $ (0.100 ETH) validUntilTimeBetweenOrders 82 seconds
+DBG [31357-193] accountId 186802 bought NFT (from #129905) for   189.901 $ (0.145 ETH) validUntilTimeBetweenOrders 3421 seconds
+DBG [31358-201] accountId 186802 sold__ NFT (to__ #128951) for   247.166 $ (0.189 ETH) validUntilTimeBetweenOrders 753 seconds
+DBG [31464-45 ] accountId 186802 bought NFT (from #165180) for   106.944 $ (0.080 ETH) validUntilTimeBetweenOrders 2325254 seconds
+DBG [31547-192] accountId 186802 sold__ NFT (to__ #125898) for    35.066 $ (0.024 ETH) validUntilTimeBetweenOrders 285018 seconds
+DBG [31578-24 ] accountId 186802 bought NFT (from #175854) for   395.254 $ (0.260 ETH) validUntilTimeBetweenOrders 10639 seconds
+DBG [31579-215] accountId 186802 sold__ NFT (to__ # 43862) for    44.061 $ (0.029 ETH) validUntilTimeBetweenOrders 36 seconds
+DBG [31579-274] accountId 186802 sold__ NFT (to__ #178489) for    68.697 $ (0.045 ETH) validUntilTimeBetweenOrders 13 seconds
+DBG [31584-67 ] accountId 186802 sold__ NFT (to__ # 95799) for   659.137 $ (0.417 ETH) validUntilTimeBetweenOrders 4608 seconds
+DBG [31939-78 ] accountId 186802 bought NFT (from #178469) for   129.446 $ (0.081 ETH) validUntilTimeBetweenOrders 133338 seconds
+DBG [31965-104] accountId 186802 bought NFT (from #134525) for   317.791 $ (0.200 ETH) validUntilTimeBetweenOrders 1935 seconds
+DBG [32006-220] accountId 186802 bought NFT (from #183513) for    62.758 $ (0.040 ETH) validUntilTimeBetweenOrders 16523 seconds
+DBG [32006-221] accountId 186802 bought NFT (from #183513) for    47.068 $ (0.030 ETH) validUntilTimeBetweenOrders 390442 seconds
+DBG [32006-223] accountId 186802 bought NFT (from #183513) for    47.068 $ (0.030 ETH) validUntilTimeBetweenOrders 389741 seconds
+DBG [32013-16 ] accountId 186802 bought NFT (from #180861) for   234.407 $ (0.150 ETH) validUntilTimeBetweenOrders 221 seconds
+DBG [32014-42 ] accountId 186802 sold__ NFT (to__ #183058) for    90.552 $ (0.058 ETH) validUntilTimeBetweenOrders 206 seconds
+DBG [32014-225] accountId 186802 sold__ NFT (to__ #127079) for    81.474 $ (0.052 ETH) validUntilTimeBetweenOrders 108 seconds
+DBG [32040-25 ] accountId 186802 sold__ NFT (to__ #174167) for    70.038 $ (0.045 ETH) validUntilTimeBetweenOrders 369 seconds
+DBG [32040-357] accountId 186802 bought NFT (from #127554) for   118.084 $ (0.075 ETH) validUntilTimeBetweenOrders 44605 seconds
+DBG [32040-375] accountId 186802 bought NFT (from #175854) for   129.105 $ (0.082 ETH) validUntilTimeBetweenOrders 272358 seconds
+DBG [32053-3  ] accountId 186802 sold__ NFT (to__ #131463) for    12.208 $ (0.008 ETH) validUntilTimeBetweenOrders 47 seconds
+DBG [32054-118] accountId 186802 sold__ NFT (to__ # 42373) for    39.785 $ (0.025 ETH) validUntilTimeBetweenOrders 2230 seconds
+DBG [32080-165] accountId 186802 sold__ NFT (to__ #157379) for    12.539 $ (0.008 ETH) validUntilTimeBetweenOrders 22708 seconds
+DBG [32108-132] accountId 186802 sold__ NFT (to__ #143982) for    12.455 $ (0.008 ETH) validUntilTimeBetweenOrders 364 seconds
+DBG [32109-277] accountId 186802 sold__ NFT (to__ #143982) for    12.455 $ (0.008 ETH) validUntilTimeBetweenOrders 1075 seconds
+DBG [32123-122] accountId 186802 sold__ NFT (to__ #146728) for    42.729 $ (0.027 ETH) validUntilTimeBetweenOrders 17569 seconds
+DBG [32123-152] accountId 186802 sold__ NFT (to__ #146728) for    58.613 $ (0.037 ETH) validUntilTimeBetweenOrders 17553 seconds
+DBG [32146-100] accountId 186802 sold__ NFT (to__ #146728) for    46.739 $ (0.030 ETH) validUntilTimeBetweenOrders 80774 seconds
+DBG [32185-27 ] accountId 186802 sold__ NFT (to__ #166990) for   174.076 $ (0.115 ETH) validUntilTimeBetweenOrders 67260 seconds
+DBG [32212-76 ] accountId 186802 sold__ NFT (to__ #100508) for    33.995 $ (0.022 ETH) validUntilTimeBetweenOrders 24831 seconds
+DBG [32220-99 ] accountId 186802 bought NFT (from #153672) for   384.994 $ (0.248 ETH) validUntilTimeBetweenOrders 480918 seconds
+DBG [32238-113] accountId 186802 sold__ NFT (to__ #143982) for    38.330 $ (0.025 ETH) validUntilTimeBetweenOrders 3302 seconds
+DBG [32334-21 ] accountId 186802 bought NFT (from # 61647) for   285.896 $ (0.175 ETH) validUntilTimeBetweenOrders 30560 seconds
+DBG [32359-139] accountId 186802 sold__ NFT (to__ #125134) for    73.628 $ (0.045 ETH) validUntilTimeBetweenOrders 126 seconds
+DBG [32360-31 ] accountId 186802 sold__ NFT (to__ #125134) for    73.457 $ (0.045 ETH) validUntilTimeBetweenOrders 79 seconds
+DBG [32360-61 ] accountId 186802 sold__ NFT (to__ #186096) for    16.324 $ (0.010 ETH) validUntilTimeBetweenOrders 10933 seconds
+DBG [32360-71 ] accountId 186802 sold__ NFT (to__ # 81650) for    73.457 $ (0.045 ETH) validUntilTimeBetweenOrders 657 seconds
+DBG [32360-374] accountId 186802 sold__ NFT (to__ #149943) for    73.742 $ (0.045 ETH) validUntilTimeBetweenOrders 300 seconds
+DBG [32361-254] accountId 186802 sold__ NFT (to__ #189044) for   714.999 $ (0.440 ETH) validUntilTimeBetweenOrders 14921 seconds
+DBG [32364-66 ] accountId 186802 sold__ NFT (to__ #159009) for    78.780 $ (0.048 ETH) validUntilTimeBetweenOrders 820 seconds
+DBG [32368-48 ] accountId 186802 sold__ NFT (to__ #126200) for    97.416 $ (0.060 ETH) validUntilTimeBetweenOrders 4603 seconds
+DBG [32380-286] accountId 186802 bought NFT (from #155813) for   162.279 $ (0.100 ETH) validUntilTimeBetweenOrders 562 seconds
+DBG [32424-155] accountId 186802 sold__ NFT (to__ #162808) for    15.768 $ (0.010 ETH) validUntilTimeBetweenOrders 3107 seconds
+DBG [32451-87 ] accountId 186802 bought NFT (from #188603) for   790.653 $ (0.500 ETH) validUntilTimeBetweenOrders 386 seconds
+DBG [32452-22 ] accountId 186802 bought NFT (from #188603) for   793.347 $ (0.500 ETH) validUntilTimeBetweenOrders 386 seconds
+DBG [32452-310] accountId 186802 bought NFT (from #188603) for   316.738 $ (0.200 ETH) validUntilTimeBetweenOrders 386 seconds
+DBG [32453-65 ] accountId 186802 sold__ NFT (to__ #131505) for   570.279 $ (0.360 ETH) validUntilTimeBetweenOrders 957 seconds
+DBG [32455-253] accountId 186802 sold__ NFT (to__ #164858) for   467.077 $ (0.296 ETH) validUntilTimeBetweenOrders 4494 seconds
+DBG [32457-76 ] accountId 186802 sold__ NFT (to__ #124752) for   395.410 $ (0.249 ETH) validUntilTimeBetweenOrders 420 seconds
+DBG [32457-249] accountId 186802 sold__ NFT (to__ #124752) for   370.571 $ (0.232 ETH) validUntilTimeBetweenOrders 545 seconds
+DBG [32461-121] accountId 186802 sold__ NFT (to__ #128951) for   178.691 $ (0.113 ETH) validUntilTimeBetweenOrders 118 seconds
+DBG [32473-118] accountId 186802 sold__ NFT (to__ #176551) for    15.779 $ (0.010 ETH) validUntilTimeBetweenOrders 15835 seconds
+DBG [32518-161] accountId 186802 sold__ NFT (to__ #134158) for     3.531 $ (0.002 ETH) validUntilTimeBetweenOrders 8568 seconds
+DBG [32522-53 ] accountId 186802 sold__ NFT (to__ # 80678) for    14.381 $ (0.010 ETH) validUntilTimeBetweenOrders 5994 seconds
+DBG [32522-54 ] accountId 186802 sold__ NFT (to__ # 80678) for    14.381 $ (0.010 ETH) validUntilTimeBetweenOrders 6371 seconds
+DBG [32522-202] accountId 186802 sold__ NFT (to__ #185706) for    14.484 $ (0.010 ETH) validUntilTimeBetweenOrders 4259 seconds
+DBG [32523-120] accountId 186802 sold__ NFT (to__ # 54324) for    16.734 $ (0.011 ETH) validUntilTimeBetweenOrders 8208 seconds
+DBG [32559-74 ] accountId 186802 bought NFT (from # 56693) for   316.236 $ (0.239 ETH) validUntilTimeBetweenOrders 906 seconds
+DBG [32559-101] accountId 186802 bought NFT (from # 33859) for   349.527 $ (0.265 ETH) validUntilTimeBetweenOrders 290055 seconds
+DBG [32559-102] accountId 186802 bought NFT (from #185949) for   101.429 $ (0.077 ETH) validUntilTimeBetweenOrders 7884 seconds
+DBG [32784-240] accountId 186802 bought NFT (from # 73573) for   440.725 $ (0.350 ETH) validUntilTimeBetweenOrders 125 seconds
+DBG [32857-35 ] accountId 186802 sold__ NFT (to__ # 60785) for  1026.618 $ (0.870 ETH) validUntilTimeBetweenOrders 1302 seconds
+DBG [33012-211] accountId 186802 bought NFT (from #175479) for   302.876 $ (0.250 ETH) validUntilTimeBetweenOrders 76 seconds
+DBG [33016-373] accountId 186802 sold__ NFT (to__ #132194) for   264.406 $ (0.220 ETH) validUntilTimeBetweenOrders 21 seconds
+DBG [33017-285] accountId 186802 sold__ NFT (to__ #162802) for   267.050 $ (0.222 ETH) validUntilTimeBetweenOrders 39 seconds
+DBG [33017-375] accountId 186802 sold__ NFT (to__ # 59592) for   293.250 $ (0.244 ETH) validUntilTimeBetweenOrders 22 seconds
+DBG [33018-322] accountId 186802 sold__ NFT (to__ #128003) for   264.154 $ (0.220 ETH) validUntilTimeBetweenOrders 202 seconds
+DBG [33022-15 ] accountId 186802 sold__ NFT (to__ #162802) for   404.196 $ (0.333 ETH) validUntilTimeBetweenOrders 82 seconds
+DBG [33125-32 ] accountId 186802 sold__ NFT (to__ #152677) for   793.195 $ (0.657 ETH) validUntilTimeBetweenOrders 26439 seconds
+DBG [33184-64 ] accountId 186802 sold__ NFT (to__ #161948) for   149.207 $ (0.123 ETH) validUntilTimeBetweenOrders 90 seconds
+DBG [33184-136] accountId 186802 sold__ NFT (to__ # 91487) for    30.228 $ (0.025 ETH) validUntilTimeBetweenOrders 443 seconds
+DBG [33184-137] accountId 186802 sold__ NFT (to__ #186769) for    30.228 $ (0.025 ETH) validUntilTimeBetweenOrders 339 seconds
+DBG [33184-217] accountId 186802 sold__ NFT (to__ #132582) for    72.554 $ (0.060 ETH) validUntilTimeBetweenOrders 3575 seconds
+DBG [33185-24 ] accountId 186802 sold__ NFT (to__ # 91487) for   210.650 $ (0.175 ETH) validUntilTimeBetweenOrders 4304 seconds
+DBG [33185-37 ] accountId 186802 sold__ NFT (to__ #132582) for    60.186 $ (0.050 ETH) validUntilTimeBetweenOrders 4488 seconds
+DBG [33185-51 ] accountId 186802 sold__ NFT (to__ #186769) for    26.722 $ (0.022 ETH) validUntilTimeBetweenOrders 4546 seconds
+DBG [33189-75 ] accountId 186802 sold__ NFT (to__ # 91487) for    36.277 $ (0.030 ETH) validUntilTimeBetweenOrders 2719 seconds
+DBG [33189-115] accountId 186802 sold__ NFT (to__ #186769) for    26.935 $ (0.022 ETH) validUntilTimeBetweenOrders 3197 seconds
+DBG [33195-42 ] accountId 186802 sold__ NFT (to__ #133975) for    26.852 $ (0.022 ETH) validUntilTimeBetweenOrders 18470 seconds
+DBG [33251-153] accountId 186802 sold__ NFT (to__ # 60785) for    75.646 $ (0.067 ETH) validUntilTimeBetweenOrders 27558 seconds

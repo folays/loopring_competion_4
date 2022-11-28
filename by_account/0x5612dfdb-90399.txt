@@ -1,0 +1,68 @@
+DBG [29524-28 ] accountId  90399 sold__ NFT (to__ # 38171) for     3.038 $ (10.000 LRC) validUntilTimeBetweenOrders 1292481 seconds
+DBG [29564-51 ] accountId  90399 sold__ NFT (to__ # 52657) for    14.788 $ (49.000 LRC) validUntilTimeBetweenOrders 1224611 seconds
+DBG [29941-182] accountId  90399 bought NFT (from #157510) for    53.205 $ (0.040 ETH) validUntilTimeBetweenOrders 5433 seconds
+DBG [29942-55 ] accountId  90399 bought NFT (from #157510) for    53.222 $ (0.040 ETH) validUntilTimeBetweenOrders 5433 seconds
+DBG [29979-74 ] accountId  90399 sold__ NFT (to__ #131505) for   132.962 $ (0.100 ETH) validUntilTimeBetweenOrders 1148291 seconds
+DBG [30043-144] accountId  90399 sold__ NFT (to__ #153387) for    76.474 $ (0.057 ETH) validUntilTimeBetweenOrders 20118 seconds
+DBG [30079-49 ] accountId  90399 bought NFT (from #163754) for   260.973 $ (0.195 ETH) validUntilTimeBetweenOrders 4298 seconds
+DBG [30079-70 ] accountId  90399 bought NFT (from #167356) for   238.221 $ (0.178 ETH) validUntilTimeBetweenOrders 12412 seconds
+DBG [30116-334] accountId  90399 bought NFT (from #125602) for    48.911 $ (0.036 ETH) validUntilTimeBetweenOrders 891 seconds
+DBG [30370-112] accountId  90399 bought NFT (from # 81371) for     8.921 $ (30.000 LRC) validUntilTimeBetweenOrders 1158940 seconds
+DBG [30370-113] accountId  90399 bought NFT (from # 81371) for     8.921 $ (30.000 LRC) validUntilTimeBetweenOrders 1158918 seconds
+DBG [30370-121] accountId  90399 bought NFT (from # 81371) for     8.921 $ (30.000 LRC) validUntilTimeBetweenOrders 1158903 seconds
+DBG [30372-16 ] accountId  90399 bought NFT (from # 81371) for     8.942 $ (30.000 LRC) validUntilTimeBetweenOrders 1157166 seconds
+DBG [30372-17 ] accountId  90399 bought NFT (from # 81371) for     8.942 $ (30.000 LRC) validUntilTimeBetweenOrders 1157152 seconds
+DBG [30372-18 ] accountId  90399 bought NFT (from # 81371) for     8.942 $ (30.000 LRC) validUntilTimeBetweenOrders 1157133 seconds
+DBG [30387-95 ] accountId  90399 bought NFT (from # 81371) for     8.970 $ (30.000 LRC) validUntilTimeBetweenOrders 1130496 seconds
+DBG [30387-96 ] accountId  90399 bought NFT (from # 81371) for     8.970 $ (30.000 LRC) validUntilTimeBetweenOrders 1130475 seconds
+DBG [30387-111] accountId  90399 bought NFT (from # 81371) for     8.970 $ (30.000 LRC) validUntilTimeBetweenOrders 1130447 seconds
+DBG [30387-112] accountId  90399 bought NFT (from # 81371) for     8.970 $ (30.000 LRC) validUntilTimeBetweenOrders 1130429 seconds
+DBG [30387-113] accountId  90399 bought NFT (from # 81371) for     8.970 $ (30.000 LRC) validUntilTimeBetweenOrders 1130359 seconds
+DBG [30387-134] accountId  90399 bought NFT (from # 81371) for     8.970 $ (30.000 LRC) validUntilTimeBetweenOrders 1130343 seconds
+DBG [30387-145] accountId  90399 bought NFT (from # 81371) for     8.970 $ (30.000 LRC) validUntilTimeBetweenOrders 1130130 seconds
+DBG [30387-162] accountId  90399 bought NFT (from # 81371) for     8.970 $ (30.000 LRC) validUntilTimeBetweenOrders 1130110 seconds
+DBG [30387-163] accountId  90399 bought NFT (from # 81371) for     8.970 $ (30.000 LRC) validUntilTimeBetweenOrders 1130097 seconds
+DBG [30388-124] accountId  90399 sold__ NFT (to__ #155813) for    26.976 $ (0.020 ETH) validUntilTimeBetweenOrders 2818 seconds
+DBG [30388-149] accountId  90399 sold__ NFT (to__ # 54324) for    53.951 $ (0.040 ETH) validUntilTimeBetweenOrders 2889 seconds
+DBG [30388-247] accountId  90399 sold__ NFT (to__ #126821) for    53.951 $ (0.040 ETH) validUntilTimeBetweenOrders 1085 seconds
+DBG [30389-86 ] accountId  90399 sold__ NFT (to__ #136216) for    54.208 $ (0.040 ETH) validUntilTimeBetweenOrders 3594 seconds
+DBG [30430-60 ] accountId  90399 sold__ NFT (to__ #134158) for    37.295 $ (0.028 ETH) validUntilTimeBetweenOrders 6233 seconds
+DBG [30433-173] accountId  90399 sold__ NFT (to__ #126631) for    39.194 $ (0.029 ETH) validUntilTimeBetweenOrders 1187 seconds
+DBG [30506-324] accountId  90399 bought NFT (from # 81371) for     8.957 $ (30.000 LRC) validUntilTimeBetweenOrders 1183298 seconds
+DBG [30506-325] accountId  90399 bought NFT (from # 81371) for     8.957 $ (30.000 LRC) validUntilTimeBetweenOrders 1183284 seconds
+DBG [30506-326] accountId  90399 bought NFT (from # 81371) for     8.957 $ (30.000 LRC) validUntilTimeBetweenOrders 1183265 seconds
+DBG [30506-327] accountId  90399 bought NFT (from # 81371) for     8.957 $ (30.000 LRC) validUntilTimeBetweenOrders 1183249 seconds
+DBG [30506-328] accountId  90399 bought NFT (from # 81371) for     8.957 $ (30.000 LRC) validUntilTimeBetweenOrders 1183231 seconds
+DBG [30506-360] accountId  90399 bought NFT (from # 81371) for     8.957 $ (30.000 LRC) validUntilTimeBetweenOrders 1183167 seconds
+DBG [30506-361] accountId  90399 bought NFT (from # 81371) for     8.957 $ (30.000 LRC) validUntilTimeBetweenOrders 1183153 seconds
+DBG [30506-362] accountId  90399 bought NFT (from # 81371) for     8.957 $ (30.000 LRC) validUntilTimeBetweenOrders 1183141 seconds
+DBG [30506-363] accountId  90399 bought NFT (from # 81371) for     8.957 $ (30.000 LRC) validUntilTimeBetweenOrders 1183127 seconds
+DBG [30506-364] accountId  90399 bought NFT (from # 81371) for     8.957 $ (30.000 LRC) validUntilTimeBetweenOrders 1183110 seconds
+DBG [30519-192] accountId  90399 bought NFT (from # 81371) for    14.797 $ (50.000 LRC) validUntilTimeBetweenOrders 1171118 seconds
+DBG [30519-193] accountId  90399 bought NFT (from # 81371) for     8.878 $ (30.000 LRC) validUntilTimeBetweenOrders 1171352 seconds
+DBG [30519-289] accountId  90399 bought NFT (from # 81371) for     8.878 $ (30.000 LRC) validUntilTimeBetweenOrders 1171302 seconds
+DBG [30519-290] accountId  90399 bought NFT (from # 81371) for     8.878 $ (30.000 LRC) validUntilTimeBetweenOrders 1171285 seconds
+DBG [30524-14 ] accountId  90399 bought NFT (from #125602) for    33.958 $ (0.025 ETH) validUntilTimeBetweenOrders 13662 seconds
+DBG [30572-23 ] accountId  90399 bought NFT (from # 81371) for     8.720 $ (30.000 LRC) validUntilTimeBetweenOrders 1086737 seconds
+DBG [30572-34 ] accountId  90399 bought NFT (from # 81371) for     8.720 $ (30.000 LRC) validUntilTimeBetweenOrders 1086711 seconds
+DBG [30572-35 ] accountId  90399 bought NFT (from # 81371) for     8.720 $ (30.000 LRC) validUntilTimeBetweenOrders 1086689 seconds
+DBG [30572-36 ] accountId  90399 bought NFT (from # 81371) for     8.720 $ (30.000 LRC) validUntilTimeBetweenOrders 1086658 seconds
+DBG [30572-37 ] accountId  90399 bought NFT (from # 81371) for    14.534 $ (50.000 LRC) validUntilTimeBetweenOrders 1086366 seconds
+DBG [30586-290] accountId  90399 bought NFT (from #166110) for    12.002 $ (0.009 ETH) validUntilTimeBetweenOrders 79981 seconds
+DBG [30587-10 ] accountId  90399 bought NFT (from #128967) for    53.340 $ (0.040 ETH) validUntilTimeBetweenOrders 7784 seconds
+DBG [30664-113] accountId  90399 bought NFT (from #157510) for   264.832 $ (0.200 ETH) validUntilTimeBetweenOrders 86 seconds
+DBG [30664-140] accountId  90399 bought NFT (from #157510) for   264.832 $ (0.200 ETH) validUntilTimeBetweenOrders 1195 seconds
+DBG [30699-187] accountId  90399 bought NFT (from # 81371) for     8.669 $ (30.000 LRC) validUntilTimeBetweenOrders 1274646 seconds
+DBG [30762-175] accountId  90399 sold__ NFT (to__ #125355) for   323.203 $ (0.250 ETH) validUntilTimeBetweenOrders 37603 seconds
+DBG [30868-127] accountId  90399 sold__ NFT (to__ # 41819) for    45.558 $ (180.000 LRC) validUntilTimeBetweenOrders 1238015 seconds
+DBG [30919-90 ] accountId  90399 sold__ NFT (to__ # 36566) for    12.523 $ (48.000 LRC) validUntilTimeBetweenOrders 1276494 seconds
+DBG [30949-195] accountId  90399 sold__ NFT (to__ # 40837) for    12.201 $ (48.000 LRC) validUntilTimeBetweenOrders 1236473 seconds
+DBG [30949-280] accountId  90399 sold__ NFT (to__ # 71856) for    12.188 $ (48.000 LRC) validUntilTimeBetweenOrders 1235423 seconds
+DBG [30954-152] accountId  90399 sold__ NFT (to__ # 79768) for    12.189 $ (48.000 LRC) validUntilTimeBetweenOrders 1227947 seconds
+DBG [30955-107] accountId  90399 sold__ NFT (to__ #107558) for    12.131 $ (48.000 LRC) validUntilTimeBetweenOrders 1226737 seconds
+DBG [30958-185] accountId  90399 sold__ NFT (to__ #124676) for    12.293 $ (48.000 LRC) validUntilTimeBetweenOrders 1221181 seconds
+DBG [30958-207] accountId  90399 sold__ NFT (to__ # 86933) for    12.293 $ (48.000 LRC) validUntilTimeBetweenOrders 1220665 seconds
+DBG [30958-245] accountId  90399 sold__ NFT (to__ # 86933) for    12.549 $ (49.000 LRC) validUntilTimeBetweenOrders 1290366 seconds
+DBG [30958-250] accountId  90399 sold__ NFT (to__ # 86933) for    12.293 $ (48.000 LRC) validUntilTimeBetweenOrders 1220694 seconds
+DBG [31277-206] accountId  90399 bought NFT (from # 65797) for   484.661 $ (1980.000 LRC) validUntilTimeBetweenOrders 897953 seconds
+DBG [32617-110] accountId  90399 sold__ NFT (to__ #150163) for   256.056 $ (0.224 ETH) validUntilTimeBetweenOrders 58889 seconds

@@ -1,0 +1,4 @@
+DBG [29940-176] accountId  41625 sold__ NFT (to__ # 41185) for   499.673 $ (1700.000 LRC) validUntilTimeBetweenOrders 696581 seconds
+DBG [29953-17 ] accountId  41625 bought NFT (from # 81371) for    12.078 $ (42.000 LRC) validUntilTimeBetweenOrders 842420 seconds
+DBG [29953-70 ] accountId  41625 bought NFT (from # 81371) for    71.564 $ (250.000 LRC) validUntilTimeBetweenOrders 1259295 seconds
+DBG [31049-32 ] accountId  41625 bought NFT (from #128616) for    37.778 $ (147.000 LRC) validUntilTimeBetweenOrders 92625 seconds

@@ -1,0 +1,48 @@
+DBG [29588-31 ] accountId  79680 sold__ NFT (to__ #146374) for   108.083 $ (0.080 ETH) validUntilTimeBetweenOrders 2419468 seconds
+DBG [29602-225] accountId  79680 sold__ NFT (to__ #186405) for    98.176 $ (0.080 ETH) validUntilTimeBetweenOrders 2437426 seconds
+DBG [29714-75 ] accountId  79680 bought NFT (from # 43778) for    10.636 $ (0.008 ETH) validUntilTimeBetweenOrders 385 seconds
+DBG [29767-214] accountId  79680 bought NFT (from # 43778) for    10.591 $ (0.008 ETH) validUntilTimeBetweenOrders 10246 seconds
+DBG [29767-215] accountId  79680 bought NFT (from # 43778) for    10.591 $ (0.008 ETH) validUntilTimeBetweenOrders 10246 seconds
+DBG [29806-26 ] accountId  79680 bought NFT (from # 43778) for    10.480 $ (0.008 ETH) validUntilTimeBetweenOrders 39000 seconds
+DBG [29915-7  ] accountId  79680 bought NFT (from #133842) for     6.869 $ (0.005 ETH) validUntilTimeBetweenOrders 1815 seconds
+DBG [29916-276] accountId  79680 bought NFT (from #155277) for     8.373 $ (0.006 ETH) validUntilTimeBetweenOrders 5829 seconds
+DBG [29916-278] accountId  79680 bought NFT (from #167942) for     8.508 $ (0.006 ETH) validUntilTimeBetweenOrders 14294 seconds
+DBG [29916-279] accountId  79680 bought NFT (from #133816) for     8.103 $ (0.006 ETH) validUntilTimeBetweenOrders 55359 seconds
+DBG [29916-297] accountId  79680 bought NFT (from #130922) for     8.081 $ (0.006 ETH) validUntilTimeBetweenOrders 70332 seconds
+DBG [29916-298] accountId  79680 bought NFT (from #167942) for     7.408 $ (0.005 ETH) validUntilTimeBetweenOrders 14401 seconds
+DBG [29916-329] accountId  79680 bought NFT (from #135418) for    16.149 $ (0.012 ETH) validUntilTimeBetweenOrders 567427 seconds
+DBG [29916-355] accountId  79680 bought NFT (from #126209) for    80.623 $ (0.060 ETH) validUntilTimeBetweenOrders 496 seconds
+DBG [29926-351] accountId  79680 bought NFT (from #183393) for   222.820 $ (0.168 ETH) validUntilTimeBetweenOrders 1528 seconds
+DBG [30269-37 ] accountId  79680 sold__ NFT (to__ #106041) for    12.419 $ (0.010 ETH) validUntilTimeBetweenOrders 674630 seconds
+DBG [30947-13 ] accountId  79680 bought NFT (from # 43778) for     5.245 $ (0.004 ETH) validUntilTimeBetweenOrders 407919 seconds
+DBG [30947-14 ] accountId  79680 bought NFT (from # 43778) for     5.245 $ (0.004 ETH) validUntilTimeBetweenOrders 407919 seconds
+DBG [30947-15 ] accountId  79680 bought NFT (from # 43778) for     5.245 $ (0.004 ETH) validUntilTimeBetweenOrders 407919 seconds
+DBG [30947-19 ] accountId  79680 bought NFT (from # 43778) for     5.245 $ (0.004 ETH) validUntilTimeBetweenOrders 407919 seconds
+DBG [30947-20 ] accountId  79680 bought NFT (from # 43778) for     5.245 $ (0.004 ETH) validUntilTimeBetweenOrders 407919 seconds
+DBG [30961-55 ] accountId  79680 sold__ NFT (to__ #133091) for    55.455 $ (0.043 ETH) validUntilTimeBetweenOrders 706588 seconds
+DBG [30986-73 ] accountId  79680 bought NFT (from #150081) for    64.253 $ (0.050 ETH) validUntilTimeBetweenOrders 353415 seconds
+DBG [30991-133] accountId  79680 sold__ NFT (to__ #179879) for    64.184 $ (0.050 ETH) validUntilTimeBetweenOrders 266987 seconds
+DBG [30999-2  ] accountId  79680 bought NFT (from #163519) for    31.438 $ (0.025 ETH) validUntilTimeBetweenOrders 152089 seconds
+DBG [30999-4  ] accountId  79680 bought NFT (from # 43778) for     5.133 $ (0.004 ETH) validUntilTimeBetweenOrders 664743 seconds
+DBG [30999-8  ] accountId  79680 bought NFT (from # 43778) for     5.133 $ (0.004 ETH) validUntilTimeBetweenOrders 664743 seconds
+DBG [30999-9  ] accountId  79680 bought NFT (from # 43778) for     5.133 $ (0.004 ETH) validUntilTimeBetweenOrders 664743 seconds
+DBG [30999-47 ] accountId  79680 bought NFT (from #135346) for     9.508 $ (0.007 ETH) validUntilTimeBetweenOrders 72431 seconds
+DBG [31147-64 ] accountId  79680 sold__ NFT (to__ #163098) for   161.929 $ (0.123 ETH) validUntilTimeBetweenOrders 7837027 seconds
+DBG [31225-111] accountId  79680 bought NFT (from # 43778) for     5.192 $ (0.004 ETH) validUntilTimeBetweenOrders 1102013 seconds
+DBG [31225-167] accountId  79680 bought NFT (from # 43778) for     5.182 $ (0.004 ETH) validUntilTimeBetweenOrders 1102013 seconds
+DBG [31226-196] accountId  79680 bought NFT (from # 43778) for     3.309 $ (0.003 ETH) validUntilTimeBetweenOrders 1176120 seconds
+DBG [31226-201] accountId  79680 bought NFT (from # 43778) for     3.309 $ (0.003 ETH) validUntilTimeBetweenOrders 1176120 seconds
+DBG [31298-3  ] accountId  79680 bought NFT (from # 43778) for     5.175 $ (0.004 ETH) validUntilTimeBetweenOrders 61489 seconds
+DBG [31298-8  ] accountId  79680 bought NFT (from # 43778) for     5.175 $ (0.004 ETH) validUntilTimeBetweenOrders 61489 seconds
+DBG [31298-10 ] accountId  79680 bought NFT (from # 43778) for     5.175 $ (0.004 ETH) validUntilTimeBetweenOrders 61489 seconds
+DBG [31299-240] accountId  79680 bought NFT (from # 49707) for     6.472 $ (0.005 ETH) validUntilTimeBetweenOrders 674348 seconds
+DBG [31299-259] accountId  79680 bought NFT (from # 49707) for    32.382 $ (0.025 ETH) validUntilTimeBetweenOrders 179168 seconds
+DBG [31321-90 ] accountId  79680 bought NFT (from #139136) for    25.970 $ (0.020 ETH) validUntilTimeBetweenOrders 156934 seconds
+DBG [31321-102] accountId  79680 bought NFT (from #126382) for    25.970 $ (0.020 ETH) validUntilTimeBetweenOrders 223982 seconds
+DBG [31352-29 ] accountId  79680 bought NFT (from # 43778) for     5.252 $ (0.004 ETH) validUntilTimeBetweenOrders 1273986 seconds
+DBG [31352-33 ] accountId  79680 bought NFT (from # 43778) for     5.252 $ (0.004 ETH) validUntilTimeBetweenOrders 1273986 seconds
+DBG [31352-46 ] accountId  79680 bought NFT (from # 43778) for     1.050 $ (0.001 ETH) validUntilTimeBetweenOrders 1274857 seconds
+DBG [31353-107] accountId  79680 bought NFT (from #121989) for    65.629 $ (0.050 ETH) validUntilTimeBetweenOrders 64232 seconds
+DBG [32225-74 ] accountId  79680 bought NFT (from #163519) for    23.210 $ (0.015 ETH) validUntilTimeBetweenOrders 5639 seconds
+DBG [32724-70 ] accountId  79680 bought NFT (from #187028) for     2.652 $ (0.002 ETH) validUntilTimeBetweenOrders 11061 seconds
+DBG [32724-71 ] accountId  79680 bought NFT (from #187028) for     2.652 $ (0.002 ETH) validUntilTimeBetweenOrders 11532 seconds

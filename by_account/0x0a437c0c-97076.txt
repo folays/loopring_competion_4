@@ -1,0 +1,63 @@
+DBG [29493-132] accountId  97076 sold__ NFT (to__ #106664) for    55.876 $ (0.042 ETH) validUntilTimeBetweenOrders 1821 seconds
+DBG [29494-166] accountId  97076 sold__ NFT (to__ #149943) for   132.931 $ (0.100 ETH) validUntilTimeBetweenOrders 2964 seconds
+DBG [29497-289] accountId  97076 sold__ NFT (to__ # 38861) for    81.547 $ (0.060 ETH) validUntilTimeBetweenOrders 7188 seconds
+DBG [29498-116] accountId  97076 sold__ NFT (to__ #127446) for    14.341 $ (0.011 ETH) validUntilTimeBetweenOrders 7781 seconds
+DBG [29538-342] accountId  97076 sold__ NFT (to__ #126821) for    79.006 $ (0.059 ETH) validUntilTimeBetweenOrders 140 seconds
+DBG [29550-351] accountId  97076 sold__ NFT (to__ # 68130) for    34.678 $ (115.000 LRC) validUntilTimeBetweenOrders 1280549 seconds
+DBG [29630-143] accountId  97076 bought NFT (from #183102) for   101.928 $ (0.078 ETH) validUntilTimeBetweenOrders 1407382 seconds
+DBG [29630-161] accountId  97076 bought NFT (from #103028) for   123.200 $ (0.094 ETH) validUntilTimeBetweenOrders 110371 seconds
+DBG [29700-371] accountId  97076 bought NFT (from #188749) for   200.070 $ (0.155 ETH) validUntilTimeBetweenOrders 645 seconds
+DBG [29751-199] accountId  97076 sold__ NFT (to__ #127004) for   207.229 $ (0.155 ETH) validUntilTimeBetweenOrders 221 seconds
+DBG [29752-15 ] accountId  97076 bought NFT (from #188749) for   207.362 $ (0.155 ETH) validUntilTimeBetweenOrders 72261 seconds
+DBG [29867-46 ] accountId  97076 sold__ NFT (to__ #139134) for   297.321 $ (0.225 ETH) validUntilTimeBetweenOrders 3075 seconds
+DBG [29878-232] accountId  97076 sold__ NFT (to__ #149839) for   140.195 $ (0.105 ETH) validUntilTimeBetweenOrders 12282 seconds
+DBG [29907-35 ] accountId  97076 bought NFT (from #126122) for   267.706 $ (0.192 ETH) validUntilTimeBetweenOrders 17643 seconds
+DBG [29924-143] accountId  97076 bought NFT (from #183393) for    55.608 $ (0.042 ETH) validUntilTimeBetweenOrders 1032 seconds
+DBG [29936-77 ] accountId  97076 sold__ NFT (to__ #115502) for    58.229 $ (0.044 ETH) validUntilTimeBetweenOrders 151 seconds
+DBG [29945-197] accountId  97076 bought NFT (from # 40940) for     1.473 $ (5.000 LRC) validUntilTimeBetweenOrders 1294986 seconds
+DBG [30127-70 ] accountId  97076 bought NFT (from # 92477) for    60.975 $ (0.045 ETH) validUntilTimeBetweenOrders 3739 seconds
+DBG [30271-57 ] accountId  97076 sold__ NFT (to__ #151914) for   122.263 $ (420.000 LRC) validUntilTimeBetweenOrders 80983 seconds
+DBG [30277-123] accountId  97076 bought NFT (from #143625) for   259.802 $ (0.199 ETH) validUntilTimeBetweenOrders 5468 seconds
+DBG [30419-207] accountId  97076 sold__ NFT (to__ # 59592) for   297.366 $ (0.220 ETH) validUntilTimeBetweenOrders 5441 seconds
+DBG [30429-104] accountId  97076 sold__ NFT (to__ #151914) for    89.120 $ (300.000 LRC) validUntilTimeBetweenOrders 297336 seconds
+DBG [30451-242] accountId  97076 bought NFT (from #152014) for   132.068 $ (0.100 ETH) validUntilTimeBetweenOrders 22824 seconds
+DBG [30485-124] accountId  97076 sold__ NFT (to__ #189855) for     4.735 $ (0.004 ETH) validUntilTimeBetweenOrders 326132 seconds
+DBG [30541-77 ] accountId  97076 bought NFT (from #127554) for   283.691 $ (0.208 ETH) validUntilTimeBetweenOrders 5515 seconds
+DBG [30733-312] accountId  97076 sold__ NFT (to__ #172240) for    10.800 $ (0.008 ETH) validUntilTimeBetweenOrders 2454086 seconds
+DBG [30893-147] accountId  97076 sold__ NFT (to__ # 33892) for    50.700 $ (195.000 LRC) validUntilTimeBetweenOrders 1196625 seconds
+DBG [30934-340] accountId  97076 bought NFT (from # 97981) for    10.369 $ (40.000 LRC) validUntilTimeBetweenOrders 1180986 seconds
+DBG [31068-34 ] accountId  97076 sold__ NFT (to__ #130531) for    99.826 $ (0.076 ETH) validUntilTimeBetweenOrders 45268 seconds
+DBG [31397-15 ] accountId  97076 bought NFT (from # 94366) for    98.850 $ (400.000 LRC) validUntilTimeBetweenOrders 1245175 seconds
+DBG [31491-268] accountId  97076 bought NFT (from #161408) for    21.855 $ (89.000 LRC) validUntilTimeBetweenOrders 1295717 seconds
+DBG [31510-113] accountId  97076 bought NFT (from #136267) for    37.443 $ (150.000 LRC) validUntilTimeBetweenOrders 1235453 seconds
+DBG [31519-155] accountId  97076 sold__ NFT (to__ #121792) for   622.344 $ (2469.000 LRC) validUntilTimeBetweenOrders 1294677 seconds
+DBG [31546-31 ] accountId  97076 sold__ NFT (to__ # 78263) for    29.243 $ (113.000 LRC) validUntilTimeBetweenOrders 1295445 seconds
+DBG [31546-32 ] accountId  97076 bought NFT (from #163037) for   104.985 $ (0.072 ETH) validUntilTimeBetweenOrders 3100 seconds
+DBG [31546-73 ] accountId  97076 bought NFT (from #130196) for    26.676 $ (0.018 ETH) validUntilTimeBetweenOrders 111 seconds
+DBG [31566-17 ] accountId  97076 sold__ NFT (to__ # 54779) for    20.569 $ (78.000 LRC) validUntilTimeBetweenOrders 1266458 seconds
+DBG [31586-184] accountId  97076 sold__ NFT (to__ # 40945) for   132.168 $ (495.000 LRC) validUntilTimeBetweenOrders 1232792 seconds
+DBG [31602-70 ] accountId  97076 bought NFT (from # 44246) for    60.157 $ (225.000 LRC) validUntilTimeBetweenOrders 1294965 seconds
+DBG [31619-51 ] accountId  97076 bought NFT (from # 78263) for   107.694 $ (400.000 LRC) validUntilTimeBetweenOrders 1306205 seconds
+DBG [31621-124] accountId  97076 sold__ NFT (to__ #168615) for   119.928 $ (445.000 LRC) validUntilTimeBetweenOrders 1294342 seconds
+DBG [31822-52 ] accountId  97076 sold__ NFT (to__ #126810) for    71.363 $ (270.000 LRC) validUntilTimeBetweenOrders 1292498 seconds
+DBG [31908-78 ] accountId  97076 sold__ NFT (to__ #152678) for    16.418 $ (58.000 LRC) validUntilTimeBetweenOrders 954314 seconds
+DBG [31968-93 ] accountId  97076 bought NFT (from # 34525) for    69.292 $ (250.000 LRC) validUntilTimeBetweenOrders 1295798 seconds
+DBG [31969-327] accountId  97076 sold__ NFT (to__ # 64315) for    15.339 $ (0.010 ETH) validUntilTimeBetweenOrders 3665 seconds
+DBG [31970-32 ] accountId  97076 sold__ NFT (to__ #133932) for    70.052 $ (0.044 ETH) validUntilTimeBetweenOrders 4191 seconds
+DBG [32013-229] accountId  97076 sold__ NFT (to__ #147514) for    80.508 $ (295.000 LRC) validUntilTimeBetweenOrders 1251396 seconds
+DBG [32117-63 ] accountId  97076 bought NFT (from # 38048) for    18.661 $ (70.000 LRC) validUntilTimeBetweenOrders 1103219 seconds
+DBG [32211-175] accountId  97076 sold__ NFT (to__ #126675) for    20.683 $ (75.000 LRC) validUntilTimeBetweenOrders 1291454 seconds
+DBG [32238-136] accountId  97076 sold__ NFT (to__ # 12127) for     6.878 $ (25.000 LRC) validUntilTimeBetweenOrders 1247118 seconds
+DBG [32380-360] accountId  97076 sold__ NFT (to__ # 53616) for    16.618 $ (45.000 LRC) validUntilTimeBetweenOrders 771348 seconds
+DBG [32424-87 ] accountId  97076 sold__ NFT (to__ # 75590) for   211.475 $ (0.135 ETH) validUntilTimeBetweenOrders 33006 seconds
+DBG [32453-21 ] accountId  97076 sold__ NFT (to__ # 78263) for    24.042 $ (74.000 LRC) validUntilTimeBetweenOrders 204836 seconds
+DBG [32583-188] accountId  97076 sold__ NFT (to__ #155047) for   134.126 $ (0.109 ETH) validUntilTimeBetweenOrders 8328 seconds
+DBG [32583-189] accountId  97076 sold__ NFT (to__ #155047) for   111.607 $ (0.091 ETH) validUntilTimeBetweenOrders 8328 seconds
+DBG [32614-141] accountId  97076 sold__ NFT (to__ #124620) for   223.699 $ (0.196 ETH) validUntilTimeBetweenOrders 4537 seconds
+DBG [32654-251] accountId  97076 sold__ NFT (to__ #149380) for   292.838 $ (0.229 ETH) validUntilTimeBetweenOrders 444586 seconds
+DBG [32669-113] accountId  97076 sold__ NFT (to__ #141308) for    94.947 $ (0.074 ETH) validUntilTimeBetweenOrders 2 seconds
+DBG [32737-208] accountId  97076 sold__ NFT (to__ #172048) for   468.173 $ (0.374 ETH) validUntilTimeBetweenOrders 18750 seconds
+DBG [32854-116] accountId  97076 sold__ NFT (to__ #177208) for    35.467 $ (147.000 LRC) validUntilTimeBetweenOrders 252368 seconds
+DBG [33018-182] accountId  97076 bought NFT (from #139611) for   186.286 $ (0.155 ETH) validUntilTimeBetweenOrders 276 seconds
+DBG [33145-72 ] accountId  97076 bought NFT (from #227191) for   272.357 $ (1099.000 LRC) validUntilTimeBetweenOrders 113407 seconds
+DBG [33156-20 ] accountId  97076 sold__ NFT (to__ #177208) for   220.782 $ (900.000 LRC) validUntilTimeBetweenOrders 1281020 seconds

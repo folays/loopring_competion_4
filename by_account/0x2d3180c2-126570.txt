@@ -1,0 +1,66 @@
+DBG [29451-50 ] accountId 126570 sold__ NFT (to__ #184768) for   186.436 $ (0.139 ETH) validUntilTimeBetweenOrders 7268 seconds
+DBG [29486-102] accountId 126570 sold__ NFT (to__ #146728) for    47.473 $ (0.035 ETH) validUntilTimeBetweenOrders 309 seconds
+DBG [29534-109] accountId 126570 bought NFT (from # 82494) for   122.500 $ (0.090 ETH) validUntilTimeBetweenOrders 50346 seconds
+DBG [29577-103] accountId 126570 bought NFT (from #137787) for   111.271 $ (0.082 ETH) validUntilTimeBetweenOrders 555556 seconds
+DBG [29577-110] accountId 126570 bought NFT (from #165850) for   114.767 $ (0.085 ETH) validUntilTimeBetweenOrders 41643 seconds
+DBG [29607-71 ] accountId 126570 bought NFT (from # 54324) for    63.368 $ (0.051 ETH) validUntilTimeBetweenOrders 3963162 seconds
+DBG [29607-191] accountId 126570 bought NFT (from # 42753) for    74.805 $ (0.060 ETH) validUntilTimeBetweenOrders 4161376 seconds
+DBG [29607-220] accountId 126570 bought NFT (from #143072) for    54.458 $ (0.044 ETH) validUntilTimeBetweenOrders 1755554 seconds
+DBG [29607-222] accountId 126570 bought NFT (from #170158) for    49.870 $ (0.040 ETH) validUntilTimeBetweenOrders 2796765 seconds
+DBG [29607-243] accountId 126570 bought NFT (from # 91597) for    49.906 $ (0.040 ETH) validUntilTimeBetweenOrders 3923490 seconds
+DBG [29607-284] accountId 126570 bought NFT (from # 96639) for    79.826 $ (0.064 ETH) validUntilTimeBetweenOrders 2324786 seconds
+DBG [29608-8  ] accountId 126570 bought NFT (from #123481) for    92.326 $ (0.074 ETH) validUntilTimeBetweenOrders 12947 seconds
+DBG [29655-113] accountId 126570 sold__ NFT (to__ #170511) for     5.264 $ (0.004 ETH) validUntilTimeBetweenOrders 371987 seconds
+DBG [29692-43 ] accountId 126570 sold__ NFT (to__ # 38861) for   123.061 $ (0.095 ETH) validUntilTimeBetweenOrders 304 seconds
+DBG [29700-127] accountId 126570 bought NFT (from #188749) for  1000.350 $ (0.775 ETH) validUntilTimeBetweenOrders 512 seconds
+DBG [29707-33 ] accountId 126570 sold__ NFT (to__ #137610) for   199.561 $ (0.155 ETH) validUntilTimeBetweenOrders 265 seconds
+DBG [29707-77 ] accountId 126570 sold__ NFT (to__ # 42700) for   199.548 $ (0.155 ETH) validUntilTimeBetweenOrders 133 seconds
+DBG [29707-88 ] accountId 126570 sold__ NFT (to__ # 80995) for   199.548 $ (0.155 ETH) validUntilTimeBetweenOrders 126 seconds
+DBG [29707-90 ] accountId 126570 sold__ NFT (to__ #135022) for   199.548 $ (0.155 ETH) validUntilTimeBetweenOrders 442 seconds
+DBG [29713-63 ] accountId 126570 sold__ NFT (to__ # 91812) for   447.870 $ (0.338 ETH) validUntilTimeBetweenOrders 7044 seconds
+DBG [29927-186] accountId 126570 bought NFT (from #183393) for   278.091 $ (0.210 ETH) validUntilTimeBetweenOrders 1621 seconds
+DBG [29928-169] accountId 126570 bought NFT (from #183393) for   221.913 $ (0.168 ETH) validUntilTimeBetweenOrders 1760 seconds
+DBG [30025-382] accountId 126570 bought NFT (from #188603) for   267.112 $ (0.200 ETH) validUntilTimeBetweenOrders 7498 seconds
+DBG [30026-202] accountId 126570 bought NFT (from #188603) for    53.212 $ (0.040 ETH) validUntilTimeBetweenOrders 7993 seconds
+DBG [30026-207] accountId 126570 bought NFT (from #188603) for    26.606 $ (0.020 ETH) validUntilTimeBetweenOrders 7891 seconds
+DBG [30027-143] accountId 126570 sold__ NFT (to__ #178652) for   247.407 $ (0.188 ETH) validUntilTimeBetweenOrders 2480 seconds
+DBG [30098-225] accountId 126570 bought NFT (from # 92477) for   606.134 $ (0.450 ETH) validUntilTimeBetweenOrders 226 seconds
+DBG [30101-310] accountId 126570 bought NFT (from # 92477) for   607.093 $ (0.450 ETH) validUntilTimeBetweenOrders 451 seconds
+DBG [30108-169] accountId 126570 bought NFT (from # 92477) for   763.531 $ (0.565 ETH) validUntilTimeBetweenOrders 41 seconds
+DBG [30112-303] accountId 126570 bought NFT (from # 92477) for    80.818 $ (0.060 ETH) validUntilTimeBetweenOrders 82 seconds
+DBG [30122-8  ] accountId 126570 bought NFT (from # 92477) for   121.968 $ (0.090 ETH) validUntilTimeBetweenOrders 2584 seconds
+DBG [30868-16 ] accountId 126570 sold__ NFT (to__ #163274) for   275.013 $ (0.220 ETH) validUntilTimeBetweenOrders 5619 seconds
+DBG [30882-241] accountId 126570 bought NFT (from #183393) for   270.971 $ (0.210 ETH) validUntilTimeBetweenOrders 1096 seconds
+DBG [30889-380] accountId 126570 sold__ NFT (to__ #146904) for    53.829 $ (0.042 ETH) validUntilTimeBetweenOrders 58 seconds
+DBG [30890-151] accountId 126570 sold__ NFT (to__ #146350) for    53.958 $ (0.042 ETH) validUntilTimeBetweenOrders 8983 seconds
+DBG [30890-152] accountId 126570 sold__ NFT (to__ #169277) for    53.958 $ (0.042 ETH) validUntilTimeBetweenOrders 108 seconds
+DBG [30890-196] accountId 126570 sold__ NFT (to__ #150226) for    53.958 $ (0.042 ETH) validUntilTimeBetweenOrders 134 seconds
+DBG [31040-11 ] accountId 126570 sold__ NFT (to__ #179879) for    95.892 $ (0.074 ETH) validUntilTimeBetweenOrders 2002563 seconds
+DBG [31085-149] accountId 126570 bought NFT (from #188603) for    26.417 $ (0.020 ETH) validUntilTimeBetweenOrders 1588774 seconds
+DBG [31251-4  ] accountId 126570 bought NFT (from #188603) for   128.058 $ (0.100 ETH) validUntilTimeBetweenOrders 1859791 seconds
+DBG [31251-65 ] accountId 126570 bought NFT (from #188603) for   128.058 $ (0.100 ETH) validUntilTimeBetweenOrders 1859791 seconds
+DBG [31357-34 ] accountId 126570 sold__ NFT (to__ #157379) for    39.306 $ (0.030 ETH) validUntilTimeBetweenOrders 157 seconds
+DBG [31357-90 ] accountId 126570 sold__ NFT (to__ # 67801) for    39.306 $ (0.030 ETH) validUntilTimeBetweenOrders 134 seconds
+DBG [31357-335] accountId 126570 bought NFT (from #188603) for    26.181 $ (0.020 ETH) validUntilTimeBetweenOrders 2016943 seconds
+DBG [31358-205] accountId 126570 bought NFT (from #166266) for    39.235 $ (0.030 ETH) validUntilTimeBetweenOrders 99 seconds
+DBG [31444-182] accountId 126570 sold__ NFT (to__ #172784) for    90.315 $ (0.067 ETH) validUntilTimeBetweenOrders 464631 seconds
+DBG [31447-46 ] accountId 126570 sold__ NFT (to__ #100508) for    93.426 $ (0.070 ETH) validUntilTimeBetweenOrders 5776 seconds
+DBG [31459-1  ] accountId 126570 sold__ NFT (to__ #191221) for    86.686 $ (0.065 ETH) validUntilTimeBetweenOrders 64682 seconds
+DBG [31485-266] accountId 126570 sold__ NFT (to__ # 34853) for    86.390 $ (0.064 ETH) validUntilTimeBetweenOrders 18444 seconds
+DBG [31488-216] accountId 126570 sold__ NFT (to__ #192839) for    85.941 $ (0.064 ETH) validUntilTimeBetweenOrders 1887 seconds
+DBG [31489-29 ] accountId 126570 sold__ NFT (to__ #131249) for    86.505 $ (0.064 ETH) validUntilTimeBetweenOrders 329 seconds
+DBG [31489-258] accountId 126570 sold__ NFT (to__ #148370) for    86.792 $ (0.064 ETH) validUntilTimeBetweenOrders 823 seconds
+DBG [31846-64 ] accountId 126570 bought NFT (from # 54324) for   163.295 $ (0.105 ETH) validUntilTimeBetweenOrders 220450 seconds
+DBG [31846-86 ] accountId 126570 bought NFT (from #160499) for   167.945 $ (0.108 ETH) validUntilTimeBetweenOrders 263432 seconds
+DBG [31846-106] accountId 126570 bought NFT (from #160499) for   167.945 $ (0.108 ETH) validUntilTimeBetweenOrders 263541 seconds
+DBG [32094-74 ] accountId 126570 bought NFT (from #173566) for   149.092 $ (0.095 ETH) validUntilTimeBetweenOrders 23516 seconds
+DBG [32452-8  ] accountId 126570 bought NFT (from #188603) for   634.677 $ (0.400 ETH) validUntilTimeBetweenOrders 604 seconds
+DBG [32452-10 ] accountId 126570 bought NFT (from #188603) for   793.347 $ (0.500 ETH) validUntilTimeBetweenOrders 674 seconds
+DBG [32452-200] accountId 126570 bought NFT (from #188603) for   791.605 $ (0.500 ETH) validUntilTimeBetweenOrders 1300 seconds
+DBG [32452-210] accountId 126570 bought NFT (from #188603) for   158.321 $ (0.100 ETH) validUntilTimeBetweenOrders 1300 seconds
+DBG [32488-105] accountId 126570 sold__ NFT (to__ #134158) for    80.531 $ (0.052 ETH) validUntilTimeBetweenOrders 462333 seconds
+DBG [32638-48 ] accountId 126570 sold__ NFT (to__ #224451) for    16.567 $ (0.014 ETH) validUntilTimeBetweenOrders 179944 seconds
+DBG [32698-51 ] accountId 126570 sold__ NFT (to__ #131223) for    17.800 $ (0.014 ETH) validUntilTimeBetweenOrders 273504 seconds
+DBG [32700-72 ] accountId 126570 sold__ NFT (to__ #124602) for    35.677 $ (0.028 ETH) validUntilTimeBetweenOrders 275729 seconds
+DBG [32763-49 ] accountId 126570 sold__ NFT (to__ #134293) for    70.161 $ (0.055 ETH) validUntilTimeBetweenOrders 74032 seconds
+DBG [33014-268] accountId 126570 bought NFT (from #175479) for   144.626 $ (0.120 ETH) validUntilTimeBetweenOrders 539 seconds

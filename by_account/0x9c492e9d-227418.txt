@@ -1,0 +1,5 @@
+DBG [33215-57 ] accountId 227418 bought NFT (from #228006) for  1112.773 $ (4489.000 LRC) validUntilTimeBetweenOrders 1295116 seconds
+DBG [33229-51 ] accountId 227418 sold__ NFT (to__ #228006) for  1119.287 $ (4600.000 LRC) validUntilTimeBetweenOrders 1295817 seconds
+DBG [33230-7  ] accountId 227418 sold__ NFT (to__ #228013) for  1119.885 $ (4600.000 LRC) validUntilTimeBetweenOrders 1295293 seconds
+DBG [33230-10 ] accountId 227418 bought NFT (from #228013) for  1119.885 $ (4600.000 LRC) validUntilTimeBetweenOrders 1295628 seconds
+DBG [33255-148] accountId 227418 sold__ NFT (to__ #228013) for   186.681 $ (800.000 LRC) validUntilTimeBetweenOrders 1295973 seconds

@@ -1,0 +1,4 @@
+DBG [30049-49 ] accountId 172452 sold__ NFT (to__ #131042) for     2.064 $ (6.900 LRC) validUntilTimeBetweenOrders 344829 seconds
+DBG [30370-164] accountId 172452 bought NFT (from #132946) for     7.434 $ (25.000 LRC) validUntilTimeBetweenOrders 226428 seconds
+DBG [30370-166] accountId 172452 bought NFT (from # 71525) for    10.407 $ (35.000 LRC) validUntilTimeBetweenOrders 1128698 seconds
+DBG [30371-18 ] accountId 172452 sold__ NFT (to__ # 73488) for     0.148 $ (0.500 LRC) validUntilTimeBetweenOrders 1292725 seconds

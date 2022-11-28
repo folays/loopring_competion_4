@@ -1,0 +1,4 @@
+DBG [30595-160] accountId 109133 sold__ NFT (to__ #108226) for    66.465 $ (0.050 ETH) validUntilTimeBetweenOrders 154687728 seconds
+DBG [30595-300] accountId 109133 sold__ NFT (to__ #108225) for    66.476 $ (0.050 ETH) validUntilTimeBetweenOrders 154687029 seconds
+DBG [30603-115] accountId 109133 bought NFT (from #112498) for   133.410 $ (0.100 ETH) validUntilTimeBetweenOrders 154769432 seconds
+DBG [30603-124] accountId 109133 bought NFT (from #112497) for   133.410 $ (0.100 ETH) validUntilTimeBetweenOrders 154769389 seconds

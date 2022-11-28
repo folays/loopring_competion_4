@@ -1,0 +1,38 @@
+DBG [29833-43 ] accountId  79768 sold__ NFT (to__ #138551) for     2.060 $ (7.000 LRC) validUntilTimeBetweenOrders 632972 seconds
+DBG [29833-72 ] accountId  79768 sold__ NFT (to__ #138551) for     2.060 $ (7.000 LRC) validUntilTimeBetweenOrders 632862 seconds
+DBG [29833-74 ] accountId  79768 sold__ NFT (to__ #138551) for     8.830 $ (30.000 LRC) validUntilTimeBetweenOrders 633305 seconds
+DBG [29835-9  ] accountId  79768 bought NFT (from # 63630) for    36.649 $ (125.000 LRC) validUntilTimeBetweenOrders 669321 seconds
+DBG [30149-177] accountId  79768 sold__ NFT (to__ #131371) for     1.484 $ (5.000 LRC) validUntilTimeBetweenOrders 1051669 seconds
+DBG [30201-137] accountId  79768 bought NFT (from # 81371) for    16.156 $ (55.000 LRC) validUntilTimeBetweenOrders 1237377 seconds
+DBG [30206-259] accountId  79768 sold__ NFT (to__ #145303) for     3.829 $ (13.000 LRC) validUntilTimeBetweenOrders 1247045 seconds
+DBG [30206-281] accountId  79768 sold__ NFT (to__ #145303) for     3.829 $ (13.000 LRC) validUntilTimeBetweenOrders 1246830 seconds
+DBG [30206-282] accountId  79768 sold__ NFT (to__ #145303) for     3.829 $ (13.000 LRC) validUntilTimeBetweenOrders 1246830 seconds
+DBG [30206-300] accountId  79768 sold__ NFT (to__ #145303) for     3.829 $ (13.000 LRC) validUntilTimeBetweenOrders 1246851 seconds
+DBG [30206-302] accountId  79768 sold__ NFT (to__ #145303) for     3.829 $ (13.000 LRC) validUntilTimeBetweenOrders 1246727 seconds
+DBG [30206-365] accountId  79768 sold__ NFT (to__ #131371) for     3.829 $ (13.000 LRC) validUntilTimeBetweenOrders 1246361 seconds
+DBG [30206-383] accountId  79768 sold__ NFT (to__ #131371) for     3.817 $ (13.000 LRC) validUntilTimeBetweenOrders 1246324 seconds
+DBG [30207-1  ] accountId  79768 sold__ NFT (to__ #131371) for     3.817 $ (13.000 LRC) validUntilTimeBetweenOrders 1246278 seconds
+DBG [30207-3  ] accountId  79768 sold__ NFT (to__ #131371) for     3.817 $ (13.000 LRC) validUntilTimeBetweenOrders 1246154 seconds
+DBG [30207-27 ] accountId  79768 sold__ NFT (to__ #131371) for     9.102 $ (31.000 LRC) validUntilTimeBetweenOrders 1246098 seconds
+DBG [30222-148] accountId  79768 sold__ NFT (to__ #131371) for     3.828 $ (13.000 LRC) validUntilTimeBetweenOrders 1294940 seconds
+DBG [30228-80 ] accountId  79768 sold__ NFT (to__ #143622) for     2.062 $ (7.000 LRC) validUntilTimeBetweenOrders 1151145 seconds
+DBG [30640-199] accountId  79768 bought NFT (from #189378) for     6.046 $ (21.000 LRC) validUntilTimeBetweenOrders 1287389 seconds
+DBG [30954-152] accountId  79768 bought NFT (from # 90399) for    12.189 $ (48.000 LRC) validUntilTimeBetweenOrders 1227947 seconds
+DBG [31485-245] accountId  79768 sold__ NFT (to__ #146666) for     7.687 $ (31.000 LRC) validUntilTimeBetweenOrders 747760 seconds
+DBG [31486-53 ] accountId  79768 sold__ NFT (to__ #146666) for     3.212 $ (13.000 LRC) validUntilTimeBetweenOrders 748225 seconds
+DBG [31495-48 ] accountId  79768 bought NFT (from #192599) for    17.027 $ (69.000 LRC) validUntilTimeBetweenOrders 1221716 seconds
+DBG [31495-58 ] accountId  79768 bought NFT (from #192599) for     6.169 $ (25.000 LRC) validUntilTimeBetweenOrders 1221763 seconds
+DBG [31975-298] accountId  79768 bought NFT (from #106774) for    56.215 $ (200.000 LRC) validUntilTimeBetweenOrders 1265324 seconds
+DBG [32129-142] accountId  79768 bought NFT (from #189378) for     5.597 $ (21.000 LRC) validUntilTimeBetweenOrders 563112 seconds
+DBG [32129-143] accountId  79768 bought NFT (from #189378) for     5.597 $ (21.000 LRC) validUntilTimeBetweenOrders 817285 seconds
+DBG [32129-156] accountId  79768 bought NFT (from #189378) for     5.597 $ (21.000 LRC) validUntilTimeBetweenOrders 817385 seconds
+DBG [32129-157] accountId  79768 bought NFT (from #189378) for     5.597 $ (21.000 LRC) validUntilTimeBetweenOrders 817460 seconds
+DBG [32129-158] accountId  79768 bought NFT (from #189378) for     5.597 $ (21.000 LRC) validUntilTimeBetweenOrders 817506 seconds
+DBG [32129-171] accountId  79768 bought NFT (from #189378) for     5.597 $ (21.000 LRC) validUntilTimeBetweenOrders 817569 seconds
+DBG [32129-172] accountId  79768 bought NFT (from #189378) for     5.597 $ (21.000 LRC) validUntilTimeBetweenOrders 817677 seconds
+DBG [32129-173] accountId  79768 bought NFT (from #189378) for     5.597 $ (21.000 LRC) validUntilTimeBetweenOrders 817709 seconds
+DBG [32129-186] accountId  79768 bought NFT (from #189378) for     5.597 $ (21.000 LRC) validUntilTimeBetweenOrders 817801 seconds
+DBG [32129-210] accountId  79768 bought NFT (from #189378) for     1.333 $ (5.000 LRC) validUntilTimeBetweenOrders 309446 seconds
+DBG [32799-140] accountId  79768 bought NFT (from # 99271) for     2.591 $ (10.000 LRC) validUntilTimeBetweenOrders 1276619 seconds
+DBG [33008-184] accountId  79768 bought NFT (from #189378) for     5.259 $ (21.000 LRC) validUntilTimeBetweenOrders 320542 seconds
+DBG [33009-4  ] accountId  79768 bought NFT (from #189378) for     5.239 $ (21.000 LRC) validUntilTimeBetweenOrders 320166 seconds

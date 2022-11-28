@@ -1,0 +1,63 @@
+DBG [29531-182] accountId  94395 bought NFT (from # 73269) for     3.023 $ (10.000 LRC) validUntilTimeBetweenOrders 1277061 seconds
+DBG [29925-130] accountId  94395 bought NFT (from #183393) for   111.281 $ (0.084 ETH) validUntilTimeBetweenOrders 1183 seconds
+DBG [29932-48 ] accountId  94395 bought NFT (from #183393) for    55.162 $ (0.042 ETH) validUntilTimeBetweenOrders 3124 seconds
+DBG [30093-266] accountId  94395 bought NFT (from # 92477) for   243.535 $ (0.180 ETH) validUntilTimeBetweenOrders 155 seconds
+DBG [30095-48 ] accountId  94395 bought NFT (from # 92477) for    46.001 $ (0.034 ETH) validUntilTimeBetweenOrders 207 seconds
+DBG [30110-175] accountId  94395 bought NFT (from # 92477) for   152.585 $ (0.113 ETH) validUntilTimeBetweenOrders 202 seconds
+DBG [30110-288] accountId  94395 bought NFT (from # 92477) for   305.170 $ (0.226 ETH) validUntilTimeBetweenOrders 267 seconds
+DBG [31218-113] accountId  94395 sold__ NFT (to__ # 91618) for    13.000 $ (0.010 ETH) validUntilTimeBetweenOrders 1549 seconds
+DBG [31218-176] accountId  94395 sold__ NFT (to__ # 38649) for   246.124 $ (0.190 ETH) validUntilTimeBetweenOrders 635 seconds
+DBG [31219-45 ] accountId  94395 sold__ NFT (to__ # 95340) for   263.231 $ (0.203 ETH) validUntilTimeBetweenOrders 119022 seconds
+DBG [31220-15 ] accountId  94395 sold__ NFT (to__ #165978) for    16.822 $ (0.013 ETH) validUntilTimeBetweenOrders 4518 seconds
+DBG [31221-10 ] accountId  94395 sold__ NFT (to__ # 38649) for    15.683 $ (0.012 ETH) validUntilTimeBetweenOrders 7929 seconds
+DBG [31225-299] accountId  94395 sold__ NFT (to__ #106664) for     5.170 $ (0.004 ETH) validUntilTimeBetweenOrders 34863 seconds
+DBG [31230-181] accountId  94395 sold__ NFT (to__ #132909) for   112.435 $ (0.087 ETH) validUntilTimeBetweenOrders 3480 seconds
+DBG [31230-207] accountId  94395 sold__ NFT (to__ #132909) for    92.576 $ (0.072 ETH) validUntilTimeBetweenOrders 2505 seconds
+DBG [31234-164] accountId  94395 sold__ NFT (to__ #145666) for    18.049 $ (0.014 ETH) validUntilTimeBetweenOrders 6623 seconds
+DBG [31239-317] accountId  94395 sold__ NFT (to__ # 41996) for    91.616 $ (0.072 ETH) validUntilTimeBetweenOrders 8981 seconds
+DBG [31240-95 ] accountId  94395 sold__ NFT (to__ #126014) for     2.558 $ (0.002 ETH) validUntilTimeBetweenOrders 10106 seconds
+DBG [31244-344] accountId  94395 sold__ NFT (to__ #126014) for     1.668 $ (0.001 ETH) validUntilTimeBetweenOrders 12382 seconds
+DBG [31246-144] accountId  94395 sold__ NFT (to__ #126014) for     3.212 $ (0.003 ETH) validUntilTimeBetweenOrders 17156 seconds
+DBG [31248-284] accountId  94395 sold__ NFT (to__ #139206) for   160.849 $ (0.125 ETH) validUntilTimeBetweenOrders 14377 seconds
+DBG [31252-249] accountId  94395 sold__ NFT (to__ #150540) for   171.947 $ (0.134 ETH) validUntilTimeBetweenOrders 20468 seconds
+DBG [31257-244] accountId  94395 sold__ NFT (to__ # 34621) for    57.452 $ (0.045 ETH) validUntilTimeBetweenOrders 26582 seconds
+DBG [31260-142] accountId  94395 sold__ NFT (to__ # 38649) for    17.382 $ (0.013 ETH) validUntilTimeBetweenOrders 35094 seconds
+DBG [31261-129] accountId  94395 sold__ NFT (to__ #160726) for   132.697 $ (0.103 ETH) validUntilTimeBetweenOrders 30084 seconds
+DBG [31274-56 ] accountId  94395 sold__ NFT (to__ #134158) for     1.808 $ (0.001 ETH) validUntilTimeBetweenOrders 43455 seconds
+DBG [31274-59 ] accountId  94395 sold__ NFT (to__ #134158) for     1.808 $ (0.001 ETH) validUntilTimeBetweenOrders 38907 seconds
+DBG [31283-25 ] accountId  94395 sold__ NFT (to__ #127004) for    30.608 $ (0.024 ETH) validUntilTimeBetweenOrders 75028 seconds
+DBG [31287-59 ] accountId  94395 sold__ NFT (to__ #126338) for   260.586 $ (0.203 ETH) validUntilTimeBetweenOrders 62225 seconds
+DBG [31296-205] accountId  94395 sold__ NFT (to__ #175132) for    22.181 $ (0.017 ETH) validUntilTimeBetweenOrders 73825 seconds
+DBG [31298-312] accountId  94395 sold__ NFT (to__ #135967) for   207.142 $ (0.160 ETH) validUntilTimeBetweenOrders 85301 seconds
+DBG [31301-58 ] accountId  94395 sold__ NFT (to__ #149015) for   440.155 $ (0.340 ETH) validUntilTimeBetweenOrders 84074 seconds
+DBG [31302-220] accountId  94395 sold__ NFT (to__ #125035) for     1.952 $ (0.002 ETH) validUntilTimeBetweenOrders 91812 seconds
+DBG [31303-197] accountId  94395 sold__ NFT (to__ #170925) for     2.990 $ (0.002 ETH) validUntilTimeBetweenOrders 88862 seconds
+DBG [31304-119] accountId  94395 sold__ NFT (to__ #166512) for    30.920 $ (0.024 ETH) validUntilTimeBetweenOrders 110530 seconds
+DBG [31304-287] accountId  94395 sold__ NFT (to__ #139899) for     2.963 $ (0.002 ETH) validUntilTimeBetweenOrders 90133 seconds
+DBG [31335-234] accountId  94395 sold__ NFT (to__ #189352) for     4.020 $ (0.003 ETH) validUntilTimeBetweenOrders 140058 seconds
+DBG [31347-248] accountId  94395 sold__ NFT (to__ # 48455) for  2461.353 $ (1.875 ETH) validUntilTimeBetweenOrders 156287 seconds
+DBG [31348-147] accountId  94395 sold__ NFT (to__ # 38649) for     3.282 $ (0.003 ETH) validUntilTimeBetweenOrders 163681 seconds
+DBG [31348-148] accountId  94395 sold__ NFT (to__ # 38649) for     4.069 $ (0.003 ETH) validUntilTimeBetweenOrders 163681 seconds
+DBG [31352-143] accountId  94395 sold__ NFT (to__ #157320) for   974.935 $ (0.740 ETH) validUntilTimeBetweenOrders 167225 seconds
+DBG [31356-268] accountId  94395 sold__ NFT (to__ #175132) for    90.597 $ (0.069 ETH) validUntilTimeBetweenOrders 173734 seconds
+DBG [31387-28 ] accountId  94395 sold__ NFT (to__ # 34440) for     1.963 $ (0.002 ETH) validUntilTimeBetweenOrders 225820 seconds
+DBG [31387-76 ] accountId  94395 sold__ NFT (to__ #134452) for     1.963 $ (0.002 ETH) validUntilTimeBetweenOrders 224822 seconds
+DBG [31388-251] accountId  94395 sold__ NFT (to__ # 64352) for   436.807 $ (0.335 ETH) validUntilTimeBetweenOrders 244411 seconds
+DBG [31402-105] accountId  94395 sold__ NFT (to__ #106421) for   121.793 $ (0.093 ETH) validUntilTimeBetweenOrders 2807 seconds
+DBG [31402-106] accountId  94395 sold__ NFT (to__ #163915) for    22.263 $ (0.017 ETH) validUntilTimeBetweenOrders 2700 seconds
+DBG [31406-302] accountId  94395 sold__ NFT (to__ #172348) for     4.467 $ (0.003 ETH) validUntilTimeBetweenOrders 9343 seconds
+DBG [31407-141] accountId  94395 sold__ NFT (to__ #173539) for    22.262 $ (0.017 ETH) validUntilTimeBetweenOrders 11141 seconds
+DBG [31410-247] accountId  94395 sold__ NFT (to__ #152678) for    25.270 $ (0.019 ETH) validUntilTimeBetweenOrders 260278 seconds
+DBG [31446-13 ] accountId  94395 sold__ NFT (to__ #126919) for     4.552 $ (0.003 ETH) validUntilTimeBetweenOrders 69489 seconds
+DBG [31500-89 ] accountId  94395 sold__ NFT (to__ # 38378) for    24.962 $ (100.000 LRC) validUntilTimeBetweenOrders 1291402 seconds
+DBG [31508-102] accountId  94395 sold__ NFT (to__ # 91857) for   308.522 $ (0.229 ETH) validUntilTimeBetweenOrders 411062 seconds
+DBG [31510-137] accountId  94395 sold__ NFT (to__ #173804) for     4.587 $ (0.003 ETH) validUntilTimeBetweenOrders 150378 seconds
+DBG [31520-307] accountId  94395 sold__ NFT (to__ #149360) for   160.499 $ (0.119 ETH) validUntilTimeBetweenOrders 167881 seconds
+DBG [31538-318] accountId  94395 sold__ NFT (to__ #154289) for     4.915 $ (0.003 ETH) validUntilTimeBetweenOrders 195156 seconds
+DBG [31540-218] accountId  94395 sold__ NFT (to__ #173942) for     4.807 $ (0.003 ETH) validUntilTimeBetweenOrders 196935 seconds
+DBG [31554-12 ] accountId  94395 sold__ NFT (to__ #177371) for    95.718 $ (0.065 ETH) validUntilTimeBetweenOrders 215899 seconds
+DBG [32004-377] accountId  94395 sold__ NFT (to__ #127004) for    29.696 $ (0.019 ETH) validUntilTimeBetweenOrders 944646 seconds
+DBG [32006-77 ] accountId  94395 sold__ NFT (to__ #149841) for    23.536 $ (0.015 ETH) validUntilTimeBetweenOrders 973772 seconds
+DBG [32100-17 ] accountId  94395 sold__ NFT (to__ #179156) for   458.422 $ (0.290 ETH) validUntilTimeBetweenOrders 662265 seconds
+DBG [32711-109] accountId  94395 sold__ NFT (to__ #135308) for    32.493 $ (0.026 ETH) validUntilTimeBetweenOrders 1897610 seconds
+DBG [33207-48 ] accountId  94395 sold__ NFT (to__ #138274) for   378.853 $ (0.310 ETH) validUntilTimeBetweenOrders 2377895 seconds

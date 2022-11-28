@@ -1,0 +1,22 @@
+DBG [29595-346] accountId  43760 bought NFT (from # 43244) for    53.436 $ (0.040 ETH) validUntilTimeBetweenOrders 440549 seconds
+DBG [29595-348] accountId  43760 bought NFT (from # 43244) for    53.436 $ (0.040 ETH) validUntilTimeBetweenOrders 442371 seconds
+DBG [29595-383] accountId  43760 bought NFT (from # 43244) for    53.436 $ (0.040 ETH) validUntilTimeBetweenOrders 442371 seconds
+DBG [29596-239] accountId  43760 bought NFT (from # 65597) for    99.466 $ (0.075 ETH) validUntilTimeBetweenOrders 21289 seconds
+DBG [29596-292] accountId  43760 bought NFT (from #154458) for   132.429 $ (0.100 ETH) validUntilTimeBetweenOrders 271928 seconds
+DBG [29597-364] accountId  43760 sold__ NFT (to__ #171468) for    12.615 $ (0.010 ETH) validUntilTimeBetweenOrders 3693 seconds
+DBG [29703-180] accountId  43760 bought NFT (from #188749) for   199.513 $ (0.155 ETH) validUntilTimeBetweenOrders 285 seconds
+DBG [29780-131] accountId  43760 bought NFT (from #162802) for   526.033 $ (0.397 ETH) validUntilTimeBetweenOrders 2795 seconds
+DBG [29780-157] accountId  43760 bought NFT (from #138678) for  1034.045 $ (0.780 ETH) validUntilTimeBetweenOrders 10058 seconds
+DBG [29781-38 ] accountId  43760 sold__ NFT (to__ #125502) for    38.465 $ (0.029 ETH) validUntilTimeBetweenOrders 288942 seconds
+DBG [29830-13 ] accountId  43760 bought NFT (from # 97981) for   142.801 $ (0.110 ETH) validUntilTimeBetweenOrders 19534 seconds
+DBG [29877-89 ] accountId  43760 sold__ NFT (to__ # 40953) for    26.649 $ (0.020 ETH) validUntilTimeBetweenOrders 272863 seconds
+DBG [30134-32 ] accountId  43760 sold__ NFT (to__ #172784) for    22.027 $ (0.016 ETH) validUntilTimeBetweenOrders 329780 seconds
+DBG [30399-219] accountId  43760 bought NFT (from #137899) for   453.642 $ (0.335 ETH) validUntilTimeBetweenOrders 172 seconds
+DBG [30892-1  ] accountId  43760 bought NFT (from #183393) for   161.972 $ (0.126 ETH) validUntilTimeBetweenOrders 4251 seconds
+DBG [30892-38 ] accountId  43760 bought NFT (from #183393) for   215.963 $ (0.168 ETH) validUntilTimeBetweenOrders 4249 seconds
+DBG [30892-111] accountId  43760 bought NFT (from #125329) for    99.346 $ (0.077 ETH) validUntilTimeBetweenOrders 72 seconds
+DBG [30892-171] accountId  43760 bought NFT (from #174273) for    99.217 $ (0.077 ETH) validUntilTimeBetweenOrders 38 seconds
+DBG [33142-154] accountId  43760 sold__ NFT (to__ #131856) for    17.954 $ (0.015 ETH) validUntilTimeBetweenOrders 5018326 seconds
+DBG [33155-144] accountId  43760 sold__ NFT (to__ # 93836) for    30.139 $ (0.025 ETH) validUntilTimeBetweenOrders 197320 seconds
+DBG [33155-145] accountId  43760 sold__ NFT (to__ # 93836) for    30.139 $ (0.025 ETH) validUntilTimeBetweenOrders 197320 seconds
+DBG [33251-41 ] accountId  43760 sold__ NFT (to__ # 45816) for    45.802 $ (0.040 ETH) validUntilTimeBetweenOrders 352044 seconds

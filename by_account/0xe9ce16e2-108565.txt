@@ -1,0 +1,6 @@
+DBG [30652-8  ] accountId 108565 sold__ NFT (to__ #190847) for    65.563 $ (0.050 ETH) validUntilTimeBetweenOrders 154554165 seconds
+DBG [30652-108] accountId 108565 sold__ NFT (to__ #190849) for    65.521 $ (0.050 ETH) validUntilTimeBetweenOrders 154553220 seconds
+DBG [30652-182] accountId 108565 sold__ NFT (to__ #190851) for    65.565 $ (0.050 ETH) validUntilTimeBetweenOrders 154552512 seconds
+DBG [30658-149] accountId 108565 bought NFT (from #108209) for    65.711 $ (0.050 ETH) validUntilTimeBetweenOrders 154523048 seconds
+DBG [30658-154] accountId 108565 bought NFT (from #108206) for    65.711 $ (0.050 ETH) validUntilTimeBetweenOrders 154522801 seconds
+DBG [30658-155] accountId 108565 bought NFT (from #108205) for    65.711 $ (0.050 ETH) validUntilTimeBetweenOrders 154522649 seconds

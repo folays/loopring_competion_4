@@ -1,0 +1,504 @@
+DBG [30504-342] accountId 189378 sold__ NFT (to__ #129723) for     2.976 $ (10.000 LRC) validUntilTimeBetweenOrders 1295789 seconds
+DBG [30508-288] accountId 189378 sold__ NFT (to__ #129723) for     2.977 $ (10.000 LRC) validUntilTimeBetweenOrders 1295770 seconds
+DBG [30515-169] accountId 189378 bought NFT (from #129723) for     2.977 $ (10.000 LRC) validUntilTimeBetweenOrders 1295899 seconds
+DBG [30517-155] accountId 189378 bought NFT (from #129723) for     1.484 $ (5.000 LRC) validUntilTimeBetweenOrders 1295911 seconds
+DBG [30573-40 ] accountId 189378 sold__ NFT (to__ # 78494) for     2.904 $ (10.000 LRC) validUntilTimeBetweenOrders 1295913 seconds
+DBG [30573-84 ] accountId 189378 sold__ NFT (to__ # 78494) for     2.904 $ (10.000 LRC) validUntilTimeBetweenOrders 1295873 seconds
+DBG [30574-15 ] accountId 189378 sold__ NFT (to__ # 78494) for     4.356 $ (15.000 LRC) validUntilTimeBetweenOrders 1295970 seconds
+DBG [30576-37 ] accountId 189378 sold__ NFT (to__ # 78494) for     2.920 $ (10.000 LRC) validUntilTimeBetweenOrders 1295943 seconds
+DBG [30588-140] accountId 189378 sold__ NFT (to__ # 78494) for     2.868 $ (10.000 LRC) validUntilTimeBetweenOrders 1295379 seconds
+DBG [30602-101] accountId 189378 sold__ NFT (to__ #129723) for     2.885 $ (10.000 LRC) validUntilTimeBetweenOrders 1295694 seconds
+DBG [30610-8  ] accountId 189378 sold__ NFT (to__ #129723) for     1.447 $ (5.000 LRC) validUntilTimeBetweenOrders 1294592 seconds
+DBG [30637-44 ] accountId 189378 sold__ NFT (to__ #152678) for     6.038 $ (21.000 LRC) validUntilTimeBetweenOrders 1293149 seconds
+DBG [30637-45 ] accountId 189378 sold__ NFT (to__ #152678) for     6.038 $ (21.000 LRC) validUntilTimeBetweenOrders 1293132 seconds
+DBG [30637-46 ] accountId 189378 sold__ NFT (to__ #152678) for     6.038 $ (21.000 LRC) validUntilTimeBetweenOrders 1293186 seconds
+DBG [30637-57 ] accountId 189378 sold__ NFT (to__ #152678) for     6.038 $ (21.000 LRC) validUntilTimeBetweenOrders 1293016 seconds
+DBG [30637-58 ] accountId 189378 sold__ NFT (to__ #152678) for     6.038 $ (21.000 LRC) validUntilTimeBetweenOrders 1293088 seconds
+DBG [30637-59 ] accountId 189378 sold__ NFT (to__ #152678) for     6.038 $ (21.000 LRC) validUntilTimeBetweenOrders 1293031 seconds
+DBG [30637-60 ] accountId 189378 sold__ NFT (to__ #152678) for     6.038 $ (21.000 LRC) validUntilTimeBetweenOrders 1293103 seconds
+DBG [30637-70 ] accountId 189378 sold__ NFT (to__ #152678) for     6.038 $ (21.000 LRC) validUntilTimeBetweenOrders 1293054 seconds
+DBG [30637-71 ] accountId 189378 sold__ NFT (to__ #152678) for     6.038 $ (21.000 LRC) validUntilTimeBetweenOrders 1292981 seconds
+DBG [30637-72 ] accountId 189378 sold__ NFT (to__ # 41819) for     6.038 $ (21.000 LRC) validUntilTimeBetweenOrders 1292813 seconds
+DBG [30637-76 ] accountId 189378 sold__ NFT (to__ # 41819) for     6.038 $ (21.000 LRC) validUntilTimeBetweenOrders 1292903 seconds
+DBG [30637-77 ] accountId 189378 sold__ NFT (to__ # 41819) for     6.038 $ (21.000 LRC) validUntilTimeBetweenOrders 1292916 seconds
+DBG [30637-78 ] accountId 189378 sold__ NFT (to__ # 41819) for     6.038 $ (21.000 LRC) validUntilTimeBetweenOrders 1292955 seconds
+DBG [30637-86 ] accountId 189378 sold__ NFT (to__ # 62231) for     6.038 $ (21.000 LRC) validUntilTimeBetweenOrders 1292735 seconds
+DBG [30637-87 ] accountId 189378 sold__ NFT (to__ # 62231) for     6.038 $ (21.000 LRC) validUntilTimeBetweenOrders 1292603 seconds
+DBG [30637-88 ] accountId 189378 sold__ NFT (to__ # 41819) for     6.038 $ (21.000 LRC) validUntilTimeBetweenOrders 1292638 seconds
+DBG [30637-89 ] accountId 189378 sold__ NFT (to__ # 34145) for     6.038 $ (21.000 LRC) validUntilTimeBetweenOrders 1292721 seconds
+DBG [30637-90 ] accountId 189378 sold__ NFT (to__ # 62231) for     6.038 $ (21.000 LRC) validUntilTimeBetweenOrders 1292546 seconds
+DBG [30637-104] accountId 189378 sold__ NFT (to__ #121616) for     6.038 $ (21.000 LRC) validUntilTimeBetweenOrders 1292682 seconds
+DBG [30637-113] accountId 189378 sold__ NFT (to__ #125505) for     6.038 $ (21.000 LRC) validUntilTimeBetweenOrders 1292377 seconds
+DBG [30637-114] accountId 189378 sold__ NFT (to__ #125505) for     6.038 $ (21.000 LRC) validUntilTimeBetweenOrders 1292426 seconds
+DBG [30637-132] accountId 189378 sold__ NFT (to__ #125505) for     6.038 $ (21.000 LRC) validUntilTimeBetweenOrders 1292191 seconds
+DBG [30637-133] accountId 189378 sold__ NFT (to__ # 45837) for     6.038 $ (21.000 LRC) validUntilTimeBetweenOrders 1292250 seconds
+DBG [30637-134] accountId 189378 sold__ NFT (to__ # 45837) for     6.038 $ (21.000 LRC) validUntilTimeBetweenOrders 1292246 seconds
+DBG [30637-143] accountId 189378 sold__ NFT (to__ # 45837) for     6.038 $ (21.000 LRC) validUntilTimeBetweenOrders 1292122 seconds
+DBG [30637-144] accountId 189378 sold__ NFT (to__ # 45837) for     6.038 $ (21.000 LRC) validUntilTimeBetweenOrders 1292041 seconds
+DBG [30637-155] accountId 189378 sold__ NFT (to__ # 45837) for     6.038 $ (21.000 LRC) validUntilTimeBetweenOrders 1292089 seconds
+DBG [30637-156] accountId 189378 sold__ NFT (to__ #143805) for     6.038 $ (21.000 LRC) validUntilTimeBetweenOrders 1292109 seconds
+DBG [30638-34 ] accountId 189378 sold__ NFT (to__ #131371) for     6.037 $ (21.000 LRC) validUntilTimeBetweenOrders 1291297 seconds
+DBG [30638-35 ] accountId 189378 sold__ NFT (to__ #131371) for     6.037 $ (21.000 LRC) validUntilTimeBetweenOrders 1291335 seconds
+DBG [30638-36 ] accountId 189378 sold__ NFT (to__ #131371) for     6.037 $ (21.000 LRC) validUntilTimeBetweenOrders 1291219 seconds
+DBG [30638-37 ] accountId 189378 sold__ NFT (to__ #131371) for     6.037 $ (21.000 LRC) validUntilTimeBetweenOrders 1291259 seconds
+DBG [30638-38 ] accountId 189378 sold__ NFT (to__ # 33602) for     6.037 $ (21.000 LRC) validUntilTimeBetweenOrders 1291283 seconds
+DBG [30638-52 ] accountId 189378 sold__ NFT (to__ #131371) for     6.037 $ (21.000 LRC) validUntilTimeBetweenOrders 1291125 seconds
+DBG [30638-53 ] accountId 189378 sold__ NFT (to__ # 86933) for     6.037 $ (21.000 LRC) validUntilTimeBetweenOrders 1291234 seconds
+DBG [30638-54 ] accountId 189378 sold__ NFT (to__ # 33602) for     6.037 $ (21.000 LRC) validUntilTimeBetweenOrders 1291230 seconds
+DBG [30638-55 ] accountId 189378 sold__ NFT (to__ #131371) for     6.037 $ (21.000 LRC) validUntilTimeBetweenOrders 1291158 seconds
+DBG [30638-56 ] accountId 189378 sold__ NFT (to__ # 97877) for     6.037 $ (21.000 LRC) validUntilTimeBetweenOrders 1291021 seconds
+DBG [30638-57 ] accountId 189378 sold__ NFT (to__ # 97877) for     6.037 $ (21.000 LRC) validUntilTimeBetweenOrders 1291165 seconds
+DBG [30638-78 ] accountId 189378 sold__ NFT (to__ #132733) for     6.037 $ (21.000 LRC) validUntilTimeBetweenOrders 1291049 seconds
+DBG [30638-79 ] accountId 189378 sold__ NFT (to__ #132733) for     6.037 $ (21.000 LRC) validUntilTimeBetweenOrders 1291041 seconds
+DBG [30638-94 ] accountId 189378 sold__ NFT (to__ #147514) for     6.037 $ (21.000 LRC) validUntilTimeBetweenOrders 1290875 seconds
+DBG [30638-95 ] accountId 189378 sold__ NFT (to__ #147514) for     6.037 $ (21.000 LRC) validUntilTimeBetweenOrders 1290963 seconds
+DBG [30638-96 ] accountId 189378 sold__ NFT (to__ #147514) for     6.037 $ (21.000 LRC) validUntilTimeBetweenOrders 1290814 seconds
+DBG [30638-120] accountId 189378 sold__ NFT (to__ # 44442) for     6.039 $ (21.000 LRC) validUntilTimeBetweenOrders 1290587 seconds
+DBG [30639-188] accountId 189378 sold__ NFT (to__ #172881) for     6.037 $ (21.000 LRC) validUntilTimeBetweenOrders 1289526 seconds
+DBG [30639-189] accountId 189378 sold__ NFT (to__ #172881) for     6.037 $ (21.000 LRC) validUntilTimeBetweenOrders 1289615 seconds
+DBG [30639-190] accountId 189378 sold__ NFT (to__ #172881) for     6.037 $ (21.000 LRC) validUntilTimeBetweenOrders 1289464 seconds
+DBG [30639-191] accountId 189378 sold__ NFT (to__ #172881) for     6.037 $ (21.000 LRC) validUntilTimeBetweenOrders 1289585 seconds
+DBG [30639-192] accountId 189378 sold__ NFT (to__ #172881) for     6.037 $ (21.000 LRC) validUntilTimeBetweenOrders 1289650 seconds
+DBG [30639-209] accountId 189378 sold__ NFT (to__ #172881) for     6.059 $ (21.000 LRC) validUntilTimeBetweenOrders 1289574 seconds
+DBG [30639-210] accountId 189378 sold__ NFT (to__ #172881) for     6.059 $ (21.000 LRC) validUntilTimeBetweenOrders 1289586 seconds
+DBG [30639-211] accountId 189378 sold__ NFT (to__ #172881) for     6.059 $ (21.000 LRC) validUntilTimeBetweenOrders 1289478 seconds
+DBG [30639-230] accountId 189378 sold__ NFT (to__ #172881) for     6.059 $ (21.000 LRC) validUntilTimeBetweenOrders 1289372 seconds
+DBG [30640-59 ] accountId 189378 sold__ NFT (to__ #131371) for     6.059 $ (21.000 LRC) validUntilTimeBetweenOrders 1289064 seconds
+DBG [30640-72 ] accountId 189378 sold__ NFT (to__ #106934) for     6.034 $ (21.000 LRC) validUntilTimeBetweenOrders 1288798 seconds
+DBG [30640-100] accountId 189378 sold__ NFT (to__ # 66155) for     6.034 $ (21.000 LRC) validUntilTimeBetweenOrders 1288583 seconds
+DBG [30640-101] accountId 189378 sold__ NFT (to__ # 66155) for     6.034 $ (21.000 LRC) validUntilTimeBetweenOrders 1288554 seconds
+DBG [30640-102] accountId 189378 sold__ NFT (to__ # 66155) for     6.034 $ (21.000 LRC) validUntilTimeBetweenOrders 1288534 seconds
+DBG [30640-150] accountId 189378 sold__ NFT (to__ #125000) for     6.032 $ (21.000 LRC) validUntilTimeBetweenOrders 1287875 seconds
+DBG [30640-199] accountId 189378 sold__ NFT (to__ # 79768) for     6.046 $ (21.000 LRC) validUntilTimeBetweenOrders 1287389 seconds
+DBG [30640-200] accountId 189378 sold__ NFT (to__ # 62231) for     6.046 $ (21.000 LRC) validUntilTimeBetweenOrders 1287329 seconds
+DBG [30640-201] accountId 189378 sold__ NFT (to__ #115258) for     6.046 $ (21.000 LRC) validUntilTimeBetweenOrders 1287176 seconds
+DBG [30640-226] accountId 189378 sold__ NFT (to__ # 62231) for     6.046 $ (21.000 LRC) validUntilTimeBetweenOrders 1287250 seconds
+DBG [30640-227] accountId 189378 sold__ NFT (to__ #115258) for     6.046 $ (21.000 LRC) validUntilTimeBetweenOrders 1287240 seconds
+DBG [30640-228] accountId 189378 sold__ NFT (to__ # 62231) for     6.046 $ (21.000 LRC) validUntilTimeBetweenOrders 1287234 seconds
+DBG [30640-229] accountId 189378 sold__ NFT (to__ #115258) for     6.046 $ (21.000 LRC) validUntilTimeBetweenOrders 1287236 seconds
+DBG [30640-240] accountId 189378 sold__ NFT (to__ #115258) for     6.046 $ (21.000 LRC) validUntilTimeBetweenOrders 1287102 seconds
+DBG [30640-252] accountId 189378 sold__ NFT (to__ # 81805) for     6.029 $ (21.000 LRC) validUntilTimeBetweenOrders 1286897 seconds
+DBG [30640-312] accountId 189378 sold__ NFT (to__ #121661) for     6.026 $ (21.000 LRC) validUntilTimeBetweenOrders 1286537 seconds
+DBG [30640-313] accountId 189378 sold__ NFT (to__ #121661) for     6.026 $ (21.000 LRC) validUntilTimeBetweenOrders 1286534 seconds
+DBG [30640-326] accountId 189378 sold__ NFT (to__ #121661) for     6.026 $ (21.000 LRC) validUntilTimeBetweenOrders 1286372 seconds
+DBG [30641-90 ] accountId 189378 sold__ NFT (to__ # 50830) for     6.026 $ (21.000 LRC) validUntilTimeBetweenOrders 1284915 seconds
+DBG [30641-98 ] accountId 189378 sold__ NFT (to__ # 81805) for     6.026 $ (21.000 LRC) validUntilTimeBetweenOrders 1284626 seconds
+DBG [30641-99 ] accountId 189378 sold__ NFT (to__ #164342) for     6.026 $ (21.000 LRC) validUntilTimeBetweenOrders 1284627 seconds
+DBG [30641-107] accountId 189378 sold__ NFT (to__ # 50830) for     6.026 $ (21.000 LRC) validUntilTimeBetweenOrders 1284641 seconds
+DBG [30641-109] accountId 189378 sold__ NFT (to__ #164342) for     6.026 $ (21.000 LRC) validUntilTimeBetweenOrders 1284512 seconds
+DBG [30641-110] accountId 189378 sold__ NFT (to__ #164342) for     6.026 $ (21.000 LRC) validUntilTimeBetweenOrders 1284564 seconds
+DBG [30641-111] accountId 189378 sold__ NFT (to__ #164342) for     6.026 $ (21.000 LRC) validUntilTimeBetweenOrders 1284651 seconds
+DBG [30642-189] accountId 189378 sold__ NFT (to__ # 34316) for     6.031 $ (21.000 LRC) validUntilTimeBetweenOrders 1282630 seconds
+DBG [30642-241] accountId 189378 sold__ NFT (to__ # 34316) for     6.031 $ (21.000 LRC) validUntilTimeBetweenOrders 1282436 seconds
+DBG [30642-242] accountId 189378 sold__ NFT (to__ #155258) for     6.031 $ (21.000 LRC) validUntilTimeBetweenOrders 1282362 seconds
+DBG [30642-339] accountId 189378 sold__ NFT (to__ #116419) for     6.031 $ (21.000 LRC) validUntilTimeBetweenOrders 1282321 seconds
+DBG [30642-340] accountId 189378 sold__ NFT (to__ #116419) for     6.031 $ (21.000 LRC) validUntilTimeBetweenOrders 1282324 seconds
+DBG [30642-341] accountId 189378 sold__ NFT (to__ #116419) for     6.031 $ (21.000 LRC) validUntilTimeBetweenOrders 1282408 seconds
+DBG [30642-360] accountId 189378 sold__ NFT (to__ #116419) for     6.031 $ (21.000 LRC) validUntilTimeBetweenOrders 1282311 seconds
+DBG [30642-361] accountId 189378 sold__ NFT (to__ #116419) for     6.031 $ (21.000 LRC) validUntilTimeBetweenOrders 1282216 seconds
+DBG [30642-362] accountId 189378 sold__ NFT (to__ #116419) for     6.031 $ (21.000 LRC) validUntilTimeBetweenOrders 1282309 seconds
+DBG [30642-376] accountId 189378 sold__ NFT (to__ #116419) for     6.031 $ (21.000 LRC) validUntilTimeBetweenOrders 1282143 seconds
+DBG [30642-377] accountId 189378 sold__ NFT (to__ #116419) for     6.031 $ (21.000 LRC) validUntilTimeBetweenOrders 1282144 seconds
+DBG [30643-6  ] accountId 189378 sold__ NFT (to__ #116419) for     6.031 $ (21.000 LRC) validUntilTimeBetweenOrders 1282037 seconds
+DBG [30643-76 ] accountId 189378 sold__ NFT (to__ #129418) for     6.031 $ (21.000 LRC) validUntilTimeBetweenOrders 1281268 seconds
+DBG [30644-9  ] accountId 189378 sold__ NFT (to__ #147514) for     6.037 $ (21.000 LRC) validUntilTimeBetweenOrders 1280390 seconds
+DBG [30644-63 ] accountId 189378 sold__ NFT (to__ # 91881) for     6.037 $ (21.000 LRC) validUntilTimeBetweenOrders 1279852 seconds
+DBG [30644-126] accountId 189378 sold__ NFT (to__ # 91881) for     5.987 $ (21.000 LRC) validUntilTimeBetweenOrders 1280001 seconds
+DBG [30644-127] accountId 189378 sold__ NFT (to__ # 91881) for     5.987 $ (21.000 LRC) validUntilTimeBetweenOrders 1279915 seconds
+DBG [30644-128] accountId 189378 sold__ NFT (to__ #131042) for     5.987 $ (21.000 LRC) validUntilTimeBetweenOrders 1279812 seconds
+DBG [30644-249] accountId 189378 sold__ NFT (to__ #166826) for     5.991 $ (21.000 LRC) validUntilTimeBetweenOrders 1279525 seconds
+DBG [30644-256] accountId 189378 sold__ NFT (to__ #166826) for     5.991 $ (21.000 LRC) validUntilTimeBetweenOrders 1279229 seconds
+DBG [30644-257] accountId 189378 sold__ NFT (to__ # 81805) for     5.991 $ (21.000 LRC) validUntilTimeBetweenOrders 1279199 seconds
+DBG [30645-10 ] accountId 189378 sold__ NFT (to__ #112169) for     5.991 $ (21.000 LRC) validUntilTimeBetweenOrders 1278473 seconds
+DBG [30646-159] accountId 189378 sold__ NFT (to__ # 50830) for     6.016 $ (21.000 LRC) validUntilTimeBetweenOrders 1274912 seconds
+DBG [30646-161] accountId 189378 sold__ NFT (to__ #138551) for     6.016 $ (21.000 LRC) validUntilTimeBetweenOrders 1274833 seconds
+DBG [30646-163] accountId 189378 sold__ NFT (to__ #138551) for     6.016 $ (21.000 LRC) validUntilTimeBetweenOrders 1274968 seconds
+DBG [30646-182] accountId 189378 sold__ NFT (to__ #138551) for     6.030 $ (21.000 LRC) validUntilTimeBetweenOrders 1274885 seconds
+DBG [30647-256] accountId 189378 sold__ NFT (to__ #121661) for     6.023 $ (21.000 LRC) validUntilTimeBetweenOrders 1272860 seconds
+DBG [30647-257] accountId 189378 sold__ NFT (to__ #121661) for     6.023 $ (21.000 LRC) validUntilTimeBetweenOrders 1272804 seconds
+DBG [30647-279] accountId 189378 sold__ NFT (to__ #145303) for     6.020 $ (21.000 LRC) validUntilTimeBetweenOrders 1272806 seconds
+DBG [30648-25 ] accountId 189378 sold__ NFT (to__ #147810) for     6.020 $ (21.000 LRC) validUntilTimeBetweenOrders 1272159 seconds
+DBG [30648-195] accountId 189378 sold__ NFT (to__ #134421) for     6.037 $ (21.000 LRC) validUntilTimeBetweenOrders 1270722 seconds
+DBG [30649-21 ] accountId 189378 sold__ NFT (to__ # 51382) for     6.037 $ (21.000 LRC) validUntilTimeBetweenOrders 1270478 seconds
+DBG [30649-22 ] accountId 189378 sold__ NFT (to__ # 51382) for     6.037 $ (21.000 LRC) validUntilTimeBetweenOrders 1270362 seconds
+DBG [30651-122] accountId 189378 sold__ NFT (to__ # 77303) for     6.044 $ (21.000 LRC) validUntilTimeBetweenOrders 1265142 seconds
+DBG [30652-4  ] accountId 189378 sold__ NFT (to__ # 81805) for     6.020 $ (21.000 LRC) validUntilTimeBetweenOrders 1264296 seconds
+DBG [30652-215] accountId 189378 sold__ NFT (to__ #154235) for     6.019 $ (21.000 LRC) validUntilTimeBetweenOrders 1262056 seconds
+DBG [30653-70 ] accountId 189378 sold__ NFT (to__ # 78494) for     6.019 $ (21.000 LRC) validUntilTimeBetweenOrders 1260944 seconds
+DBG [30653-71 ] accountId 189378 sold__ NFT (to__ # 78494) for     6.019 $ (21.000 LRC) validUntilTimeBetweenOrders 1261035 seconds
+DBG [30653-72 ] accountId 189378 sold__ NFT (to__ # 78494) for     6.019 $ (21.000 LRC) validUntilTimeBetweenOrders 1260889 seconds
+DBG [30653-81 ] accountId 189378 sold__ NFT (to__ # 78494) for     6.019 $ (21.000 LRC) validUntilTimeBetweenOrders 1260899 seconds
+DBG [30653-82 ] accountId 189378 sold__ NFT (to__ # 78494) for     6.019 $ (21.000 LRC) validUntilTimeBetweenOrders 1260955 seconds
+DBG [30653-83 ] accountId 189378 sold__ NFT (to__ # 78494) for     6.019 $ (21.000 LRC) validUntilTimeBetweenOrders 1260968 seconds
+DBG [30653-84 ] accountId 189378 sold__ NFT (to__ # 78494) for     6.019 $ (21.000 LRC) validUntilTimeBetweenOrders 1260989 seconds
+DBG [30653-85 ] accountId 189378 sold__ NFT (to__ # 78494) for     6.019 $ (21.000 LRC) validUntilTimeBetweenOrders 1260855 seconds
+DBG [30653-86 ] accountId 189378 sold__ NFT (to__ # 78494) for     6.019 $ (21.000 LRC) validUntilTimeBetweenOrders 1260858 seconds
+DBG [30655-44 ] accountId 189378 sold__ NFT (to__ # 86933) for     6.001 $ (21.000 LRC) validUntilTimeBetweenOrders 1257461 seconds
+DBG [30655-54 ] accountId 189378 sold__ NFT (to__ # 86933) for     6.020 $ (21.000 LRC) validUntilTimeBetweenOrders 1257313 seconds
+DBG [30655-55 ] accountId 189378 sold__ NFT (to__ # 86933) for     6.020 $ (21.000 LRC) validUntilTimeBetweenOrders 1257246 seconds
+DBG [30655-149] accountId 189378 sold__ NFT (to__ # 71856) for     6.020 $ (21.000 LRC) validUntilTimeBetweenOrders 1256364 seconds
+DBG [30655-150] accountId 189378 sold__ NFT (to__ # 71856) for     6.020 $ (21.000 LRC) validUntilTimeBetweenOrders 1256083 seconds
+DBG [30655-159] accountId 189378 sold__ NFT (to__ # 71856) for     6.020 $ (21.000 LRC) validUntilTimeBetweenOrders 1256194 seconds
+DBG [30655-168] accountId 189378 sold__ NFT (to__ # 71856) for     6.020 $ (21.000 LRC) validUntilTimeBetweenOrders 1256083 seconds
+DBG [30655-169] accountId 189378 sold__ NFT (to__ # 86933) for     6.020 $ (21.000 LRC) validUntilTimeBetweenOrders 1256019 seconds
+DBG [30665-68 ] accountId 189378 sold__ NFT (to__ #162618) for     6.097 $ (21.000 LRC) validUntilTimeBetweenOrders 1229666 seconds
+DBG [30669-203] accountId 189378 sold__ NFT (to__ #125686) for     6.117 $ (21.000 LRC) validUntilTimeBetweenOrders 1219717 seconds
+DBG [30669-204] accountId 189378 sold__ NFT (to__ #125686) for     6.117 $ (21.000 LRC) validUntilTimeBetweenOrders 1219680 seconds
+DBG [30669-205] accountId 189378 sold__ NFT (to__ #125686) for     6.117 $ (21.000 LRC) validUntilTimeBetweenOrders 1219743 seconds
+DBG [30673-96 ] accountId 189378 sold__ NFT (to__ #100445) for     6.094 $ (21.000 LRC) validUntilTimeBetweenOrders 1212327 seconds
+DBG [30673-117] accountId 189378 sold__ NFT (to__ #100445) for     6.094 $ (21.000 LRC) validUntilTimeBetweenOrders 1212305 seconds
+DBG [30678-2  ] accountId 189378 sold__ NFT (to__ #153528) for     6.120 $ (21.000 LRC) validUntilTimeBetweenOrders 1203742 seconds
+DBG [30679-174] accountId 189378 sold__ NFT (to__ # 72805) for     6.089 $ (21.000 LRC) validUntilTimeBetweenOrders 1201138 seconds
+DBG [30679-175] accountId 189378 sold__ NFT (to__ # 72805) for     6.089 $ (21.000 LRC) validUntilTimeBetweenOrders 1201132 seconds
+DBG [30682-317] accountId 189378 sold__ NFT (to__ # 91857) for     6.113 $ (21.000 LRC) validUntilTimeBetweenOrders 1194651 seconds
+DBG [30682-331] accountId 189378 sold__ NFT (to__ # 91857) for     6.114 $ (21.000 LRC) validUntilTimeBetweenOrders 1194654 seconds
+DBG [30682-332] accountId 189378 sold__ NFT (to__ # 91857) for     6.114 $ (21.000 LRC) validUntilTimeBetweenOrders 1194741 seconds
+DBG [30682-333] accountId 189378 sold__ NFT (to__ # 91857) for     6.114 $ (21.000 LRC) validUntilTimeBetweenOrders 1194751 seconds
+DBG [30682-334] accountId 189378 sold__ NFT (to__ # 91857) for     6.114 $ (21.000 LRC) validUntilTimeBetweenOrders 1194625 seconds
+DBG [30682-335] accountId 189378 sold__ NFT (to__ # 91857) for     6.114 $ (21.000 LRC) validUntilTimeBetweenOrders 1194665 seconds
+DBG [30683-117] accountId 189378 sold__ NFT (to__ #121661) for     6.098 $ (21.000 LRC) validUntilTimeBetweenOrders 1193215 seconds
+DBG [30683-149] accountId 189378 sold__ NFT (to__ #121661) for     6.098 $ (21.000 LRC) validUntilTimeBetweenOrders 1193076 seconds
+DBG [30683-150] accountId 189378 sold__ NFT (to__ #121661) for     6.098 $ (21.000 LRC) validUntilTimeBetweenOrders 1193118 seconds
+DBG [30683-151] accountId 189378 sold__ NFT (to__ #121661) for     6.098 $ (21.000 LRC) validUntilTimeBetweenOrders 1193114 seconds
+DBG [30683-176] accountId 189378 sold__ NFT (to__ #121661) for     6.098 $ (21.000 LRC) validUntilTimeBetweenOrders 1192848 seconds
+DBG [30686-32 ] accountId 189378 sold__ NFT (to__ #170956) for     6.090 $ (21.000 LRC) validUntilTimeBetweenOrders 1187213 seconds
+DBG [30690-3  ] accountId 189378 sold__ NFT (to__ # 69571) for     6.158 $ (21.000 LRC) validUntilTimeBetweenOrders 1179773 seconds
+DBG [30690-99 ] accountId 189378 sold__ NFT (to__ #131234) for     6.126 $ (21.000 LRC) validUntilTimeBetweenOrders 1178249 seconds
+DBG [30692-66 ] accountId 189378 sold__ NFT (to__ #138049) for     6.119 $ (21.000 LRC) validUntilTimeBetweenOrders 1174446 seconds
+DBG [30694-157] accountId 189378 sold__ NFT (to__ #132946) for     6.103 $ (21.000 LRC) validUntilTimeBetweenOrders 1167807 seconds
+DBG [30695-96 ] accountId 189378 sold__ NFT (to__ #141462) for     6.085 $ (21.000 LRC) validUntilTimeBetweenOrders 1165829 seconds
+DBG [30696-31 ] accountId 189378 sold__ NFT (to__ #132946) for     6.073 $ (21.000 LRC) validUntilTimeBetweenOrders 1163711 seconds
+DBG [30700-97 ] accountId 189378 sold__ NFT (to__ # 34145) for     5.948 $ (21.000 LRC) validUntilTimeBetweenOrders 1155013 seconds
+DBG [30702-35 ] accountId 189378 sold__ NFT (to__ # 45837) for     5.991 $ (21.000 LRC) validUntilTimeBetweenOrders 1150576 seconds
+DBG [30702-36 ] accountId 189378 sold__ NFT (to__ # 45837) for     5.991 $ (21.000 LRC) validUntilTimeBetweenOrders 1150542 seconds
+DBG [30702-37 ] accountId 189378 sold__ NFT (to__ # 45837) for     5.991 $ (21.000 LRC) validUntilTimeBetweenOrders 1150524 seconds
+DBG [30702-47 ] accountId 189378 sold__ NFT (to__ # 45837) for     5.991 $ (21.000 LRC) validUntilTimeBetweenOrders 1150508 seconds
+DBG [30710-330] accountId 189378 sold__ NFT (to__ #143622) for     5.971 $ (21.000 LRC) validUntilTimeBetweenOrders 1137969 seconds
+DBG [30714-79 ] accountId 189378 sold__ NFT (to__ # 97968) for     5.927 $ (21.000 LRC) validUntilTimeBetweenOrders 1131308 seconds
+DBG [30714-121] accountId 189378 sold__ NFT (to__ # 97968) for     5.936 $ (21.000 LRC) validUntilTimeBetweenOrders 1131056 seconds
+DBG [30714-129] accountId 189378 sold__ NFT (to__ # 97968) for     5.937 $ (21.000 LRC) validUntilTimeBetweenOrders 1131024 seconds
+DBG [30714-140] accountId 189378 sold__ NFT (to__ # 97968) for     5.937 $ (21.000 LRC) validUntilTimeBetweenOrders 1130606 seconds
+DBG [30717-110] accountId 189378 sold__ NFT (to__ #155258) for     5.901 $ (21.000 LRC) validUntilTimeBetweenOrders 1126251 seconds
+DBG [30717-111] accountId 189378 sold__ NFT (to__ #155258) for     5.901 $ (21.000 LRC) validUntilTimeBetweenOrders 1126221 seconds
+DBG [30719-217] accountId 189378 sold__ NFT (to__ #115539) for     5.914 $ (21.000 LRC) validUntilTimeBetweenOrders 1123098 seconds
+DBG [30719-245] accountId 189378 sold__ NFT (to__ #115539) for     5.914 $ (21.000 LRC) validUntilTimeBetweenOrders 1122882 seconds
+DBG [30726-303] accountId 189378 sold__ NFT (to__ # 86988) for     5.891 $ (21.000 LRC) validUntilTimeBetweenOrders 1111411 seconds
+DBG [30728-244] accountId 189378 sold__ NFT (to__ #148531) for     5.884 $ (21.000 LRC) validUntilTimeBetweenOrders 1109056 seconds
+DBG [30731-102] accountId 189378 sold__ NFT (to__ #126810) for     5.775 $ (21.000 LRC) validUntilTimeBetweenOrders 1105267 seconds
+DBG [30731-111] accountId 189378 sold__ NFT (to__ #126810) for     5.775 $ (21.000 LRC) validUntilTimeBetweenOrders 1105418 seconds
+DBG [30731-232] accountId 189378 sold__ NFT (to__ # 50830) for     5.775 $ (21.000 LRC) validUntilTimeBetweenOrders 1104650 seconds
+DBG [30732-233] accountId 189378 sold__ NFT (to__ #143622) for     5.821 $ (21.000 LRC) validUntilTimeBetweenOrders 1102130 seconds
+DBG [30734-264] accountId 189378 sold__ NFT (to__ # 90113) for     5.589 $ (21.000 LRC) validUntilTimeBetweenOrders 1099207 seconds
+DBG [30737-193] accountId 189378 sold__ NFT (to__ #171296) for     5.670 $ (21.000 LRC) validUntilTimeBetweenOrders 1092920 seconds
+DBG [30740-143] accountId 189378 sold__ NFT (to__ # 72090) for     5.680 $ (21.000 LRC) validUntilTimeBetweenOrders 1086031 seconds
+DBG [30740-144] accountId 189378 sold__ NFT (to__ # 72090) for     5.680 $ (21.000 LRC) validUntilTimeBetweenOrders 1085919 seconds
+DBG [30751-88 ] accountId 189378 sold__ NFT (to__ # 45837) for     5.693 $ (21.000 LRC) validUntilTimeBetweenOrders 1062294 seconds
+DBG [30751-105] accountId 189378 sold__ NFT (to__ # 82770) for     5.693 $ (21.000 LRC) validUntilTimeBetweenOrders 1062407 seconds
+DBG [30777-121] accountId 189378 sold__ NFT (to__ # 59225) for     5.622 $ (21.000 LRC) validUntilTimeBetweenOrders 1018979 seconds
+DBG [30783-29 ] accountId 189378 sold__ NFT (to__ #131371) for     5.653 $ (21.000 LRC) validUntilTimeBetweenOrders 1008983 seconds
+DBG [30783-54 ] accountId 189378 sold__ NFT (to__ #131371) for     5.653 $ (21.000 LRC) validUntilTimeBetweenOrders 1008938 seconds
+DBG [30784-132] accountId 189378 sold__ NFT (to__ #153528) for     5.653 $ (21.000 LRC) validUntilTimeBetweenOrders 1006488 seconds
+DBG [30787-138] accountId 189378 sold__ NFT (to__ # 78494) for     5.636 $ (21.000 LRC) validUntilTimeBetweenOrders 1001123 seconds
+DBG [30787-148] accountId 189378 sold__ NFT (to__ # 78494) for     5.636 $ (21.000 LRC) validUntilTimeBetweenOrders 1001071 seconds
+DBG [30803-347] accountId 189378 sold__ NFT (to__ #126810) for     5.654 $ (21.000 LRC) validUntilTimeBetweenOrders 979124 seconds
+DBG [30803-348] accountId 189378 sold__ NFT (to__ #126810) for     5.654 $ (21.000 LRC) validUntilTimeBetweenOrders 979111 seconds
+DBG [30804-72 ] accountId 189378 sold__ NFT (to__ #126810) for     5.654 $ (21.000 LRC) validUntilTimeBetweenOrders 1233305 seconds
+DBG [30810-28 ] accountId 189378 sold__ NFT (to__ # 62712) for     5.610 $ (21.000 LRC) validUntilTimeBetweenOrders 967425 seconds
+DBG [30816-64 ] accountId 189378 sold__ NFT (to__ #131371) for     5.596 $ (21.000 LRC) validUntilTimeBetweenOrders 1210165 seconds
+DBG [30822-55 ] accountId 189378 sold__ NFT (to__ #174034) for     5.582 $ (21.000 LRC) validUntilTimeBetweenOrders 1199483 seconds
+DBG [30846-20 ] accountId 189378 sold__ NFT (to__ #147810) for     5.415 $ (21.000 LRC) validUntilTimeBetweenOrders 1161507 seconds
+DBG [30858-252] accountId 189378 sold__ NFT (to__ #125848) for     5.154 $ (21.000 LRC) validUntilTimeBetweenOrders 887410 seconds
+DBG [30893-305] accountId 189378 sold__ NFT (to__ # 33892) for     5.452 $ (21.000 LRC) validUntilTimeBetweenOrders 853897 seconds
+DBG [30896-108] accountId 189378 sold__ NFT (to__ # 86933) for     5.446 $ (21.000 LRC) validUntilTimeBetweenOrders 1105333 seconds
+DBG [30950-56 ] accountId 189378 sold__ NFT (to__ #153528) for     5.331 $ (21.000 LRC) validUntilTimeBetweenOrders 769483 seconds
+DBG [30986-28 ] accountId 189378 sold__ NFT (to__ # 79850) for     5.412 $ (21.000 LRC) validUntilTimeBetweenOrders 702705 seconds
+DBG [31098-195] accountId 189378 sold__ NFT (to__ # 62522) for     5.556 $ (21.000 LRC) validUntilTimeBetweenOrders 494063 seconds
+DBG [31098-196] accountId 189378 sold__ NFT (to__ # 62522) for     5.556 $ (21.000 LRC) validUntilTimeBetweenOrders 494051 seconds
+DBG [31098-197] accountId 189378 sold__ NFT (to__ # 62522) for     5.556 $ (21.000 LRC) validUntilTimeBetweenOrders 494039 seconds
+DBG [31098-209] accountId 189378 sold__ NFT (to__ # 62522) for     5.556 $ (21.000 LRC) validUntilTimeBetweenOrders 494025 seconds
+DBG [31099-87 ] accountId 189378 sold__ NFT (to__ #185857) for     0.265 $ (1.000 LRC) validUntilTimeBetweenOrders 1293357 seconds
+DBG [31099-109] accountId 189378 sold__ NFT (to__ #131371) for     0.265 $ (1.000 LRC) validUntilTimeBetweenOrders 1292978 seconds
+DBG [31099-138] accountId 189378 sold__ NFT (to__ #125505) for     0.264 $ (1.000 LRC) validUntilTimeBetweenOrders 1292541 seconds
+DBG [31106-10 ] accountId 189378 sold__ NFT (to__ #116419) for     0.262 $ (1.000 LRC) validUntilTimeBetweenOrders 1285946 seconds
+DBG [31119-16 ] accountId 189378 sold__ NFT (to__ #164342) for     0.259 $ (1.000 LRC) validUntilTimeBetweenOrders 1258857 seconds
+DBG [31132-86 ] accountId 189378 sold__ NFT (to__ #143622) for     0.259 $ (1.000 LRC) validUntilTimeBetweenOrders 1235973 seconds
+DBG [31132-98 ] accountId 189378 sold__ NFT (to__ #143622) for     0.259 $ (1.000 LRC) validUntilTimeBetweenOrders 1235786 seconds
+DBG [31225-163] accountId 189378 sold__ NFT (to__ #125505) for     5.298 $ (21.000 LRC) validUntilTimeBetweenOrders 264411 seconds
+DBG [31225-164] accountId 189378 sold__ NFT (to__ #125505) for     5.298 $ (21.000 LRC) validUntilTimeBetweenOrders 264376 seconds
+DBG [31230-203] accountId 189378 sold__ NFT (to__ # 70746) for     5.189 $ (21.000 LRC) validUntilTimeBetweenOrders 254377 seconds
+DBG [31230-223] accountId 189378 sold__ NFT (to__ # 70746) for     5.190 $ (21.000 LRC) validUntilTimeBetweenOrders 254334 seconds
+DBG [31247-364] accountId 189378 sold__ NFT (to__ #100534) for     0.246 $ (1.000 LRC) validUntilTimeBetweenOrders 1045134 seconds
+DBG [31263-28 ] accountId 189378 sold__ NFT (to__ #148531) for     5.173 $ (21.000 LRC) validUntilTimeBetweenOrders 478365 seconds
+DBG [31290-247] accountId 189378 sold__ NFT (to__ #161567) for     5.114 $ (21.000 LRC) validUntilTimeBetweenOrders 187393 seconds
+DBG [31304-145] accountId 189378 sold__ NFT (to__ #143622) for     1.236 $ (5.000 LRC) validUntilTimeBetweenOrders 1295023 seconds
+DBG [31305-3  ] accountId 189378 sold__ NFT (to__ #130278) for     1.240 $ (5.000 LRC) validUntilTimeBetweenOrders 1294577 seconds
+DBG [31305-375] accountId 189378 sold__ NFT (to__ #100534) for     1.243 $ (5.000 LRC) validUntilTimeBetweenOrders 1293683 seconds
+DBG [31306-275] accountId 189378 sold__ NFT (to__ #125505) for     1.243 $ (5.000 LRC) validUntilTimeBetweenOrders 1293225 seconds
+DBG [31306-313] accountId 189378 sold__ NFT (to__ #110613) for     5.221 $ (21.000 LRC) validUntilTimeBetweenOrders 165610 seconds
+DBG [31310-383] accountId 189378 sold__ NFT (to__ #129723) for     0.250 $ (1.000 LRC) validUntilTimeBetweenOrders 1288014 seconds
+DBG [31329-21 ] accountId 189378 sold__ NFT (to__ #145303) for     0.248 $ (1.000 LRC) validUntilTimeBetweenOrders 1261128 seconds
+DBG [31329-52 ] accountId 189378 sold__ NFT (to__ #145303) for     1.239 $ (5.000 LRC) validUntilTimeBetweenOrders 1260668 seconds
+DBG [31349-35 ] accountId 189378 sold__ NFT (to__ # 69571) for     5.253 $ (21.000 LRC) validUntilTimeBetweenOrders 98010 seconds
+DBG [31349-36 ] accountId 189378 sold__ NFT (to__ # 69571) for     5.253 $ (21.000 LRC) validUntilTimeBetweenOrders 97913 seconds
+DBG [31349-37 ] accountId 189378 sold__ NFT (to__ # 69571) for     5.253 $ (21.000 LRC) validUntilTimeBetweenOrders 97906 seconds
+DBG [31349-38 ] accountId 189378 sold__ NFT (to__ # 69571) for     5.253 $ (21.000 LRC) validUntilTimeBetweenOrders 97967 seconds
+DBG [31349-57 ] accountId 189378 sold__ NFT (to__ # 69571) for     5.253 $ (21.000 LRC) validUntilTimeBetweenOrders 97903 seconds
+DBG [31349-58 ] accountId 189378 sold__ NFT (to__ # 69571) for     5.253 $ (21.000 LRC) validUntilTimeBetweenOrders 97921 seconds
+DBG [31349-59 ] accountId 189378 sold__ NFT (to__ # 69571) for     5.253 $ (21.000 LRC) validUntilTimeBetweenOrders 97940 seconds
+DBG [31353-80 ] accountId 189378 sold__ NFT (to__ # 43856) for     5.210 $ (21.000 LRC) validUntilTimeBetweenOrders 90273 seconds
+DBG [31353-81 ] accountId 189378 sold__ NFT (to__ # 43856) for     5.210 $ (21.000 LRC) validUntilTimeBetweenOrders 90269 seconds
+DBG [31353-103] accountId 189378 sold__ NFT (to__ # 43856) for     5.210 $ (21.000 LRC) validUntilTimeBetweenOrders 90175 seconds
+DBG [31362-120] accountId 189378 sold__ NFT (to__ #147514) for     6.198 $ (25.000 LRC) validUntilTimeBetweenOrders 1204002 seconds
+DBG [31362-121] accountId 189378 sold__ NFT (to__ #147514) for     1.240 $ (5.000 LRC) validUntilTimeBetweenOrders 1203927 seconds
+DBG [31362-166] accountId 189378 sold__ NFT (to__ #147514) for     0.248 $ (1.000 LRC) validUntilTimeBetweenOrders 1203797 seconds
+DBG [31409-36 ] accountId 189378 sold__ NFT (to__ # 68393) for     1.230 $ (5.000 LRC) validUntilTimeBetweenOrders 1127287 seconds
+DBG [31414-55 ] accountId 189378 sold__ NFT (to__ #119327) for     0.248 $ (1.000 LRC) validUntilTimeBetweenOrders 1120011 seconds
+DBG [31416-126] accountId 189378 sold__ NFT (to__ #147806) for     5.252 $ (21.000 LRC) validUntilTimeBetweenOrders 21943 seconds
+DBG [31500-240] accountId 189378 sold__ NFT (to__ # 48981) for     5.246 $ (21.000 LRC) validUntilTimeBetweenOrders 124248 seconds
+DBG [31526-244] accountId 189378 sold__ NFT (to__ #115969) for     5.459 $ (21.000 LRC) validUntilTimeBetweenOrders 89445 seconds
+DBG [31526-258] accountId 189378 sold__ NFT (to__ #115969) for     5.459 $ (21.000 LRC) validUntilTimeBetweenOrders 164970 seconds
+DBG [31526-259] accountId 189378 sold__ NFT (to__ #115969) for     5.459 $ (21.000 LRC) validUntilTimeBetweenOrders 164898 seconds
+DBG [31526-260] accountId 189378 sold__ NFT (to__ #115969) for     5.459 $ (21.000 LRC) validUntilTimeBetweenOrders 165045 seconds
+DBG [31527-3  ] accountId 189378 sold__ NFT (to__ #115969) for     5.459 $ (21.000 LRC) validUntilTimeBetweenOrders 165064 seconds
+DBG [31527-4  ] accountId 189378 sold__ NFT (to__ #115969) for     5.459 $ (21.000 LRC) validUntilTimeBetweenOrders 165025 seconds
+DBG [31527-5  ] accountId 189378 sold__ NFT (to__ #115969) for     5.459 $ (21.000 LRC) validUntilTimeBetweenOrders 165007 seconds
+DBG [31527-6  ] accountId 189378 sold__ NFT (to__ #115969) for     5.459 $ (21.000 LRC) validUntilTimeBetweenOrders 164980 seconds
+DBG [31527-35 ] accountId 189378 sold__ NFT (to__ #115969) for     5.449 $ (21.000 LRC) validUntilTimeBetweenOrders 165131 seconds
+DBG [31527-36 ] accountId 189378 sold__ NFT (to__ #115969) for     5.449 $ (21.000 LRC) validUntilTimeBetweenOrders 165139 seconds
+DBG [31563-70 ] accountId 189378 sold__ NFT (to__ #161408) for     5.526 $ (21.000 LRC) validUntilTimeBetweenOrders 214765 seconds
+DBG [31794-203] accountId 189378 sold__ NFT (to__ # 99618) for     5.627 $ (21.000 LRC) validUntilTimeBetweenOrders 372469 seconds
+DBG [32105-50 ] accountId 189378 sold__ NFT (to__ #129723) for     5.598 $ (21.000 LRC) validUntilTimeBetweenOrders 788230 seconds
+DBG [32105-51 ] accountId 189378 sold__ NFT (to__ #129723) for     5.598 $ (21.000 LRC) validUntilTimeBetweenOrders 788308 seconds
+DBG [32105-52 ] accountId 189378 sold__ NFT (to__ #129723) for     5.598 $ (21.000 LRC) validUntilTimeBetweenOrders 788329 seconds
+DBG [32105-53 ] accountId 189378 sold__ NFT (to__ #129723) for     5.598 $ (21.000 LRC) validUntilTimeBetweenOrders 788326 seconds
+DBG [32125-18 ] accountId 189378 sold__ NFT (to__ #164342) for     5.540 $ (21.000 LRC) validUntilTimeBetweenOrders 809859 seconds
+DBG [32125-19 ] accountId 189378 sold__ NFT (to__ #164342) for     5.540 $ (21.000 LRC) validUntilTimeBetweenOrders 555570 seconds
+DBG [32125-39 ] accountId 189378 sold__ NFT (to__ #164342) for     5.565 $ (21.000 LRC) validUntilTimeBetweenOrders 809895 seconds
+DBG [32125-40 ] accountId 189378 sold__ NFT (to__ #164342) for     5.565 $ (21.000 LRC) validUntilTimeBetweenOrders 810008 seconds
+DBG [32125-41 ] accountId 189378 sold__ NFT (to__ #164342) for     5.565 $ (21.000 LRC) validUntilTimeBetweenOrders 809956 seconds
+DBG [32125-42 ] accountId 189378 sold__ NFT (to__ #164342) for     5.565 $ (21.000 LRC) validUntilTimeBetweenOrders 809928 seconds
+DBG [32129-142] accountId 189378 sold__ NFT (to__ # 79768) for     5.597 $ (21.000 LRC) validUntilTimeBetweenOrders 563112 seconds
+DBG [32129-143] accountId 189378 sold__ NFT (to__ # 79768) for     5.597 $ (21.000 LRC) validUntilTimeBetweenOrders 817285 seconds
+DBG [32129-156] accountId 189378 sold__ NFT (to__ # 79768) for     5.597 $ (21.000 LRC) validUntilTimeBetweenOrders 817385 seconds
+DBG [32129-157] accountId 189378 sold__ NFT (to__ # 79768) for     5.597 $ (21.000 LRC) validUntilTimeBetweenOrders 817460 seconds
+DBG [32129-158] accountId 189378 sold__ NFT (to__ # 79768) for     5.597 $ (21.000 LRC) validUntilTimeBetweenOrders 817506 seconds
+DBG [32129-171] accountId 189378 sold__ NFT (to__ # 79768) for     5.597 $ (21.000 LRC) validUntilTimeBetweenOrders 817569 seconds
+DBG [32129-172] accountId 189378 sold__ NFT (to__ # 79768) for     5.597 $ (21.000 LRC) validUntilTimeBetweenOrders 817677 seconds
+DBG [32129-173] accountId 189378 sold__ NFT (to__ # 79768) for     5.597 $ (21.000 LRC) validUntilTimeBetweenOrders 817709 seconds
+DBG [32129-186] accountId 189378 sold__ NFT (to__ # 79768) for     5.597 $ (21.000 LRC) validUntilTimeBetweenOrders 817801 seconds
+DBG [32129-210] accountId 189378 sold__ NFT (to__ # 79768) for     1.333 $ (5.000 LRC) validUntilTimeBetweenOrders 309446 seconds
+DBG [32349-17 ] accountId 189378 sold__ NFT (to__ #121616) for     7.513 $ (21.000 LRC) validUntilTimeBetweenOrders 1294039 seconds
+DBG [32349-69 ] accountId 189378 sold__ NFT (to__ #147810) for     7.513 $ (21.000 LRC) validUntilTimeBetweenOrders 1293427 seconds
+DBG [32349-70 ] accountId 189378 sold__ NFT (to__ #147810) for     7.513 $ (21.000 LRC) validUntilTimeBetweenOrders 1293509 seconds
+DBG [32349-101] accountId 189378 sold__ NFT (to__ #147810) for     7.513 $ (21.000 LRC) validUntilTimeBetweenOrders 1293349 seconds
+DBG [32351-130] accountId 189378 sold__ NFT (to__ #124584) for     7.509 $ (21.000 LRC) validUntilTimeBetweenOrders 1289482 seconds
+DBG [32351-131] accountId 189378 sold__ NFT (to__ #124584) for     7.509 $ (21.000 LRC) validUntilTimeBetweenOrders 1289423 seconds
+DBG [32352-194] accountId 189378 sold__ NFT (to__ #152678) for     7.462 $ (21.000 LRC) validUntilTimeBetweenOrders 1287868 seconds
+DBG [32355-115] accountId 189378 sold__ NFT (to__ # 71856) for     7.520 $ (21.000 LRC) validUntilTimeBetweenOrders 1283895 seconds
+DBG [32355-116] accountId 189378 sold__ NFT (to__ # 71856) for     7.520 $ (21.000 LRC) validUntilTimeBetweenOrders 1283879 seconds
+DBG [32355-117] accountId 189378 sold__ NFT (to__ # 71856) for     7.520 $ (21.000 LRC) validUntilTimeBetweenOrders 1283780 seconds
+DBG [32355-322] accountId 189378 sold__ NFT (to__ # 71856) for     7.538 $ (21.000 LRC) validUntilTimeBetweenOrders 1283748 seconds
+DBG [32357-49 ] accountId 189378 sold__ NFT (to__ #116419) for     7.631 $ (21.000 LRC) validUntilTimeBetweenOrders 1280480 seconds
+DBG [32357-50 ] accountId 189378 sold__ NFT (to__ #116419) for     7.631 $ (21.000 LRC) validUntilTimeBetweenOrders 1280397 seconds
+DBG [32357-68 ] accountId 189378 sold__ NFT (to__ #116419) for     7.631 $ (21.000 LRC) validUntilTimeBetweenOrders 1280253 seconds
+DBG [32357-69 ] accountId 189378 sold__ NFT (to__ #116419) for     7.631 $ (21.000 LRC) validUntilTimeBetweenOrders 1280210 seconds
+DBG [32358-251] accountId 189378 sold__ NFT (to__ # 86933) for     7.609 $ (21.000 LRC) validUntilTimeBetweenOrders 1277411 seconds
+DBG [32358-278] accountId 189378 sold__ NFT (to__ # 86933) for     7.609 $ (21.000 LRC) validUntilTimeBetweenOrders 1277433 seconds
+DBG [32359-70 ] accountId 189378 sold__ NFT (to__ #129723) for     7.613 $ (21.000 LRC) validUntilTimeBetweenOrders 1276666 seconds
+DBG [32359-71 ] accountId 189378 sold__ NFT (to__ #129723) for     7.613 $ (21.000 LRC) validUntilTimeBetweenOrders 1276526 seconds
+DBG [32359-103] accountId 189378 sold__ NFT (to__ #129723) for     7.587 $ (21.000 LRC) validUntilTimeBetweenOrders 1276530 seconds
+DBG [32360-24 ] accountId 189378 sold__ NFT (to__ #146666) for     7.645 $ (21.000 LRC) validUntilTimeBetweenOrders 1275456 seconds
+DBG [32360-54 ] accountId 189378 sold__ NFT (to__ #141062) for     7.645 $ (21.000 LRC) validUntilTimeBetweenOrders 1275466 seconds
+DBG [32360-55 ] accountId 189378 sold__ NFT (to__ #146666) for     7.645 $ (21.000 LRC) validUntilTimeBetweenOrders 1275461 seconds
+DBG [32360-56 ] accountId 189378 sold__ NFT (to__ #110613) for     7.645 $ (21.000 LRC) validUntilTimeBetweenOrders 1275278 seconds
+DBG [32360-352] accountId 189378 sold__ NFT (to__ #143622) for     7.688 $ (21.000 LRC) validUntilTimeBetweenOrders 1123124 seconds
+DBG [32363-203] accountId 189378 sold__ NFT (to__ # 50830) for     7.631 $ (21.000 LRC) validUntilTimeBetweenOrders 1267906 seconds
+DBG [32364-166] accountId 189378 sold__ NFT (to__ #188568) for     7.623 $ (21.000 LRC) validUntilTimeBetweenOrders 1266297 seconds
+DBG [32365-2  ] accountId 189378 sold__ NFT (to__ #188568) for     7.623 $ (21.000 LRC) validUntilTimeBetweenOrders 1266304 seconds
+DBG [32365-3  ] accountId 189378 sold__ NFT (to__ #188568) for     7.623 $ (21.000 LRC) validUntilTimeBetweenOrders 1266030 seconds
+DBG [32366-89 ] accountId 189378 sold__ NFT (to__ # 50830) for     7.626 $ (21.000 LRC) validUntilTimeBetweenOrders 1263771 seconds
+DBG [32367-7  ] accountId 189378 sold__ NFT (to__ #119327) for     7.626 $ (21.000 LRC) validUntilTimeBetweenOrders 1263126 seconds
+DBG [32367-147] accountId 189378 sold__ NFT (to__ #125505) for     7.604 $ (21.000 LRC) validUntilTimeBetweenOrders 1262597 seconds
+DBG [32367-148] accountId 189378 sold__ NFT (to__ #125505) for     7.604 $ (21.000 LRC) validUntilTimeBetweenOrders 1262524 seconds
+DBG [32367-149] accountId 189378 sold__ NFT (to__ #125505) for     7.604 $ (21.000 LRC) validUntilTimeBetweenOrders 1262465 seconds
+DBG [32367-179] accountId 189378 sold__ NFT (to__ #125505) for     7.604 $ (21.000 LRC) validUntilTimeBetweenOrders 1262402 seconds
+DBG [32367-180] accountId 189378 sold__ NFT (to__ #125505) for     7.604 $ (21.000 LRC) validUntilTimeBetweenOrders 1262343 seconds
+DBG [32367-181] accountId 189378 sold__ NFT (to__ #125505) for     7.604 $ (21.000 LRC) validUntilTimeBetweenOrders 1262309 seconds
+DBG [32368-114] accountId 189378 sold__ NFT (to__ #143622) for     7.636 $ (21.000 LRC) validUntilTimeBetweenOrders 1260476 seconds
+DBG [32368-148] accountId 189378 sold__ NFT (to__ #143622) for     7.598 $ (21.000 LRC) validUntilTimeBetweenOrders 1260281 seconds
+DBG [32370-175] accountId 189378 sold__ NFT (to__ #147514) for     7.617 $ (21.000 LRC) validUntilTimeBetweenOrders 1257107 seconds
+DBG [32374-115] accountId 189378 sold__ NFT (to__ # 38380) for     7.667 $ (21.000 LRC) validUntilTimeBetweenOrders 1251052 seconds
+DBG [32390-292] accountId 189378 sold__ NFT (to__ # 45837) for     7.480 $ (21.000 LRC) validUntilTimeBetweenOrders 1219302 seconds
+DBG [32390-304] accountId 189378 sold__ NFT (to__ # 45837) for     7.480 $ (21.000 LRC) validUntilTimeBetweenOrders 1219138 seconds
+DBG [32399-35 ] accountId 189378 sold__ NFT (to__ # 34525) for     7.481 $ (21.000 LRC) validUntilTimeBetweenOrders 1203142 seconds
+DBG [32406-195] accountId 189378 sold__ NFT (to__ #143622) for     7.560 $ (21.000 LRC) validUntilTimeBetweenOrders 1192252 seconds
+DBG [32406-196] accountId 189378 sold__ NFT (to__ #143622) for     7.560 $ (21.000 LRC) validUntilTimeBetweenOrders 1192226 seconds
+DBG [32406-199] accountId 189378 sold__ NFT (to__ #143622) for     7.560 $ (21.000 LRC) validUntilTimeBetweenOrders 1192174 seconds
+DBG [32406-200] accountId 189378 sold__ NFT (to__ #143622) for     7.560 $ (21.000 LRC) validUntilTimeBetweenOrders 1192162 seconds
+DBG [32408-128] accountId 189378 sold__ NFT (to__ #143622) for     7.639 $ (21.000 LRC) validUntilTimeBetweenOrders 1189339 seconds
+DBG [32412-97 ] accountId 189378 sold__ NFT (to__ #157510) for     7.551 $ (21.000 LRC) validUntilTimeBetweenOrders 1181707 seconds
+DBG [32412-114] accountId 189378 sold__ NFT (to__ #157510) for     7.581 $ (21.000 LRC) validUntilTimeBetweenOrders 1181585 seconds
+DBG [32412-115] accountId 189378 sold__ NFT (to__ #157510) for     7.581 $ (21.000 LRC) validUntilTimeBetweenOrders 1181580 seconds
+DBG [32416-117] accountId 189378 sold__ NFT (to__ # 93844) for     7.487 $ (21.000 LRC) validUntilTimeBetweenOrders 1174410 seconds
+DBG [32416-118] accountId 189378 sold__ NFT (to__ # 93844) for     7.487 $ (21.000 LRC) validUntilTimeBetweenOrders 1174275 seconds
+DBG [32418-81 ] accountId 189378 sold__ NFT (to__ #100534) for     7.464 $ (21.000 LRC) validUntilTimeBetweenOrders 1172086 seconds
+DBG [32422-294] accountId 189378 sold__ NFT (to__ #121408) for     7.067 $ (21.000 LRC) validUntilTimeBetweenOrders 1166082 seconds
+DBG [32423-66 ] accountId 189378 sold__ NFT (to__ #167340) for     7.052 $ (21.000 LRC) validUntilTimeBetweenOrders 1165244 seconds
+DBG [32424-70 ] accountId 189378 sold__ NFT (to__ # 91564) for     7.140 $ (21.000 LRC) validUntilTimeBetweenOrders 1162676 seconds
+DBG [32424-71 ] accountId 189378 sold__ NFT (to__ # 91564) for     7.140 $ (21.000 LRC) validUntilTimeBetweenOrders 1162669 seconds
+DBG [32424-72 ] accountId 189378 sold__ NFT (to__ # 91564) for     7.140 $ (21.000 LRC) validUntilTimeBetweenOrders 1162733 seconds
+DBG [32424-90 ] accountId 189378 sold__ NFT (to__ # 91564) for     7.142 $ (21.000 LRC) validUntilTimeBetweenOrders 1162728 seconds
+DBG [32429-143] accountId 189378 sold__ NFT (to__ #148531) for     7.149 $ (21.000 LRC) validUntilTimeBetweenOrders 1154266 seconds
+DBG [32437-101] accountId 189378 sold__ NFT (to__ #161408) for     7.087 $ (21.000 LRC) validUntilTimeBetweenOrders 1138462 seconds
+DBG [32437-102] accountId 189378 sold__ NFT (to__ #161408) for     7.087 $ (21.000 LRC) validUntilTimeBetweenOrders 1138337 seconds
+DBG [32443-21 ] accountId 189378 sold__ NFT (to__ #132733) for     6.820 $ (21.000 LRC) validUntilTimeBetweenOrders 1129704 seconds
+DBG [32443-27 ] accountId 189378 sold__ NFT (to__ #132733) for     6.820 $ (21.000 LRC) validUntilTimeBetweenOrders 1129773 seconds
+DBG [32443-28 ] accountId 189378 sold__ NFT (to__ #132733) for     6.820 $ (21.000 LRC) validUntilTimeBetweenOrders 1129585 seconds
+DBG [32471-205] accountId 189378 sold__ NFT (to__ #102894) for     6.910 $ (21.000 LRC) validUntilTimeBetweenOrders 1086684 seconds
+DBG [32528-176] accountId 189378 sold__ NFT (to__ # 97877) for     6.353 $ (21.000 LRC) validUntilTimeBetweenOrders 1013091 seconds
+DBG [32532-334] accountId 189378 sold__ NFT (to__ #116419) for     5.802 $ (21.000 LRC) validUntilTimeBetweenOrders 1009437 seconds
+DBG [32532-335] accountId 189378 sold__ NFT (to__ #116419) for     5.802 $ (21.000 LRC) validUntilTimeBetweenOrders 1009606 seconds
+DBG [32533-1  ] accountId 189378 sold__ NFT (to__ #116419) for     5.842 $ (21.000 LRC) validUntilTimeBetweenOrders 1009445 seconds
+DBG [32533-49 ] accountId 189378 sold__ NFT (to__ #116419) for     5.736 $ (21.000 LRC) validUntilTimeBetweenOrders 1009431 seconds
+DBG [32626-171] accountId 189378 sold__ NFT (to__ # 78494) for     5.293 $ (21.000 LRC) validUntilTimeBetweenOrders 880534 seconds
+DBG [32626-172] accountId 189378 sold__ NFT (to__ # 78494) for     5.293 $ (21.000 LRC) validUntilTimeBetweenOrders 880524 seconds
+DBG [32626-200] accountId 189378 sold__ NFT (to__ # 78494) for     5.315 $ (21.000 LRC) validUntilTimeBetweenOrders 880507 seconds
+DBG [32626-201] accountId 189378 sold__ NFT (to__ # 78494) for     5.315 $ (21.000 LRC) validUntilTimeBetweenOrders 880302 seconds
+DBG [32626-202] accountId 189378 sold__ NFT (to__ # 78494) for     5.315 $ (21.000 LRC) validUntilTimeBetweenOrders 880355 seconds
+DBG [32626-203] accountId 189378 sold__ NFT (to__ # 78494) for     5.315 $ (21.000 LRC) validUntilTimeBetweenOrders 880251 seconds
+DBG [32626-218] accountId 189378 sold__ NFT (to__ # 78494) for     5.295 $ (21.000 LRC) validUntilTimeBetweenOrders 880306 seconds
+DBG [32626-219] accountId 189378 sold__ NFT (to__ # 78494) for     5.295 $ (21.000 LRC) validUntilTimeBetweenOrders 880220 seconds
+DBG [32626-220] accountId 189378 sold__ NFT (to__ # 78494) for     5.295 $ (21.000 LRC) validUntilTimeBetweenOrders 880171 seconds
+DBG [32626-221] accountId 189378 sold__ NFT (to__ # 78494) for     5.295 $ (21.000 LRC) validUntilTimeBetweenOrders 880074 seconds
+DBG [32626-251] accountId 189378 sold__ NFT (to__ # 78494) for     5.272 $ (21.000 LRC) validUntilTimeBetweenOrders 880021 seconds
+DBG [32626-252] accountId 189378 sold__ NFT (to__ # 78494) for     5.272 $ (21.000 LRC) validUntilTimeBetweenOrders 879992 seconds
+DBG [32655-17 ] accountId 189378 sold__ NFT (to__ # 41819) for     5.649 $ (21.000 LRC) validUntilTimeBetweenOrders 838328 seconds
+DBG [32655-48 ] accountId 189378 sold__ NFT (to__ # 41819) for     5.636 $ (21.000 LRC) validUntilTimeBetweenOrders 838400 seconds
+DBG [32655-49 ] accountId 189378 sold__ NFT (to__ # 41819) for     5.636 $ (21.000 LRC) validUntilTimeBetweenOrders 838229 seconds
+DBG [32757-96 ] accountId 189378 sold__ NFT (to__ # 78494) for     5.219 $ (21.000 LRC) validUntilTimeBetweenOrders 681894 seconds
+DBG [32757-97 ] accountId 189378 sold__ NFT (to__ # 78494) for     5.219 $ (21.000 LRC) validUntilTimeBetweenOrders 681877 seconds
+DBG [32757-107] accountId 189378 sold__ NFT (to__ # 78494) for     5.219 $ (21.000 LRC) validUntilTimeBetweenOrders 681858 seconds
+DBG [32757-108] accountId 189378 sold__ NFT (to__ # 78494) for     5.219 $ (21.000 LRC) validUntilTimeBetweenOrders 681844 seconds
+DBG [32757-109] accountId 189378 sold__ NFT (to__ # 78494) for     5.219 $ (21.000 LRC) validUntilTimeBetweenOrders 681830 seconds
+DBG [32757-110] accountId 189378 sold__ NFT (to__ # 78494) for     5.219 $ (21.000 LRC) validUntilTimeBetweenOrders 681812 seconds
+DBG [32757-111] accountId 189378 sold__ NFT (to__ # 78494) for     5.219 $ (21.000 LRC) validUntilTimeBetweenOrders 681795 seconds
+DBG [32757-112] accountId 189378 sold__ NFT (to__ # 78494) for     5.219 $ (21.000 LRC) validUntilTimeBetweenOrders 681775 seconds
+DBG [32765-278] accountId 189378 sold__ NFT (to__ # 78494) for     5.330 $ (21.000 LRC) validUntilTimeBetweenOrders 670440 seconds
+DBG [32765-279] accountId 189378 sold__ NFT (to__ # 78494) for     5.330 $ (21.000 LRC) validUntilTimeBetweenOrders 670423 seconds
+DBG [32765-280] accountId 189378 sold__ NFT (to__ # 78494) for     5.330 $ (21.000 LRC) validUntilTimeBetweenOrders 670404 seconds
+DBG [32765-281] accountId 189378 sold__ NFT (to__ # 78494) for     5.330 $ (21.000 LRC) validUntilTimeBetweenOrders 670377 seconds
+DBG [32765-282] accountId 189378 sold__ NFT (to__ # 78494) for     5.330 $ (21.000 LRC) validUntilTimeBetweenOrders 670365 seconds
+DBG [32765-312] accountId 189378 sold__ NFT (to__ # 78494) for     5.330 $ (21.000 LRC) validUntilTimeBetweenOrders 670352 seconds
+DBG [32765-313] accountId 189378 sold__ NFT (to__ # 78494) for     5.330 $ (21.000 LRC) validUntilTimeBetweenOrders 670333 seconds
+DBG [32856-3  ] accountId 189378 sold__ NFT (to__ #116419) for     5.048 $ (21.000 LRC) validUntilTimeBetweenOrders 551579 seconds
+DBG [32856-4  ] accountId 189378 sold__ NFT (to__ #116419) for     5.048 $ (21.000 LRC) validUntilTimeBetweenOrders 551558 seconds
+DBG [32856-5  ] accountId 189378 sold__ NFT (to__ #116419) for     5.048 $ (21.000 LRC) validUntilTimeBetweenOrders 551542 seconds
+DBG [32898-10 ] accountId 189378 sold__ NFT (to__ #110613) for     5.213 $ (21.000 LRC) validUntilTimeBetweenOrders 490144 seconds
+DBG [32898-11 ] accountId 189378 sold__ NFT (to__ #110613) for     5.213 $ (21.000 LRC) validUntilTimeBetweenOrders 490137 seconds
+DBG [32999-108] accountId 189378 sold__ NFT (to__ # 71749) for     5.310 $ (21.000 LRC) validUntilTimeBetweenOrders 336266 seconds
+DBG [33001-197] accountId 189378 sold__ NFT (to__ #121408) for     5.251 $ (21.000 LRC) validUntilTimeBetweenOrders 332319 seconds
+DBG [33005-16 ] accountId 189378 sold__ NFT (to__ # 47922) for     5.221 $ (21.000 LRC) validUntilTimeBetweenOrders 326610 seconds
+DBG [33005-259] accountId 189378 sold__ NFT (to__ #124574) for     5.258 $ (21.000 LRC) validUntilTimeBetweenOrders 325118 seconds
+DBG [33005-260] accountId 189378 sold__ NFT (to__ #124574) for     5.258 $ (21.000 LRC) validUntilTimeBetweenOrders 325109 seconds
+DBG [33005-261] accountId 189378 sold__ NFT (to__ #124574) for     5.258 $ (21.000 LRC) validUntilTimeBetweenOrders 325019 seconds
+DBG [33005-262] accountId 189378 sold__ NFT (to__ #124574) for     5.258 $ (21.000 LRC) validUntilTimeBetweenOrders 324956 seconds
+DBG [33006-36 ] accountId 189378 sold__ NFT (to__ # 99271) for     5.250 $ (21.000 LRC) validUntilTimeBetweenOrders 324666 seconds
+DBG [33006-133] accountId 189378 sold__ NFT (to__ #121616) for     5.250 $ (21.000 LRC) validUntilTimeBetweenOrders 324035 seconds
+DBG [33006-134] accountId 189378 sold__ NFT (to__ #121616) for     5.250 $ (21.000 LRC) validUntilTimeBetweenOrders 324020 seconds
+DBG [33006-135] accountId 189378 sold__ NFT (to__ #121616) for     5.250 $ (21.000 LRC) validUntilTimeBetweenOrders 324011 seconds
+DBG [33006-136] accountId 189378 sold__ NFT (to__ #121616) for     5.250 $ (21.000 LRC) validUntilTimeBetweenOrders 324054 seconds
+DBG [33006-153] accountId 189378 sold__ NFT (to__ #121616) for     5.250 $ (21.000 LRC) validUntilTimeBetweenOrders 324056 seconds
+DBG [33006-154] accountId 189378 sold__ NFT (to__ #121616) for     5.250 $ (21.000 LRC) validUntilTimeBetweenOrders 324061 seconds
+DBG [33006-155] accountId 189378 sold__ NFT (to__ #121616) for     5.250 $ (21.000 LRC) validUntilTimeBetweenOrders 323953 seconds
+DBG [33006-180] accountId 189378 sold__ NFT (to__ #121616) for     5.250 $ (21.000 LRC) validUntilTimeBetweenOrders 323980 seconds
+DBG [33006-181] accountId 189378 sold__ NFT (to__ #121616) for     5.250 $ (21.000 LRC) validUntilTimeBetweenOrders 323864 seconds
+DBG [33006-182] accountId 189378 sold__ NFT (to__ #121616) for     5.250 $ (21.000 LRC) validUntilTimeBetweenOrders 324011 seconds
+DBG [33006-183] accountId 189378 sold__ NFT (to__ #121616) for     5.250 $ (21.000 LRC) validUntilTimeBetweenOrders 323965 seconds
+DBG [33006-184] accountId 189378 sold__ NFT (to__ #121616) for     5.250 $ (21.000 LRC) validUntilTimeBetweenOrders 323913 seconds
+DBG [33007-186] accountId 189378 sold__ NFT (to__ #124936) for     5.255 $ (21.000 LRC) validUntilTimeBetweenOrders 321939 seconds
+DBG [33008-93 ] accountId 189378 sold__ NFT (to__ #109914) for     5.238 $ (21.000 LRC) validUntilTimeBetweenOrders 320903 seconds
+DBG [33008-184] accountId 189378 sold__ NFT (to__ # 79768) for     5.259 $ (21.000 LRC) validUntilTimeBetweenOrders 320542 seconds
+DBG [33009-4  ] accountId 189378 sold__ NFT (to__ # 79768) for     5.239 $ (21.000 LRC) validUntilTimeBetweenOrders 320166 seconds
+DBG [33010-44 ] accountId 189378 sold__ NFT (to__ # 38380) for     5.238 $ (21.000 LRC) validUntilTimeBetweenOrders 318884 seconds
+DBG [33010-382] accountId 189378 sold__ NFT (to__ # 34194) for     5.238 $ (21.000 LRC) validUntilTimeBetweenOrders 318045 seconds
+DBG [33012-372] accountId 189378 sold__ NFT (to__ # 34194) for     5.238 $ (21.000 LRC) validUntilTimeBetweenOrders 317281 seconds
+DBG [33019-41 ] accountId 189378 sold__ NFT (to__ #143622) for     5.195 $ (21.000 LRC) validUntilTimeBetweenOrders 314944 seconds
+DBG [33019-44 ] accountId 189378 sold__ NFT (to__ #143622) for     5.195 $ (21.000 LRC) validUntilTimeBetweenOrders 314674 seconds
+DBG [33019-302] accountId 189378 sold__ NFT (to__ #190617) for     5.195 $ (21.000 LRC) validUntilTimeBetweenOrders 313439 seconds
+DBG [33020-24 ] accountId 189378 sold__ NFT (to__ #190617) for     5.195 $ (21.000 LRC) validUntilTimeBetweenOrders 313136 seconds
+DBG [33020-50 ] accountId 189378 sold__ NFT (to__ #190617) for     5.195 $ (21.000 LRC) validUntilTimeBetweenOrders 312999 seconds
+DBG [33024-87 ] accountId 189378 sold__ NFT (to__ # 69571) for     5.210 $ (21.000 LRC) validUntilTimeBetweenOrders 306549 seconds
+DBG [33025-4  ] accountId 189378 sold__ NFT (to__ # 71749) for     5.210 $ (21.000 LRC) validUntilTimeBetweenOrders 305408 seconds
+DBG [33025-131] accountId 189378 sold__ NFT (to__ # 66911) for     5.230 $ (21.000 LRC) validUntilTimeBetweenOrders 304336 seconds
+DBG [33027-53 ] accountId 189378 sold__ NFT (to__ #172881) for     5.228 $ (21.000 LRC) validUntilTimeBetweenOrders 302199 seconds
+DBG [33027-78 ] accountId 189378 sold__ NFT (to__ #172881) for     5.228 $ (21.000 LRC) validUntilTimeBetweenOrders 302202 seconds
+DBG [33027-79 ] accountId 189378 sold__ NFT (to__ #172881) for     5.228 $ (21.000 LRC) validUntilTimeBetweenOrders 302188 seconds
+DBG [33027-80 ] accountId 189378 sold__ NFT (to__ #172881) for     5.228 $ (21.000 LRC) validUntilTimeBetweenOrders 301980 seconds
+DBG [33027-109] accountId 189378 sold__ NFT (to__ #172881) for     5.228 $ (21.000 LRC) validUntilTimeBetweenOrders 301982 seconds
+DBG [33027-110] accountId 189378 sold__ NFT (to__ #172881) for     5.228 $ (21.000 LRC) validUntilTimeBetweenOrders 301870 seconds
+DBG [33027-112] accountId 189378 sold__ NFT (to__ #172881) for     5.228 $ (21.000 LRC) validUntilTimeBetweenOrders 301927 seconds
+DBG [33027-127] accountId 189378 sold__ NFT (to__ #172881) for     5.228 $ (21.000 LRC) validUntilTimeBetweenOrders 301879 seconds
+DBG [33027-128] accountId 189378 sold__ NFT (to__ # 98347) for     5.228 $ (21.000 LRC) validUntilTimeBetweenOrders 301802 seconds
+DBG [33027-129] accountId 189378 sold__ NFT (to__ #172881) for     5.228 $ (21.000 LRC) validUntilTimeBetweenOrders 301815 seconds
+DBG [33027-130] accountId 189378 sold__ NFT (to__ #172881) for     5.228 $ (21.000 LRC) validUntilTimeBetweenOrders 301783 seconds
+DBG [33027-131] accountId 189378 sold__ NFT (to__ #172881) for     5.228 $ (21.000 LRC) validUntilTimeBetweenOrders 301689 seconds
+DBG [33027-147] accountId 189378 sold__ NFT (to__ #172881) for     5.244 $ (21.000 LRC) validUntilTimeBetweenOrders 301629 seconds
+DBG [33027-148] accountId 189378 sold__ NFT (to__ #172881) for     5.244 $ (21.000 LRC) validUntilTimeBetweenOrders 301609 seconds
+DBG [33028-97 ] accountId 189378 sold__ NFT (to__ # 70746) for     5.232 $ (21.000 LRC) validUntilTimeBetweenOrders 300033 seconds
+DBG [33030-72 ] accountId 189378 sold__ NFT (to__ #186000) for     5.196 $ (21.000 LRC) validUntilTimeBetweenOrders 297651 seconds
+DBG [33030-73 ] accountId 189378 sold__ NFT (to__ #186000) for     5.196 $ (21.000 LRC) validUntilTimeBetweenOrders 297730 seconds
+DBG [33030-74 ] accountId 189378 sold__ NFT (to__ #186000) for     5.196 $ (21.000 LRC) validUntilTimeBetweenOrders 297719 seconds
+DBG [33030-75 ] accountId 189378 sold__ NFT (to__ #186000) for     5.196 $ (21.000 LRC) validUntilTimeBetweenOrders 297828 seconds
+DBG [33030-94 ] accountId 189378 sold__ NFT (to__ #186000) for     5.196 $ (21.000 LRC) validUntilTimeBetweenOrders 297689 seconds
+DBG [33030-142] accountId 189378 sold__ NFT (to__ #186000) for     5.218 $ (21.000 LRC) validUntilTimeBetweenOrders 297290 seconds
+DBG [33030-143] accountId 189378 sold__ NFT (to__ #186000) for     5.218 $ (21.000 LRC) validUntilTimeBetweenOrders 297281 seconds
+DBG [33030-152] accountId 189378 sold__ NFT (to__ #186000) for     5.218 $ (21.000 LRC) validUntilTimeBetweenOrders 297178 seconds
+DBG [33030-167] accountId 189378 sold__ NFT (to__ #186000) for     5.218 $ (21.000 LRC) validUntilTimeBetweenOrders 297250 seconds
+DBG [33030-168] accountId 189378 sold__ NFT (to__ #186000) for     5.218 $ (21.000 LRC) validUntilTimeBetweenOrders 297130 seconds
+DBG [33032-143] accountId 189378 sold__ NFT (to__ #115969) for     5.217 $ (21.000 LRC) validUntilTimeBetweenOrders 294069 seconds
+DBG [33032-144] accountId 189378 sold__ NFT (to__ #115969) for     5.217 $ (21.000 LRC) validUntilTimeBetweenOrders 294019 seconds
+DBG [33032-145] accountId 189378 sold__ NFT (to__ #115969) for     5.217 $ (21.000 LRC) validUntilTimeBetweenOrders 293977 seconds
+DBG [33032-146] accountId 189378 sold__ NFT (to__ #115969) for     5.217 $ (21.000 LRC) validUntilTimeBetweenOrders 293926 seconds
+DBG [33033-10 ] accountId 189378 sold__ NFT (to__ #115969) for     5.217 $ (21.000 LRC) validUntilTimeBetweenOrders 293806 seconds
+DBG [33033-24 ] accountId 189378 sold__ NFT (to__ #115969) for     5.217 $ (21.000 LRC) validUntilTimeBetweenOrders 293586 seconds
+DBG [33033-25 ] accountId 189378 sold__ NFT (to__ #115969) for     5.217 $ (21.000 LRC) validUntilTimeBetweenOrders 293555 seconds
+DBG [33035-47 ] accountId 189378 sold__ NFT (to__ #110613) for     5.209 $ (21.000 LRC) validUntilTimeBetweenOrders 290459 seconds
+DBG [33037-156] accountId 189378 sold__ NFT (to__ # 72090) for     5.195 $ (21.000 LRC) validUntilTimeBetweenOrders 287527 seconds
+DBG [33037-263] accountId 189378 sold__ NFT (to__ # 88953) for     5.195 $ (21.000 LRC) validUntilTimeBetweenOrders 286970 seconds
+DBG [33037-264] accountId 189378 sold__ NFT (to__ # 88953) for     5.195 $ (21.000 LRC) validUntilTimeBetweenOrders 286901 seconds
+DBG [33037-265] accountId 189378 sold__ NFT (to__ # 88953) for     5.195 $ (21.000 LRC) validUntilTimeBetweenOrders 286909 seconds
+DBG [33037-266] accountId 189378 sold__ NFT (to__ # 88953) for     5.195 $ (21.000 LRC) validUntilTimeBetweenOrders 286739 seconds
+DBG [33037-267] accountId 189378 sold__ NFT (to__ # 88953) for     5.195 $ (21.000 LRC) validUntilTimeBetweenOrders 286806 seconds
+DBG [33037-290] accountId 189378 sold__ NFT (to__ # 88953) for     5.220 $ (21.000 LRC) validUntilTimeBetweenOrders 286721 seconds
+DBG [33037-291] accountId 189378 sold__ NFT (to__ # 88953) for     5.220 $ (21.000 LRC) validUntilTimeBetweenOrders 286780 seconds
+DBG [33037-292] accountId 189378 sold__ NFT (to__ # 88953) for     5.220 $ (21.000 LRC) validUntilTimeBetweenOrders 286719 seconds
+DBG [33037-293] accountId 189378 sold__ NFT (to__ # 88953) for     5.220 $ (21.000 LRC) validUntilTimeBetweenOrders 286682 seconds
+DBG [33037-294] accountId 189378 sold__ NFT (to__ # 88953) for     5.220 $ (21.000 LRC) validUntilTimeBetweenOrders 286661 seconds
+DBG [33037-295] accountId 189378 sold__ NFT (to__ # 88953) for     5.220 $ (21.000 LRC) validUntilTimeBetweenOrders 286572 seconds
+DBG [33037-296] accountId 189378 sold__ NFT (to__ # 88953) for     5.220 $ (21.000 LRC) validUntilTimeBetweenOrders 286541 seconds
+DBG [33037-332] accountId 189378 sold__ NFT (to__ # 88953) for     5.199 $ (21.000 LRC) validUntilTimeBetweenOrders 286514 seconds
+DBG [33054-54 ] accountId 189378 sold__ NFT (to__ # 77303) for     5.137 $ (21.000 LRC) validUntilTimeBetweenOrders 260719 seconds
+DBG [33054-58 ] accountId 189378 sold__ NFT (to__ # 77303) for     5.137 $ (21.000 LRC) validUntilTimeBetweenOrders 260609 seconds
+DBG [33069-104] accountId 189378 sold__ NFT (to__ # 71749) for     5.136 $ (21.000 LRC) validUntilTimeBetweenOrders 247059 seconds
+DBG [33069-105] accountId 189378 sold__ NFT (to__ # 71749) for     5.136 $ (21.000 LRC) validUntilTimeBetweenOrders 247035 seconds
+DBG [33083-142] accountId 189378 sold__ NFT (to__ # 62231) for     5.172 $ (21.000 LRC) validUntilTimeBetweenOrders 222608 seconds
+DBG [33083-143] accountId 189378 sold__ NFT (to__ # 62231) for     5.172 $ (21.000 LRC) validUntilTimeBetweenOrders 222633 seconds
+DBG [33083-144] accountId 189378 sold__ NFT (to__ # 62231) for     5.172 $ (21.000 LRC) validUntilTimeBetweenOrders 222530 seconds
+DBG [33098-119] accountId 189378 sold__ NFT (to__ #141462) for     5.256 $ (21.000 LRC) validUntilTimeBetweenOrders 201482 seconds
+DBG [33125-101] accountId 189378 sold__ NFT (to__ #146376) for     5.138 $ (21.000 LRC) validUntilTimeBetweenOrders 158528 seconds
+DBG [33133-37 ] accountId 189378 sold__ NFT (to__ # 81805) for     5.093 $ (21.000 LRC) validUntilTimeBetweenOrders 146792 seconds
+DBG [33141-290] accountId 189378 sold__ NFT (to__ #121616) for     5.184 $ (21.000 LRC) validUntilTimeBetweenOrders 135481 seconds
+DBG [33141-291] accountId 189378 sold__ NFT (to__ #121616) for     5.184 $ (21.000 LRC) validUntilTimeBetweenOrders 135480 seconds
+DBG [33141-292] accountId 189378 sold__ NFT (to__ #121616) for     5.184 $ (21.000 LRC) validUntilTimeBetweenOrders 135474 seconds
+DBG [33141-293] accountId 189378 sold__ NFT (to__ #121616) for     5.184 $ (21.000 LRC) validUntilTimeBetweenOrders 135272 seconds
+DBG [33141-345] accountId 189378 sold__ NFT (to__ #121616) for     5.184 $ (21.000 LRC) validUntilTimeBetweenOrders 135344 seconds
+DBG [33141-346] accountId 189378 sold__ NFT (to__ #121616) for     5.184 $ (21.000 LRC) validUntilTimeBetweenOrders 135252 seconds
+DBG [33141-347] accountId 189378 sold__ NFT (to__ #121616) for     5.184 $ (21.000 LRC) validUntilTimeBetweenOrders 135299 seconds
+DBG [33141-348] accountId 189378 sold__ NFT (to__ #121616) for     5.184 $ (21.000 LRC) validUntilTimeBetweenOrders 135240 seconds
+DBG [33141-349] accountId 189378 sold__ NFT (to__ #121616) for     5.184 $ (21.000 LRC) validUntilTimeBetweenOrders 135194 seconds
+DBG [33141-373] accountId 189378 sold__ NFT (to__ #121616) for     5.184 $ (21.000 LRC) validUntilTimeBetweenOrders 135164 seconds
+DBG [33141-374] accountId 189378 sold__ NFT (to__ #121616) for     5.184 $ (21.000 LRC) validUntilTimeBetweenOrders 135064 seconds
+DBG [33141-375] accountId 189378 sold__ NFT (to__ #121616) for     5.184 $ (21.000 LRC) validUntilTimeBetweenOrders 135010 seconds
+DBG [33141-376] accountId 189378 sold__ NFT (to__ #121616) for     5.184 $ (21.000 LRC) validUntilTimeBetweenOrders 134974 seconds
+DBG [33208-2  ] accountId 189378 sold__ NFT (to__ #129723) for     5.207 $ (21.000 LRC) validUntilTimeBetweenOrders 30508 seconds
+DBG [33208-82 ] accountId 189378 sold__ NFT (to__ # 68393) for     5.207 $ (21.000 LRC) validUntilTimeBetweenOrders 29287 seconds

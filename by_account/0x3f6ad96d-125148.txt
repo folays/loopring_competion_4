@@ -1,0 +1,5 @@
+DBG [31322-223] accountId 125148 sold__ NFT (to__ #125916) for   168.732 $ (0.130 ETH) validUntilTimeBetweenOrders 7717582 seconds
+DBG [31428-252] accountId 125148 bought NFT (from #126138) for    44.345 $ (0.033 ETH) validUntilTimeBetweenOrders 973 seconds
+DBG [31428-254] accountId 125148 bought NFT (from #191414) for    61.401 $ (0.045 ETH) validUntilTimeBetweenOrders 4070 seconds
+DBG [31520-120] accountId 125148 bought NFT (from #191351) for    53.919 $ (0.040 ETH) validUntilTimeBetweenOrders 72822 seconds
+DBG [31541-42 ] accountId 125148 sold__ NFT (to__ #105411) for   190.668 $ (0.130 ETH) validUntilTimeBetweenOrders 8044671 seconds

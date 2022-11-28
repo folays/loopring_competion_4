@@ -1,0 +1,535 @@
+DBG [29460-49 ] accountId  40940 bought NFT (from # 94010) for     0.297 $ (1.000 LRC) validUntilTimeBetweenOrders 447771 seconds
+DBG [29462-58 ] accountId  40940 sold__ NFT (to__ # 77900) for    29.935 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29462-111] accountId  40940 sold__ NFT (to__ # 77900) for    30.026 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-57 ] accountId  40940 sold__ NFT (to__ # 77900) for    30.035 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-118] accountId  40940 sold__ NFT (to__ # 77900) for    30.115 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-124] accountId  40940 sold__ NFT (to__ # 77900) for    30.115 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-146] accountId  40940 bought NFT (from # 77900) for    30.207 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-147] accountId  40940 sold__ NFT (to__ # 77900) for    30.207 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-148] accountId  40940 bought NFT (from # 77900) for    30.207 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-149] accountId  40940 sold__ NFT (to__ # 77900) for    30.207 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-150] accountId  40940 bought NFT (from # 77900) for    30.207 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-151] accountId  40940 sold__ NFT (to__ # 77900) for    30.207 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-152] accountId  40940 bought NFT (from # 77900) for    30.207 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-153] accountId  40940 sold__ NFT (to__ # 77900) for    30.207 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-154] accountId  40940 bought NFT (from # 77900) for    30.207 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-155] accountId  40940 sold__ NFT (to__ # 77900) for    30.207 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-157] accountId  40940 bought NFT (from # 77900) for    30.207 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-158] accountId  40940 sold__ NFT (to__ # 77900) for    30.207 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-159] accountId  40940 bought NFT (from # 77900) for    30.207 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-160] accountId  40940 sold__ NFT (to__ # 77900) for    30.207 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-161] accountId  40940 bought NFT (from # 77900) for    30.207 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-162] accountId  40940 sold__ NFT (to__ # 77900) for    30.207 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-163] accountId  40940 bought NFT (from # 77900) for    30.207 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-164] accountId  40940 sold__ NFT (to__ # 77900) for    30.207 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-165] accountId  40940 bought NFT (from # 77900) for    30.207 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-166] accountId  40940 sold__ NFT (to__ # 77900) for    30.207 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-167] accountId  40940 bought NFT (from # 77900) for    30.207 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-168] accountId  40940 sold__ NFT (to__ # 77900) for    30.207 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-169] accountId  40940 bought NFT (from # 77900) for    30.207 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-170] accountId  40940 sold__ NFT (to__ # 77900) for    30.207 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-171] accountId  40940 bought NFT (from # 77900) for    30.207 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-172] accountId  40940 sold__ NFT (to__ # 77900) for    30.207 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-182] accountId  40940 bought NFT (from # 77900) for    30.207 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-189] accountId  40940 sold__ NFT (to__ # 77900) for    30.222 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-190] accountId  40940 bought NFT (from # 77900) for    30.222 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-191] accountId  40940 sold__ NFT (to__ # 77900) for    30.222 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-192] accountId  40940 bought NFT (from # 77900) for    30.222 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-193] accountId  40940 sold__ NFT (to__ # 77900) for    30.222 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-194] accountId  40940 bought NFT (from # 77900) for    30.222 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-195] accountId  40940 sold__ NFT (to__ # 77900) for    30.222 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-196] accountId  40940 bought NFT (from # 77900) for    30.222 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-197] accountId  40940 sold__ NFT (to__ # 77900) for    30.222 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-198] accountId  40940 bought NFT (from # 77900) for    30.222 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-199] accountId  40940 sold__ NFT (to__ # 77900) for    30.222 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-200] accountId  40940 bought NFT (from # 77900) for    30.222 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-201] accountId  40940 sold__ NFT (to__ # 77900) for    30.222 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-202] accountId  40940 bought NFT (from # 77900) for    30.222 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-203] accountId  40940 sold__ NFT (to__ # 77900) for    30.222 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-204] accountId  40940 bought NFT (from # 77900) for    30.222 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-205] accountId  40940 sold__ NFT (to__ # 77900) for    30.222 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-206] accountId  40940 bought NFT (from # 77900) for    30.222 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-207] accountId  40940 sold__ NFT (to__ # 77900) for    30.222 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-208] accountId  40940 bought NFT (from # 77900) for    30.222 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-209] accountId  40940 sold__ NFT (to__ # 77900) for    30.222 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-210] accountId  40940 bought NFT (from # 77900) for    30.222 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-211] accountId  40940 sold__ NFT (to__ # 77900) for    30.222 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-212] accountId  40940 bought NFT (from # 77900) for    30.222 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-213] accountId  40940 sold__ NFT (to__ # 77900) for    30.222 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-214] accountId  40940 bought NFT (from # 77900) for    30.222 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-226] accountId  40940 sold__ NFT (to__ # 77900) for    30.222 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-227] accountId  40940 bought NFT (from # 77900) for    30.222 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-228] accountId  40940 sold__ NFT (to__ # 77900) for    30.222 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-229] accountId  40940 bought NFT (from # 77900) for    30.222 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-230] accountId  40940 sold__ NFT (to__ # 77900) for    30.222 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-231] accountId  40940 bought NFT (from # 77900) for    30.222 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-232] accountId  40940 sold__ NFT (to__ # 77900) for    30.222 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-233] accountId  40940 bought NFT (from # 77900) for    30.222 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-234] accountId  40940 sold__ NFT (to__ # 77900) for    30.222 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-235] accountId  40940 bought NFT (from # 77900) for    30.222 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-236] accountId  40940 sold__ NFT (to__ # 77900) for    30.222 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-237] accountId  40940 bought NFT (from # 77900) for    30.222 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-245] accountId  40940 sold__ NFT (to__ # 77900) for    30.222 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-246] accountId  40940 bought NFT (from # 77900) for    30.222 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-258] accountId  40940 sold__ NFT (to__ # 77900) for    30.222 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-259] accountId  40940 bought NFT (from # 77900) for    30.222 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-260] accountId  40940 sold__ NFT (to__ # 77900) for    30.222 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-261] accountId  40940 bought NFT (from # 77900) for    30.222 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-262] accountId  40940 sold__ NFT (to__ # 77900) for    30.222 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-263] accountId  40940 bought NFT (from # 77900) for    30.222 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-264] accountId  40940 sold__ NFT (to__ # 77900) for    30.222 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-265] accountId  40940 bought NFT (from # 77900) for    30.222 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-266] accountId  40940 sold__ NFT (to__ # 77900) for    30.222 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-267] accountId  40940 bought NFT (from # 77900) for    30.222 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-268] accountId  40940 sold__ NFT (to__ # 77900) for    30.222 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-269] accountId  40940 bought NFT (from # 77900) for    30.222 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-270] accountId  40940 sold__ NFT (to__ # 77900) for    30.222 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-271] accountId  40940 bought NFT (from # 77900) for    30.222 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-272] accountId  40940 sold__ NFT (to__ # 77900) for    30.222 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-273] accountId  40940 bought NFT (from # 77900) for    30.222 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-274] accountId  40940 sold__ NFT (to__ # 77900) for    30.222 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-275] accountId  40940 bought NFT (from # 77900) for    30.222 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-276] accountId  40940 sold__ NFT (to__ # 77900) for    30.222 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-277] accountId  40940 bought NFT (from # 77900) for    30.222 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-278] accountId  40940 sold__ NFT (to__ # 77900) for    30.222 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-279] accountId  40940 bought NFT (from # 77900) for    30.222 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-280] accountId  40940 sold__ NFT (to__ # 77900) for    30.222 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-281] accountId  40940 bought NFT (from # 77900) for    30.222 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-282] accountId  40940 sold__ NFT (to__ # 77900) for    30.222 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-283] accountId  40940 bought NFT (from # 77900) for    30.222 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-284] accountId  40940 sold__ NFT (to__ # 77900) for    30.222 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-288] accountId  40940 bought NFT (from # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-289] accountId  40940 sold__ NFT (to__ # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-290] accountId  40940 bought NFT (from # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-291] accountId  40940 sold__ NFT (to__ # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-292] accountId  40940 bought NFT (from # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-293] accountId  40940 sold__ NFT (to__ # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-294] accountId  40940 bought NFT (from # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-295] accountId  40940 sold__ NFT (to__ # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-296] accountId  40940 bought NFT (from # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-297] accountId  40940 sold__ NFT (to__ # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-298] accountId  40940 bought NFT (from # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-299] accountId  40940 sold__ NFT (to__ # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-300] accountId  40940 bought NFT (from # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-301] accountId  40940 sold__ NFT (to__ # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-302] accountId  40940 bought NFT (from # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-303] accountId  40940 sold__ NFT (to__ # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-304] accountId  40940 bought NFT (from # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-305] accountId  40940 sold__ NFT (to__ # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-306] accountId  40940 bought NFT (from # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-307] accountId  40940 sold__ NFT (to__ # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-308] accountId  40940 bought NFT (from # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-309] accountId  40940 sold__ NFT (to__ # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-310] accountId  40940 bought NFT (from # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-311] accountId  40940 sold__ NFT (to__ # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-312] accountId  40940 bought NFT (from # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-315] accountId  40940 sold__ NFT (to__ # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-318] accountId  40940 bought NFT (from # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-319] accountId  40940 sold__ NFT (to__ # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-320] accountId  40940 bought NFT (from # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-321] accountId  40940 sold__ NFT (to__ # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-322] accountId  40940 bought NFT (from # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-323] accountId  40940 sold__ NFT (to__ # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-324] accountId  40940 bought NFT (from # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-325] accountId  40940 sold__ NFT (to__ # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-326] accountId  40940 bought NFT (from # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-327] accountId  40940 sold__ NFT (to__ # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-328] accountId  40940 bought NFT (from # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-329] accountId  40940 sold__ NFT (to__ # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-330] accountId  40940 bought NFT (from # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-331] accountId  40940 sold__ NFT (to__ # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-332] accountId  40940 bought NFT (from # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-333] accountId  40940 sold__ NFT (to__ # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-334] accountId  40940 bought NFT (from # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-335] accountId  40940 sold__ NFT (to__ # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-336] accountId  40940 bought NFT (from # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-337] accountId  40940 sold__ NFT (to__ # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-338] accountId  40940 bought NFT (from # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-339] accountId  40940 sold__ NFT (to__ # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-340] accountId  40940 bought NFT (from # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-349] accountId  40940 sold__ NFT (to__ # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-350] accountId  40940 bought NFT (from # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-351] accountId  40940 sold__ NFT (to__ # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-352] accountId  40940 bought NFT (from # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-353] accountId  40940 sold__ NFT (to__ # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-354] accountId  40940 bought NFT (from # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-355] accountId  40940 sold__ NFT (to__ # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-356] accountId  40940 bought NFT (from # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-357] accountId  40940 sold__ NFT (to__ # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-358] accountId  40940 bought NFT (from # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-359] accountId  40940 sold__ NFT (to__ # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-360] accountId  40940 bought NFT (from # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-361] accountId  40940 sold__ NFT (to__ # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-362] accountId  40940 bought NFT (from # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-363] accountId  40940 sold__ NFT (to__ # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-364] accountId  40940 bought NFT (from # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-365] accountId  40940 sold__ NFT (to__ # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-366] accountId  40940 bought NFT (from # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-367] accountId  40940 sold__ NFT (to__ # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-368] accountId  40940 bought NFT (from # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-369] accountId  40940 sold__ NFT (to__ # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-370] accountId  40940 bought NFT (from # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-371] accountId  40940 sold__ NFT (to__ # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29463-372] accountId  40940 bought NFT (from # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-3  ] accountId  40940 sold__ NFT (to__ # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-4  ] accountId  40940 bought NFT (from # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-5  ] accountId  40940 sold__ NFT (to__ # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-6  ] accountId  40940 bought NFT (from # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-7  ] accountId  40940 sold__ NFT (to__ # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-8  ] accountId  40940 bought NFT (from # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-9  ] accountId  40940 sold__ NFT (to__ # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-10 ] accountId  40940 bought NFT (from # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-11 ] accountId  40940 sold__ NFT (to__ # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-12 ] accountId  40940 bought NFT (from # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-13 ] accountId  40940 sold__ NFT (to__ # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-14 ] accountId  40940 bought NFT (from # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-15 ] accountId  40940 sold__ NFT (to__ # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-16 ] accountId  40940 bought NFT (from # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-17 ] accountId  40940 sold__ NFT (to__ # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-18 ] accountId  40940 bought NFT (from # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-19 ] accountId  40940 sold__ NFT (to__ # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-20 ] accountId  40940 bought NFT (from # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-21 ] accountId  40940 sold__ NFT (to__ # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-22 ] accountId  40940 bought NFT (from # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-23 ] accountId  40940 sold__ NFT (to__ # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-24 ] accountId  40940 bought NFT (from # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-25 ] accountId  40940 sold__ NFT (to__ # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-26 ] accountId  40940 bought NFT (from # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-34 ] accountId  40940 sold__ NFT (to__ # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-35 ] accountId  40940 bought NFT (from # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-36 ] accountId  40940 sold__ NFT (to__ # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-37 ] accountId  40940 bought NFT (from # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-38 ] accountId  40940 sold__ NFT (to__ # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-39 ] accountId  40940 bought NFT (from # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-40 ] accountId  40940 sold__ NFT (to__ # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-41 ] accountId  40940 bought NFT (from # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-42 ] accountId  40940 sold__ NFT (to__ # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-43 ] accountId  40940 bought NFT (from # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-44 ] accountId  40940 sold__ NFT (to__ # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-45 ] accountId  40940 bought NFT (from # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-46 ] accountId  40940 sold__ NFT (to__ # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-47 ] accountId  40940 bought NFT (from # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-48 ] accountId  40940 sold__ NFT (to__ # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-49 ] accountId  40940 bought NFT (from # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-50 ] accountId  40940 sold__ NFT (to__ # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-51 ] accountId  40940 bought NFT (from # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-52 ] accountId  40940 sold__ NFT (to__ # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-53 ] accountId  40940 bought NFT (from # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-54 ] accountId  40940 sold__ NFT (to__ # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-55 ] accountId  40940 bought NFT (from # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-56 ] accountId  40940 sold__ NFT (to__ # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-62 ] accountId  40940 bought NFT (from # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-63 ] accountId  40940 sold__ NFT (to__ # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-64 ] accountId  40940 bought NFT (from # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-65 ] accountId  40940 sold__ NFT (to__ # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-66 ] accountId  40940 bought NFT (from # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-67 ] accountId  40940 sold__ NFT (to__ # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-68 ] accountId  40940 bought NFT (from # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-69 ] accountId  40940 sold__ NFT (to__ # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-70 ] accountId  40940 bought NFT (from # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-71 ] accountId  40940 sold__ NFT (to__ # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-72 ] accountId  40940 bought NFT (from # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-73 ] accountId  40940 sold__ NFT (to__ # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-74 ] accountId  40940 bought NFT (from # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-75 ] accountId  40940 sold__ NFT (to__ # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-76 ] accountId  40940 bought NFT (from # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-77 ] accountId  40940 sold__ NFT (to__ # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-78 ] accountId  40940 bought NFT (from # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-79 ] accountId  40940 sold__ NFT (to__ # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-80 ] accountId  40940 bought NFT (from # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-81 ] accountId  40940 sold__ NFT (to__ # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-82 ] accountId  40940 bought NFT (from # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-83 ] accountId  40940 sold__ NFT (to__ # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-84 ] accountId  40940 bought NFT (from # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-85 ] accountId  40940 sold__ NFT (to__ # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-94 ] accountId  40940 bought NFT (from # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-95 ] accountId  40940 sold__ NFT (to__ # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-96 ] accountId  40940 bought NFT (from # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-97 ] accountId  40940 sold__ NFT (to__ # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-98 ] accountId  40940 bought NFT (from # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-99 ] accountId  40940 sold__ NFT (to__ # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-100] accountId  40940 bought NFT (from # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-102] accountId  40940 sold__ NFT (to__ # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-103] accountId  40940 bought NFT (from # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-104] accountId  40940 sold__ NFT (to__ # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-105] accountId  40940 bought NFT (from # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-106] accountId  40940 sold__ NFT (to__ # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-107] accountId  40940 bought NFT (from # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-108] accountId  40940 sold__ NFT (to__ # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-109] accountId  40940 bought NFT (from # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-110] accountId  40940 sold__ NFT (to__ # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-111] accountId  40940 bought NFT (from # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-112] accountId  40940 sold__ NFT (to__ # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-113] accountId  40940 bought NFT (from # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-114] accountId  40940 sold__ NFT (to__ # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-115] accountId  40940 bought NFT (from # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-116] accountId  40940 sold__ NFT (to__ # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-117] accountId  40940 bought NFT (from # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-121] accountId  40940 sold__ NFT (to__ # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-129] accountId  40940 bought NFT (from # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-130] accountId  40940 sold__ NFT (to__ # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-131] accountId  40940 bought NFT (from # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-132] accountId  40940 sold__ NFT (to__ # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-133] accountId  40940 bought NFT (from # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-134] accountId  40940 sold__ NFT (to__ # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-135] accountId  40940 bought NFT (from # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-136] accountId  40940 sold__ NFT (to__ # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-137] accountId  40940 bought NFT (from # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-138] accountId  40940 sold__ NFT (to__ # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-139] accountId  40940 bought NFT (from # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-140] accountId  40940 sold__ NFT (to__ # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-141] accountId  40940 bought NFT (from # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-142] accountId  40940 sold__ NFT (to__ # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-143] accountId  40940 bought NFT (from # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-144] accountId  40940 sold__ NFT (to__ # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-145] accountId  40940 bought NFT (from # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-146] accountId  40940 sold__ NFT (to__ # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-147] accountId  40940 bought NFT (from # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-148] accountId  40940 sold__ NFT (to__ # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-149] accountId  40940 bought NFT (from # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-150] accountId  40940 sold__ NFT (to__ # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-151] accountId  40940 bought NFT (from # 77900) for    30.239 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-159] accountId  40940 sold__ NFT (to__ # 77900) for    30.256 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-160] accountId  40940 bought NFT (from # 77900) for    30.256 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-161] accountId  40940 sold__ NFT (to__ # 77900) for    30.256 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-162] accountId  40940 bought NFT (from # 77900) for    30.256 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-163] accountId  40940 sold__ NFT (to__ # 77900) for    30.256 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-164] accountId  40940 bought NFT (from # 77900) for    30.256 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-165] accountId  40940 sold__ NFT (to__ # 77900) for    30.256 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-166] accountId  40940 bought NFT (from # 77900) for    30.256 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-167] accountId  40940 sold__ NFT (to__ # 77900) for    30.256 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-168] accountId  40940 bought NFT (from # 77900) for    30.256 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-169] accountId  40940 sold__ NFT (to__ # 77900) for    30.256 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-170] accountId  40940 bought NFT (from # 77900) for    30.256 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-171] accountId  40940 sold__ NFT (to__ # 77900) for    30.256 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-172] accountId  40940 bought NFT (from # 77900) for    30.256 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-173] accountId  40940 sold__ NFT (to__ # 77900) for    30.256 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-174] accountId  40940 bought NFT (from # 77900) for    30.256 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-175] accountId  40940 sold__ NFT (to__ # 77900) for    30.256 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-176] accountId  40940 bought NFT (from # 77900) for    30.256 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-177] accountId  40940 sold__ NFT (to__ # 77900) for    30.256 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-178] accountId  40940 bought NFT (from # 77900) for    30.256 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-179] accountId  40940 sold__ NFT (to__ # 77900) for    30.256 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-180] accountId  40940 bought NFT (from # 77900) for    30.256 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-181] accountId  40940 sold__ NFT (to__ # 77900) for    30.256 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-182] accountId  40940 bought NFT (from # 77900) for    30.256 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-190] accountId  40940 sold__ NFT (to__ # 77900) for    30.256 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-191] accountId  40940 bought NFT (from # 77900) for    30.256 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-192] accountId  40940 sold__ NFT (to__ # 77900) for    30.256 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-193] accountId  40940 bought NFT (from # 77900) for    30.256 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-194] accountId  40940 sold__ NFT (to__ # 77900) for    30.256 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-195] accountId  40940 bought NFT (from # 77900) for    30.256 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-196] accountId  40940 sold__ NFT (to__ # 77900) for    30.256 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-197] accountId  40940 bought NFT (from # 77900) for    30.256 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-198] accountId  40940 sold__ NFT (to__ # 77900) for    30.256 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-199] accountId  40940 bought NFT (from # 77900) for    30.256 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-200] accountId  40940 sold__ NFT (to__ # 77900) for    30.256 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-201] accountId  40940 bought NFT (from # 77900) for    30.256 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-202] accountId  40940 sold__ NFT (to__ # 77900) for    30.256 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-203] accountId  40940 bought NFT (from # 77900) for    30.256 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-204] accountId  40940 sold__ NFT (to__ # 77900) for    30.256 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-205] accountId  40940 bought NFT (from # 77900) for    30.256 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-206] accountId  40940 sold__ NFT (to__ # 77900) for    30.256 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-207] accountId  40940 bought NFT (from # 77900) for    30.256 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-208] accountId  40940 sold__ NFT (to__ # 77900) for    30.256 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-209] accountId  40940 bought NFT (from # 77900) for    30.256 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-210] accountId  40940 sold__ NFT (to__ # 77900) for    30.256 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-211] accountId  40940 bought NFT (from # 77900) for    30.256 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-212] accountId  40940 sold__ NFT (to__ # 77900) for    30.256 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-213] accountId  40940 bought NFT (from # 77900) for    30.256 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-222] accountId  40940 sold__ NFT (to__ # 77900) for    30.256 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-223] accountId  40940 bought NFT (from # 77900) for    30.256 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-224] accountId  40940 sold__ NFT (to__ # 77900) for    30.256 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-225] accountId  40940 bought NFT (from # 77900) for    30.256 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-226] accountId  40940 sold__ NFT (to__ # 77900) for    30.256 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-227] accountId  40940 bought NFT (from # 77900) for    30.256 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-228] accountId  40940 sold__ NFT (to__ # 77900) for    30.256 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-229] accountId  40940 bought NFT (from # 77900) for    30.256 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-230] accountId  40940 sold__ NFT (to__ # 77900) for    30.256 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-231] accountId  40940 bought NFT (from # 77900) for    30.256 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-232] accountId  40940 sold__ NFT (to__ # 77900) for    30.256 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-233] accountId  40940 bought NFT (from # 77900) for    30.256 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-234] accountId  40940 sold__ NFT (to__ # 77900) for    30.256 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-235] accountId  40940 bought NFT (from # 77900) for    30.256 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-236] accountId  40940 sold__ NFT (to__ # 77900) for    30.256 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-237] accountId  40940 bought NFT (from # 77900) for    30.256 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-238] accountId  40940 sold__ NFT (to__ # 77900) for    30.256 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-239] accountId  40940 bought NFT (from # 77900) for    30.256 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-240] accountId  40940 sold__ NFT (to__ # 77900) for    30.256 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-241] accountId  40940 bought NFT (from # 77900) for    30.256 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-242] accountId  40940 sold__ NFT (to__ # 77900) for    30.256 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-243] accountId  40940 bought NFT (from # 77900) for    30.256 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-244] accountId  40940 sold__ NFT (to__ # 77900) for    30.256 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-245] accountId  40940 bought NFT (from # 77900) for    30.256 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-249] accountId  40940 sold__ NFT (to__ # 77900) for    30.256 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-250] accountId  40940 bought NFT (from # 77900) for    30.256 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-251] accountId  40940 sold__ NFT (to__ # 77900) for    30.256 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-252] accountId  40940 bought NFT (from # 77900) for    30.256 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-253] accountId  40940 sold__ NFT (to__ # 77900) for    30.256 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-254] accountId  40940 bought NFT (from # 77900) for    30.256 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-255] accountId  40940 sold__ NFT (to__ # 77900) for    30.256 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29464-256] accountId  40940 bought NFT (from # 77900) for    30.256 $ (100.000 LRC) validUntilTimeBetweenOrders 0 seconds
+DBG [29505-107] accountId  40940 sold__ NFT (to__ #154136) for     1.553 $ (5.000 LRC) validUntilTimeBetweenOrders 1295154 seconds
+DBG [29505-318] accountId  40940 sold__ NFT (to__ # 51382) for     1.553 $ (5.000 LRC) validUntilTimeBetweenOrders 1293557 seconds
+DBG [29505-338] accountId  40940 sold__ NFT (to__ # 51382) for     1.553 $ (5.000 LRC) validUntilTimeBetweenOrders 1293529 seconds
+DBG [29505-354] accountId  40940 sold__ NFT (to__ # 76307) for     1.555 $ (5.000 LRC) validUntilTimeBetweenOrders 1293397 seconds
+DBG [29506-75 ] accountId  40940 sold__ NFT (to__ # 42163) for     1.555 $ (5.000 LRC) validUntilTimeBetweenOrders 1292519 seconds
+DBG [29506-178] accountId  40940 sold__ NFT (to__ #170956) for     1.553 $ (5.000 LRC) validUntilTimeBetweenOrders 248064 seconds
+DBG [29506-270] accountId  40940 bought NFT (from # 92054) for     0.930 $ (3.000 LRC) validUntilTimeBetweenOrders 426418 seconds
+DBG [29521-3  ] accountId  40940 sold__ NFT (to__ # 42004) for     1.541 $ (5.000 LRC) validUntilTimeBetweenOrders 276562 seconds
+DBG [29546-30 ] accountId  40940 sold__ NFT (to__ # 37808) for     1.515 $ (5.000 LRC) validUntilTimeBetweenOrders 320603 seconds
+DBG [29553-166] accountId  40940 sold__ NFT (to__ # 51382) for     1.502 $ (5.000 LRC) validUntilTimeBetweenOrders 1295537 seconds
+DBG [29553-247] accountId  40940 sold__ NFT (to__ # 86156) for     1.497 $ (5.000 LRC) validUntilTimeBetweenOrders 1295327 seconds
+DBG [29607-95 ] accountId  40940 sold__ NFT (to__ # 76307) for     1.459 $ (5.000 LRC) validUntilTimeBetweenOrders 1293845 seconds
+DBG [29607-254] accountId  40940 sold__ NFT (to__ #106022) for     1.459 $ (5.000 LRC) validUntilTimeBetweenOrders 1292398 seconds
+DBG [29655-87 ] accountId  40940 sold__ NFT (to__ #106022) for     1.553 $ (5.000 LRC) validUntilTimeBetweenOrders 1295219 seconds
+DBG [29655-88 ] accountId  40940 sold__ NFT (to__ #106022) for     1.553 $ (5.000 LRC) validUntilTimeBetweenOrders 1295177 seconds
+DBG [29655-105] accountId  40940 sold__ NFT (to__ #106022) for     1.544 $ (5.000 LRC) validUntilTimeBetweenOrders 1295143 seconds
+DBG [29656-56 ] accountId  40940 sold__ NFT (to__ # 76307) for     1.548 $ (5.000 LRC) validUntilTimeBetweenOrders 1293541 seconds
+DBG [29670-91 ] accountId  40940 bought NFT (from # 42164) for     1.577 $ (5.000 LRC) validUntilTimeBetweenOrders 977094 seconds
+DBG [29736-226] accountId  40940 sold__ NFT (to__ #161408) for     1.536 $ (5.000 LRC) validUntilTimeBetweenOrders 1292611 seconds
+DBG [29737-21 ] accountId  40940 sold__ NFT (to__ #161408) for     1.536 $ (5.000 LRC) validUntilTimeBetweenOrders 1292297 seconds
+DBG [29737-25 ] accountId  40940 sold__ NFT (to__ #161408) for     1.536 $ (5.000 LRC) validUntilTimeBetweenOrders 1292256 seconds
+DBG [29838-235] accountId  40940 bought NFT (from #177802) for    19.832 $ (69.000 LRC) validUntilTimeBetweenOrders 1202971 seconds
+DBG [29847-146] accountId  40940 sold__ NFT (to__ #154136) for     1.477 $ (5.000 LRC) validUntilTimeBetweenOrders 1295549 seconds
+DBG [29848-16 ] accountId  40940 sold__ NFT (to__ # 55123) for     1.475 $ (5.000 LRC) validUntilTimeBetweenOrders 1294665 seconds
+DBG [29849-13 ] accountId  40940 sold__ NFT (to__ #106022) for     1.461 $ (5.000 LRC) validUntilTimeBetweenOrders 1293808 seconds
+DBG [29854-249] accountId  40940 sold__ NFT (to__ # 86156) for     1.492 $ (5.000 LRC) validUntilTimeBetweenOrders 1284062 seconds
+DBG [29854-251] accountId  40940 sold__ NFT (to__ # 86156) for     1.492 $ (5.000 LRC) validUntilTimeBetweenOrders 1283996 seconds
+DBG [29880-53 ] accountId  40940 bought NFT (from # 76307) for   126.546 $ (420.000 LRC) validUntilTimeBetweenOrders 305617 seconds
+DBG [29884-22 ] accountId  40940 bought NFT (from #170177) for     0.914 $ (3.000 LRC) validUntilTimeBetweenOrders 1093533 seconds
+DBG [29894-358] accountId  40940 bought NFT (from # 74395) for     9.303 $ (30.000 LRC) validUntilTimeBetweenOrders 1257045 seconds
+DBG [29896-103] accountId  40940 sold__ NFT (to__ #126957) for     1.551 $ (5.000 LRC) validUntilTimeBetweenOrders 1295179 seconds
+DBG [29896-104] accountId  40940 sold__ NFT (to__ #126957) for     1.551 $ (5.000 LRC) validUntilTimeBetweenOrders 1295156 seconds
+DBG [29942-1  ] accountId  40940 sold__ NFT (to__ # 76307) for     1.470 $ (5.000 LRC) validUntilTimeBetweenOrders 1292882 seconds
+DBG [29942-300] accountId  40940 sold__ NFT (to__ # 69571) for     1.474 $ (5.000 LRC) validUntilTimeBetweenOrders 1291633 seconds
+DBG [29945-36 ] accountId  40940 sold__ NFT (to__ #106022) for     1.473 $ (5.000 LRC) validUntilTimeBetweenOrders 1295752 seconds
+DBG [29945-197] accountId  40940 sold__ NFT (to__ # 97076) for     1.473 $ (5.000 LRC) validUntilTimeBetweenOrders 1294986 seconds
+DBG [29947-18 ] accountId  40940 sold__ NFT (to__ # 70927) for     1.456 $ (5.000 LRC) validUntilTimeBetweenOrders 1292242 seconds
+DBG [29949-222] accountId  40940 bought NFT (from #157510) for    50.904 $ (0.040 ETH) validUntilTimeBetweenOrders 18364 seconds
+DBG [29952-134] accountId  40940 sold__ NFT (to__ # 76307) for     1.438 $ (5.000 LRC) validUntilTimeBetweenOrders 1283961 seconds
+DBG [29967-91 ] accountId  40940 sold__ NFT (to__ #154136) for     1.458 $ (5.000 LRC) validUntilTimeBetweenOrders 1281441 seconds
+DBG [29971-282] accountId  40940 sold__ NFT (to__ # 79142) for     1.461 $ (5.000 LRC) validUntilTimeBetweenOrders 1275073 seconds
+DBG [29971-353] accountId  40940 sold__ NFT (to__ # 55123) for     1.462 $ (5.000 LRC) validUntilTimeBetweenOrders 1274234 seconds
+DBG [29972-1  ] accountId  40940 sold__ NFT (to__ #106022) for     1.466 $ (5.000 LRC) validUntilTimeBetweenOrders 1274158 seconds
+DBG [29991-257] accountId  40940 sold__ NFT (to__ # 92138) for     1.524 $ (5.000 LRC) validUntilTimeBetweenOrders 1295813 seconds
+DBG [29991-258] accountId  40940 sold__ NFT (to__ # 92138) for     1.524 $ (5.000 LRC) validUntilTimeBetweenOrders 1295787 seconds
+DBG [29992-101] accountId  40940 sold__ NFT (to__ # 86156) for     1.524 $ (5.000 LRC) validUntilTimeBetweenOrders 1295138 seconds
+DBG [29992-105] accountId  40940 sold__ NFT (to__ # 72260) for     1.524 $ (5.000 LRC) validUntilTimeBetweenOrders 1295072 seconds
+DBG [29992-182] accountId  40940 sold__ NFT (to__ # 57810) for     1.524 $ (5.000 LRC) validUntilTimeBetweenOrders 1294890 seconds
+DBG [29992-231] accountId  40940 sold__ NFT (to__ #138049) for     1.524 $ (5.000 LRC) validUntilTimeBetweenOrders 1294741 seconds
+DBG [30048-3  ] accountId  40940 bought NFT (from #189422) for     1.504 $ (5.000 LRC) validUntilTimeBetweenOrders 1219384 seconds
+DBG [30050-11 ] accountId  40940 sold__ NFT (to__ # 79142) for     1.492 $ (5.000 LRC) validUntilTimeBetweenOrders 1151248 seconds
+DBG [30050-19 ] accountId  40940 sold__ NFT (to__ # 79142) for     1.495 $ (5.000 LRC) validUntilTimeBetweenOrders 1151210 seconds
+DBG [30050-27 ] accountId  40940 sold__ NFT (to__ #138049) for     1.495 $ (5.000 LRC) validUntilTimeBetweenOrders 1295475 seconds
+DBG [30050-28 ] accountId  40940 sold__ NFT (to__ #138049) for     1.495 $ (5.000 LRC) validUntilTimeBetweenOrders 1295462 seconds
+DBG [30050-53 ] accountId  40940 sold__ NFT (to__ # 79142) for     1.493 $ (5.000 LRC) validUntilTimeBetweenOrders 1150829 seconds
+DBG [30051-6  ] accountId  40940 sold__ NFT (to__ # 79142) for     1.500 $ (5.000 LRC) validUntilTimeBetweenOrders 1150065 seconds
+DBG [30051-7  ] accountId  40940 sold__ NFT (to__ # 79142) for     1.500 $ (5.000 LRC) validUntilTimeBetweenOrders 1150054 seconds
+DBG [30051-20 ] accountId  40940 sold__ NFT (to__ # 79142) for     1.500 $ (5.000 LRC) validUntilTimeBetweenOrders 1150049 seconds
+DBG [30051-21 ] accountId  40940 sold__ NFT (to__ # 79142) for     1.500 $ (5.000 LRC) validUntilTimeBetweenOrders 1108969 seconds
+DBG [30051-22 ] accountId  40940 sold__ NFT (to__ # 79142) for     1.500 $ (5.000 LRC) validUntilTimeBetweenOrders 1150038 seconds
+DBG [30051-23 ] accountId  40940 sold__ NFT (to__ # 79142) for     1.500 $ (5.000 LRC) validUntilTimeBetweenOrders 1150030 seconds
+DBG [30051-33 ] accountId  40940 sold__ NFT (to__ # 79142) for     1.500 $ (5.000 LRC) validUntilTimeBetweenOrders 1108912 seconds
+DBG [30051-34 ] accountId  40940 sold__ NFT (to__ # 79142) for     1.500 $ (5.000 LRC) validUntilTimeBetweenOrders 1150023 seconds
+DBG [30051-35 ] accountId  40940 sold__ NFT (to__ # 79142) for     1.500 $ (5.000 LRC) validUntilTimeBetweenOrders 1108938 seconds
+DBG [30051-36 ] accountId  40940 sold__ NFT (to__ # 79142) for     1.500 $ (5.000 LRC) validUntilTimeBetweenOrders 1149994 seconds
+DBG [30051-37 ] accountId  40940 sold__ NFT (to__ # 79142) for     1.500 $ (5.000 LRC) validUntilTimeBetweenOrders 1149981 seconds
+DBG [30051-38 ] accountId  40940 sold__ NFT (to__ # 79142) for     1.500 $ (5.000 LRC) validUntilTimeBetweenOrders 1149966 seconds
+DBG [30051-39 ] accountId  40940 sold__ NFT (to__ # 79142) for     1.500 $ (5.000 LRC) validUntilTimeBetweenOrders 1149949 seconds
+DBG [30051-54 ] accountId  40940 sold__ NFT (to__ # 79142) for     1.500 $ (5.000 LRC) validUntilTimeBetweenOrders 1149893 seconds
+DBG [30051-55 ] accountId  40940 sold__ NFT (to__ # 79142) for     1.500 $ (5.000 LRC) validUntilTimeBetweenOrders 1149872 seconds
+DBG [30051-56 ] accountId  40940 sold__ NFT (to__ # 79142) for     1.500 $ (5.000 LRC) validUntilTimeBetweenOrders 1149856 seconds
+DBG [30064-67 ] accountId  40940 sold__ NFT (to__ # 76307) for     1.515 $ (5.000 LRC) validUntilTimeBetweenOrders 1136821 seconds
+DBG [30064-92 ] accountId  40940 sold__ NFT (to__ # 76307) for     1.509 $ (5.000 LRC) validUntilTimeBetweenOrders 1136658 seconds
+DBG [30064-133] accountId  40940 sold__ NFT (to__ # 76307) for     1.515 $ (5.000 LRC) validUntilTimeBetweenOrders 1136459 seconds
+DBG [30064-135] accountId  40940 sold__ NFT (to__ # 76307) for     1.515 $ (5.000 LRC) validUntilTimeBetweenOrders 1136462 seconds
+DBG [30084-49 ] accountId  40940 sold__ NFT (to__ #106022) for     1.496 $ (5.000 LRC) validUntilTimeBetweenOrders 1102291 seconds
+DBG [30084-54 ] accountId  40940 sold__ NFT (to__ #106022) for     1.496 $ (5.000 LRC) validUntilTimeBetweenOrders 1102243 seconds
+DBG [30084-56 ] accountId  40940 sold__ NFT (to__ #106022) for     1.496 $ (5.000 LRC) validUntilTimeBetweenOrders 1102210 seconds
+DBG [30224-82 ] accountId  40940 sold__ NFT (to__ # 76307) for     1.470 $ (5.000 LRC) validUntilTimeBetweenOrders 970342 seconds
+DBG [30224-150] accountId  40940 sold__ NFT (to__ # 76307) for     1.468 $ (5.000 LRC) validUntilTimeBetweenOrders 1288899 seconds
+DBG [30274-170] accountId  40940 sold__ NFT (to__ # 81702) for     1.451 $ (5.000 LRC) validUntilTimeBetweenOrders 908256 seconds
+DBG [30277-199] accountId  40940 sold__ NFT (to__ # 76307) for     1.456 $ (5.000 LRC) validUntilTimeBetweenOrders 904912 seconds
+DBG [30278-185] accountId  40940 sold__ NFT (to__ #126810) for     1.470 $ (5.000 LRC) validUntilTimeBetweenOrders 903064 seconds
+DBG [30290-350] accountId  40940 sold__ NFT (to__ # 78494) for     1.425 $ (5.000 LRC) validUntilTimeBetweenOrders 885198 seconds
+DBG [30290-372] accountId  40940 sold__ NFT (to__ # 78494) for     1.425 $ (5.000 LRC) validUntilTimeBetweenOrders 885198 seconds
+DBG [30290-374] accountId  40940 sold__ NFT (to__ # 78494) for     1.425 $ (5.000 LRC) validUntilTimeBetweenOrders 885180 seconds
+DBG [30290-375] accountId  40940 sold__ NFT (to__ # 78494) for     1.425 $ (5.000 LRC) validUntilTimeBetweenOrders 885122 seconds
+DBG [30290-383] accountId  40940 sold__ NFT (to__ # 78494) for     1.425 $ (5.000 LRC) validUntilTimeBetweenOrders 885122 seconds
+DBG [30291-3  ] accountId  40940 sold__ NFT (to__ # 78494) for     1.425 $ (5.000 LRC) validUntilTimeBetweenOrders 885032 seconds
+DBG [30291-4  ] accountId  40940 sold__ NFT (to__ # 78494) for     1.425 $ (5.000 LRC) validUntilTimeBetweenOrders 885028 seconds
+DBG [30291-9  ] accountId  40940 sold__ NFT (to__ # 78494) for     1.425 $ (5.000 LRC) validUntilTimeBetweenOrders 884975 seconds
+DBG [30291-10 ] accountId  40940 sold__ NFT (to__ # 78494) for     1.425 $ (5.000 LRC) validUntilTimeBetweenOrders 884980 seconds
+DBG [30291-28 ] accountId  40940 sold__ NFT (to__ # 78494) for     1.425 $ (5.000 LRC) validUntilTimeBetweenOrders 884917 seconds
+DBG [30298-7  ] accountId  40940 sold__ NFT (to__ # 78494) for     1.431 $ (5.000 LRC) validUntilTimeBetweenOrders 873290 seconds
+DBG [30298-22 ] accountId  40940 sold__ NFT (to__ # 78494) for     1.431 $ (5.000 LRC) validUntilTimeBetweenOrders 873181 seconds
+DBG [30298-195] accountId  40940 sold__ NFT (to__ # 78494) for     1.430 $ (5.000 LRC) validUntilTimeBetweenOrders 871775 seconds
+DBG [30298-231] accountId  40940 sold__ NFT (to__ # 78494) for     1.430 $ (5.000 LRC) validUntilTimeBetweenOrders 871390 seconds
+DBG [30298-269] accountId  40940 sold__ NFT (to__ # 78494) for     1.430 $ (5.000 LRC) validUntilTimeBetweenOrders 871024 seconds
+DBG [30299-5  ] accountId  40940 sold__ NFT (to__ # 78494) for     1.430 $ (5.000 LRC) validUntilTimeBetweenOrders 870811 seconds
+DBG [30350-138] accountId  40940 sold__ NFT (to__ # 76307) for     1.473 $ (5.000 LRC) validUntilTimeBetweenOrders 1295982 seconds
+DBG [30350-139] accountId  40940 sold__ NFT (to__ # 76307) for     1.473 $ (5.000 LRC) validUntilTimeBetweenOrders 1295963 seconds
+DBG [30350-170] accountId  40940 sold__ NFT (to__ # 76307) for     1.470 $ (5.000 LRC) validUntilTimeBetweenOrders 1295936 seconds
+DBG [30351-23 ] accountId  40940 sold__ NFT (to__ # 79142) for     1.470 $ (5.000 LRC) validUntilTimeBetweenOrders 1295518 seconds
+DBG [30351-24 ] accountId  40940 sold__ NFT (to__ # 72260) for     1.470 $ (5.000 LRC) validUntilTimeBetweenOrders 1295513 seconds
+DBG [30351-25 ] accountId  40940 sold__ NFT (to__ # 76515) for     1.470 $ (5.000 LRC) validUntilTimeBetweenOrders 1295510 seconds
+DBG [30351-33 ] accountId  40940 sold__ NFT (to__ #106022) for     1.470 $ (5.000 LRC) validUntilTimeBetweenOrders 1295412 seconds
+DBG [30351-113] accountId  40940 sold__ NFT (to__ # 86156) for     1.470 $ (5.000 LRC) validUntilTimeBetweenOrders 1294886 seconds
+DBG [30351-127] accountId  40940 sold__ NFT (to__ # 86156) for     1.474 $ (5.000 LRC) validUntilTimeBetweenOrders 1294854 seconds
+DBG [30351-128] accountId  40940 sold__ NFT (to__ # 86156) for     1.474 $ (5.000 LRC) validUntilTimeBetweenOrders 1294822 seconds
+DBG [30351-153] accountId  40940 bought NFT (from #106022) for     1.774 $ (6.000 LRC) validUntilTimeBetweenOrders 1123496 seconds
+DBG [30359-63 ] accountId  40940 bought NFT (from # 38136) for     2.202 $ (7.500 LRC) validUntilTimeBetweenOrders 1240999 seconds
+DBG [30361-263] accountId  40940 bought NFT (from #106022) for     1.476 $ (5.000 LRC) validUntilTimeBetweenOrders 1273642 seconds
+DBG [30503-78 ] accountId  40940 bought NFT (from #164076) for     1.194 $ (4.000 LRC) validUntilTimeBetweenOrders 1180203 seconds
+DBG [30503-90 ] accountId  40940 bought NFT (from # 45054) for     1.492 $ (5.000 LRC) validUntilTimeBetweenOrders 1168320 seconds
+DBG [30505-52 ] accountId  40940 bought NFT (from #155210) for     1.495 $ (5.000 LRC) validUntilTimeBetweenOrders 1235478 seconds
+DBG [30505-53 ] accountId  40940 bought NFT (from # 98347) for     1.495 $ (5.000 LRC) validUntilTimeBetweenOrders 1286942 seconds
+DBG [30505-85 ] accountId  40940 bought NFT (from # 85053) for     2.990 $ (10.000 LRC) validUntilTimeBetweenOrders 1152383 seconds
+DBG [30529-56 ] accountId  40940 sold__ NFT (to__ #163589) for  4773.212 $ (3.500 ETH) validUntilTimeBetweenOrders 4362465 seconds
+DBG [30571-8  ] accountId  40940 sold__ NFT (to__ # 55123) for     1.463 $ (5.000 LRC) validUntilTimeBetweenOrders 1295720 seconds
+DBG [30571-9  ] accountId  40940 sold__ NFT (to__ # 55123) for     1.463 $ (5.000 LRC) validUntilTimeBetweenOrders 1295687 seconds
+DBG [30571-18 ] accountId  40940 sold__ NFT (to__ # 55123) for     1.463 $ (5.000 LRC) validUntilTimeBetweenOrders 1295658 seconds
+DBG [30571-61 ] accountId  40940 sold__ NFT (to__ #188568) for     1.463 $ (5.000 LRC) validUntilTimeBetweenOrders 1294920 seconds
+DBG [30573-34 ] accountId  40940 sold__ NFT (to__ #171296) for     1.452 $ (5.000 LRC) validUntilTimeBetweenOrders 1290863 seconds
+DBG [30602-84 ] accountId  40940 bought NFT (from #186964) for     1.441 $ (5.000 LRC) validUntilTimeBetweenOrders 1295700 seconds
+DBG [30602-87 ] accountId  40940 bought NFT (from #186964) for     1.441 $ (5.000 LRC) validUntilTimeBetweenOrders 1295961 seconds
+DBG [30778-33 ] accountId  40940 bought NFT (from #189422) for     1.340 $ (5.000 LRC) validUntilTimeBetweenOrders 1275563 seconds
+DBG [30913-133] accountId  40940 bought NFT (from #178517) for   265.580 $ (0.200 ETH) validUntilTimeBetweenOrders 565011 seconds
+DBG [30915-40 ] accountId  40940 bought NFT (from # 95025) for    39.420 $ (150.000 LRC) validUntilTimeBetweenOrders 543519 seconds
+DBG [30927-92 ] accountId  40940 sold__ NFT (to__ # 78112) for     1.302 $ (5.000 LRC) validUntilTimeBetweenOrders 1295794 seconds
+DBG [30927-93 ] accountId  40940 sold__ NFT (to__ # 55123) for     1.302 $ (5.000 LRC) validUntilTimeBetweenOrders 1295781 seconds
+DBG [30927-107] accountId  40940 sold__ NFT (to__ # 55123) for     1.302 $ (5.000 LRC) validUntilTimeBetweenOrders 1295742 seconds
+DBG [30927-108] accountId  40940 sold__ NFT (to__ #188568) for     1.302 $ (5.000 LRC) validUntilTimeBetweenOrders 1295741 seconds
+DBG [30927-111] accountId  40940 sold__ NFT (to__ #188568) for     1.302 $ (5.000 LRC) validUntilTimeBetweenOrders 1295681 seconds
+DBG [30928-62 ] accountId  40940 sold__ NFT (to__ # 42163) for     1.303 $ (5.000 LRC) validUntilTimeBetweenOrders 1294353 seconds
+DBG [30928-63 ] accountId  40940 sold__ NFT (to__ # 42163) for     1.303 $ (5.000 LRC) validUntilTimeBetweenOrders 1294320 seconds
+DBG [30929-40 ] accountId  40940 sold__ NFT (to__ # 76307) for     1.310 $ (5.000 LRC) validUntilTimeBetweenOrders 1293222 seconds
+DBG [30929-127] accountId  40940 sold__ NFT (to__ #138049) for     1.317 $ (5.000 LRC) validUntilTimeBetweenOrders 1292697 seconds
+DBG [30929-130] accountId  40940 sold__ NFT (to__ #138049) for     1.317 $ (5.000 LRC) validUntilTimeBetweenOrders 1292674 seconds
+DBG [31047-304] accountId  40940 bought NFT (from #134677) for    10.874 $ (42.000 LRC) validUntilTimeBetweenOrders 1285795 seconds
+DBG [31321-7  ] accountId  40940 sold__ NFT (to__ # 79142) for     1.251 $ (5.000 LRC) validUntilTimeBetweenOrders 1295802 seconds
+DBG [31321-8  ] accountId  40940 sold__ NFT (to__ # 69571) for     1.251 $ (5.000 LRC) validUntilTimeBetweenOrders 1295787 seconds
+DBG [31321-13 ] accountId  40940 sold__ NFT (to__ # 79142) for     1.251 $ (5.000 LRC) validUntilTimeBetweenOrders 1295786 seconds
+DBG [31321-14 ] accountId  40940 sold__ NFT (to__ # 97981) for     1.251 $ (5.000 LRC) validUntilTimeBetweenOrders 1295767 seconds
+DBG [31321-15 ] accountId  40940 sold__ NFT (to__ # 69571) for     1.251 $ (5.000 LRC) validUntilTimeBetweenOrders 1295764 seconds
+DBG [31337-265] accountId  40940 bought NFT (from # 60785) for    35.699 $ (142.690 LRC) validUntilTimeBetweenOrders 45759 seconds
+DBG [31400-43 ] accountId  40940 sold__ NFT (to__ #189422) for     1.236 $ (5.000 LRC) validUntilTimeBetweenOrders 887602 seconds
+DBG [31400-77 ] accountId  40940 sold__ NFT (to__ #189422) for     1.244 $ (5.000 LRC) validUntilTimeBetweenOrders 887767 seconds
+DBG [31433-146] accountId  40940 bought NFT (from # 82474) for   173.988 $ (690.000 LRC) validUntilTimeBetweenOrders 1217778 seconds
+DBG [31440-137] accountId  40940 bought NFT (from # 11253) for     2.487 $ (10.000 LRC) validUntilTimeBetweenOrders 1294817 seconds
+DBG [31508-13 ] accountId  40940 bought NFT (from #189422) for     6.253 $ (25.000 LRC) validUntilTimeBetweenOrders 1235659 seconds
+DBG [31605-213] accountId  40940 bought NFT (from # 74395) for     7.972 $ (30.000 LRC) validUntilTimeBetweenOrders 1293248 seconds
+DBG [32059-109] accountId  40940 bought NFT (from #165843) for    40.445 $ (147.000 LRC) validUntilTimeBetweenOrders 1117873 seconds
+DBG [32136-29 ] accountId  40940 sold__ NFT (to__ # 55123) for     1.301 $ (5.000 LRC) validUntilTimeBetweenOrders 1295963 seconds
+DBG [32136-30 ] accountId  40940 sold__ NFT (to__ # 55123) for     1.301 $ (5.000 LRC) validUntilTimeBetweenOrders 1295933 seconds
+DBG [32136-35 ] accountId  40940 sold__ NFT (to__ # 55123) for     1.301 $ (5.000 LRC) validUntilTimeBetweenOrders 1295911 seconds
+DBG [32136-44 ] accountId  40940 sold__ NFT (to__ # 74395) for     1.301 $ (5.000 LRC) validUntilTimeBetweenOrders 1295875 seconds
+DBG [32136-62 ] accountId  40940 sold__ NFT (to__ # 74395) for     1.301 $ (5.000 LRC) validUntilTimeBetweenOrders 1295848 seconds
+DBG [32136-73 ] accountId  40940 bought NFT (from # 74395) for     1.301 $ (5.000 LRC) validUntilTimeBetweenOrders 1270710 seconds
+DBG [32202-100] accountId  40940 bought NFT (from # 74395) for     1.359 $ (5.000 LRC) validUntilTimeBetweenOrders 1191262 seconds
+DBG [32203-149] accountId  40940 bought NFT (from # 45054) for     0.272 $ (1.000 LRC) validUntilTimeBetweenOrders 1079513 seconds
+DBG [32203-150] accountId  40940 bought NFT (from #173642) for     0.815 $ (3.000 LRC) validUntilTimeBetweenOrders 1048120 seconds
+DBG [32857-212] accountId  40940 bought NFT (from #183821) for   100.300 $ (0.085 ETH) validUntilTimeBetweenOrders 13272 seconds
+DBG [32857-213] accountId  40940 bought NFT (from # 93945) for   103.250 $ (0.087 ETH) validUntilTimeBetweenOrders 14148 seconds
+DBG [32970-165] accountId  40940 bought NFT (from #157510) for     6.565 $ (25.000 LRC) validUntilTimeBetweenOrders 1259904 seconds

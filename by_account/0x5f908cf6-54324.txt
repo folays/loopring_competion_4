@@ -1,0 +1,441 @@
+DBG [29451-94 ] accountId  54324 sold__ NFT (to__ #164358) for    92.295 $ (0.069 ETH) validUntilTimeBetweenOrders 11839 seconds
+DBG [29514-73 ] accountId  54324 sold__ NFT (to__ # 48905) for    21.102 $ (0.016 ETH) validUntilTimeBetweenOrders 11196 seconds
+DBG [29515-187] accountId  54324 bought NFT (from #166979) for   154.933 $ (0.114 ETH) validUntilTimeBetweenOrders 131147 seconds
+DBG [29523-6  ] accountId  54324 sold__ NFT (to__ #187339) for    21.666 $ (0.016 ETH) validUntilTimeBetweenOrders 28674 seconds
+DBG [29582-173] accountId  54324 sold__ NFT (to__ #124566) for     1.737 $ (0.001 ETH) validUntilTimeBetweenOrders 42742 seconds
+DBG [29589-201] accountId  54324 sold__ NFT (to__ # 42700) for   464.084 $ (0.340 ETH) validUntilTimeBetweenOrders 14788 seconds
+DBG [29607-70 ] accountId  54324 sold__ NFT (to__ #125949) for   105.614 $ (0.085 ETH) validUntilTimeBetweenOrders 274873 seconds
+DBG [29607-71 ] accountId  54324 sold__ NFT (to__ #126570) for    63.368 $ (0.051 ETH) validUntilTimeBetweenOrders 3963162 seconds
+DBG [29611-75 ] accountId  54324 sold__ NFT (to__ #167356) for    97.761 $ (0.078 ETH) validUntilTimeBetweenOrders 1215571 seconds
+DBG [29611-319] accountId  54324 bought NFT (from #131120) for    56.974 $ (0.045 ETH) validUntilTimeBetweenOrders 706480 seconds
+DBG [29611-328] accountId  54324 bought NFT (from # 69251) for    60.772 $ (0.048 ETH) validUntilTimeBetweenOrders 18520 seconds
+DBG [29612-35 ] accountId  54324 sold__ NFT (to__ #188469) for     1.633 $ (0.001 ETH) validUntilTimeBetweenOrders 86861 seconds
+DBG [29623-101] accountId  54324 sold__ NFT (to__ # 75590) for   116.634 $ (0.090 ETH) validUntilTimeBetweenOrders 302610 seconds
+DBG [29635-374] accountId  54324 bought NFT (from #127929) for     3.823 $ (0.003 ETH) validUntilTimeBetweenOrders 720 seconds
+DBG [29636-329] accountId  54324 bought NFT (from # 91597) for    63.311 $ (0.050 ETH) validUntilTimeBetweenOrders 4300400 seconds
+DBG [29683-192] accountId  54324 sold__ NFT (to__ #166110) for     9.291 $ (0.007 ETH) validUntilTimeBetweenOrders 205871 seconds
+DBG [29697-224] accountId  54324 bought NFT (from #161785) for   147.804 $ (0.115 ETH) validUntilTimeBetweenOrders 57629 seconds
+DBG [29699-32 ] accountId  54324 bought NFT (from #134691) for   129.451 $ (0.100 ETH) validUntilTimeBetweenOrders 2566253 seconds
+DBG [29714-41 ] accountId  54324 bought NFT (from # 43778) for    10.636 $ (0.008 ETH) validUntilTimeBetweenOrders 1089 seconds
+DBG [29722-325] accountId  54324 bought NFT (from #128868) for   502.618 $ (0.380 ETH) validUntilTimeBetweenOrders 3573 seconds
+DBG [29736-209] accountId  54324 sold__ NFT (to__ #125952) for     5.962 $ (0.004 ETH) validUntilTimeBetweenOrders 469418 seconds
+DBG [29736-210] accountId  54324 sold__ NFT (to__ #125952) for     8.612 $ (0.006 ETH) validUntilTimeBetweenOrders 812568 seconds
+DBG [29758-279] accountId  54324 bought NFT (from #188749) for   414.643 $ (0.310 ETH) validUntilTimeBetweenOrders 82904 seconds
+DBG [29772-164] accountId  54324 bought NFT (from #188749) for   408.946 $ (0.310 ETH) validUntilTimeBetweenOrders 103787 seconds
+DBG [29803-71 ] accountId  54324 sold__ NFT (to__ #138551) for    10.441 $ (0.008 ETH) validUntilTimeBetweenOrders 34614 seconds
+DBG [29859-74 ] accountId  54324 sold__ NFT (to__ #139975) for    39.390 $ (0.030 ETH) validUntilTimeBetweenOrders 1791 seconds
+DBG [29859-105] accountId  54324 sold__ NFT (to__ #113620) for     3.140 $ (0.002 ETH) validUntilTimeBetweenOrders 6315 seconds
+DBG [29866-160] accountId  54324 sold__ NFT (to__ #128100) for     5.582 $ (0.004 ETH) validUntilTimeBetweenOrders 1007348 seconds
+DBG [29866-330] accountId  54324 sold__ NFT (to__ #128100) for     5.582 $ (0.004 ETH) validUntilTimeBetweenOrders 1007612 seconds
+DBG [29871-15 ] accountId  54324 sold__ NFT (to__ #147718) for     8.026 $ (0.006 ETH) validUntilTimeBetweenOrders 13296 seconds
+DBG [29915-108] accountId  54324 sold__ NFT (to__ #175024) for     9.614 $ (0.007 ETH) validUntilTimeBetweenOrders 2874 seconds
+DBG [29926-97 ] accountId  54324 sold__ NFT (to__ #145818) for     5.835 $ (0.004 ETH) validUntilTimeBetweenOrders 58405 seconds
+DBG [29930-148] accountId  54324 sold__ NFT (to__ #169043) for     2.905 $ (0.002 ETH) validUntilTimeBetweenOrders 15955 seconds
+DBG [29940-5  ] accountId  54324 sold__ NFT (to__ #187830) for     5.825 $ (0.004 ETH) validUntilTimeBetweenOrders 68182 seconds
+DBG [29997-109] accountId  54324 sold__ NFT (to__ # 47494) for    18.802 $ (0.014 ETH) validUntilTimeBetweenOrders 26355 seconds
+DBG [30009-168] accountId  54324 sold__ NFT (to__ # 38891) for    91.298 $ (0.068 ETH) validUntilTimeBetweenOrders 174099 seconds
+DBG [30009-174] accountId  54324 sold__ NFT (to__ # 38891) for    93.929 $ (0.070 ETH) validUntilTimeBetweenOrders 174106 seconds
+DBG [30009-206] accountId  54324 sold__ NFT (to__ # 38891) for    93.929 $ (0.070 ETH) validUntilTimeBetweenOrders 562094 seconds
+DBG [30023-63 ] accountId  54324 sold__ NFT (to__ #158440) for    19.940 $ (0.015 ETH) validUntilTimeBetweenOrders 241829 seconds
+DBG [30042-115] accountId  54324 sold__ NFT (to__ #145939) for    11.989 $ (0.009 ETH) validUntilTimeBetweenOrders 107124 seconds
+DBG [30071-19 ] accountId  54324 bought NFT (from #106722) for    26.666 $ (0.020 ETH) validUntilTimeBetweenOrders 209 seconds
+DBG [30071-22 ] accountId  54324 bought NFT (from #106722) for    66.666 $ (0.050 ETH) validUntilTimeBetweenOrders 125 seconds
+DBG [30071-63 ] accountId  54324 bought NFT (from #106722) for     6.667 $ (0.005 ETH) validUntilTimeBetweenOrders 450 seconds
+DBG [30071-64 ] accountId  54324 bought NFT (from #106722) for    13.333 $ (0.010 ETH) validUntilTimeBetweenOrders 551 seconds
+DBG [30073-35 ] accountId  54324 sold__ NFT (to__ #133157) for   503.067 $ (0.375 ETH) validUntilTimeBetweenOrders 1015 seconds
+DBG [30094-209] accountId  54324 bought NFT (from # 92477) for   230.005 $ (0.170 ETH) validUntilTimeBetweenOrders 196 seconds
+DBG [30111-172] accountId  54324 bought NFT (from # 92477) for   152.585 $ (0.113 ETH) validUntilTimeBetweenOrders 156 seconds
+DBG [30118-133] accountId  54324 bought NFT (from # 92477) for   121.804 $ (0.090 ETH) validUntilTimeBetweenOrders 1785 seconds
+DBG [30118-199] accountId  54324 bought NFT (from # 92477) for   243.608 $ (0.180 ETH) validUntilTimeBetweenOrders 2045 seconds
+DBG [30123-26 ] accountId  54324 sold__ NFT (to__ #139134) for    94.865 $ (0.070 ETH) validUntilTimeBetweenOrders 66 seconds
+DBG [30124-238] accountId  54324 sold__ NFT (to__ #138864) for   101.494 $ (0.075 ETH) validUntilTimeBetweenOrders 485 seconds
+DBG [30124-239] accountId  54324 sold__ NFT (to__ #131301) for   108.260 $ (0.080 ETH) validUntilTimeBetweenOrders 528 seconds
+DBG [30146-33 ] accountId  54324 sold__ NFT (to__ #165588) for   111.204 $ (0.084 ETH) validUntilTimeBetweenOrders 54656 seconds
+DBG [30148-239] accountId  54324 sold__ NFT (to__ #164510) for   152.639 $ (0.115 ETH) validUntilTimeBetweenOrders 7045 seconds
+DBG [30151-283] accountId  54324 bought NFT (from #183513) for    66.327 $ (0.050 ETH) validUntilTimeBetweenOrders 272623 seconds
+DBG [30156-327] accountId  54324 bought NFT (from #165808) for    92.121 $ (0.069 ETH) validUntilTimeBetweenOrders 215 seconds
+DBG [30163-151] accountId  54324 sold__ NFT (to__ #167356) for    23.922 $ (0.018 ETH) validUntilTimeBetweenOrders 168194 seconds
+DBG [30188-58 ] accountId  54324 sold__ NFT (to__ #134905) for    18.555 $ (0.014 ETH) validUntilTimeBetweenOrders 18594 seconds
+DBG [30196-159] accountId  54324 bought NFT (from #183513) for    66.250 $ (0.050 ETH) validUntilTimeBetweenOrders 23586 seconds
+DBG [30225-82 ] accountId  54324 sold__ NFT (to__ # 64352) for    77.146 $ (0.059 ETH) validUntilTimeBetweenOrders 85438 seconds
+DBG [30225-120] accountId  54324 sold__ NFT (to__ #124602) for    77.800 $ (0.059 ETH) validUntilTimeBetweenOrders 81501 seconds
+DBG [30229-90 ] accountId  54324 sold__ NFT (to__ #124602) for     6.553 $ (0.005 ETH) validUntilTimeBetweenOrders 79657 seconds
+DBG [30272-49 ] accountId  54324 sold__ NFT (to__ #139717) for    18.182 $ (0.014 ETH) validUntilTimeBetweenOrders 128951 seconds
+DBG [30277-251] accountId  54324 bought NFT (from #161848) for   352.490 $ (0.270 ETH) validUntilTimeBetweenOrders 1999 seconds
+DBG [30314-80 ] accountId  54324 sold__ NFT (to__ #131505) for    75.922 $ (0.058 ETH) validUntilTimeBetweenOrders 51382 seconds
+DBG [30335-39 ] accountId  54324 sold__ NFT (to__ # 37993) for   105.424 $ (0.080 ETH) validUntilTimeBetweenOrders 150681 seconds
+DBG [30351-42 ] accountId  54324 bought NFT (from #165061) for   336.974 $ (0.255 ETH) validUntilTimeBetweenOrders 21056 seconds
+DBG [30367-39 ] accountId  54324 sold__ NFT (to__ #168624) for   139.222 $ (0.105 ETH) validUntilTimeBetweenOrders 3008 seconds
+DBG [30384-188] accountId  54324 sold__ NFT (to__ # 64352) for     9.489 $ (0.007 ETH) validUntilTimeBetweenOrders 38390 seconds
+DBG [30388-149] accountId  54324 bought NFT (from # 90399) for    53.951 $ (0.040 ETH) validUntilTimeBetweenOrders 2889 seconds
+DBG [30398-43 ] accountId  54324 sold__ NFT (to__ #162773) for   162.129 $ (0.120 ETH) validUntilTimeBetweenOrders 54735 seconds
+DBG [30492-267] accountId  54324 bought NFT (from #139448) for    13.504 $ (0.010 ETH) validUntilTimeBetweenOrders 2944 seconds
+DBG [30493-127] accountId  54324 bought NFT (from #139448) for    40.513 $ (0.030 ETH) validUntilTimeBetweenOrders 282 seconds
+DBG [30495-92 ] accountId  54324 bought NFT (from #139448) for    40.506 $ (0.030 ETH) validUntilTimeBetweenOrders 1105 seconds
+DBG [30495-103] accountId  54324 bought NFT (from #139448) for    40.506 $ (0.030 ETH) validUntilTimeBetweenOrders 1189 seconds
+DBG [30496-350] accountId  54324 bought NFT (from #139448) for    40.665 $ (0.030 ETH) validUntilTimeBetweenOrders 4570 seconds
+DBG [30504-68 ] accountId  54324 sold__ NFT (to__ #172445) for   164.875 $ (0.120 ETH) validUntilTimeBetweenOrders 1041830 seconds
+DBG [30504-325] accountId  54324 bought NFT (from #139448) for    13.729 $ (0.010 ETH) validUntilTimeBetweenOrders 17859 seconds
+DBG [30507-274] accountId  54324 bought NFT (from #139448) for    13.721 $ (0.010 ETH) validUntilTimeBetweenOrders 21306 seconds
+DBG [30507-277] accountId  54324 bought NFT (from #139448) for    13.721 $ (0.010 ETH) validUntilTimeBetweenOrders 20888 seconds
+DBG [30507-322] accountId  54324 bought NFT (from #139448) for    13.721 $ (0.010 ETH) validUntilTimeBetweenOrders 21306 seconds
+DBG [30519-294] accountId  54324 bought NFT (from #131505) for   102.344 $ (0.075 ETH) validUntilTimeBetweenOrders 14496 seconds
+DBG [30546-62 ] accountId  54324 bought NFT (from # 82667) for    20.428 $ (0.015 ETH) validUntilTimeBetweenOrders 1152910 seconds
+DBG [30546-68 ] accountId  54324 bought NFT (from # 82667) for    20.428 $ (0.015 ETH) validUntilTimeBetweenOrders 1072499 seconds
+DBG [30546-69 ] accountId  54324 bought NFT (from # 82667) for    20.428 $ (0.015 ETH) validUntilTimeBetweenOrders 1148705 seconds
+DBG [30546-86 ] accountId  54324 bought NFT (from # 82667) for    20.428 $ (0.015 ETH) validUntilTimeBetweenOrders 1150185 seconds
+DBG [30546-101] accountId  54324 bought NFT (from # 82667) for    20.407 $ (0.015 ETH) validUntilTimeBetweenOrders 1382250 seconds
+DBG [30546-106] accountId  54324 bought NFT (from # 82667) for    20.407 $ (0.015 ETH) validUntilTimeBetweenOrders 1382296 seconds
+DBG [30546-110] accountId  54324 bought NFT (from # 82667) for    20.407 $ (0.015 ETH) validUntilTimeBetweenOrders 1072769 seconds
+DBG [30546-124] accountId  54324 sold__ NFT (to__ #127929) for    63.263 $ (0.046 ETH) validUntilTimeBetweenOrders 12753 seconds
+DBG [30546-126] accountId  54324 bought NFT (from # 82667) for    20.407 $ (0.015 ETH) validUntilTimeBetweenOrders 1148974 seconds
+DBG [30546-128] accountId  54324 bought NFT (from # 82667) for    20.407 $ (0.015 ETH) validUntilTimeBetweenOrders 1295668 seconds
+DBG [30546-157] accountId  54324 bought NFT (from # 82667) for    20.407 $ (0.015 ETH) validUntilTimeBetweenOrders 1295752 seconds
+DBG [30546-187] accountId  54324 sold__ NFT (to__ # 60767) for    65.984 $ (0.049 ETH) validUntilTimeBetweenOrders 18015 seconds
+DBG [30559-13 ] accountId  54324 bought NFT (from # 43778) for     3.465 $ (0.003 ETH) validUntilTimeBetweenOrders 501 seconds
+DBG [30559-127] accountId  54324 bought NFT (from # 43778) for     3.465 $ (0.003 ETH) validUntilTimeBetweenOrders 705 seconds
+DBG [30559-134] accountId  54324 bought NFT (from # 43778) for     3.465 $ (0.003 ETH) validUntilTimeBetweenOrders 705 seconds
+DBG [30559-177] accountId  54324 bought NFT (from # 43778) for     3.465 $ (0.003 ETH) validUntilTimeBetweenOrders 705 seconds
+DBG [30559-189] accountId  54324 bought NFT (from # 43778) for     3.465 $ (0.003 ETH) validUntilTimeBetweenOrders 799 seconds
+DBG [30559-224] accountId  54324 bought NFT (from # 43778) for     3.465 $ (0.003 ETH) validUntilTimeBetweenOrders 828 seconds
+DBG [30560-31 ] accountId  54324 sold__ NFT (to__ #131505) for     4.482 $ (0.003 ETH) validUntilTimeBetweenOrders 65 seconds
+DBG [30560-111] accountId  54324 sold__ NFT (to__ #115539) for     2.989 $ (0.002 ETH) validUntilTimeBetweenOrders 61 seconds
+DBG [30560-112] accountId  54324 sold__ NFT (to__ #125000) for     2.989 $ (0.002 ETH) validUntilTimeBetweenOrders 85 seconds
+DBG [30560-184] accountId  54324 sold__ NFT (to__ #130278) for     3.397 $ (0.003 ETH) validUntilTimeBetweenOrders 5918 seconds
+DBG [30560-187] accountId  54324 sold__ NFT (to__ # 43591) for     3.397 $ (0.003 ETH) validUntilTimeBetweenOrders 108 seconds
+DBG [30566-310] accountId  54324 bought NFT (from #167575) for   108.623 $ (0.080 ETH) validUntilTimeBetweenOrders 410 seconds
+DBG [30594-26 ] accountId  54324 bought NFT (from #125722) for    13.262 $ (0.010 ETH) validUntilTimeBetweenOrders 4464 seconds
+DBG [30600-283] accountId  54324 bought NFT (from # 43778) for     5.337 $ (0.004 ETH) validUntilTimeBetweenOrders 1077 seconds
+DBG [30600-289] accountId  54324 bought NFT (from # 43778) for     5.337 $ (0.004 ETH) validUntilTimeBetweenOrders 1077 seconds
+DBG [30600-312] accountId  54324 bought NFT (from # 43778) for     5.337 $ (0.004 ETH) validUntilTimeBetweenOrders 1077 seconds
+DBG [30600-316] accountId  54324 bought NFT (from # 43778) for     5.337 $ (0.004 ETH) validUntilTimeBetweenOrders 1077 seconds
+DBG [30600-332] accountId  54324 bought NFT (from # 43778) for     5.337 $ (0.004 ETH) validUntilTimeBetweenOrders 1165 seconds
+DBG [30600-368] accountId  54324 bought NFT (from # 43778) for     5.337 $ (0.004 ETH) validUntilTimeBetweenOrders 1165 seconds
+DBG [30600-376] accountId  54324 bought NFT (from # 43778) for     5.337 $ (0.004 ETH) validUntilTimeBetweenOrders 1218 seconds
+DBG [30601-17 ] accountId  54324 bought NFT (from # 43778) for     5.337 $ (0.004 ETH) validUntilTimeBetweenOrders 1218 seconds
+DBG [30601-21 ] accountId  54324 bought NFT (from # 43778) for     5.337 $ (0.004 ETH) validUntilTimeBetweenOrders 1218 seconds
+DBG [30601-27 ] accountId  54324 bought NFT (from # 43778) for     5.337 $ (0.004 ETH) validUntilTimeBetweenOrders 1218 seconds
+DBG [30601-190] accountId  54324 bought NFT (from # 43778) for     5.337 $ (0.004 ETH) validUntilTimeBetweenOrders 1814 seconds
+DBG [30601-191] accountId  54324 bought NFT (from # 43778) for     5.337 $ (0.004 ETH) validUntilTimeBetweenOrders 1814 seconds
+DBG [30601-211] accountId  54324 bought NFT (from # 43778) for     5.337 $ (0.004 ETH) validUntilTimeBetweenOrders 1814 seconds
+DBG [30601-212] accountId  54324 bought NFT (from # 43778) for     5.337 $ (0.004 ETH) validUntilTimeBetweenOrders 1814 seconds
+DBG [30601-214] accountId  54324 bought NFT (from # 43778) for     5.337 $ (0.004 ETH) validUntilTimeBetweenOrders 1814 seconds
+DBG [30601-216] accountId  54324 bought NFT (from # 43778) for     5.337 $ (0.004 ETH) validUntilTimeBetweenOrders 1814 seconds
+DBG [30601-254] accountId  54324 bought NFT (from # 43778) for     5.337 $ (0.004 ETH) validUntilTimeBetweenOrders 2130 seconds
+DBG [30601-255] accountId  54324 bought NFT (from # 43778) for     5.337 $ (0.004 ETH) validUntilTimeBetweenOrders 2130 seconds
+DBG [30601-258] accountId  54324 bought NFT (from # 43778) for     5.337 $ (0.004 ETH) validUntilTimeBetweenOrders 2130 seconds
+DBG [30601-268] accountId  54324 bought NFT (from # 43778) for     5.337 $ (0.004 ETH) validUntilTimeBetweenOrders 2223 seconds
+DBG [30602-351] accountId  54324 sold__ NFT (to__ #136147) for    11.206 $ (0.008 ETH) validUntilTimeBetweenOrders 74256 seconds
+DBG [30617-108] accountId  54324 bought NFT (from # 43778) for     5.312 $ (0.004 ETH) validUntilTimeBetweenOrders 30817 seconds
+DBG [30617-111] accountId  54324 bought NFT (from # 43778) for     5.312 $ (0.004 ETH) validUntilTimeBetweenOrders 30817 seconds
+DBG [30617-116] accountId  54324 bought NFT (from # 43778) for     5.312 $ (0.004 ETH) validUntilTimeBetweenOrders 30817 seconds
+DBG [30617-125] accountId  54324 bought NFT (from # 43778) for     5.312 $ (0.004 ETH) validUntilTimeBetweenOrders 30817 seconds
+DBG [30617-140] accountId  54324 bought NFT (from # 43778) for     5.312 $ (0.004 ETH) validUntilTimeBetweenOrders 30817 seconds
+DBG [30617-145] accountId  54324 bought NFT (from # 43778) for     5.312 $ (0.004 ETH) validUntilTimeBetweenOrders 30817 seconds
+DBG [30617-148] accountId  54324 bought NFT (from # 43778) for     5.312 $ (0.004 ETH) validUntilTimeBetweenOrders 30817 seconds
+DBG [30617-169] accountId  54324 bought NFT (from # 43778) for     5.312 $ (0.004 ETH) validUntilTimeBetweenOrders 30817 seconds
+DBG [30617-181] accountId  54324 bought NFT (from # 43778) for     5.312 $ (0.004 ETH) validUntilTimeBetweenOrders 30961 seconds
+DBG [30617-187] accountId  54324 bought NFT (from # 43778) for     5.312 $ (0.004 ETH) validUntilTimeBetweenOrders 30961 seconds
+DBG [30617-224] accountId  54324 bought NFT (from # 43778) for     5.312 $ (0.004 ETH) validUntilTimeBetweenOrders 31068 seconds
+DBG [30617-226] accountId  54324 bought NFT (from # 43778) for     5.312 $ (0.004 ETH) validUntilTimeBetweenOrders 31068 seconds
+DBG [30617-231] accountId  54324 bought NFT (from # 43778) for     5.312 $ (0.004 ETH) validUntilTimeBetweenOrders 31068 seconds
+DBG [30617-238] accountId  54324 bought NFT (from # 43778) for     5.312 $ (0.004 ETH) validUntilTimeBetweenOrders 31068 seconds
+DBG [30617-239] accountId  54324 bought NFT (from # 43778) for     5.312 $ (0.004 ETH) validUntilTimeBetweenOrders 31068 seconds
+DBG [30617-242] accountId  54324 bought NFT (from # 43778) for     5.312 $ (0.004 ETH) validUntilTimeBetweenOrders 31068 seconds
+DBG [30617-245] accountId  54324 bought NFT (from # 43778) for     5.312 $ (0.004 ETH) validUntilTimeBetweenOrders 31068 seconds
+DBG [30617-265] accountId  54324 bought NFT (from # 43778) for     5.312 $ (0.004 ETH) validUntilTimeBetweenOrders 31068 seconds
+DBG [30617-272] accountId  54324 bought NFT (from # 43778) for     5.312 $ (0.004 ETH) validUntilTimeBetweenOrders 31215 seconds
+DBG [30617-289] accountId  54324 bought NFT (from # 43778) for     5.312 $ (0.004 ETH) validUntilTimeBetweenOrders 31215 seconds
+DBG [30617-320] accountId  54324 bought NFT (from # 43778) for     5.312 $ (0.004 ETH) validUntilTimeBetweenOrders 31295 seconds
+DBG [30617-322] accountId  54324 bought NFT (from # 43778) for     5.312 $ (0.004 ETH) validUntilTimeBetweenOrders 31295 seconds
+DBG [30617-324] accountId  54324 bought NFT (from # 43778) for     5.312 $ (0.004 ETH) validUntilTimeBetweenOrders 31295 seconds
+DBG [30617-332] accountId  54324 bought NFT (from # 43778) for     5.312 $ (0.004 ETH) validUntilTimeBetweenOrders 31295 seconds
+DBG [30617-336] accountId  54324 bought NFT (from # 43778) for     5.312 $ (0.004 ETH) validUntilTimeBetweenOrders 31382 seconds
+DBG [30617-338] accountId  54324 bought NFT (from # 43778) for     5.312 $ (0.004 ETH) validUntilTimeBetweenOrders 31382 seconds
+DBG [30617-350] accountId  54324 bought NFT (from # 43778) for     5.312 $ (0.004 ETH) validUntilTimeBetweenOrders 31429 seconds
+DBG [30617-353] accountId  54324 bought NFT (from # 43778) for     5.312 $ (0.004 ETH) validUntilTimeBetweenOrders 31429 seconds
+DBG [30619-99 ] accountId  54324 bought NFT (from # 43778) for     5.312 $ (0.004 ETH) validUntilTimeBetweenOrders 32874 seconds
+DBG [30619-114] accountId  54324 bought NFT (from # 43778) for     5.312 $ (0.004 ETH) validUntilTimeBetweenOrders 32874 seconds
+DBG [30619-118] accountId  54324 bought NFT (from # 43778) for     5.312 $ (0.004 ETH) validUntilTimeBetweenOrders 32874 seconds
+DBG [30619-122] accountId  54324 bought NFT (from # 43778) for     5.312 $ (0.004 ETH) validUntilTimeBetweenOrders 32874 seconds
+DBG [30619-141] accountId  54324 bought NFT (from # 43778) for     5.312 $ (0.004 ETH) validUntilTimeBetweenOrders 32874 seconds
+DBG [30619-144] accountId  54324 bought NFT (from # 43778) for     5.312 $ (0.004 ETH) validUntilTimeBetweenOrders 32874 seconds
+DBG [30619-146] accountId  54324 bought NFT (from # 43778) for     5.312 $ (0.004 ETH) validUntilTimeBetweenOrders 32874 seconds
+DBG [30619-154] accountId  54324 bought NFT (from # 43778) for     5.312 $ (0.004 ETH) validUntilTimeBetweenOrders 32874 seconds
+DBG [30619-156] accountId  54324 bought NFT (from # 43778) for     5.312 $ (0.004 ETH) validUntilTimeBetweenOrders 32874 seconds
+DBG [30619-173] accountId  54324 bought NFT (from # 43778) for     5.312 $ (0.004 ETH) validUntilTimeBetweenOrders 33099 seconds
+DBG [30619-176] accountId  54324 bought NFT (from # 43778) for     5.312 $ (0.004 ETH) validUntilTimeBetweenOrders 33099 seconds
+DBG [30619-190] accountId  54324 sold__ NFT (to__ #126821) for     4.250 $ (0.003 ETH) validUntilTimeBetweenOrders 11601 seconds
+DBG [30619-203] accountId  54324 sold__ NFT (to__ #126821) for     4.781 $ (0.004 ETH) validUntilTimeBetweenOrders 11840 seconds
+DBG [30630-200] accountId  54324 sold__ NFT (to__ #140362) for   276.566 $ (0.209 ETH) validUntilTimeBetweenOrders 814 seconds
+DBG [30633-136] accountId  54324 bought NFT (from #178517) for   264.441 $ (0.200 ETH) validUntilTimeBetweenOrders 93013 seconds
+DBG [30635-49 ] accountId  54324 bought NFT (from #178517) for   265.304 $ (0.200 ETH) validUntilTimeBetweenOrders 89040 seconds
+DBG [30642-133] accountId  54324 bought NFT (from #159407) for   132.197 $ (0.100 ETH) validUntilTimeBetweenOrders 1671 seconds
+DBG [30672-79 ] accountId  54324 bought NFT (from #126387) for     2.896 $ (10.000 LRC) validUntilTimeBetweenOrders 1275963 seconds
+DBG [30672-105] accountId  54324 bought NFT (from #126387) for     2.896 $ (10.000 LRC) validUntilTimeBetweenOrders 1284093 seconds
+DBG [30672-106] accountId  54324 bought NFT (from #126387) for     5.792 $ (20.000 LRC) validUntilTimeBetweenOrders 1247480 seconds
+DBG [30672-109] accountId  54324 bought NFT (from #126387) for     4.344 $ (15.000 LRC) validUntilTimeBetweenOrders 1244774 seconds
+DBG [30672-120] accountId  54324 bought NFT (from #126387) for     4.344 $ (15.000 LRC) validUntilTimeBetweenOrders 1244541 seconds
+DBG [30672-121] accountId  54324 bought NFT (from #126387) for     4.344 $ (15.000 LRC) validUntilTimeBetweenOrders 1244479 seconds
+DBG [30672-124] accountId  54324 bought NFT (from #126387) for     5.792 $ (20.000 LRC) validUntilTimeBetweenOrders 1244383 seconds
+DBG [30672-132] accountId  54324 bought NFT (from #126387) for     4.344 $ (15.000 LRC) validUntilTimeBetweenOrders 1244281 seconds
+DBG [30672-133] accountId  54324 bought NFT (from #126387) for     4.344 $ (15.000 LRC) validUntilTimeBetweenOrders 1244222 seconds
+DBG [30672-136] accountId  54324 bought NFT (from #126387) for     4.344 $ (15.000 LRC) validUntilTimeBetweenOrders 1244182 seconds
+DBG [30672-137] accountId  54324 bought NFT (from #126387) for     4.344 $ (15.000 LRC) validUntilTimeBetweenOrders 1244148 seconds
+DBG [30672-138] accountId  54324 bought NFT (from #126387) for     4.344 $ (15.000 LRC) validUntilTimeBetweenOrders 1244085 seconds
+DBG [30672-210] accountId  54324 bought NFT (from #126387) for     1.448 $ (5.000 LRC) validUntilTimeBetweenOrders 606580 seconds
+DBG [30672-212] accountId  54324 bought NFT (from #126387) for     2.896 $ (10.000 LRC) validUntilTimeBetweenOrders 606604 seconds
+DBG [30672-228] accountId  54324 bought NFT (from #126387) for     1.448 $ (5.000 LRC) validUntilTimeBetweenOrders 606780 seconds
+DBG [30673-9  ] accountId  54324 bought NFT (from #126387) for     1.448 $ (5.000 LRC) validUntilTimeBetweenOrders 606924 seconds
+DBG [30673-22 ] accountId  54324 bought NFT (from #126387) for     1.448 $ (5.000 LRC) validUntilTimeBetweenOrders 606928 seconds
+DBG [30673-23 ] accountId  54324 bought NFT (from #126387) for     1.448 $ (5.000 LRC) validUntilTimeBetweenOrders 607004 seconds
+DBG [30673-27 ] accountId  54324 bought NFT (from #126387) for     1.448 $ (5.000 LRC) validUntilTimeBetweenOrders 607000 seconds
+DBG [30673-64 ] accountId  54324 bought NFT (from #126387) for     2.902 $ (10.000 LRC) validUntilTimeBetweenOrders 1282645 seconds
+DBG [30673-65 ] accountId  54324 bought NFT (from #126387) for     2.902 $ (10.000 LRC) validUntilTimeBetweenOrders 1274459 seconds
+DBG [30686-26 ] accountId  54324 bought NFT (from #125993) for    10.551 $ (0.008 ETH) validUntilTimeBetweenOrders 10460 seconds
+DBG [30686-73 ] accountId  54324 bought NFT (from #126387) for     0.580 $ (2.000 LRC) validUntilTimeBetweenOrders 560257 seconds
+DBG [30686-76 ] accountId  54324 bought NFT (from #126387) for     0.580 $ (2.000 LRC) validUntilTimeBetweenOrders 560355 seconds
+DBG [30686-143] accountId  54324 sold__ NFT (to__ # 41019) for   171.976 $ (0.130 ETH) validUntilTimeBetweenOrders 15295 seconds
+DBG [30751-176] accountId  54324 sold__ NFT (to__ # 75590) for   153.477 $ (0.120 ETH) validUntilTimeBetweenOrders 1627268 seconds
+DBG [30792-78 ] accountId  54324 bought NFT (from #126387) for     4.011 $ (15.000 LRC) validUntilTimeBetweenOrders 1239247 seconds
+DBG [30792-91 ] accountId  54324 bought NFT (from #126387) for     4.011 $ (15.000 LRC) validUntilTimeBetweenOrders 1239214 seconds
+DBG [30792-92 ] accountId  54324 bought NFT (from #126387) for     4.011 $ (15.000 LRC) validUntilTimeBetweenOrders 1239194 seconds
+DBG [30792-93 ] accountId  54324 bought NFT (from #126387) for     4.011 $ (15.000 LRC) validUntilTimeBetweenOrders 1239179 seconds
+DBG [30792-97 ] accountId  54324 bought NFT (from #126387) for     4.011 $ (15.000 LRC) validUntilTimeBetweenOrders 1239163 seconds
+DBG [30792-98 ] accountId  54324 bought NFT (from #126387) for     4.011 $ (15.000 LRC) validUntilTimeBetweenOrders 1239143 seconds
+DBG [30792-99 ] accountId  54324 bought NFT (from #126387) for     5.348 $ (20.000 LRC) validUntilTimeBetweenOrders 1239379 seconds
+DBG [30792-104] accountId  54324 bought NFT (from #126387) for     5.348 $ (20.000 LRC) validUntilTimeBetweenOrders 1239362 seconds
+DBG [30792-105] accountId  54324 bought NFT (from #126387) for     5.348 $ (20.000 LRC) validUntilTimeBetweenOrders 1239345 seconds
+DBG [30792-106] accountId  54324 bought NFT (from #126387) for     5.348 $ (20.000 LRC) validUntilTimeBetweenOrders 1239320 seconds
+DBG [30792-111] accountId  54324 bought NFT (from #126387) for     5.348 $ (20.000 LRC) validUntilTimeBetweenOrders 1239256 seconds
+DBG [30792-112] accountId  54324 bought NFT (from #126387) for     5.348 $ (20.000 LRC) validUntilTimeBetweenOrders 1239236 seconds
+DBG [30792-126] accountId  54324 bought NFT (from #126387) for     5.348 $ (20.000 LRC) validUntilTimeBetweenOrders 1239212 seconds
+DBG [30792-127] accountId  54324 bought NFT (from #126387) for     5.348 $ (20.000 LRC) validUntilTimeBetweenOrders 1239195 seconds
+DBG [30816-166] accountId  54324 sold__ NFT (to__ #136147) for   104.141 $ (0.080 ETH) validUntilTimeBetweenOrders 2407 seconds
+DBG [30845-86 ] accountId  54324 bought NFT (from #126387) for     3.860 $ (15.000 LRC) validUntilTimeBetweenOrders 1158712 seconds
+DBG [30845-104] accountId  54324 bought NFT (from #126387) for     3.860 $ (15.000 LRC) validUntilTimeBetweenOrders 1158892 seconds
+DBG [30847-187] accountId  54324 sold__ NFT (to__ #169884) for    64.432 $ (0.050 ETH) validUntilTimeBetweenOrders 944966 seconds
+DBG [30879-1  ] accountId  54324 bought NFT (from #183393) for   271.220 $ (0.210 ETH) validUntilTimeBetweenOrders 986 seconds
+DBG [30885-296] accountId  54324 bought NFT (from #183393) for   107.826 $ (0.084 ETH) validUntilTimeBetweenOrders 1309 seconds
+DBG [30893-266] accountId  54324 sold__ NFT (to__ # 64049) for     8.809 $ (0.007 ETH) validUntilTimeBetweenOrders 568455 seconds
+DBG [30897-343] accountId  54324 sold__ NFT (to__ #163365) for    89.158 $ (0.069 ETH) validUntilTimeBetweenOrders 186 seconds
+DBG [30898-17 ] accountId  54324 sold__ NFT (to__ # 60718) for    89.949 $ (0.070 ETH) validUntilTimeBetweenOrders 192 seconds
+DBG [30899-228] accountId  54324 sold__ NFT (to__ #130340) for    18.061 $ (0.014 ETH) validUntilTimeBetweenOrders 18970 seconds
+DBG [30905-306] accountId  54324 sold__ NFT (to__ #157592) for    61.344 $ (0.046 ETH) validUntilTimeBetweenOrders 89 seconds
+DBG [30913-60 ] accountId  54324 sold__ NFT (to__ #124589) for     9.282 $ (0.007 ETH) validUntilTimeBetweenOrders 853377 seconds
+DBG [30916-47 ] accountId  54324 bought NFT (from #131505) for    66.263 $ (0.050 ETH) validUntilTimeBetweenOrders 10531 seconds
+DBG [30949-219] accountId  54324 bought NFT (from # 79731) for    42.802 $ (0.033 ETH) validUntilTimeBetweenOrders 8083 seconds
+DBG [30961-134] accountId  54324 sold__ NFT (to__ # 98266) for   558.565 $ (0.430 ETH) validUntilTimeBetweenOrders 5851 seconds
+DBG [30962-87 ] accountId  54324 bought NFT (from #135278) for    64.749 $ (0.050 ETH) validUntilTimeBetweenOrders 23350 seconds
+DBG [30992-122] accountId  54324 bought NFT (from #139448) for    12.859 $ (0.010 ETH) validUntilTimeBetweenOrders 851725 seconds
+DBG [30992-143] accountId  54324 bought NFT (from #139448) for    12.859 $ (0.010 ETH) validUntilTimeBetweenOrders 851725 seconds
+DBG [30993-1  ] accountId  54324 bought NFT (from #183513) for    64.295 $ (0.050 ETH) validUntilTimeBetweenOrders 81 seconds
+DBG [31005-371] accountId  54324 bought NFT (from # 69606) for    43.456 $ (0.034 ETH) validUntilTimeBetweenOrders 2533 seconds
+DBG [31007-217] accountId  54324 sold__ NFT (to__ #131505) for   159.986 $ (0.125 ETH) validUntilTimeBetweenOrders 295674 seconds
+DBG [31015-117] accountId  54324 bought NFT (from #139448) for    12.891 $ (0.010 ETH) validUntilTimeBetweenOrders 892446 seconds
+DBG [31015-127] accountId  54324 bought NFT (from #139448) for    12.891 $ (0.010 ETH) validUntilTimeBetweenOrders 892900 seconds
+DBG [31015-281] accountId  54324 bought NFT (from #135278) for    96.686 $ (0.075 ETH) validUntilTimeBetweenOrders 126812 seconds
+DBG [31021-231] accountId  54324 sold__ NFT (to__ #164906) for   109.397 $ (0.085 ETH) validUntilTimeBetweenOrders 7603 seconds
+DBG [31031-52 ] accountId  54324 bought NFT (from #166208) for    48.846 $ (0.038 ETH) validUntilTimeBetweenOrders 350 seconds
+DBG [31041-31 ] accountId  54324 sold__ NFT (to__ #166266) for   154.226 $ (0.118 ETH) validUntilTimeBetweenOrders 365256 seconds
+DBG [31094-127] accountId  54324 bought NFT (from #135278) for    33.408 $ (0.025 ETH) validUntilTimeBetweenOrders 270228 seconds
+DBG [31100-68 ] accountId  54324 sold__ NFT (to__ #164549) for    46.848 $ (0.035 ETH) validUntilTimeBetweenOrders 34180 seconds
+DBG [31110-110] accountId  54324 sold__ NFT (to__ #176509) for    66.677 $ (0.050 ETH) validUntilTimeBetweenOrders 1398109 seconds
+DBG [31133-114] accountId  54324 bought NFT (from # 65797) for   128.248 $ (500.000 LRC) validUntilTimeBetweenOrders 1295715 seconds
+DBG [31141-72 ] accountId  54324 sold__ NFT (to__ # 42317) for    65.430 $ (0.050 ETH) validUntilTimeBetweenOrders 400948 seconds
+DBG [31142-52 ] accountId  54324 sold__ NFT (to__ # 99465) for   163.626 $ (0.125 ETH) validUntilTimeBetweenOrders 70367 seconds
+DBG [31147-197] accountId  54324 sold__ NFT (to__ #166266) for   196.635 $ (0.150 ETH) validUntilTimeBetweenOrders 79960 seconds
+DBG [31178-218] accountId  54324 sold__ NFT (to__ #131505) for     3.510 $ (0.003 ETH) validUntilTimeBetweenOrders 1445 seconds
+DBG [31186-68 ] accountId  54324 sold__ NFT (to__ #166103) for   161.833 $ (0.125 ETH) validUntilTimeBetweenOrders 568768 seconds
+DBG [31186-208] accountId  54324 sold__ NFT (to__ #129278) for    58.221 $ (0.045 ETH) validUntilTimeBetweenOrders 10536 seconds
+DBG [31208-44 ] accountId  54324 bought NFT (from #174899) for    56.651 $ (0.044 ETH) validUntilTimeBetweenOrders 41481 seconds
+DBG [31208-45 ] accountId  54324 bought NFT (from #123320) for    56.664 $ (0.044 ETH) validUntilTimeBetweenOrders 60009 seconds
+DBG [31208-50 ] accountId  54324 bought NFT (from # 92477) for   115.903 $ (0.090 ETH) validUntilTimeBetweenOrders 1521891 seconds
+DBG [31223-222] accountId  54324 sold__ NFT (to__ #163366) for    58.625 $ (0.045 ETH) validUntilTimeBetweenOrders 164004 seconds
+DBG [31224-82 ] accountId  54324 sold__ NFT (to__ #151068) for    39.042 $ (0.030 ETH) validUntilTimeBetweenOrders 85091 seconds
+DBG [31226-337] accountId  54324 bought NFT (from # 52657) for    50.268 $ (200.000 LRC) validUntilTimeBetweenOrders 1286349 seconds
+DBG [31226-355] accountId  54324 bought NFT (from # 52657) for    50.268 $ (200.000 LRC) validUntilTimeBetweenOrders 1286311 seconds
+DBG [31227-59 ] accountId  54324 sold__ NFT (to__ #125916) for   154.279 $ (0.120 ETH) validUntilTimeBetweenOrders 224634 seconds
+DBG [31249-163] accountId  54324 bought NFT (from # 43778) for     5.145 $ (0.004 ETH) validUntilTimeBetweenOrders 1299 seconds
+DBG [31249-186] accountId  54324 bought NFT (from # 43778) for     5.145 $ (0.004 ETH) validUntilTimeBetweenOrders 1373 seconds
+DBG [31249-187] accountId  54324 bought NFT (from # 43778) for     5.145 $ (0.004 ETH) validUntilTimeBetweenOrders 1373 seconds
+DBG [31249-197] accountId  54324 bought NFT (from # 43778) for     5.145 $ (0.004 ETH) validUntilTimeBetweenOrders 1373 seconds
+DBG [31249-200] accountId  54324 bought NFT (from # 43778) for     5.145 $ (0.004 ETH) validUntilTimeBetweenOrders 1373 seconds
+DBG [31249-201] accountId  54324 bought NFT (from # 43778) for     5.145 $ (0.004 ETH) validUntilTimeBetweenOrders 1373 seconds
+DBG [31250-228] accountId  54324 bought NFT (from # 34812) for   128.045 $ (0.100 ETH) validUntilTimeBetweenOrders 33269 seconds
+DBG [31261-140] accountId  54324 bought NFT (from #135278) for    32.208 $ (0.025 ETH) validUntilTimeBetweenOrders 1141249 seconds
+DBG [31261-141] accountId  54324 bought NFT (from #135278) for    32.208 $ (0.025 ETH) validUntilTimeBetweenOrders 1141249 seconds
+DBG [31261-179] accountId  54324 bought NFT (from #148874) for    50.997 $ (0.040 ETH) validUntilTimeBetweenOrders 26068 seconds
+DBG [31300-329] accountId  54324 sold__ NFT (to__ #168723) for     2.073 $ (0.002 ETH) validUntilTimeBetweenOrders 7536 seconds
+DBG [31301-13 ] accountId  54324 sold__ NFT (to__ # 42753) for     2.073 $ (0.002 ETH) validUntilTimeBetweenOrders 7931 seconds
+DBG [31304-240] accountId  54324 bought NFT (from #135278) for    32.209 $ (0.025 ETH) validUntilTimeBetweenOrders 362 seconds
+DBG [31304-241] accountId  54324 bought NFT (from #135278) for    32.209 $ (0.025 ETH) validUntilTimeBetweenOrders 362 seconds
+DBG [31326-192] accountId  54324 sold__ NFT (to__ #173768) for    12.964 $ (0.010 ETH) validUntilTimeBetweenOrders 41504 seconds
+DBG [31327-177] accountId  54324 sold__ NFT (to__ # 38891) for    66.084 $ (0.051 ETH) validUntilTimeBetweenOrders 45407 seconds
+DBG [31333-120] accountId  54324 sold__ NFT (to__ #125952) for     5.302 $ (0.004 ETH) validUntilTimeBetweenOrders 1387 seconds
+DBG [31333-122] accountId  54324 sold__ NFT (to__ #125952) for     5.418 $ (0.004 ETH) validUntilTimeBetweenOrders 1387 seconds
+DBG [31350-40 ] accountId  54324 sold__ NFT (to__ #136554) for    85.425 $ (0.065 ETH) validUntilTimeBetweenOrders 3408702 seconds
+DBG [31351-193] accountId  54324 bought NFT (from # 60747) for    22.980 $ (0.018 ETH) validUntilTimeBetweenOrders 934485 seconds
+DBG [31353-215] accountId  54324 bought NFT (from #139448) for    13.126 $ (0.010 ETH) validUntilTimeBetweenOrders 1449189 seconds
+DBG [31353-266] accountId  54324 sold__ NFT (to__ #125916) for   157.924 $ (0.120 ETH) validUntilTimeBetweenOrders 397959 seconds
+DBG [31356-140] accountId  54324 sold__ NFT (to__ #121792) for    22.270 $ (0.017 ETH) validUntilTimeBetweenOrders 91526 seconds
+DBG [31358-43 ] accountId  54324 sold__ NFT (to__ #134811) for   120.431 $ (0.092 ETH) validUntilTimeBetweenOrders 96736 seconds
+DBG [31360-152] accountId  54324 sold__ NFT (to__ # 38589) for    29.426 $ (0.022 ETH) validUntilTimeBetweenOrders 47993 seconds
+DBG [31360-154] accountId  54324 sold__ NFT (to__ # 38589) for    26.104 $ (0.020 ETH) validUntilTimeBetweenOrders 47993 seconds
+DBG [31368-97 ] accountId  54324 bought NFT (from #126387) for     0.497 $ (2.000 LRC) validUntilTimeBetweenOrders 739941 seconds
+DBG [31368-99 ] accountId  54324 bought NFT (from #182530) for    36.493 $ (147.000 LRC) validUntilTimeBetweenOrders 217667 seconds
+DBG [31375-51 ] accountId  54324 bought NFT (from # 43778) for     5.245 $ (0.004 ETH) validUntilTimeBetweenOrders 184537 seconds
+DBG [31375-52 ] accountId  54324 bought NFT (from # 43778) for     5.245 $ (0.004 ETH) validUntilTimeBetweenOrders 184537 seconds
+DBG [31375-53 ] accountId  54324 bought NFT (from # 43778) for     5.245 $ (0.004 ETH) validUntilTimeBetweenOrders 184537 seconds
+DBG [31375-64 ] accountId  54324 bought NFT (from # 43778) for     5.245 $ (0.004 ETH) validUntilTimeBetweenOrders 184537 seconds
+DBG [31375-76 ] accountId  54324 bought NFT (from # 43778) for     5.245 $ (0.004 ETH) validUntilTimeBetweenOrders 184721 seconds
+DBG [31379-225] accountId  54324 bought NFT (from #172385) for    49.882 $ (0.038 ETH) validUntilTimeBetweenOrders 72981 seconds
+DBG [31383-137] accountId  54324 sold__ NFT (to__ #129905) for    52.541 $ (0.040 ETH) validUntilTimeBetweenOrders 133410 seconds
+DBG [31385-337] accountId  54324 sold__ NFT (to__ #168639) for    78.460 $ (0.060 ETH) validUntilTimeBetweenOrders 9226 seconds
+DBG [31426-383] accountId  54324 bought NFT (from #139448) for    13.625 $ (0.010 ETH) validUntilTimeBetweenOrders 1561308 seconds
+DBG [31427-10 ] accountId  54324 bought NFT (from #139448) for    13.625 $ (0.010 ETH) validUntilTimeBetweenOrders 1561726 seconds
+DBG [31432-192] accountId  54324 sold__ NFT (to__ #126014) for   108.265 $ (0.080 ETH) validUntilTimeBetweenOrders 7373 seconds
+DBG [31468-247] accountId  54324 sold__ NFT (to__ #161030) for    13.390 $ (0.010 ETH) validUntilTimeBetweenOrders 263168 seconds
+DBG [31484-55 ] accountId  54324 bought NFT (from # 36566) for    54.156 $ (0.040 ETH) validUntilTimeBetweenOrders 391 seconds
+DBG [31486-207] accountId  54324 bought NFT (from # 43778) for     5.391 $ (0.004 ETH) validUntilTimeBetweenOrders 220 seconds
+DBG [31486-264] accountId  54324 bought NFT (from # 43778) for     5.391 $ (0.004 ETH) validUntilTimeBetweenOrders 220 seconds
+DBG [31486-298] accountId  54324 bought NFT (from # 43778) for     5.391 $ (0.004 ETH) validUntilTimeBetweenOrders 220 seconds
+DBG [31486-309] accountId  54324 bought NFT (from # 43778) for     5.391 $ (0.004 ETH) validUntilTimeBetweenOrders 220 seconds
+DBG [31487-31 ] accountId  54324 bought NFT (from # 43778) for     5.391 $ (0.004 ETH) validUntilTimeBetweenOrders 359 seconds
+DBG [31487-122] accountId  54324 bought NFT (from # 43778) for     5.382 $ (0.004 ETH) validUntilTimeBetweenOrders 359 seconds
+DBG [31487-131] accountId  54324 bought NFT (from # 43778) for     5.382 $ (0.004 ETH) validUntilTimeBetweenOrders 359 seconds
+DBG [31487-139] accountId  54324 bought NFT (from # 43778) for     5.382 $ (0.004 ETH) validUntilTimeBetweenOrders 359 seconds
+DBG [31487-180] accountId  54324 bought NFT (from # 43778) for     5.382 $ (0.004 ETH) validUntilTimeBetweenOrders 359 seconds
+DBG [31487-229] accountId  54324 bought NFT (from # 43778) for     5.382 $ (0.004 ETH) validUntilTimeBetweenOrders 479 seconds
+DBG [31487-232] accountId  54324 bought NFT (from # 43778) for     5.382 $ (0.004 ETH) validUntilTimeBetweenOrders 479 seconds
+DBG [31487-235] accountId  54324 bought NFT (from # 43778) for     5.382 $ (0.004 ETH) validUntilTimeBetweenOrders 479 seconds
+DBG [31487-246] accountId  54324 bought NFT (from # 43778) for     5.382 $ (0.004 ETH) validUntilTimeBetweenOrders 479 seconds
+DBG [31487-247] accountId  54324 bought NFT (from # 43778) for     5.382 $ (0.004 ETH) validUntilTimeBetweenOrders 479 seconds
+DBG [31487-250] accountId  54324 bought NFT (from # 43778) for     5.382 $ (0.004 ETH) validUntilTimeBetweenOrders 479 seconds
+DBG [31487-261] accountId  54324 bought NFT (from # 43778) for     5.382 $ (0.004 ETH) validUntilTimeBetweenOrders 605 seconds
+DBG [31487-290] accountId  54324 bought NFT (from # 43778) for     5.371 $ (0.004 ETH) validUntilTimeBetweenOrders 605 seconds
+DBG [31487-292] accountId  54324 bought NFT (from # 43778) for     5.371 $ (0.004 ETH) validUntilTimeBetweenOrders 605 seconds
+DBG [31487-294] accountId  54324 bought NFT (from # 43778) for     5.371 $ (0.004 ETH) validUntilTimeBetweenOrders 605 seconds
+DBG [31488-131] accountId  54324 sold__ NFT (to__ #155277) for     0.927 $ (0.001 ETH) validUntilTimeBetweenOrders 152765 seconds
+DBG [31488-378] accountId  54324 bought NFT (from # 43778) for     5.373 $ (0.004 ETH) validUntilTimeBetweenOrders 347969 seconds
+DBG [31489-18 ] accountId  54324 bought NFT (from # 43778) for     5.373 $ (0.004 ETH) validUntilTimeBetweenOrders 348065 seconds
+DBG [31489-19 ] accountId  54324 bought NFT (from # 43778) for     5.373 $ (0.004 ETH) validUntilTimeBetweenOrders 348065 seconds
+DBG [31489-38 ] accountId  54324 bought NFT (from # 43778) for     5.373 $ (0.004 ETH) validUntilTimeBetweenOrders 348065 seconds
+DBG [31516-31 ] accountId  54324 sold__ NFT (to__ #153876) for    73.850 $ (0.055 ETH) validUntilTimeBetweenOrders 16152 seconds
+DBG [31526-136] accountId  54324 bought NFT (from #105813) for    98.355 $ (0.071 ETH) validUntilTimeBetweenOrders 174355 seconds
+DBG [31526-137] accountId  54324 bought NFT (from # 34812) for    99.741 $ (0.072 ETH) validUntilTimeBetweenOrders 85883 seconds
+DBG [31527-136] accountId  54324 sold__ NFT (to__ #100706) for    27.892 $ (0.020 ETH) validUntilTimeBetweenOrders 42628 seconds
+DBG [31528-72 ] accountId  54324 bought NFT (from #192576) for     1.300 $ (5.000 LRC) validUntilTimeBetweenOrders 1295914 seconds
+DBG [31538-303] accountId  54324 bought NFT (from #182530) for    22.388 $ (0.015 ETH) validUntilTimeBetweenOrders 14347 seconds
+DBG [31544-329] accountId  54324 bought NFT (from #139448) for   177.060 $ (0.120 ETH) validUntilTimeBetweenOrders 144 seconds
+DBG [31550-180] accountId  54324 bought NFT (from #139448) for    29.352 $ (0.020 ETH) validUntilTimeBetweenOrders 10682 seconds
+DBG [31560-336] accountId  54324 sold__ NFT (to__ #125916) for    29.687 $ (0.020 ETH) validUntilTimeBetweenOrders 3906 seconds
+DBG [31563-118] accountId  54324 sold__ NFT (to__ # 98256) for    29.654 $ (0.020 ETH) validUntilTimeBetweenOrders 171 seconds
+DBG [31564-155] accountId  54324 sold__ NFT (to__ #128869) for    14.827 $ (0.010 ETH) validUntilTimeBetweenOrders 566797 seconds
+DBG [31585-35 ] accountId  54324 sold__ NFT (to__ #100508) for    36.425 $ (0.023 ETH) validUntilTimeBetweenOrders 2605 seconds
+DBG [31585-187] accountId  54324 bought NFT (from #192576) for     1.337 $ (5.000 LRC) validUntilTimeBetweenOrders 1295908 seconds
+DBG [31589-30 ] accountId  54324 sold__ NFT (to__ # 54038) for    22.906 $ (0.015 ETH) validUntilTimeBetweenOrders 38835 seconds
+DBG [31590-328] accountId  54324 sold__ NFT (to__ #135308) for    43.292 $ (0.028 ETH) validUntilTimeBetweenOrders 555 seconds
+DBG [31604-73 ] accountId  54324 sold__ NFT (to__ #167741) for    18.751 $ (0.012 ETH) validUntilTimeBetweenOrders 1644471 seconds
+DBG [31608-34 ] accountId  54324 bought NFT (from #192576) for     1.326 $ (5.000 LRC) validUntilTimeBetweenOrders 1295912 seconds
+DBG [31608-276] accountId  54324 sold__ NFT (to__ #131644) for    15.663 $ (0.010 ETH) validUntilTimeBetweenOrders 632527 seconds
+DBG [31618-57 ] accountId  54324 bought NFT (from #183513) for    46.637 $ (0.030 ETH) validUntilTimeBetweenOrders 35274 seconds
+DBG [31618-58 ] accountId  54324 bought NFT (from #149840) for    45.082 $ (0.029 ETH) validUntilTimeBetweenOrders 33276 seconds
+DBG [31618-59 ] accountId  54324 bought NFT (from #183513) for    62.183 $ (0.040 ETH) validUntilTimeBetweenOrders 34269 seconds
+DBG [31618-109] accountId  54324 bought NFT (from #183513) for    46.462 $ (0.030 ETH) validUntilTimeBetweenOrders 35274 seconds
+DBG [31618-141] accountId  54324 bought NFT (from #183513) for    46.462 $ (0.030 ETH) validUntilTimeBetweenOrders 34739 seconds
+DBG [31618-142] accountId  54324 bought NFT (from #183513) for    61.950 $ (0.040 ETH) validUntilTimeBetweenOrders 34269 seconds
+DBG [31620-159] accountId  54324 sold__ NFT (to__ #128193) for    93.914 $ (0.060 ETH) validUntilTimeBetweenOrders 107192 seconds
+DBG [31646-268] accountId  54324 sold__ NFT (to__ # 61632) for    92.753 $ (0.060 ETH) validUntilTimeBetweenOrders 38076 seconds
+DBG [31780-56 ] accountId  54324 bought NFT (from # 43778) for     6.083 $ (0.004 ETH) validUntilTimeBetweenOrders 3390 seconds
+DBG [31780-87 ] accountId  54324 bought NFT (from # 43778) for     6.057 $ (0.004 ETH) validUntilTimeBetweenOrders 3433 seconds
+DBG [31780-88 ] accountId  54324 bought NFT (from # 43778) for     6.057 $ (0.004 ETH) validUntilTimeBetweenOrders 3433 seconds
+DBG [31780-89 ] accountId  54324 bought NFT (from # 43778) for     6.057 $ (0.004 ETH) validUntilTimeBetweenOrders 3433 seconds
+DBG [31780-91 ] accountId  54324 bought NFT (from # 43778) for     6.057 $ (0.004 ETH) validUntilTimeBetweenOrders 3433 seconds
+DBG [31780-97 ] accountId  54324 bought NFT (from # 43778) for     6.057 $ (0.004 ETH) validUntilTimeBetweenOrders 3433 seconds
+DBG [31780-98 ] accountId  54324 bought NFT (from # 43778) for     6.057 $ (0.004 ETH) validUntilTimeBetweenOrders 3433 seconds
+DBG [31780-99 ] accountId  54324 bought NFT (from # 43778) for     6.057 $ (0.004 ETH) validUntilTimeBetweenOrders 3433 seconds
+DBG [31780-118] accountId  54324 bought NFT (from #187028) for     5.981 $ (0.004 ETH) validUntilTimeBetweenOrders 2976 seconds
+DBG [31780-124] accountId  54324 bought NFT (from # 43778) for     6.057 $ (0.004 ETH) validUntilTimeBetweenOrders 3565 seconds
+DBG [31801-214] accountId  54324 sold__ NFT (to__ #187193) for     6.765 $ (0.004 ETH) validUntilTimeBetweenOrders 183301 seconds
+DBG [31801-217] accountId  54324 sold__ NFT (to__ #187193) for     8.118 $ (0.005 ETH) validUntilTimeBetweenOrders 183554 seconds
+DBG [31845-350] accountId  54324 sold__ NFT (to__ #112862) for   182.773 $ (669.000 LRC) validUntilTimeBetweenOrders 1295777 seconds
+DBG [31846-64 ] accountId  54324 sold__ NFT (to__ #126570) for   163.295 $ (0.105 ETH) validUntilTimeBetweenOrders 220450 seconds
+DBG [31855-265] accountId  54324 bought NFT (from #191909) for   140.334 $ (0.090 ETH) validUntilTimeBetweenOrders 8129 seconds
+DBG [31861-265] accountId  54324 bought NFT (from #191909) for   209.391 $ (0.135 ETH) validUntilTimeBetweenOrders 17334 seconds
+DBG [31865-221] accountId  54324 sold__ NFT (to__ #137231) for     5.482 $ (20.000 LRC) validUntilTimeBetweenOrders 1295577 seconds
+DBG [31871-270] accountId  54324 bought NFT (from #106492) for    47.409 $ (0.030 ETH) validUntilTimeBetweenOrders 3670 seconds
+DBG [31909-120] accountId  54324 sold__ NFT (to__ #133357) for    32.320 $ (0.020 ETH) validUntilTimeBetweenOrders 57324 seconds
+DBG [31936-174] accountId  54324 sold__ NFT (to__ #165588) for   102.335 $ (0.064 ETH) validUntilTimeBetweenOrders 68238 seconds
+DBG [31961-210] accountId  54324 bought NFT (from #175465) for    47.499 $ (0.030 ETH) validUntilTimeBetweenOrders 69760 seconds
+DBG [31969-59 ] accountId  54324 bought NFT (from # 43778) for     2.530 $ (0.002 ETH) validUntilTimeBetweenOrders 1998794 seconds
+DBG [31969-125] accountId  54324 bought NFT (from # 43778) for     1.265 $ (0.001 ETH) validUntilTimeBetweenOrders 1999216 seconds
+DBG [31994-146] accountId  54324 sold__ NFT (to__ #139975) for     3.908 $ (0.003 ETH) validUntilTimeBetweenOrders 201047 seconds
+DBG [32000-356] accountId  54324 sold__ NFT (to__ #121661) for    11.041 $ (0.007 ETH) validUntilTimeBetweenOrders 866952 seconds
+DBG [32166-311] accountId  54324 sold__ NFT (to__ #224635) for     6.157 $ (0.004 ETH) validUntilTimeBetweenOrders 214428 seconds
+DBG [32169-108] accountId  54324 sold__ NFT (to__ #134379) for     6.191 $ (0.004 ETH) validUntilTimeBetweenOrders 213801 seconds
+DBG [32201-110] accountId  54324 bought NFT (from #169542) for     3.125 $ (0.002 ETH) validUntilTimeBetweenOrders 10786 seconds
+DBG [32201-111] accountId  54324 bought NFT (from #169542) for     0.938 $ (0.001 ETH) validUntilTimeBetweenOrders 10833 seconds
+DBG [32201-119] accountId  54324 bought NFT (from #169542) for     1.094 $ (0.001 ETH) validUntilTimeBetweenOrders 10833 seconds
+DBG [32203-38 ] accountId  54324 bought NFT (from #191909) for    46.481 $ (0.030 ETH) validUntilTimeBetweenOrders 30144 seconds
+DBG [32203-107] accountId  54324 bought NFT (from #191909) for    46.469 $ (0.030 ETH) validUntilTimeBetweenOrders 33367 seconds
+DBG [32203-108] accountId  54324 bought NFT (from #191909) for    46.469 $ (0.030 ETH) validUntilTimeBetweenOrders 34093 seconds
+DBG [32203-142] accountId  54324 bought NFT (from #191909) for    46.455 $ (0.030 ETH) validUntilTimeBetweenOrders 30581 seconds
+DBG [32206-227] accountId  54324 bought NFT (from #191909) for    46.378 $ (0.030 ETH) validUntilTimeBetweenOrders 214 seconds
+DBG [32225-120] accountId  54324 bought NFT (from # 79443) for    52.590 $ (0.034 ETH) validUntilTimeBetweenOrders 157795 seconds
+DBG [32225-121] accountId  54324 bought NFT (from #130306) for    54.137 $ (0.035 ETH) validUntilTimeBetweenOrders 420192 seconds
+DBG [32225-134] accountId  54324 bought NFT (from # 79443) for    48.723 $ (0.032 ETH) validUntilTimeBetweenOrders 157833 seconds
+DBG [32225-135] accountId  54324 bought NFT (from #130306) for    51.043 $ (0.033 ETH) validUntilTimeBetweenOrders 419512 seconds
+DBG [32233-175] accountId  54324 sold__ NFT (to__ #224769) for    45.436 $ (0.029 ETH) validUntilTimeBetweenOrders 314012 seconds
+DBG [32258-280] accountId  54324 sold__ NFT (to__ # 51382) for     3.358 $ (10.000 LRC) validUntilTimeBetweenOrders 1290222 seconds
+DBG [32259-383] accountId  54324 sold__ NFT (to__ #168436) for    23.200 $ (0.015 ETH) validUntilTimeBetweenOrders 11533 seconds
+DBG [32313-2  ] accountId  54324 bought NFT (from # 61647) for   288.097 $ (0.175 ETH) validUntilTimeBetweenOrders 8017 seconds
+DBG [32335-25 ] accountId  54324 bought NFT (from # 61647) for   230.657 $ (0.140 ETH) validUntilTimeBetweenOrders 32524 seconds
+DBG [32338-3  ] accountId  54324 sold__ NFT (to__ #171808) for    82.250 $ (0.050 ETH) validUntilTimeBetweenOrders 2839 seconds
+DBG [32357-196] accountId  54324 sold__ NFT (to__ #163589) for    90.153 $ (0.055 ETH) validUntilTimeBetweenOrders 32968 seconds
+DBG [32370-74 ] accountId  54324 bought NFT (from #183604) for    65.129 $ (0.040 ETH) validUntilTimeBetweenOrders 88859 seconds
+DBG [32370-82 ] accountId  54324 bought NFT (from #183604) for    65.129 $ (0.040 ETH) validUntilTimeBetweenOrders 88860 seconds
+DBG [32370-93 ] accountId  54324 bought NFT (from #183604) for    65.129 $ (0.040 ETH) validUntilTimeBetweenOrders 86095 seconds
+DBG [32373-176] accountId  54324 bought NFT (from #191951) for    19.963 $ (0.012 ETH) validUntilTimeBetweenOrders 4787 seconds
+DBG [32373-177] accountId  54324 bought NFT (from #191951) for    18.015 $ (0.011 ETH) validUntilTimeBetweenOrders 4787 seconds
+DBG [32373-178] accountId  54324 bought NFT (from #191951) for    18.015 $ (0.011 ETH) validUntilTimeBetweenOrders 4787 seconds
+DBG [32382-95 ] accountId  54324 bought NFT (from # 82667) for   211.950 $ (0.130 ETH) validUntilTimeBetweenOrders 54136 seconds
+DBG [32417-26 ] accountId  54324 bought NFT (from # 45816) for    30.518 $ (0.019 ETH) validUntilTimeBetweenOrders 340 seconds
+DBG [32418-120] accountId  54324 bought NFT (from #174616) for    64.335 $ (0.040 ETH) validUntilTimeBetweenOrders 291 seconds
+DBG [32418-134] accountId  54324 bought NFT (from #179111) for   128.992 $ (0.080 ETH) validUntilTimeBetweenOrders 96635 seconds
+DBG [32419-69 ] accountId  54324 bought NFT (from #179111) for   112.403 $ (0.070 ETH) validUntilTimeBetweenOrders 97511 seconds
+DBG [32428-236] accountId  54324 sold__ NFT (to__ #162853) for    82.861 $ (0.052 ETH) validUntilTimeBetweenOrders 6720 seconds
+DBG [32468-100] accountId  54324 sold__ NFT (to__ #142952) for    81.066 $ (0.051 ETH) validUntilTimeBetweenOrders 15822 seconds
+DBG [32481-29 ] accountId  54324 sold__ NFT (to__ #176403) for     5.482 $ (0.004 ETH) validUntilTimeBetweenOrders 844433 seconds
+DBG [32484-87 ] accountId  54324 sold__ NFT (to__ #132895) for   157.527 $ (0.100 ETH) validUntilTimeBetweenOrders 3201057 seconds
+DBG [32502-140] accountId  54324 bought NFT (from #179111) for    59.720 $ (0.040 ETH) validUntilTimeBetweenOrders 219701 seconds
+DBG [32502-158] accountId  54324 bought NFT (from #179111) for   119.440 $ (0.080 ETH) validUntilTimeBetweenOrders 219623 seconds
+DBG [32502-181] accountId  54324 bought NFT (from #179111) for   104.648 $ (0.070 ETH) validUntilTimeBetweenOrders 219834 seconds
+DBG [32523-120] accountId  54324 bought NFT (from #186802) for    16.734 $ (0.011 ETH) validUntilTimeBetweenOrders 8208 seconds
+DBG [32567-244] accountId  54324 sold__ NFT (to__ # 40264) for    96.405 $ (0.074 ETH) validUntilTimeBetweenOrders 12708 seconds
+DBG [32568-6  ] accountId  54324 sold__ NFT (to__ # 40264) for    96.405 $ (0.074 ETH) validUntilTimeBetweenOrders 12607 seconds
+DBG [32601-148] accountId  54324 sold__ NFT (to__ #120454) for     2.982 $ (0.003 ETH) validUntilTimeBetweenOrders 15230 seconds
+DBG [32617-187] accountId  54324 sold__ NFT (to__ #168199) for     2.857 $ (0.003 ETH) validUntilTimeBetweenOrders 38539 seconds
+DBG [32673-177] accountId  54324 sold__ NFT (to__ #126200) for    75.155 $ (0.059 ETH) validUntilTimeBetweenOrders 73330 seconds
+DBG [32711-139] accountId  54324 bought NFT (from #155210) for    45.440 $ (0.036 ETH) validUntilTimeBetweenOrders 961 seconds
+DBG [32711-140] accountId  54324 bought NFT (from #171170) for    46.062 $ (0.037 ETH) validUntilTimeBetweenOrders 44191 seconds
+DBG [32711-141] accountId  54324 bought NFT (from #155210) for    48.552 $ (0.039 ETH) validUntilTimeBetweenOrders 1178 seconds
+DBG [32711-142] accountId  54324 bought NFT (from #171170) for    49.797 $ (0.040 ETH) validUntilTimeBetweenOrders 44245 seconds
+DBG [32727-57 ] accountId  54324 bought NFT (from #159583) for    25.269 $ (0.020 ETH) validUntilTimeBetweenOrders 9886 seconds
+DBG [32738-149] accountId  54324 bought NFT (from #191909) for    37.580 $ (0.030 ETH) validUntilTimeBetweenOrders 807074 seconds
+DBG [32738-150] accountId  54324 bought NFT (from #191909) for    37.580 $ (0.030 ETH) validUntilTimeBetweenOrders 806348 seconds
+DBG [32738-173] accountId  54324 bought NFT (from #191909) for    37.482 $ (0.030 ETH) validUntilTimeBetweenOrders 803703 seconds
+DBG [32738-174] accountId  54324 bought NFT (from #191909) for    37.482 $ (0.030 ETH) validUntilTimeBetweenOrders 804461 seconds
+DBG [32914-165] accountId  54324 sold__ NFT (to__ #134042) for    40.999 $ (0.033 ETH) validUntilTimeBetweenOrders 60 seconds
+DBG [32956-74 ] accountId  54324 bought NFT (from #131496) for    79.892 $ (0.064 ETH) validUntilTimeBetweenOrders 10842 seconds
+DBG [32956-102] accountId  54324 bought NFT (from #131496) for    97.464 $ (0.078 ETH) validUntilTimeBetweenOrders 10842 seconds
+DBG [32957-169] accountId  54324 sold__ NFT (to__ #143982) for    80.881 $ (0.064 ETH) validUntilTimeBetweenOrders 48610 seconds
+DBG [33045-130] accountId  54324 bought NFT (from #191909) for    36.234 $ (0.030 ETH) validUntilTimeBetweenOrders 47586 seconds
+DBG [33047-178] accountId  54324 bought NFT (from #134685) for    30.357 $ (0.025 ETH) validUntilTimeBetweenOrders 19150 seconds
+DBG [33047-184] accountId  54324 bought NFT (from #106489) for    17.398 $ (0.015 ETH) validUntilTimeBetweenOrders 19564 seconds
+DBG [33047-197] accountId  54324 bought NFT (from #106489) for    17.398 $ (0.015 ETH) validUntilTimeBetweenOrders 19564 seconds
+DBG [33103-58 ] accountId  54324 sold__ NFT (to__ # 41019) for    15.275 $ (0.013 ETH) validUntilTimeBetweenOrders 253734 seconds
+DBG [33142-37 ] accountId  54324 sold__ NFT (to__ #140901) for     1.236 $ (5.000 LRC) validUntilTimeBetweenOrders 314108 seconds
+DBG [33232-117] accountId  54324 sold__ NFT (to__ #171889) for   386.656 $ (0.330 ETH) validUntilTimeBetweenOrders 30177 seconds
+DBG [33244-77 ] accountId  54324 sold__ NFT (to__ #177841) for    38.057 $ (0.033 ETH) validUntilTimeBetweenOrders 1174649 seconds
+DBG [33244-266] accountId  54324 sold__ NFT (to__ #175653) for     3.513 $ (0.003 ETH) validUntilTimeBetweenOrders 476477 seconds

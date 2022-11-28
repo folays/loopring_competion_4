@@ -1,0 +1,371 @@
+DBG [29460-32 ] accountId  71856 bought NFT (from #107558) for    14.841 $ (50.000 LRC) validUntilTimeBetweenOrders 1179236 seconds
+DBG [29474-199] accountId  71856 sold__ NFT (to__ # 69747) for     7.418 $ (25.000 LRC) validUntilTimeBetweenOrders 1272952 seconds
+DBG [29487-97 ] accountId  71856 bought NFT (from #135763) for     1.537 $ (5.000 LRC) validUntilTimeBetweenOrders 1055349 seconds
+DBG [29487-98 ] accountId  71856 bought NFT (from #135763) for     1.537 $ (5.000 LRC) validUntilTimeBetweenOrders 1055336 seconds
+DBG [29487-99 ] accountId  71856 bought NFT (from #135763) for     1.537 $ (5.000 LRC) validUntilTimeBetweenOrders 1055327 seconds
+DBG [29487-100] accountId  71856 bought NFT (from #135763) for     1.537 $ (5.000 LRC) validUntilTimeBetweenOrders 1055314 seconds
+DBG [29487-101] accountId  71856 bought NFT (from #135763) for     1.537 $ (5.000 LRC) validUntilTimeBetweenOrders 1055305 seconds
+DBG [29487-119] accountId  71856 bought NFT (from #135763) for     1.537 $ (5.000 LRC) validUntilTimeBetweenOrders 1055298 seconds
+DBG [29487-120] accountId  71856 bought NFT (from #135763) for     1.537 $ (5.000 LRC) validUntilTimeBetweenOrders 1055291 seconds
+DBG [29487-121] accountId  71856 bought NFT (from #135763) for     1.537 $ (5.000 LRC) validUntilTimeBetweenOrders 1055284 seconds
+DBG [29487-122] accountId  71856 bought NFT (from #135763) for     1.537 $ (5.000 LRC) validUntilTimeBetweenOrders 1055275 seconds
+DBG [29487-123] accountId  71856 bought NFT (from #135763) for     1.537 $ (5.000 LRC) validUntilTimeBetweenOrders 1055262 seconds
+DBG [29487-124] accountId  71856 bought NFT (from #135763) for     1.537 $ (5.000 LRC) validUntilTimeBetweenOrders 1055255 seconds
+DBG [29487-131] accountId  71856 bought NFT (from #135763) for     1.537 $ (5.000 LRC) validUntilTimeBetweenOrders 1055244 seconds
+DBG [29487-132] accountId  71856 bought NFT (from #135763) for     1.537 $ (5.000 LRC) validUntilTimeBetweenOrders 1055233 seconds
+DBG [29487-133] accountId  71856 bought NFT (from #135763) for     1.537 $ (5.000 LRC) validUntilTimeBetweenOrders 1055225 seconds
+DBG [29487-134] accountId  71856 bought NFT (from #135763) for     1.537 $ (5.000 LRC) validUntilTimeBetweenOrders 1055212 seconds
+DBG [29487-135] accountId  71856 bought NFT (from #135763) for     1.537 $ (5.000 LRC) validUntilTimeBetweenOrders 1055205 seconds
+DBG [29487-136] accountId  71856 bought NFT (from #135763) for     1.537 $ (5.000 LRC) validUntilTimeBetweenOrders 1055194 seconds
+DBG [29487-163] accountId  71856 bought NFT (from #135763) for     1.534 $ (5.000 LRC) validUntilTimeBetweenOrders 1055188 seconds
+DBG [29487-164] accountId  71856 bought NFT (from #135763) for     1.534 $ (5.000 LRC) validUntilTimeBetweenOrders 1055180 seconds
+DBG [29487-165] accountId  71856 bought NFT (from #135763) for     1.534 $ (5.000 LRC) validUntilTimeBetweenOrders 1055170 seconds
+DBG [29487-202] accountId  71856 bought NFT (from # 55123) for     3.059 $ (10.000 LRC) validUntilTimeBetweenOrders 1263561 seconds
+DBG [29489-116] accountId  71856 bought NFT (from # 42577) for     3.067 $ (10.000 LRC) validUntilTimeBetweenOrders 1295157 seconds
+DBG [29490-242] accountId  71856 sold__ NFT (to__ # 47469) for     7.678 $ (25.000 LRC) validUntilTimeBetweenOrders 1246248 seconds
+DBG [29496-83 ] accountId  71856 sold__ NFT (to__ # 41603) for     0.462 $ (1.500 LRC) validUntilTimeBetweenOrders 571881 seconds
+DBG [29496-84 ] accountId  71856 sold__ NFT (to__ # 41603) for     0.462 $ (1.500 LRC) validUntilTimeBetweenOrders 571820 seconds
+DBG [29496-85 ] accountId  71856 sold__ NFT (to__ # 41603) for     0.462 $ (1.500 LRC) validUntilTimeBetweenOrders 571915 seconds
+DBG [29496-143] accountId  71856 sold__ NFT (to__ # 41603) for     0.464 $ (1.500 LRC) validUntilTimeBetweenOrders 571919 seconds
+DBG [29496-144] accountId  71856 sold__ NFT (to__ # 41603) for     0.464 $ (1.500 LRC) validUntilTimeBetweenOrders 571961 seconds
+DBG [29496-145] accountId  71856 sold__ NFT (to__ # 41603) for     0.464 $ (1.500 LRC) validUntilTimeBetweenOrders 571966 seconds
+DBG [29496-146] accountId  71856 sold__ NFT (to__ # 41603) for     0.464 $ (1.500 LRC) validUntilTimeBetweenOrders 571931 seconds
+DBG [29496-147] accountId  71856 sold__ NFT (to__ # 41603) for     0.464 $ (1.500 LRC) validUntilTimeBetweenOrders 572012 seconds
+DBG [29496-173] accountId  71856 sold__ NFT (to__ # 41603) for     0.464 $ (1.500 LRC) validUntilTimeBetweenOrders 572010 seconds
+DBG [29496-174] accountId  71856 sold__ NFT (to__ # 41603) for     0.464 $ (1.500 LRC) validUntilTimeBetweenOrders 572026 seconds
+DBG [29500-123] accountId  71856 bought NFT (from #161145) for     9.234 $ (30.000 LRC) validUntilTimeBetweenOrders 1295911 seconds
+DBG [29503-52 ] accountId  71856 bought NFT (from #156070) for     3.093 $ (10.000 LRC) validUntilTimeBetweenOrders 1295371 seconds
+DBG [29503-55 ] accountId  71856 bought NFT (from #156070) for     3.093 $ (10.000 LRC) validUntilTimeBetweenOrders 1295385 seconds
+DBG [29503-66 ] accountId  71856 bought NFT (from #156070) for     3.093 $ (10.000 LRC) validUntilTimeBetweenOrders 1295301 seconds
+DBG [29503-67 ] accountId  71856 bought NFT (from #156070) for     3.093 $ (10.000 LRC) validUntilTimeBetweenOrders 1295291 seconds
+DBG [29506-125] accountId  71856 bought NFT (from # 82253) for    77.350 $ (250.000 LRC) validUntilTimeBetweenOrders 1295011 seconds
+DBG [29519-106] accountId  71856 sold__ NFT (to__ #126376) for    93.963 $ (0.069 ETH) validUntilTimeBetweenOrders 6928 seconds
+DBG [29519-362] accountId  71856 bought NFT (from # 49902) for     9.304 $ (30.000 LRC) validUntilTimeBetweenOrders 1295535 seconds
+DBG [29550-280] accountId  71856 bought NFT (from # 62231) for    12.017 $ (40.000 LRC) validUntilTimeBetweenOrders 1292459 seconds
+DBG [29550-283] accountId  71856 bought NFT (from # 62231) for    12.017 $ (40.000 LRC) validUntilTimeBetweenOrders 1292470 seconds
+DBG [29550-284] accountId  71856 bought NFT (from # 62231) for    12.017 $ (40.000 LRC) validUntilTimeBetweenOrders 1292497 seconds
+DBG [29558-46 ] accountId  71856 bought NFT (from #113704) for    15.145 $ (50.000 LRC) validUntilTimeBetweenOrders 1289631 seconds
+DBG [29560-169] accountId  71856 bought NFT (from # 41677) for    40.184 $ (133.000 LRC) validUntilTimeBetweenOrders 1219577 seconds
+DBG [29613-229] accountId  71856 bought NFT (from # 62522) for     6.864 $ (23.000 LRC) validUntilTimeBetweenOrders 480866 seconds
+DBG [29643-378] accountId  71856 bought NFT (from # 75941) for    15.265 $ (50.000 LRC) validUntilTimeBetweenOrders 1295976 seconds
+DBG [29648-316] accountId  71856 bought NFT (from # 81371) for    12.996 $ (42.000 LRC) validUntilTimeBetweenOrders 1116661 seconds
+DBG [29662-100] accountId  71856 bought NFT (from # 75941) for    15.544 $ (50.000 LRC) validUntilTimeBetweenOrders 1295994 seconds
+DBG [29666-74 ] accountId  71856 bought NFT (from #156878) for     3.144 $ (10.000 LRC) validUntilTimeBetweenOrders 1295123 seconds
+DBG [29667-367] accountId  71856 bought NFT (from #132946) for     0.313 $ (1.000 LRC) validUntilTimeBetweenOrders 1295919 seconds
+DBG [29668-199] accountId  71856 sold__ NFT (to__ # 86933) for    15.575 $ (50.000 LRC) validUntilTimeBetweenOrders 1293488 seconds
+DBG [29695-72 ] accountId  71856 bought NFT (from #177802) for    20.795 $ (69.000 LRC) validUntilTimeBetweenOrders 1295983 seconds
+DBG [29705-109] accountId  71856 sold__ NFT (to__ #175024) for     4.474 $ (0.004 ETH) validUntilTimeBetweenOrders 311070 seconds
+DBG [29707-351] accountId  71856 bought NFT (from # 71525) for     1.207 $ (4.000 LRC) validUntilTimeBetweenOrders 1295862 seconds
+DBG [29727-4  ] accountId  71856 bought NFT (from #184193) for    13.838 $ (45.000 LRC) validUntilTimeBetweenOrders 712663 seconds
+DBG [29756-60 ] accountId  71856 bought NFT (from #188749) for   208.058 $ (0.155 ETH) validUntilTimeBetweenOrders 79102 seconds
+DBG [29757-287] accountId  71856 bought NFT (from #177802) for    21.183 $ (69.000 LRC) validUntilTimeBetweenOrders 1295955 seconds
+DBG [29776-381] accountId  71856 bought NFT (from #177802) for    20.446 $ (69.000 LRC) validUntilTimeBetweenOrders 1268891 seconds
+DBG [29780-152] accountId  71856 bought NFT (from #150146) for     0.298 $ (1.000 LRC) validUntilTimeBetweenOrders 1294484 seconds
+DBG [29780-169] accountId  71856 bought NFT (from #138049) for     1.489 $ (5.000 LRC) validUntilTimeBetweenOrders 1285827 seconds
+DBG [29829-95 ] accountId  71856 bought NFT (from #128380) for     2.949 $ (10.000 LRC) validUntilTimeBetweenOrders 1295045 seconds
+DBG [29829-96 ] accountId  71856 bought NFT (from #128380) for     2.949 $ (10.000 LRC) validUntilTimeBetweenOrders 1295030 seconds
+DBG [29829-97 ] accountId  71856 bought NFT (from #128380) for     2.949 $ (10.000 LRC) validUntilTimeBetweenOrders 1295019 seconds
+DBG [29829-180] accountId  71856 bought NFT (from #177802) for    20.440 $ (69.000 LRC) validUntilTimeBetweenOrders 1218596 seconds
+DBG [29829-221] accountId  71856 sold__ NFT (to__ # 86933) for    29.558 $ (100.000 LRC) validUntilTimeBetweenOrders 1295226 seconds
+DBG [29896-55 ] accountId  71856 sold__ NFT (to__ #127190) for     6.916 $ (0.005 ETH) validUntilTimeBetweenOrders 11771 seconds
+DBG [29901-146] accountId  71856 sold__ NFT (to__ #127190) for     7.878 $ (0.006 ETH) validUntilTimeBetweenOrders 17241 seconds
+DBG [29918-106] accountId  71856 sold__ NFT (to__ # 73488) for    51.836 $ (175.000 LRC) validUntilTimeBetweenOrders 1166068 seconds
+DBG [29950-24 ] accountId  71856 bought NFT (from #177405) for    57.097 $ (200.000 LRC) validUntilTimeBetweenOrders 1274630 seconds
+DBG [29953-187] accountId  71856 bought NFT (from #102277) for     7.183 $ (25.000 LRC) validUntilTimeBetweenOrders 1294042 seconds
+DBG [29955-12 ] accountId  71856 bought NFT (from # 49902) for     7.200 $ (25.000 LRC) validUntilTimeBetweenOrders 878493 seconds
+DBG [29980-151] accountId  71856 bought NFT (from # 62522) for     3.000 $ (10.000 LRC) validUntilTimeBetweenOrders 1295038 seconds
+DBG [29980-247] accountId  71856 bought NFT (from # 62522) for     3.000 $ (10.000 LRC) validUntilTimeBetweenOrders 1294997 seconds
+DBG [29980-249] accountId  71856 bought NFT (from # 62522) for     0.600 $ (2.000 LRC) validUntilTimeBetweenOrders 1294929 seconds
+DBG [29980-250] accountId  71856 bought NFT (from # 62522) for     0.300 $ (1.000 LRC) validUntilTimeBetweenOrders 1294880 seconds
+DBG [29983-2  ] accountId  71856 bought NFT (from #177802) for    21.064 $ (69.000 LRC) validUntilTimeBetweenOrders 991532 seconds
+DBG [29983-50 ] accountId  71856 bought NFT (from #177802) for    21.135 $ (69.000 LRC) validUntilTimeBetweenOrders 991383 seconds
+DBG [30011-7  ] accountId  71856 bought NFT (from # 71525) for     4.614 $ (15.000 LRC) validUntilTimeBetweenOrders 1102272 seconds
+DBG [30011-17 ] accountId  71856 bought NFT (from # 81371) for    12.918 $ (42.000 LRC) validUntilTimeBetweenOrders 1219901 seconds
+DBG [30011-18 ] accountId  71856 bought NFT (from # 81371) for    12.918 $ (42.000 LRC) validUntilTimeBetweenOrders 1219876 seconds
+DBG [30011-84 ] accountId  71856 bought NFT (from # 64770) for     0.308 $ (1.000 LRC) validUntilTimeBetweenOrders 1265407 seconds
+DBG [30011-85 ] accountId  71856 bought NFT (from # 64770) for     0.308 $ (1.000 LRC) validUntilTimeBetweenOrders 1265400 seconds
+DBG [30042-202] accountId  71856 bought NFT (from #110506) for    20.591 $ (69.000 LRC) validUntilTimeBetweenOrders 1294601 seconds
+DBG [30048-88 ] accountId  71856 bought NFT (from #189422) for     1.492 $ (5.000 LRC) validUntilTimeBetweenOrders 1218790 seconds
+DBG [30048-96 ] accountId  71856 bought NFT (from # 79103) for   126.862 $ (425.000 LRC) validUntilTimeBetweenOrders 1290597 seconds
+DBG [30069-111] accountId  71856 bought NFT (from # 98849) for     7.611 $ (25.000 LRC) validUntilTimeBetweenOrders 1294997 seconds
+DBG [30135-230] accountId  71856 sold__ NFT (to__ #126735) for    64.765 $ (0.048 ETH) validUntilTimeBetweenOrders 305 seconds
+DBG [30153-260] accountId  71856 bought NFT (from # 81371) for    16.316 $ (55.000 LRC) validUntilTimeBetweenOrders 1293543 seconds
+DBG [30161-23 ] accountId  71856 bought NFT (from #147810) for    11.924 $ (40.000 LRC) validUntilTimeBetweenOrders 1295171 seconds
+DBG [30226-28 ] accountId  71856 bought NFT (from #166288) for    26.151 $ (0.020 ETH) validUntilTimeBetweenOrders 22409 seconds
+DBG [30226-33 ] accountId  71856 bought NFT (from #166288) for    26.151 $ (0.020 ETH) validUntilTimeBetweenOrders 22409 seconds
+DBG [30242-25 ] accountId  71856 bought NFT (from # 97981) for    14.709 $ (50.000 LRC) validUntilTimeBetweenOrders 1291530 seconds
+DBG [30268-30 ] accountId  71856 bought NFT (from #135763) for     1.928 $ (6.660 LRC) validUntilTimeBetweenOrders 1191325 seconds
+DBG [30268-31 ] accountId  71856 bought NFT (from #135763) for     1.928 $ (6.660 LRC) validUntilTimeBetweenOrders 1191338 seconds
+DBG [30268-32 ] accountId  71856 bought NFT (from #135763) for     2.249 $ (7.770 LRC) validUntilTimeBetweenOrders 452789 seconds
+DBG [30268-49 ] accountId  71856 bought NFT (from #135763) for     2.249 $ (7.770 LRC) validUntilTimeBetweenOrders 452817 seconds
+DBG [30268-51 ] accountId  71856 bought NFT (from #135763) for     2.249 $ (7.770 LRC) validUntilTimeBetweenOrders 452886 seconds
+DBG [30268-68 ] accountId  71856 bought NFT (from #135763) for     2.249 $ (7.770 LRC) validUntilTimeBetweenOrders 452919 seconds
+DBG [30268-69 ] accountId  71856 bought NFT (from #135763) for     4.053 $ (14.000 LRC) validUntilTimeBetweenOrders 802128 seconds
+DBG [30268-71 ] accountId  71856 bought NFT (from #150146) for     0.290 $ (1.000 LRC) validUntilTimeBetweenOrders 645910 seconds
+DBG [30268-84 ] accountId  71856 bought NFT (from #135763) for     2.249 $ (7.770 LRC) validUntilTimeBetweenOrders 453042 seconds
+DBG [30268-85 ] accountId  71856 bought NFT (from #135763) for     2.249 $ (7.770 LRC) validUntilTimeBetweenOrders 453078 seconds
+DBG [30268-99 ] accountId  71856 bought NFT (from # 41721) for    12.159 $ (42.000 LRC) validUntilTimeBetweenOrders 1282776 seconds
+DBG [30277-72 ] accountId  71856 bought NFT (from # 81371) for     8.768 $ (30.000 LRC) validUntilTimeBetweenOrders 1290326 seconds
+DBG [30277-73 ] accountId  71856 bought NFT (from # 81371) for     8.768 $ (30.000 LRC) validUntilTimeBetweenOrders 1290317 seconds
+DBG [30277-74 ] accountId  71856 bought NFT (from # 81371) for     8.768 $ (30.000 LRC) validUntilTimeBetweenOrders 1290310 seconds
+DBG [30285-38 ] accountId  71856 bought NFT (from # 81371) for     8.721 $ (30.000 LRC) validUntilTimeBetweenOrders 1277118 seconds
+DBG [30285-39 ] accountId  71856 bought NFT (from # 81371) for     8.721 $ (30.000 LRC) validUntilTimeBetweenOrders 1277111 seconds
+DBG [30291-148] accountId  71856 bought NFT (from #150146) for     1.719 $ (6.000 LRC) validUntilTimeBetweenOrders 1295386 seconds
+DBG [30299-98 ] accountId  71856 bought NFT (from # 41721) for     7.128 $ (25.000 LRC) validUntilTimeBetweenOrders 1267753 seconds
+DBG [30321-248] accountId  71856 bought NFT (from # 38136) for    26.172 $ (90.000 LRC) validUntilTimeBetweenOrders 1294327 seconds
+DBG [30338-375] accountId  71856 bought NFT (from #167866) for     0.583 $ (2.000 LRC) validUntilTimeBetweenOrders 1289571 seconds
+DBG [30361-51 ] accountId  71856 bought NFT (from # 42141) for    10.896 $ (36.900 LRC) validUntilTimeBetweenOrders 808679 seconds
+DBG [30367-76 ] accountId  71856 bought NFT (from #148728) for     5.882 $ (20.000 LRC) validUntilTimeBetweenOrders 1295600 seconds
+DBG [30367-137] accountId  71856 bought NFT (from #142284) for     1.474 $ (5.000 LRC) validUntilTimeBetweenOrders 407284 seconds
+DBG [30367-153] accountId  71856 bought NFT (from #142284) for     1.474 $ (5.000 LRC) validUntilTimeBetweenOrders 407106 seconds
+DBG [30367-165] accountId  71856 bought NFT (from #142284) for     1.474 $ (5.000 LRC) validUntilTimeBetweenOrders 407133 seconds
+DBG [30367-182] accountId  71856 bought NFT (from # 86988) for     1.242 $ (4.200 LRC) validUntilTimeBetweenOrders 1139596 seconds
+DBG [30390-54 ] accountId  71856 bought NFT (from # 81371) for    16.429 $ (55.000 LRC) validUntilTimeBetweenOrders 980253 seconds
+DBG [30396-164] accountId  71856 bought NFT (from #126231) for     0.597 $ (2.000 LRC) validUntilTimeBetweenOrders 1295482 seconds
+DBG [30396-266] accountId  71856 bought NFT (from #126231) for     0.597 $ (2.000 LRC) validUntilTimeBetweenOrders 1295434 seconds
+DBG [30396-370] accountId  71856 bought NFT (from #135763) for     2.319 $ (7.770 LRC) validUntilTimeBetweenOrders 1187817 seconds
+DBG [30396-371] accountId  71856 bought NFT (from #135763) for     2.319 $ (7.770 LRC) validUntilTimeBetweenOrders 1187798 seconds
+DBG [30397-3  ] accountId  71856 bought NFT (from #135763) for     2.319 $ (7.770 LRC) validUntilTimeBetweenOrders 639405 seconds
+DBG [30415-64 ] accountId  71856 bought NFT (from #131505) for     5.948 $ (20.000 LRC) validUntilTimeBetweenOrders 1295151 seconds
+DBG [30434-30 ] accountId  71856 bought NFT (from #106934) for     5.972 $ (20.000 LRC) validUntilTimeBetweenOrders 1272971 seconds
+DBG [30484-42 ] accountId  71856 bought NFT (from #103028) for     0.885 $ (3.000 LRC) validUntilTimeBetweenOrders 1295812 seconds
+DBG [30508-142] accountId  71856 bought NFT (from # 73629) for     7.470 $ (25.000 LRC) validUntilTimeBetweenOrders 1251827 seconds
+DBG [30513-173] accountId  71856 bought NFT (from # 43002) for     0.298 $ (1.000 LRC) validUntilTimeBetweenOrders 1295629 seconds
+DBG [30514-274] accountId  71856 bought NFT (from #135763) for     1.983 $ (6.660 LRC) validUntilTimeBetweenOrders 273990 seconds
+DBG [30514-292] accountId  71856 bought NFT (from #135763) for     1.983 $ (6.660 LRC) validUntilTimeBetweenOrders 1064902 seconds
+DBG [30544-286] accountId  71856 bought NFT (from # 75941) for    29.437 $ (100.000 LRC) validUntilTimeBetweenOrders 1292471 seconds
+DBG [30570-19 ] accountId  71856 bought NFT (from #164076) for     1.166 $ (4.000 LRC) validUntilTimeBetweenOrders 1235238 seconds
+DBG [30584-277] accountId  71856 bought NFT (from #164076) for     0.576 $ (2.000 LRC) validUntilTimeBetweenOrders 1200610 seconds
+DBG [30584-278] accountId  71856 bought NFT (from #164076) for     0.576 $ (2.000 LRC) validUntilTimeBetweenOrders 1200573 seconds
+DBG [30607-68 ] accountId  71856 bought NFT (from # 81371) for     8.655 $ (30.000 LRC) validUntilTimeBetweenOrders 1018290 seconds
+DBG [30607-69 ] accountId  71856 bought NFT (from # 81371) for     8.655 $ (30.000 LRC) validUntilTimeBetweenOrders 1018261 seconds
+DBG [30607-92 ] accountId  71856 bought NFT (from # 81371) for    12.192 $ (42.000 LRC) validUntilTimeBetweenOrders 1274876 seconds
+DBG [30607-93 ] accountId  71856 bought NFT (from # 81371) for    12.192 $ (42.000 LRC) validUntilTimeBetweenOrders 1274856 seconds
+DBG [30609-4  ] accountId  71856 bought NFT (from # 60785) for    11.287 $ (39.000 LRC) validUntilTimeBetweenOrders 1295327 seconds
+DBG [30655-149] accountId  71856 bought NFT (from #189378) for     6.020 $ (21.000 LRC) validUntilTimeBetweenOrders 1256364 seconds
+DBG [30655-150] accountId  71856 bought NFT (from #189378) for     6.020 $ (21.000 LRC) validUntilTimeBetweenOrders 1256083 seconds
+DBG [30655-159] accountId  71856 bought NFT (from #189378) for     6.020 $ (21.000 LRC) validUntilTimeBetweenOrders 1256194 seconds
+DBG [30655-168] accountId  71856 bought NFT (from #189378) for     6.020 $ (21.000 LRC) validUntilTimeBetweenOrders 1256083 seconds
+DBG [30668-240] accountId  71856 bought NFT (from # 44378) for     7.250 $ (25.000 LRC) validUntilTimeBetweenOrders 1294806 seconds
+DBG [30669-144] accountId  71856 sold__ NFT (to__ #130531) for    80.752 $ (0.061 ETH) validUntilTimeBetweenOrders 582 seconds
+DBG [30694-37 ] accountId  71856 bought NFT (from #167188) for     0.581 $ (2.000 LRC) validUntilTimeBetweenOrders 1295565 seconds
+DBG [30785-78 ] accountId  71856 bought NFT (from # 76863) for    32.090 $ (120.000 LRC) validUntilTimeBetweenOrders 1289537 seconds
+DBG [30818-158] accountId  71856 bought NFT (from # 62522) for     0.266 $ (1.000 LRC) validUntilTimeBetweenOrders 1291945 seconds
+DBG [30818-178] accountId  71856 bought NFT (from # 62522) for     0.266 $ (1.000 LRC) validUntilTimeBetweenOrders 1291931 seconds
+DBG [30818-179] accountId  71856 bought NFT (from # 62522) for     0.266 $ (1.000 LRC) validUntilTimeBetweenOrders 1291921 seconds
+DBG [30889-227] accountId  71856 bought NFT (from # 38136) for     1.947 $ (7.500 LRC) validUntilTimeBetweenOrders 1291033 seconds
+DBG [30889-349] accountId  71856 bought NFT (from # 81371) for    10.854 $ (42.000 LRC) validUntilTimeBetweenOrders 1231497 seconds
+DBG [30889-350] accountId  71856 bought NFT (from # 81371) for    10.854 $ (42.000 LRC) validUntilTimeBetweenOrders 1231484 seconds
+DBG [30905-248] accountId  71856 bought NFT (from # 36566) for    45.898 $ (0.035 ETH) validUntilTimeBetweenOrders 7442 seconds
+DBG [30907-45 ] accountId  71856 sold__ NFT (to__ #124574) for    92.855 $ (350.000 LRC) validUntilTimeBetweenOrders 1294033 seconds
+DBG [30949-273] accountId  71856 bought NFT (from #140633) for    56.369 $ (222.000 LRC) validUntilTimeBetweenOrders 297758 seconds
+DBG [30949-280] accountId  71856 bought NFT (from # 90399) for    12.188 $ (48.000 LRC) validUntilTimeBetweenOrders 1235423 seconds
+DBG [31008-80 ] accountId  71856 bought NFT (from #176681) for     1.273 $ (5.000 LRC) validUntilTimeBetweenOrders 1286849 seconds
+DBG [31078-141] accountId  71856 bought NFT (from # 66911) for    22.459 $ (86.000 LRC) validUntilTimeBetweenOrders 1266888 seconds
+DBG [31133-170] accountId  71856 bought NFT (from #110506) for    24.367 $ (95.000 LRC) validUntilTimeBetweenOrders 1293737 seconds
+DBG [31137-200] accountId  71856 bought NFT (from # 44322) for     1.533 $ (6.000 LRC) validUntilTimeBetweenOrders 1293113 seconds
+DBG [31138-115] accountId  71856 bought NFT (from #100124) for     1.290 $ (5.000 LRC) validUntilTimeBetweenOrders 1295507 seconds
+DBG [31149-68 ] accountId  71856 bought NFT (from #138049) for    33.221 $ (130.000 LRC) validUntilTimeBetweenOrders 1271257 seconds
+DBG [31156-296] accountId  71856 bought NFT (from #122263) for    19.522 $ (0.015 ETH) validUntilTimeBetweenOrders 33012 seconds
+DBG [31156-383] accountId  71856 bought NFT (from #173642) for     5.100 $ (20.000 LRC) validUntilTimeBetweenOrders 1197623 seconds
+DBG [31183-219] accountId  71856 bought NFT (from # 62522) for     2.539 $ (10.000 LRC) validUntilTimeBetweenOrders 1295858 seconds
+DBG [31183-223] accountId  71856 bought NFT (from # 62522) for     2.539 $ (10.000 LRC) validUntilTimeBetweenOrders 1295834 seconds
+DBG [31184-28 ] accountId  71856 bought NFT (from # 62522) for     6.347 $ (25.000 LRC) validUntilTimeBetweenOrders 1295066 seconds
+DBG [31186-83 ] accountId  71856 bought NFT (from # 62522) for     2.528 $ (10.000 LRC) validUntilTimeBetweenOrders 1292497 seconds
+DBG [31186-222] accountId  71856 bought NFT (from # 62522) for     5.049 $ (20.000 LRC) validUntilTimeBetweenOrders 1291268 seconds
+DBG [31186-224] accountId  71856 bought NFT (from # 62522) for     5.049 $ (20.000 LRC) validUntilTimeBetweenOrders 1291263 seconds
+DBG [31186-241] accountId  71856 bought NFT (from # 62522) for    10.099 $ (40.000 LRC) validUntilTimeBetweenOrders 1291373 seconds
+DBG [31192-340] accountId  71856 bought NFT (from # 86933) for     8.641 $ (35.000 LRC) validUntilTimeBetweenOrders 1189481 seconds
+DBG [31197-172] accountId  71856 bought NFT (from # 44322) for     9.834 $ (40.000 LRC) validUntilTimeBetweenOrders 1282448 seconds
+DBG [31200-36 ] accountId  71856 bought NFT (from #176681) for     1.730 $ (7.000 LRC) validUntilTimeBetweenOrders 1294037 seconds
+DBG [31205-187] accountId  71856 bought NFT (from #191808) for     3.769 $ (15.000 LRC) validUntilTimeBetweenOrders 1294418 seconds
+DBG [31206-3  ] accountId  71856 bought NFT (from #191808) for     3.769 $ (15.000 LRC) validUntilTimeBetweenOrders 1294376 seconds
+DBG [31206-4  ] accountId  71856 bought NFT (from #191808) for     3.769 $ (15.000 LRC) validUntilTimeBetweenOrders 1294347 seconds
+DBG [31206-7  ] accountId  71856 bought NFT (from #191808) for     3.769 $ (15.000 LRC) validUntilTimeBetweenOrders 1294858 seconds
+DBG [31206-21 ] accountId  71856 bought NFT (from #191808) for     3.773 $ (15.000 LRC) validUntilTimeBetweenOrders 1295825 seconds
+DBG [31206-34 ] accountId  71856 bought NFT (from #191808) for     3.773 $ (15.000 LRC) validUntilTimeBetweenOrders 1295961 seconds
+DBG [31206-49 ] accountId  71856 bought NFT (from #191808) for     3.784 $ (15.000 LRC) validUntilTimeBetweenOrders 1295007 seconds
+DBG [31206-70 ] accountId  71856 bought NFT (from #191808) for     3.783 $ (15.000 LRC) validUntilTimeBetweenOrders 1294749 seconds
+DBG [31206-79 ] accountId  71856 bought NFT (from #191808) for     3.783 $ (15.000 LRC) validUntilTimeBetweenOrders 1292988 seconds
+DBG [31207-120] accountId  71856 bought NFT (from #191808) for     3.783 $ (15.000 LRC) validUntilTimeBetweenOrders 1292836 seconds
+DBG [31208-15 ] accountId  71856 bought NFT (from #191808) for     3.775 $ (15.000 LRC) validUntilTimeBetweenOrders 1295917 seconds
+DBG [31210-6  ] accountId  71856 bought NFT (from #182341) for    13.834 $ (55.000 LRC) validUntilTimeBetweenOrders 86537 seconds
+DBG [31273-36 ] accountId  71856 bought NFT (from #188330) for    16.938 $ (69.000 LRC) validUntilTimeBetweenOrders 691600 seconds
+DBG [31273-45 ] accountId  71856 bought NFT (from #188330) for    16.938 $ (69.000 LRC) validUntilTimeBetweenOrders 691639 seconds
+DBG [31273-55 ] accountId  71856 bought NFT (from #188330) for    16.938 $ (69.000 LRC) validUntilTimeBetweenOrders 691686 seconds
+DBG [31273-58 ] accountId  71856 bought NFT (from #188330) for    16.938 $ (69.000 LRC) validUntilTimeBetweenOrders 691727 seconds
+DBG [31273-79 ] accountId  71856 bought NFT (from #188330) for    16.938 $ (69.000 LRC) validUntilTimeBetweenOrders 691760 seconds
+DBG [31273-80 ] accountId  71856 bought NFT (from #188330) for    16.938 $ (69.000 LRC) validUntilTimeBetweenOrders 691829 seconds
+DBG [31274-202] accountId  71856 bought NFT (from #188330) for    16.954 $ (69.000 LRC) validUntilTimeBetweenOrders 694272 seconds
+DBG [31274-232] accountId  71856 bought NFT (from #188330) for    16.954 $ (69.000 LRC) validUntilTimeBetweenOrders 694356 seconds
+DBG [31274-276] accountId  71856 bought NFT (from #188330) for    16.954 $ (69.000 LRC) validUntilTimeBetweenOrders 694538 seconds
+DBG [31290-213] accountId  71856 bought NFT (from #188330) for    16.805 $ (69.000 LRC) validUntilTimeBetweenOrders 1295771 seconds
+DBG [31290-224] accountId  71856 bought NFT (from #188330) for    16.805 $ (69.000 LRC) validUntilTimeBetweenOrders 1295619 seconds
+DBG [31290-291] accountId  71856 bought NFT (from #188330) for    16.805 $ (69.000 LRC) validUntilTimeBetweenOrders 1295848 seconds
+DBG [31290-308] accountId  71856 bought NFT (from #188330) for    16.805 $ (69.000 LRC) validUntilTimeBetweenOrders 1295775 seconds
+DBG [31291-45 ] accountId  71856 bought NFT (from #188330) for    16.862 $ (69.000 LRC) validUntilTimeBetweenOrders 1295536 seconds
+DBG [31308-278] accountId  71856 sold__ NFT (to__ #133357) for     7.823 $ (0.006 ETH) validUntilTimeBetweenOrders 2128834 seconds
+DBG [31325-154] accountId  71856 bought NFT (from # 62522) for     2.472 $ (10.000 LRC) validUntilTimeBetweenOrders 1092488 seconds
+DBG [31325-182] accountId  71856 bought NFT (from # 62522) for     2.472 $ (10.000 LRC) validUntilTimeBetweenOrders 1092488 seconds
+DBG [31325-183] accountId  71856 bought NFT (from # 62522) for     2.472 $ (10.000 LRC) validUntilTimeBetweenOrders 1092504 seconds
+DBG [31325-184] accountId  71856 bought NFT (from # 62522) for     2.472 $ (10.000 LRC) validUntilTimeBetweenOrders 1092508 seconds
+DBG [31350-376] accountId  71856 bought NFT (from # 86933) for    12.505 $ (50.000 LRC) validUntilTimeBetweenOrders 956702 seconds
+DBG [31366-166] accountId  71856 bought NFT (from # 62522) for     3.739 $ (15.000 LRC) validUntilTimeBetweenOrders 1023034 seconds
+DBG [31366-168] accountId  71856 bought NFT (from # 62522) for     3.739 $ (15.000 LRC) validUntilTimeBetweenOrders 1022902 seconds
+DBG [31379-122] accountId  71856 bought NFT (from # 93844) for     4.991 $ (20.000 LRC) validUntilTimeBetweenOrders 1276839 seconds
+DBG [31406-316] accountId  71856 bought NFT (from #188330) for    16.995 $ (69.000 LRC) validUntilTimeBetweenOrders 1295908 seconds
+DBG [31406-327] accountId  71856 bought NFT (from #188330) for    16.995 $ (69.000 LRC) validUntilTimeBetweenOrders 1295884 seconds
+DBG [31407-91 ] accountId  71856 bought NFT (from # 93844) for     4.926 $ (20.000 LRC) validUntilTimeBetweenOrders 1294707 seconds
+DBG [31417-17 ] accountId  71856 bought NFT (from #156530) for    17.257 $ (69.000 LRC) validUntilTimeBetweenOrders 1295956 seconds
+DBG [31428-241] accountId  71856 bought NFT (from #188805) for   251.315 $ (1000.000 LRC) validUntilTimeBetweenOrders 1141954 seconds
+DBG [31429-69 ] accountId  71856 bought NFT (from #191808) for     3.807 $ (15.000 LRC) validUntilTimeBetweenOrders 1295985 seconds
+DBG [31429-84 ] accountId  71856 bought NFT (from #191808) for     3.807 $ (15.000 LRC) validUntilTimeBetweenOrders 1295966 seconds
+DBG [31429-87 ] accountId  71856 bought NFT (from #191808) for     3.807 $ (15.000 LRC) validUntilTimeBetweenOrders 1295969 seconds
+DBG [31433-132] accountId  71856 bought NFT (from #115183) for    12.104 $ (48.000 LRC) validUntilTimeBetweenOrders 1176898 seconds
+DBG [31439-94 ] accountId  71856 bought NFT (from #188330) for    17.228 $ (69.000 LRC) validUntilTimeBetweenOrders 1295805 seconds
+DBG [31439-95 ] accountId  71856 bought NFT (from #188330) for    17.228 $ (69.000 LRC) validUntilTimeBetweenOrders 1295801 seconds
+DBG [31439-106] accountId  71856 bought NFT (from #188330) for    17.228 $ (69.000 LRC) validUntilTimeBetweenOrders 1295672 seconds
+DBG [31439-121] accountId  71856 bought NFT (from #188330) for    17.228 $ (69.000 LRC) validUntilTimeBetweenOrders 1295558 seconds
+DBG [31440-82 ] accountId  71856 bought NFT (from #188330) for    17.159 $ (69.000 LRC) validUntilTimeBetweenOrders 1294531 seconds
+DBG [31440-124] accountId  71856 bought NFT (from #188330) for    17.159 $ (69.000 LRC) validUntilTimeBetweenOrders 1294211 seconds
+DBG [31441-49 ] accountId  71856 bought NFT (from #188330) for    17.159 $ (69.000 LRC) validUntilTimeBetweenOrders 1293149 seconds
+DBG [31460-116] accountId  71856 bought NFT (from # 93844) for     3.715 $ (15.000 LRC) validUntilTimeBetweenOrders 1295930 seconds
+DBG [31460-146] accountId  71856 bought NFT (from # 93844) for     4.934 $ (20.000 LRC) validUntilTimeBetweenOrders 1295952 seconds
+DBG [31460-148] accountId  71856 bought NFT (from # 93844) for     3.700 $ (15.000 LRC) validUntilTimeBetweenOrders 1295878 seconds
+DBG [31468-185] accountId  71856 bought NFT (from #139842) for     1.732 $ (7.000 LRC) validUntilTimeBetweenOrders 1295722 seconds
+DBG [31472-91 ] accountId  71856 bought NFT (from # 74828) for    24.702 $ (100.000 LRC) validUntilTimeBetweenOrders 691321 seconds
+DBG [31475-294] accountId  71856 bought NFT (from #192576) for     1.238 $ (5.000 LRC) validUntilTimeBetweenOrders 1295931 seconds
+DBG [31476-68 ] accountId  71856 bought NFT (from # 54779) for     7.425 $ (30.000 LRC) validUntilTimeBetweenOrders 1295961 seconds
+DBG [31493-109] accountId  71856 sold__ NFT (to__ #129206) for    80.740 $ (0.060 ETH) validUntilTimeBetweenOrders 12719 seconds
+DBG [31500-264] accountId  71856 bought NFT (from #192576) for     1.250 $ (5.000 LRC) validUntilTimeBetweenOrders 1295965 seconds
+DBG [31500-279] accountId  71856 bought NFT (from #192576) for     1.250 $ (5.000 LRC) validUntilTimeBetweenOrders 1295947 seconds
+DBG [31501-52 ] accountId  71856 sold__ NFT (to__ #136778) for   124.416 $ (500.000 LRC) validUntilTimeBetweenOrders 1295879 seconds
+DBG [31501-91 ] accountId  71856 bought NFT (from # 75941) for    24.634 $ (99.000 LRC) validUntilTimeBetweenOrders 470336 seconds
+DBG [31501-153] accountId  71856 bought NFT (from #161408) for     7.501 $ (30.000 LRC) validUntilTimeBetweenOrders 1294499 seconds
+DBG [31501-154] accountId  71856 bought NFT (from #161408) for     7.501 $ (30.000 LRC) validUntilTimeBetweenOrders 1294475 seconds
+DBG [31532-169] accountId  71856 bought NFT (from #106934) for     5.290 $ (20.000 LRC) validUntilTimeBetweenOrders 1292159 seconds
+DBG [31537-294] accountId  71856 sold__ NFT (to__ # 62522) for    52.528 $ (200.000 LRC) validUntilTimeBetweenOrders 1112324 seconds
+DBG [31538-157] accountId  71856 sold__ NFT (to__ #140901) for    78.164 $ (300.000 LRC) validUntilTimeBetweenOrders 1240028 seconds
+DBG [31565-36 ] accountId  71856 bought NFT (from #120264) for    19.778 $ (75.000 LRC) validUntilTimeBetweenOrders 264046 seconds
+DBG [31590-16 ] accountId  71856 bought NFT (from #106934) for     5.339 $ (20.000 LRC) validUntilTimeBetweenOrders 1295903 seconds
+DBG [31795-338] accountId  71856 bought NFT (from #140725) for    13.593 $ (50.000 LRC) validUntilTimeBetweenOrders 940443 seconds
+DBG [31895-182] accountId  71856 bought NFT (from #152678) for    13.767 $ (50.000 LRC) validUntilTimeBetweenOrders 1294025 seconds
+DBG [31922-76 ] accountId  71856 bought NFT (from # 44322) for    16.998 $ (60.000 LRC) validUntilTimeBetweenOrders 1287892 seconds
+DBG [31922-77 ] accountId  71856 bought NFT (from #152678) for     2.833 $ (10.000 LRC) validUntilTimeBetweenOrders 1249147 seconds
+DBG [31959-366] accountId  71856 bought NFT (from #129015) for     5.611 $ (20.000 LRC) validUntilTimeBetweenOrders 1295781 seconds
+DBG [31959-367] accountId  71856 bought NFT (from # 85070) for    14.028 $ (50.000 LRC) validUntilTimeBetweenOrders 1293541 seconds
+DBG [31960-41 ] accountId  71856 bought NFT (from # 80446) for    19.359 $ (69.000 LRC) validUntilTimeBetweenOrders 1294784 seconds
+DBG [31960-42 ] accountId  71856 bought NFT (from #188218) for    19.359 $ (69.000 LRC) validUntilTimeBetweenOrders 1294838 seconds
+DBG [31960-115] accountId  71856 bought NFT (from # 81371) for     5.591 $ (20.000 LRC) validUntilTimeBetweenOrders 1295955 seconds
+DBG [31973-44 ] accountId  71856 bought NFT (from # 78263) for     6.915 $ (25.000 LRC) validUntilTimeBetweenOrders 1225444 seconds
+DBG [31973-45 ] accountId  71856 bought NFT (from # 78263) for     6.915 $ (25.000 LRC) validUntilTimeBetweenOrders 1225435 seconds
+DBG [31973-46 ] accountId  71856 bought NFT (from # 78263) for     6.915 $ (25.000 LRC) validUntilTimeBetweenOrders 1225428 seconds
+DBG [31973-47 ] accountId  71856 bought NFT (from # 78263) for     6.915 $ (25.000 LRC) validUntilTimeBetweenOrders 1225421 seconds
+DBG [31973-48 ] accountId  71856 bought NFT (from # 78263) for     6.915 $ (25.000 LRC) validUntilTimeBetweenOrders 1225414 seconds
+DBG [31973-49 ] accountId  71856 bought NFT (from # 78263) for     6.915 $ (25.000 LRC) validUntilTimeBetweenOrders 1225406 seconds
+DBG [31977-177] accountId  71856 bought NFT (from #161408) for    19.341 $ (69.000 LRC) validUntilTimeBetweenOrders 1295955 seconds
+DBG [31977-192] accountId  71856 bought NFT (from #161408) for    19.341 $ (69.000 LRC) validUntilTimeBetweenOrders 1295926 seconds
+DBG [31977-193] accountId  71856 bought NFT (from #161408) for    19.341 $ (69.000 LRC) validUntilTimeBetweenOrders 1295892 seconds
+DBG [32009-51 ] accountId  71856 bought NFT (from #138049) for    35.404 $ (130.000 LRC) validUntilTimeBetweenOrders 1289821 seconds
+DBG [32090-22 ] accountId  71856 bought NFT (from #142284) for     0.814 $ (3.000 LRC) validUntilTimeBetweenOrders 1295751 seconds
+DBG [32090-61 ] accountId  71856 bought NFT (from # 66155) for    11.577 $ (42.690 LRC) validUntilTimeBetweenOrders 1295703 seconds
+DBG [32129-10 ] accountId  71856 bought NFT (from #174387) for    13.295 $ (50.000 LRC) validUntilTimeBetweenOrders 159284 seconds
+DBG [32129-34 ] accountId  71856 bought NFT (from #174387) for    13.300 $ (50.000 LRC) validUntilTimeBetweenOrders 159783 seconds
+DBG [32130-80 ] accountId  71856 bought NFT (from #115183) for    13.059 $ (49.000 LRC) validUntilTimeBetweenOrders 953193 seconds
+DBG [32130-81 ] accountId  71856 bought NFT (from #142284) for     2.665 $ (10.000 LRC) validUntilTimeBetweenOrders 1295586 seconds
+DBG [32132-57 ] accountId  71856 bought NFT (from #155028) for     3.970 $ (15.000 LRC) validUntilTimeBetweenOrders 130308 seconds
+DBG [32132-58 ] accountId  71856 bought NFT (from #155028) for     3.970 $ (15.000 LRC) validUntilTimeBetweenOrders 130280 seconds
+DBG [32132-68 ] accountId  71856 bought NFT (from #155028) for     3.970 $ (15.000 LRC) validUntilTimeBetweenOrders 130243 seconds
+DBG [32132-69 ] accountId  71856 bought NFT (from #155028) for     3.970 $ (15.000 LRC) validUntilTimeBetweenOrders 130220 seconds
+DBG [32132-151] accountId  71856 bought NFT (from # 62522) for     0.264 $ (1.000 LRC) validUntilTimeBetweenOrders 865261 seconds
+DBG [32132-152] accountId  71856 bought NFT (from # 62522) for     0.264 $ (1.000 LRC) validUntilTimeBetweenOrders 865256 seconds
+DBG [32132-168] accountId  71856 bought NFT (from # 62522) for     0.264 $ (1.000 LRC) validUntilTimeBetweenOrders 865202 seconds
+DBG [32132-169] accountId  71856 bought NFT (from # 62522) for     0.264 $ (1.000 LRC) validUntilTimeBetweenOrders 865169 seconds
+DBG [32132-172] accountId  71856 bought NFT (from # 62522) for     0.264 $ (1.000 LRC) validUntilTimeBetweenOrders 865104 seconds
+DBG [32132-173] accountId  71856 bought NFT (from # 62522) for     0.264 $ (1.000 LRC) validUntilTimeBetweenOrders 865105 seconds
+DBG [32226-31 ] accountId  71856 bought NFT (from # 86933) for    40.085 $ (147.690 LRC) validUntilTimeBetweenOrders 1292213 seconds
+DBG [32353-48 ] accountId  71856 bought NFT (from # 49902) for    17.893 $ (50.000 LRC) validUntilTimeBetweenOrders 1290250 seconds
+DBG [32355-115] accountId  71856 bought NFT (from #189378) for     7.520 $ (21.000 LRC) validUntilTimeBetweenOrders 1283895 seconds
+DBG [32355-116] accountId  71856 bought NFT (from #189378) for     7.520 $ (21.000 LRC) validUntilTimeBetweenOrders 1283879 seconds
+DBG [32355-117] accountId  71856 bought NFT (from #189378) for     7.520 $ (21.000 LRC) validUntilTimeBetweenOrders 1283780 seconds
+DBG [32355-322] accountId  71856 bought NFT (from #189378) for     7.538 $ (21.000 LRC) validUntilTimeBetweenOrders 1283748 seconds
+DBG [32355-324] accountId  71856 bought NFT (from #188805) for    35.897 $ (100.000 LRC) validUntilTimeBetweenOrders 990756 seconds
+DBG [32355-331] accountId  71856 bought NFT (from #188805) for    35.897 $ (100.000 LRC) validUntilTimeBetweenOrders 990747 seconds
+DBG [32355-332] accountId  71856 bought NFT (from #188805) for    35.897 $ (100.000 LRC) validUntilTimeBetweenOrders 990739 seconds
+DBG [32355-334] accountId  71856 bought NFT (from #188805) for    35.897 $ (100.000 LRC) validUntilTimeBetweenOrders 990731 seconds
+DBG [32359-14 ] accountId  71856 bought NFT (from # 54508) for     1.813 $ (5.000 LRC) validUntilTimeBetweenOrders 1295975 seconds
+DBG [32359-21 ] accountId  71856 bought NFT (from # 54508) for     1.813 $ (5.000 LRC) validUntilTimeBetweenOrders 1295963 seconds
+DBG [32366-43 ] accountId  71856 bought NFT (from #154458) for    31.027 $ (85.000 LRC) validUntilTimeBetweenOrders 1295149 seconds
+DBG [32387-39 ] accountId  71856 bought NFT (from #140633) for    24.965 $ (69.000 LRC) validUntilTimeBetweenOrders 1295171 seconds
+DBG [32405-65 ] accountId  71856 bought NFT (from # 78263) for    47.537 $ (130.000 LRC) validUntilTimeBetweenOrders 1295790 seconds
+DBG [32435-110] accountId  71856 bought NFT (from #140633) for     8.498 $ (25.000 LRC) validUntilTimeBetweenOrders 1292959 seconds
+DBG [32436-62 ] accountId  71856 bought NFT (from #129723) for    13.504 $ (40.000 LRC) validUntilTimeBetweenOrders 1295593 seconds
+DBG [32456-91 ] accountId  71856 bought NFT (from # 62522) for     3.305 $ (10.000 LRC) validUntilTimeBetweenOrders 1294896 seconds
+DBG [32456-92 ] accountId  71856 bought NFT (from # 62522) for     3.305 $ (10.000 LRC) validUntilTimeBetweenOrders 1294850 seconds
+DBG [32456-93 ] accountId  71856 bought NFT (from # 62522) for     3.305 $ (10.000 LRC) validUntilTimeBetweenOrders 1294763 seconds
+DBG [32456-116] accountId  71856 bought NFT (from # 62522) for     3.287 $ (10.000 LRC) validUntilTimeBetweenOrders 1294681 seconds
+DBG [32470-221] accountId  71856 bought NFT (from # 62522) for    49.603 $ (150.000 LRC) validUntilTimeBetweenOrders 1288841 seconds
+DBG [32497-58 ] accountId  71856 bought NFT (from # 78494) for    58.698 $ (200.000 LRC) validUntilTimeBetweenOrders 691259 seconds
+DBG [32498-125] accountId  71856 bought NFT (from # 78494) for    59.140 $ (200.000 LRC) validUntilTimeBetweenOrders 1210267 seconds
+DBG [32498-163] accountId  71856 bought NFT (from # 78494) for    59.403 $ (200.000 LRC) validUntilTimeBetweenOrders 1209837 seconds
+DBG [32524-62 ] accountId  71856 bought NFT (from #188805) for    30.941 $ (100.000 LRC) validUntilTimeBetweenOrders 725354 seconds
+DBG [32524-63 ] accountId  71856 bought NFT (from #188805) for    30.941 $ (100.000 LRC) validUntilTimeBetweenOrders 725344 seconds
+DBG [32524-106] accountId  71856 bought NFT (from #188805) for    31.165 $ (100.000 LRC) validUntilTimeBetweenOrders 725298 seconds
+DBG [32524-108] accountId  71856 bought NFT (from #188805) for    31.165 $ (100.000 LRC) validUntilTimeBetweenOrders 725277 seconds
+DBG [32524-109] accountId  71856 bought NFT (from #188805) for    31.165 $ (100.000 LRC) validUntilTimeBetweenOrders 725258 seconds
+DBG [32564-187] accountId  71856 bought NFT (from #188805) for     6.342 $ (25.000 LRC) validUntilTimeBetweenOrders 1295856 seconds
+DBG [32564-206] accountId  71856 bought NFT (from #188805) for     6.342 $ (25.000 LRC) validUntilTimeBetweenOrders 1295832 seconds
+DBG [32564-315] accountId  71856 bought NFT (from #188805) for     6.422 $ (25.000 LRC) validUntilTimeBetweenOrders 1295140 seconds
+DBG [32565-274] accountId  71856 bought NFT (from # 78494) for    50.133 $ (200.000 LRC) validUntilTimeBetweenOrders 1210173 seconds
+DBG [32568-10 ] accountId  71856 bought NFT (from # 78494) for    50.511 $ (200.000 LRC) validUntilTimeBetweenOrders 1212466 seconds
+DBG [32632-206] accountId  71856 bought NFT (from # 78494) for    70.843 $ (250.000 LRC) validUntilTimeBetweenOrders 691458 seconds
+DBG [32686-26 ] accountId  71856 bought NFT (from #188805) for     6.621 $ (25.000 LRC) validUntilTimeBetweenOrders 1115019 seconds
+DBG [32686-27 ] accountId  71856 bought NFT (from #188805) for     6.621 $ (25.000 LRC) validUntilTimeBetweenOrders 1115007 seconds
+DBG [32710-306] accountId  71856 bought NFT (from #188805) for     6.332 $ (25.000 LRC) validUntilTimeBetweenOrders 1080176 seconds
+DBG [32711-205] accountId  71856 bought NFT (from #188805) for     6.373 $ (25.000 LRC) validUntilTimeBetweenOrders 1078403 seconds
+DBG [32711-206] accountId  71856 bought NFT (from #188805) for     6.373 $ (25.000 LRC) validUntilTimeBetweenOrders 1078391 seconds
+DBG [32711-207] accountId  71856 bought NFT (from #188805) for     6.373 $ (25.000 LRC) validUntilTimeBetweenOrders 1078381 seconds
+DBG [32711-208] accountId  71856 bought NFT (from #188805) for     6.373 $ (25.000 LRC) validUntilTimeBetweenOrders 1078374 seconds
+DBG [32711-213] accountId  71856 bought NFT (from #188805) for     6.373 $ (25.000 LRC) validUntilTimeBetweenOrders 1078367 seconds
+DBG [32711-214] accountId  71856 bought NFT (from #188805) for     6.373 $ (25.000 LRC) validUntilTimeBetweenOrders 1078360 seconds
+DBG [32711-215] accountId  71856 bought NFT (from #188805) for     6.373 $ (25.000 LRC) validUntilTimeBetweenOrders 1078354 seconds
+DBG [32711-216] accountId  71856 bought NFT (from #188805) for     6.373 $ (25.000 LRC) validUntilTimeBetweenOrders 1078344 seconds
+DBG [32711-217] accountId  71856 bought NFT (from #188805) for     6.373 $ (25.000 LRC) validUntilTimeBetweenOrders 1078337 seconds
+DBG [32711-218] accountId  71856 bought NFT (from #188805) for     6.373 $ (25.000 LRC) validUntilTimeBetweenOrders 1078330 seconds
+DBG [32711-219] accountId  71856 bought NFT (from #188805) for     6.373 $ (25.000 LRC) validUntilTimeBetweenOrders 1078324 seconds
+DBG [32712-19 ] accountId  71856 bought NFT (from #188805) for     6.402 $ (25.000 LRC) validUntilTimeBetweenOrders 1078318 seconds
+DBG [32712-25 ] accountId  71856 bought NFT (from #188805) for     6.402 $ (25.000 LRC) validUntilTimeBetweenOrders 1078311 seconds
+DBG [32712-29 ] accountId  71856 bought NFT (from #188805) for     6.402 $ (25.000 LRC) validUntilTimeBetweenOrders 1078301 seconds
+DBG [32712-30 ] accountId  71856 bought NFT (from #188805) for     6.402 $ (25.000 LRC) validUntilTimeBetweenOrders 1078294 seconds
+DBG [32712-31 ] accountId  71856 bought NFT (from #188805) for     6.402 $ (25.000 LRC) validUntilTimeBetweenOrders 1078288 seconds
+DBG [32712-32 ] accountId  71856 bought NFT (from #188805) for     6.402 $ (25.000 LRC) validUntilTimeBetweenOrders 1078281 seconds
+DBG [32712-38 ] accountId  71856 bought NFT (from #188805) for     6.402 $ (25.000 LRC) validUntilTimeBetweenOrders 1078244 seconds
+DBG [32712-39 ] accountId  71856 bought NFT (from #188805) for     6.402 $ (25.000 LRC) validUntilTimeBetweenOrders 1078236 seconds
+DBG [32712-40 ] accountId  71856 bought NFT (from #188805) for     6.402 $ (25.000 LRC) validUntilTimeBetweenOrders 1078230 seconds
+DBG [32712-41 ] accountId  71856 bought NFT (from #188805) for     6.402 $ (25.000 LRC) validUntilTimeBetweenOrders 1078222 seconds
+DBG [32712-42 ] accountId  71856 bought NFT (from #188805) for     6.402 $ (25.000 LRC) validUntilTimeBetweenOrders 1078211 seconds
+DBG [32713-11 ] accountId  71856 bought NFT (from #188805) for     6.343 $ (25.000 LRC) validUntilTimeBetweenOrders 1076930 seconds
+DBG [32713-12 ] accountId  71856 bought NFT (from #188805) for     6.343 $ (25.000 LRC) validUntilTimeBetweenOrders 1076922 seconds
+DBG [32713-13 ] accountId  71856 bought NFT (from #188805) for     6.343 $ (25.000 LRC) validUntilTimeBetweenOrders 1076914 seconds
+DBG [32713-14 ] accountId  71856 bought NFT (from #188805) for     6.343 $ (25.000 LRC) validUntilTimeBetweenOrders 1076902 seconds
+DBG [32713-15 ] accountId  71856 bought NFT (from #188805) for     6.343 $ (25.000 LRC) validUntilTimeBetweenOrders 1076895 seconds
+DBG [32713-37 ] accountId  71856 bought NFT (from #188805) for     6.343 $ (25.000 LRC) validUntilTimeBetweenOrders 1076854 seconds
+DBG [32713-38 ] accountId  71856 bought NFT (from #188805) for     6.343 $ (25.000 LRC) validUntilTimeBetweenOrders 1076846 seconds
+DBG [32717-58 ] accountId  71856 bought NFT (from #225308) for     2.564 $ (10.000 LRC) validUntilTimeBetweenOrders 1294768 seconds
+DBG [32803-2  ] accountId  71856 bought NFT (from # 78494) for    51.356 $ (200.000 LRC) validUntilTimeBetweenOrders 693959 seconds
+DBG [32833-25 ] accountId  71856 bought NFT (from # 66911) for     9.829 $ (40.000 LRC) validUntilTimeBetweenOrders 1291544 seconds
+DBG [32839-110] accountId  71856 bought NFT (from # 54508) for     2.463 $ (10.000 LRC) validUntilTimeBetweenOrders 1295964 seconds
+DBG [32931-48 ] accountId  71856 bought NFT (from # 43002) for     5.042 $ (20.000 LRC) validUntilTimeBetweenOrders 1292468 seconds
+DBG [33024-91 ] accountId  71856 bought NFT (from #161145) for    12.405 $ (50.000 LRC) validUntilTimeBetweenOrders 1295797 seconds
+DBG [33124-108] accountId  71856 bought NFT (from #188805) for     6.130 $ (25.000 LRC) validUntilTimeBetweenOrders 481740 seconds
+DBG [33124-110] accountId  71856 bought NFT (from #188805) for     6.130 $ (25.000 LRC) validUntilTimeBetweenOrders 481676 seconds
+DBG [33124-124] accountId  71856 bought NFT (from #188805) for     6.130 $ (25.000 LRC) validUntilTimeBetweenOrders 481652 seconds
+DBG [33124-125] accountId  71856 bought NFT (from #188805) for     6.130 $ (25.000 LRC) validUntilTimeBetweenOrders 481645 seconds
+DBG [33138-141] accountId  71856 bought NFT (from #191808) for     3.684 $ (15.000 LRC) validUntilTimeBetweenOrders 1295982 seconds
+DBG [33138-155] accountId  71856 bought NFT (from #191808) for     3.685 $ (15.000 LRC) validUntilTimeBetweenOrders 1295982 seconds
+DBG [33138-158] accountId  71856 bought NFT (from #191808) for     3.685 $ (15.000 LRC) validUntilTimeBetweenOrders 1295964 seconds
+DBG [33138-166] accountId  71856 bought NFT (from #191808) for     3.685 $ (15.000 LRC) validUntilTimeBetweenOrders 1295961 seconds
+DBG [33138-188] accountId  71856 bought NFT (from #191808) for     3.687 $ (15.000 LRC) validUntilTimeBetweenOrders 1295840 seconds
+DBG [33164-3  ] accountId  71856 bought NFT (from # 62522) for    12.172 $ (50.000 LRC) validUntilTimeBetweenOrders 1204460 seconds
+DBG [33164-5  ] accountId  71856 bought NFT (from # 62522) for    12.172 $ (50.000 LRC) validUntilTimeBetweenOrders 1204463 seconds
+DBG [33180-98 ] accountId  71856 bought NFT (from # 54508) for     2.454 $ (10.000 LRC) validUntilTimeBetweenOrders 1295963 seconds

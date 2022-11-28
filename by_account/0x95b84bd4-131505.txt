@@ -1,0 +1,405 @@
+DBG [29529-9  ] accountId 131505 bought NFT (from # 37716) for    79.590 $ (0.059 ETH) validUntilTimeBetweenOrders 121 seconds
+DBG [29529-25 ] accountId 131505 bought NFT (from # 37716) for    79.590 $ (0.059 ETH) validUntilTimeBetweenOrders 187 seconds
+DBG [29539-114] accountId 131505 bought NFT (from #100505) for    81.545 $ (0.061 ETH) validUntilTimeBetweenOrders 181 seconds
+DBG [29548-28 ] accountId 131505 sold__ NFT (to__ #183926) for    90.030 $ (0.067 ETH) validUntilTimeBetweenOrders 11050 seconds
+DBG [29554-105] accountId 131505 sold__ NFT (to__ # 58218) for   231.703 $ (0.175 ETH) validUntilTimeBetweenOrders 12470 seconds
+DBG [29559-78 ] accountId 131505 sold__ NFT (to__ #125137) for    22.585 $ (0.017 ETH) validUntilTimeBetweenOrders 217390 seconds
+DBG [29571-16 ] accountId 131505 sold__ NFT (to__ #128466) for     3.977 $ (0.003 ETH) validUntilTimeBetweenOrders 426200 seconds
+DBG [29574-57 ] accountId 131505 bought NFT (from #168371) for    48.350 $ (0.036 ETH) validUntilTimeBetweenOrders 38511 seconds
+DBG [29574-127] accountId 131505 bought NFT (from #127089) for    94.275 $ (0.070 ETH) validUntilTimeBetweenOrders 643 seconds
+DBG [29575-263] accountId 131505 sold__ NFT (to__ #183175) for    87.236 $ (0.065 ETH) validUntilTimeBetweenOrders 62476 seconds
+DBG [29587-99 ] accountId 131505 sold__ NFT (to__ #115677) for   142.354 $ (0.106 ETH) validUntilTimeBetweenOrders 83058 seconds
+DBG [29588-45 ] accountId 131505 sold__ NFT (to__ #146374) for   127.737 $ (0.095 ETH) validUntilTimeBetweenOrders 21562 seconds
+DBG [29592-5  ] accountId 131505 bought NFT (from # 82667) for   267.269 $ (0.200 ETH) validUntilTimeBetweenOrders 942083 seconds
+DBG [29595-381] accountId 131505 sold__ NFT (to__ #134863) for   207.065 $ (0.155 ETH) validUntilTimeBetweenOrders 13666 seconds
+DBG [29600-317] accountId 131505 bought NFT (from # 93897) for    87.162 $ (300.000 LRC) validUntilTimeBetweenOrders 66313 seconds
+DBG [29602-343] accountId 131505 sold__ NFT (to__ #173642) for    72.163 $ (250.000 LRC) validUntilTimeBetweenOrders 356909 seconds
+DBG [29609-98 ] accountId 131505 bought NFT (from #128053) for    12.177 $ (0.010 ETH) validUntilTimeBetweenOrders 95491 seconds
+DBG [29609-99 ] accountId 131505 bought NFT (from #163460) for     7.143 $ (0.006 ETH) validUntilTimeBetweenOrders 11833 seconds
+DBG [29610-116] accountId 131505 sold__ NFT (to__ # 66694) for     4.268 $ (0.003 ETH) validUntilTimeBetweenOrders 18364 seconds
+DBG [29611-225] accountId 131505 sold__ NFT (to__ # 66694) for     4.289 $ (0.003 ETH) validUntilTimeBetweenOrders 1901 seconds
+DBG [29620-31 ] accountId 131505 bought NFT (from #124590) for    82.824 $ (0.065 ETH) validUntilTimeBetweenOrders 5027 seconds
+DBG [29620-32 ] accountId 131505 bought NFT (from #147324) for    94.406 $ (0.074 ETH) validUntilTimeBetweenOrders 71376 seconds
+DBG [29620-44 ] accountId 131505 bought NFT (from #134158) for    87.959 $ (0.069 ETH) validUntilTimeBetweenOrders 10335 seconds
+DBG [29620-66 ] accountId 131505 bought NFT (from #158406) for   114.703 $ (0.090 ETH) validUntilTimeBetweenOrders 7095 seconds
+DBG [29621-18 ] accountId 131505 bought NFT (from #165773) for     6.374 $ (0.005 ETH) validUntilTimeBetweenOrders 9351 seconds
+DBG [29628-14 ] accountId 131505 bought NFT (from #157886) for    97.034 $ (0.075 ETH) validUntilTimeBetweenOrders 228 seconds
+DBG [29635-3  ] accountId 131505 bought NFT (from #135866) for   434.092 $ (0.339 ETH) validUntilTimeBetweenOrders 210123 seconds
+DBG [29635-31 ] accountId 131505 bought NFT (from # 91597) for    51.220 $ (0.040 ETH) validUntilTimeBetweenOrders 3971322 seconds
+DBG [29635-356] accountId 131505 sold__ NFT (to__ #136216) for  1276.456 $ (1.000 ETH) validUntilTimeBetweenOrders 1152 seconds
+DBG [29637-88 ] accountId 131505 bought NFT (from #163519) for    31.072 $ (0.025 ETH) validUntilTimeBetweenOrders 5268 seconds
+DBG [29640-238] accountId 131505 bought NFT (from # 90601) for   114.094 $ (0.089 ETH) validUntilTimeBetweenOrders 2030 seconds
+DBG [29658-284] accountId 131505 bought NFT (from #129742) for   238.849 $ (0.180 ETH) validUntilTimeBetweenOrders 1269 seconds
+DBG [29660-93 ] accountId 131505 sold__ NFT (to__ #188764) for   540.924 $ (0.407 ETH) validUntilTimeBetweenOrders 668 seconds
+DBG [29685-36 ] accountId 131505 sold__ NFT (to__ #179879) for   114.629 $ (0.088 ETH) validUntilTimeBetweenOrders 71377 seconds
+DBG [29685-37 ] accountId 131505 sold__ NFT (to__ #179879) for   117.104 $ (0.090 ETH) validUntilTimeBetweenOrders 4087 seconds
+DBG [29697-362] accountId 131505 sold__ NFT (to__ #125916) for   213.160 $ (0.165 ETH) validUntilTimeBetweenOrders 4655 seconds
+DBG [29711-89 ] accountId 131505 sold__ NFT (to__ #139755) for   129.286 $ (0.099 ETH) validUntilTimeBetweenOrders 34153 seconds
+DBG [29755-201] accountId 131505 bought NFT (from #188749) for   207.614 $ (0.155 ETH) validUntilTimeBetweenOrders 77325 seconds
+DBG [29762-100] accountId 131505 bought NFT (from #188749) for   208.498 $ (0.155 ETH) validUntilTimeBetweenOrders 88215 seconds
+DBG [29769-264] accountId 131505 bought NFT (from #188749) for   409.758 $ (0.310 ETH) validUntilTimeBetweenOrders 98982 seconds
+DBG [29773-169] accountId 131505 bought NFT (from #188749) for   204.846 $ (0.155 ETH) validUntilTimeBetweenOrders 104961 seconds
+DBG [29775-253] accountId 131505 sold__ NFT (to__ # 39634) for   264.289 $ (0.200 ETH) validUntilTimeBetweenOrders 376 seconds
+DBG [29780-142] accountId 131505 sold__ NFT (to__ #188942) for   264.991 $ (0.200 ETH) validUntilTimeBetweenOrders 4907 seconds
+DBG [29811-201] accountId 131505 sold__ NFT (to__ #156762) for    99.552 $ (0.077 ETH) validUntilTimeBetweenOrders 1390 seconds
+DBG [29812-343] accountId 131505 sold__ NFT (to__ #124822) for   233.188 $ (0.180 ETH) validUntilTimeBetweenOrders 1804 seconds
+DBG [29813-41 ] accountId 131505 sold__ NFT (to__ #151914) for   227.635 $ (0.175 ETH) validUntilTimeBetweenOrders 2603305 seconds
+DBG [29822-143] accountId 131505 sold__ NFT (to__ #106493) for    67.663 $ (0.052 ETH) validUntilTimeBetweenOrders 6364 seconds
+DBG [29831-83 ] accountId 131505 bought NFT (from #124572) for  1567.747 $ (1.200 ETH) validUntilTimeBetweenOrders 404076 seconds
+DBG [29837-226] accountId 131505 sold__ NFT (to__ #158368) for    38.685 $ (0.030 ETH) validUntilTimeBetweenOrders 31391 seconds
+DBG [29859-44 ] accountId 131505 sold__ NFT (to__ #166208) for   169.710 $ (0.129 ETH) validUntilTimeBetweenOrders 32929 seconds
+DBG [29860-101] accountId 131505 sold__ NFT (to__ #165588) for   381.544 $ (0.290 ETH) validUntilTimeBetweenOrders 8804 seconds
+DBG [29905-252] accountId 131505 sold__ NFT (to__ #166103) for   178.508 $ (0.129 ETH) validUntilTimeBetweenOrders 1259 seconds
+DBG [29907-31 ] accountId 131505 bought NFT (from #127296) for   129.670 $ (0.093 ETH) validUntilTimeBetweenOrders 103 seconds
+DBG [29920-286] accountId 131505 sold__ NFT (to__ #127122) for    71.706 $ (0.055 ETH) validUntilTimeBetweenOrders 87857 seconds
+DBG [29930-201] accountId 131505 bought NFT (from #183393) for    55.514 $ (0.042 ETH) validUntilTimeBetweenOrders 2577 seconds
+DBG [29933-160] accountId 131505 sold__ NFT (to__ # 32909) for    67.595 $ (0.051 ETH) validUntilTimeBetweenOrders 491 seconds
+DBG [29933-229] accountId 131505 sold__ NFT (to__ #125916) for   122.244 $ (0.092 ETH) validUntilTimeBetweenOrders 5707 seconds
+DBG [29954-124] accountId 131505 bought NFT (from #134123) for   110.520 $ (0.086 ETH) validUntilTimeBetweenOrders 913 seconds
+DBG [29979-74 ] accountId 131505 bought NFT (from # 90399) for   132.962 $ (0.100 ETH) validUntilTimeBetweenOrders 1148291 seconds
+DBG [29985-296] accountId 131505 sold__ NFT (to__ #165180) for   230.477 $ (0.175 ETH) validUntilTimeBetweenOrders 24679 seconds
+DBG [29989-14 ] accountId 131505 bought NFT (from #163154) for    78.810 $ (0.059 ETH) validUntilTimeBetweenOrders 5200 seconds
+DBG [29989-101] accountId 131505 bought NFT (from #168017) for   277.693 $ (0.208 ETH) validUntilTimeBetweenOrders 35257 seconds
+DBG [29990-56 ] accountId 131505 bought NFT (from #163373) for    11.312 $ (0.008 ETH) validUntilTimeBetweenOrders 3429 seconds
+DBG [29990-67 ] accountId 131505 bought NFT (from #163373) for    11.986 $ (0.009 ETH) validUntilTimeBetweenOrders 3429 seconds
+DBG [29990-68 ] accountId 131505 bought NFT (from #163373) for     8.619 $ (0.006 ETH) validUntilTimeBetweenOrders 3429 seconds
+DBG [30002-94 ] accountId 131505 bought NFT (from #170990) for    54.517 $ (0.041 ETH) validUntilTimeBetweenOrders 15842 seconds
+DBG [30009-73 ] accountId 131505 sold__ NFT (to__ # 38891) for    89.821 $ (0.067 ETH) validUntilTimeBetweenOrders 118728 seconds
+DBG [30026-3  ] accountId 131505 bought NFT (from #188603) for   133.556 $ (0.100 ETH) validUntilTimeBetweenOrders 7421 seconds
+DBG [30027-259] accountId 131505 sold__ NFT (to__ #187124) for    72.585 $ (0.055 ETH) validUntilTimeBetweenOrders 1468 seconds
+DBG [30031-84 ] accountId 131505 bought NFT (from #144121) for   142.874 $ (0.110 ETH) validUntilTimeBetweenOrders 573 seconds
+DBG [30041-198] accountId 131505 sold__ NFT (to__ #157379) for   153.712 $ (0.115 ETH) validUntilTimeBetweenOrders 2292 seconds
+DBG [30045-217] accountId 131505 sold__ NFT (to__ #147692) for   116.908 $ (0.087 ETH) validUntilTimeBetweenOrders 13130 seconds
+DBG [30056-101] accountId 131505 bought NFT (from #143622) for    16.040 $ (0.012 ETH) validUntilTimeBetweenOrders 6536 seconds
+DBG [30056-206] accountId 131505 bought NFT (from #143622) for    10.426 $ (0.008 ETH) validUntilTimeBetweenOrders 6536 seconds
+DBG [30061-121] accountId 131505 sold__ NFT (to__ #137765) for    13.310 $ (0.010 ETH) validUntilTimeBetweenOrders 4924818 seconds
+DBG [30096-75 ] accountId 131505 bought NFT (from # 92477) for    92.002 $ (0.068 ETH) validUntilTimeBetweenOrders 581 seconds
+DBG [30107-12 ] accountId 131505 bought NFT (from # 92477) for   152.393 $ (0.113 ETH) validUntilTimeBetweenOrders 67 seconds
+DBG [30108-139] accountId 131505 bought NFT (from # 92477) for   121.520 $ (0.090 ETH) validUntilTimeBetweenOrders 873 seconds
+DBG [30120-8  ] accountId 131505 bought NFT (from # 92477) for    21.744 $ (0.016 ETH) validUntilTimeBetweenOrders 2193 seconds
+DBG [30123-196] accountId 131505 sold__ NFT (to__ #124846) for    94.865 $ (0.070 ETH) validUntilTimeBetweenOrders 143 seconds
+DBG [30125-141] accountId 131505 sold__ NFT (to__ #151653) for   102.144 $ (0.075 ETH) validUntilTimeBetweenOrders 537 seconds
+DBG [30127-46 ] accountId 131505 sold__ NFT (to__ #131191) for   144.985 $ (0.107 ETH) validUntilTimeBetweenOrders 124 seconds
+DBG [30127-195] accountId 131505 sold__ NFT (to__ #126014) for   271.000 $ (0.200 ETH) validUntilTimeBetweenOrders 78 seconds
+DBG [30131-300] accountId 131505 bought NFT (from #171287) for   303.896 $ (0.225 ETH) validUntilTimeBetweenOrders 106 seconds
+DBG [30134-95 ] accountId 131505 sold__ NFT (to__ #167801) for   294.749 $ (0.218 ETH) validUntilTimeBetweenOrders 284 seconds
+DBG [30134-127] accountId 131505 bought NFT (from # 42575) for   108.108 $ (0.080 ETH) validUntilTimeBetweenOrders 84 seconds
+DBG [30135-161] accountId 131505 bought NFT (from # 36856) for   234.774 $ (0.174 ETH) validUntilTimeBetweenOrders 240 seconds
+DBG [30191-31 ] accountId 131505 sold__ NFT (to__ #173100) for   324.618 $ (0.245 ETH) validUntilTimeBetweenOrders 18 seconds
+DBG [30193-88 ] accountId 131505 bought NFT (from # 72252) for   285.556 $ (0.215 ETH) validUntilTimeBetweenOrders 195 seconds
+DBG [30194-62 ] accountId 131505 bought NFT (from #179879) for    78.171 $ (0.059 ETH) validUntilTimeBetweenOrders 53741 seconds
+DBG [30194-119] accountId 131505 bought NFT (from #126169) for    59.476 $ (0.045 ETH) validUntilTimeBetweenOrders 74183 seconds
+DBG [30219-12 ] accountId 131505 sold__ NFT (to__ # 68411) for    81.435 $ (0.062 ETH) validUntilTimeBetweenOrders 28622 seconds
+DBG [30226-16 ] accountId 131505 bought NFT (from #179879) for    77.146 $ (0.059 ETH) validUntilTimeBetweenOrders 508 seconds
+DBG [30269-79 ] accountId 131505 sold__ NFT (to__ #172445) for   129.264 $ (0.100 ETH) validUntilTimeBetweenOrders 13281 seconds
+DBG [30272-9  ] accountId 131505 bought NFT (from #137952) for    64.982 $ (0.050 ETH) validUntilTimeBetweenOrders 264 seconds
+DBG [30278-158] accountId 131505 sold__ NFT (to__ #179879) for    83.783 $ (0.064 ETH) validUntilTimeBetweenOrders 7067 seconds
+DBG [30282-271] accountId 131505 sold__ NFT (to__ #190207) for   161.892 $ (0.125 ETH) validUntilTimeBetweenOrders 88849 seconds
+DBG [30284-154] accountId 131505 sold__ NFT (to__ #172445) for   141.365 $ (0.109 ETH) validUntilTimeBetweenOrders 5203 seconds
+DBG [30289-100] accountId 131505 bought NFT (from #136216) for   115.245 $ (0.090 ETH) validUntilTimeBetweenOrders 1508 seconds
+DBG [30293-52 ] accountId 131505 bought NFT (from #128834) for    41.483 $ (0.032 ETH) validUntilTimeBetweenOrders 5886 seconds
+DBG [30311-69 ] accountId 131505 sold__ NFT (to__ #129662) for   116.690 $ (0.090 ETH) validUntilTimeBetweenOrders 1188 seconds
+DBG [30314-80 ] accountId 131505 bought NFT (from # 54324) for    75.922 $ (0.058 ETH) validUntilTimeBetweenOrders 51382 seconds
+DBG [30333-73 ] accountId 131505 bought NFT (from #183926) for   124.212 $ (0.094 ETH) validUntilTimeBetweenOrders 187 seconds
+DBG [30345-174] accountId 131505 sold__ NFT (to__ #165588) for   130.392 $ (0.099 ETH) validUntilTimeBetweenOrders 97586 seconds
+DBG [30347-33 ] accountId 131505 bought NFT (from #140556) for    44.593 $ (0.034 ETH) validUntilTimeBetweenOrders 7063 seconds
+DBG [30380-45 ] accountId 131505 bought NFT (from #127271) for    60.785 $ (0.045 ETH) validUntilTimeBetweenOrders 477 seconds
+DBG [30385-122] accountId 131505 sold__ NFT (to__ # 64352) for    14.763 $ (0.011 ETH) validUntilTimeBetweenOrders 756035 seconds
+DBG [30389-85 ] accountId 131505 sold__ NFT (to__ #136216) for    27.104 $ (0.020 ETH) validUntilTimeBetweenOrders 185 seconds
+DBG [30415-64 ] accountId 131505 sold__ NFT (to__ # 71856) for     5.948 $ (20.000 LRC) validUntilTimeBetweenOrders 1295151 seconds
+DBG [30450-84 ] accountId 131505 sold__ NFT (to__ #133417) for   171.671 $ (0.129 ETH) validUntilTimeBetweenOrders 1295 seconds
+DBG [30450-91 ] accountId 131505 sold__ NFT (to__ #190526) for   239.541 $ (0.180 ETH) validUntilTimeBetweenOrders 1464 seconds
+DBG [30451-25 ] accountId 131505 bought NFT (from #134315) for   474.847 $ (0.359 ETH) validUntilTimeBetweenOrders 137582 seconds
+DBG [30495-353] accountId 131505 bought NFT (from #133493) for    36.527 $ (0.027 ETH) validUntilTimeBetweenOrders 187203 seconds
+DBG [30496-278] accountId 131505 sold__ NFT (to__ #153796) for    19.655 $ (0.015 ETH) validUntilTimeBetweenOrders 178 seconds
+DBG [30519-294] accountId 131505 sold__ NFT (to__ # 54324) for   102.344 $ (0.075 ETH) validUntilTimeBetweenOrders 14496 seconds
+DBG [30552-77 ] accountId 131505 sold__ NFT (to__ # 95735) for   128.086 $ (0.095 ETH) validUntilTimeBetweenOrders 16160 seconds
+DBG [30555-300] accountId 131505 bought NFT (from #155813) for   134.984 $ (0.100 ETH) validUntilTimeBetweenOrders 583 seconds
+DBG [30556-18 ] accountId 131505 bought NFT (from #130653) for    67.800 $ (0.050 ETH) validUntilTimeBetweenOrders 78 seconds
+DBG [30556-153] accountId 131505 sold__ NFT (to__ #124927) for   122.277 $ (0.090 ETH) validUntilTimeBetweenOrders 370 seconds
+DBG [30558-43 ] accountId 131505 sold__ NFT (to__ #163460) for   215.566 $ (0.159 ETH) validUntilTimeBetweenOrders 3950 seconds
+DBG [30559-353] accountId 131505 bought NFT (from # 43778) for     0.693 $ (0.001 ETH) validUntilTimeBetweenOrders 1202 seconds
+DBG [30560-1  ] accountId 131505 bought NFT (from # 43778) for     0.693 $ (0.001 ETH) validUntilTimeBetweenOrders 1283 seconds
+DBG [30560-31 ] accountId 131505 bought NFT (from # 54324) for     4.482 $ (0.003 ETH) validUntilTimeBetweenOrders 65 seconds
+DBG [30561-319] accountId 131505 bought NFT (from # 43778) for     3.458 $ (0.003 ETH) validUntilTimeBetweenOrders 3745 seconds
+DBG [30562-130] accountId 131505 bought NFT (from # 43778) for     1.383 $ (0.001 ETH) validUntilTimeBetweenOrders 4737 seconds
+DBG [30562-153] accountId 131505 bought NFT (from # 43778) for     1.383 $ (0.001 ETH) validUntilTimeBetweenOrders 4737 seconds
+DBG [30562-194] accountId 131505 bought NFT (from # 43778) for     1.383 $ (0.001 ETH) validUntilTimeBetweenOrders 4737 seconds
+DBG [30562-196] accountId 131505 bought NFT (from # 43778) for     1.383 $ (0.001 ETH) validUntilTimeBetweenOrders 4737 seconds
+DBG [30563-60 ] accountId 131505 sold__ NFT (to__ #177733) for     1.356 $ (0.001 ETH) validUntilTimeBetweenOrders 1049 seconds
+DBG [30565-354] accountId 131505 sold__ NFT (to__ #102062) for     2.709 $ (0.002 ETH) validUntilTimeBetweenOrders 2651 seconds
+DBG [30567-26 ] accountId 131505 sold__ NFT (to__ #149491) for    13.448 $ (0.010 ETH) validUntilTimeBetweenOrders 191540 seconds
+DBG [30574-52 ] accountId 131505 bought NFT (from #109628) for   934.430 $ (0.690 ETH) validUntilTimeBetweenOrders 10823 seconds
+DBG [30576-69 ] accountId 131505 sold__ NFT (to__ #142837) for     3.918 $ (0.003 ETH) validUntilTimeBetweenOrders 5640 seconds
+DBG [30579-86 ] accountId 131505 sold__ NFT (to__ #162773) for     1.356 $ (0.001 ETH) validUntilTimeBetweenOrders 479 seconds
+DBG [30580-3  ] accountId 131505 sold__ NFT (to__ #133570) for     2.711 $ (0.002 ETH) validUntilTimeBetweenOrders 244 seconds
+DBG [30580-4  ] accountId 131505 sold__ NFT (to__ #133570) for     2.711 $ (0.002 ETH) validUntilTimeBetweenOrders 153 seconds
+DBG [30580-100] accountId 131505 sold__ NFT (to__ # 44215) for     2.711 $ (0.002 ETH) validUntilTimeBetweenOrders 1825 seconds
+DBG [30584-316] accountId 131505 sold__ NFT (to__ #165131) for     8.985 $ (0.007 ETH) validUntilTimeBetweenOrders 53521 seconds
+DBG [30596-4  ] accountId 131505 bought NFT (from #100505) for     1.330 $ (0.001 ETH) validUntilTimeBetweenOrders 656 seconds
+DBG [30596-5  ] accountId 131505 bought NFT (from #100505) for     1.330 $ (0.001 ETH) validUntilTimeBetweenOrders 658 seconds
+DBG [30603-177] accountId 131505 sold__ NFT (to__ #169542) for     3.335 $ (0.003 ETH) validUntilTimeBetweenOrders 6332 seconds
+DBG [30605-108] accountId 131505 bought NFT (from # 92477) for    60.095 $ (0.045 ETH) validUntilTimeBetweenOrders 459300 seconds
+DBG [30612-118] accountId 131505 sold__ NFT (to__ #175915) for     5.056 $ (0.004 ETH) validUntilTimeBetweenOrders 153607 seconds
+DBG [30627-18 ] accountId 131505 bought NFT (from #172784) for    66.257 $ (0.050 ETH) validUntilTimeBetweenOrders 4775 seconds
+DBG [30628-16 ] accountId 131505 bought NFT (from #164494) for   106.522 $ (0.080 ETH) validUntilTimeBetweenOrders 167 seconds
+DBG [30643-77 ] accountId 131505 bought NFT (from #109628) for   106.154 $ (0.080 ETH) validUntilTimeBetweenOrders 197 seconds
+DBG [30646-63 ] accountId 131505 sold__ NFT (to__ #189044) for    76.103 $ (0.058 ETH) validUntilTimeBetweenOrders 889 seconds
+DBG [30647-299] accountId 131505 sold__ NFT (to__ #176274) for   197.869 $ (0.150 ETH) validUntilTimeBetweenOrders 264202 seconds
+DBG [30649-102] accountId 131505 sold__ NFT (to__ #167017) for     4.307 $ (15.000 LRC) validUntilTimeBetweenOrders 950803 seconds
+DBG [30666-188] accountId 131505 sold__ NFT (to__ #190154) for    76.320 $ (0.058 ETH) validUntilTimeBetweenOrders 47710 seconds
+DBG [30668-75 ] accountId 131505 sold__ NFT (to__ #155450) for    13.140 $ (0.010 ETH) validUntilTimeBetweenOrders 398851 seconds
+DBG [30669-21 ] accountId 131505 sold__ NFT (to__ #178035) for     4.370 $ (15.000 LRC) validUntilTimeBetweenOrders 1292073 seconds
+DBG [30669-22 ] accountId 131505 sold__ NFT (to__ #178035) for     4.370 $ (15.000 LRC) validUntilTimeBetweenOrders 1292062 seconds
+DBG [30669-183] accountId 131505 sold__ NFT (to__ #148874) for   128.563 $ (0.097 ETH) validUntilTimeBetweenOrders 11232 seconds
+DBG [30676-43 ] accountId 131505 sold__ NFT (to__ #115539) for     0.664 $ (0.001 ETH) validUntilTimeBetweenOrders 18819 seconds
+DBG [30678-4  ] accountId 131505 sold__ NFT (to__ #176274) for     5.310 $ (0.004 ETH) validUntilTimeBetweenOrders 417753 seconds
+DBG [30694-102] accountId 131505 bought NFT (from #145818) for   106.184 $ (0.080 ETH) validUntilTimeBetweenOrders 12850 seconds
+DBG [30707-136] accountId 131505 sold__ NFT (to__ #154923) for     1.317 $ (0.001 ETH) validUntilTimeBetweenOrders 6065 seconds
+DBG [30709-21 ] accountId 131505 sold__ NFT (to__ # 32965) for     1.314 $ (0.001 ETH) validUntilTimeBetweenOrders 6529 seconds
+DBG [30718-57 ] accountId 131505 bought NFT (from #175479) for   260.001 $ (0.200 ETH) validUntilTimeBetweenOrders 68 seconds
+DBG [30719-192] accountId 131505 sold__ NFT (to__ #106421) for   339.520 $ (0.260 ETH) validUntilTimeBetweenOrders 428 seconds
+DBG [30722-193] accountId 131505 bought NFT (from # 93570) for   113.742 $ (0.087 ETH) validUntilTimeBetweenOrders 15640 seconds
+DBG [30722-302] accountId 131505 sold__ NFT (to__ #128967) for     1.307 $ (0.001 ETH) validUntilTimeBetweenOrders 29469 seconds
+DBG [30727-149] accountId 131505 bought NFT (from # 43681) for    37.900 $ (0.029 ETH) validUntilTimeBetweenOrders 1833 seconds
+DBG [30730-343] accountId 131505 sold__ NFT (to__ #170990) for   256.797 $ (0.199 ETH) validUntilTimeBetweenOrders 5935 seconds
+DBG [30734-377] accountId 131505 sold__ NFT (to__ # 37655) for    42.665 $ (0.034 ETH) validUntilTimeBetweenOrders 3934 seconds
+DBG [30737-76 ] accountId 131505 bought NFT (from #167014) for    10.241 $ (0.008 ETH) validUntilTimeBetweenOrders 194 seconds
+DBG [30737-77 ] accountId 131505 bought NFT (from #167014) for     6.401 $ (0.005 ETH) validUntilTimeBetweenOrders 252 seconds
+DBG [30737-84 ] accountId 131505 bought NFT (from #167014) for     6.401 $ (0.005 ETH) validUntilTimeBetweenOrders 284 seconds
+DBG [30737-85 ] accountId 131505 bought NFT (from #167014) for     6.401 $ (0.005 ETH) validUntilTimeBetweenOrders 333 seconds
+DBG [30737-251] accountId 131505 bought NFT (from #124808) for    10.191 $ (0.008 ETH) validUntilTimeBetweenOrders 268 seconds
+DBG [30772-179] accountId 131505 sold__ NFT (to__ #162672) for     8.337 $ (0.006 ETH) validUntilTimeBetweenOrders 66072 seconds
+DBG [30772-313] accountId 131505 sold__ NFT (to__ #132866) for     3.848 $ (0.003 ETH) validUntilTimeBetweenOrders 25247 seconds
+DBG [30774-107] accountId 131505 bought NFT (from #124648) for   109.283 $ (0.085 ETH) validUntilTimeBetweenOrders 189 seconds
+DBG [30776-331] accountId 131505 sold__ NFT (to__ # 79850) for   126.716 $ (0.099 ETH) validUntilTimeBetweenOrders 13633 seconds
+DBG [30777-120] accountId 131505 sold__ NFT (to__ #128466) for    11.244 $ (42.000 LRC) validUntilTimeBetweenOrders 1212525 seconds
+DBG [30777-131] accountId 131505 sold__ NFT (to__ #128466) for    11.244 $ (42.000 LRC) validUntilTimeBetweenOrders 1212516 seconds
+DBG [30778-159] accountId 131505 bought NFT (from # 79655) for     7.164 $ (0.006 ETH) validUntilTimeBetweenOrders 4864 seconds
+DBG [30779-109] accountId 131505 sold__ NFT (to__ #122415) for     7.688 $ (0.006 ETH) validUntilTimeBetweenOrders 731 seconds
+DBG [30788-53 ] accountId 131505 sold__ NFT (to__ #142529) for    13.471 $ (0.011 ETH) validUntilTimeBetweenOrders 17938 seconds
+DBG [30791-130] accountId 131505 sold__ NFT (to__ #147960) for     8.392 $ (0.006 ETH) validUntilTimeBetweenOrders 15146 seconds
+DBG [30812-57 ] accountId 131505 sold__ NFT (to__ #165978) for     8.061 $ (0.006 ETH) validUntilTimeBetweenOrders 6554 seconds
+DBG [30822-39 ] accountId 131505 sold__ NFT (to__ #132248) for   181.615 $ (0.140 ETH) validUntilTimeBetweenOrders 27243 seconds
+DBG [30822-161] accountId 131505 sold__ NFT (to__ # 38649) for   134.914 $ (0.104 ETH) validUntilTimeBetweenOrders 18174 seconds
+DBG [30823-117] accountId 131505 bought NFT (from #165887) for   116.812 $ (0.090 ETH) validUntilTimeBetweenOrders 107 seconds
+DBG [30826-95 ] accountId 131505 sold__ NFT (to__ #142529) for     8.941 $ (0.007 ETH) validUntilTimeBetweenOrders 33714 seconds
+DBG [30832-127] accountId 131505 sold__ NFT (to__ # 40985) for     4.383 $ (16.500 LRC) validUntilTimeBetweenOrders 1124886 seconds
+DBG [30833-282] accountId 131505 sold__ NFT (to__ #139737) for   246.045 $ (0.190 ETH) validUntilTimeBetweenOrders 183 seconds
+DBG [30836-228] accountId 131505 sold__ NFT (to__ # 72440) for    50.391 $ (0.039 ETH) validUntilTimeBetweenOrders 51055 seconds
+DBG [30838-49 ] accountId 131505 sold__ NFT (to__ #175132) for    51.816 $ (0.040 ETH) validUntilTimeBetweenOrders 274960 seconds
+DBG [30865-265] accountId 131505 bought NFT (from # 58503) for     8.173 $ (0.007 ETH) validUntilTimeBetweenOrders 588527 seconds
+DBG [30870-78 ] accountId 131505 bought NFT (from #186802) for    75.148 $ (0.060 ETH) validUntilTimeBetweenOrders 58454 seconds
+DBG [30871-104] accountId 131505 sold__ NFT (to__ # 83844) for    49.290 $ (0.039 ETH) validUntilTimeBetweenOrders 1874 seconds
+DBG [30873-334] accountId 131505 sold__ NFT (to__ #128951) for   396.855 $ (0.310 ETH) validUntilTimeBetweenOrders 24356 seconds
+DBG [30877-115] accountId 131505 bought NFT (from #183393) for   216.976 $ (0.168 ETH) validUntilTimeBetweenOrders 795 seconds
+DBG [30878-218] accountId 131505 bought NFT (from #183393) for   162.732 $ (0.126 ETH) validUntilTimeBetweenOrders 792 seconds
+DBG [30879-251] accountId 131505 bought NFT (from #183393) for   108.488 $ (0.084 ETH) validUntilTimeBetweenOrders 787 seconds
+DBG [30880-32 ] accountId 131505 bought NFT (from #183393) for    54.244 $ (0.042 ETH) validUntilTimeBetweenOrders 787 seconds
+DBG [30880-140] accountId 131505 bought NFT (from #183393) for    54.190 $ (0.042 ETH) validUntilTimeBetweenOrders 785 seconds
+DBG [30882-353] accountId 131505 bought NFT (from #183393) for    54.215 $ (0.042 ETH) validUntilTimeBetweenOrders 785 seconds
+DBG [30883-171] accountId 131505 bought NFT (from #183393) for    54.088 $ (0.042 ETH) validUntilTimeBetweenOrders 787 seconds
+DBG [30890-65 ] accountId 131505 sold__ NFT (to__ # 64352) for    82.437 $ (0.064 ETH) validUntilTimeBetweenOrders 264 seconds
+DBG [30892-211] accountId 131505 sold__ NFT (to__ #128500) for    99.362 $ (0.077 ETH) validUntilTimeBetweenOrders 102 seconds
+DBG [30896-21 ] accountId 131505 sold__ NFT (to__ #166383) for    54.338 $ (0.042 ETH) validUntilTimeBetweenOrders 1217 seconds
+DBG [30896-115] accountId 131505 sold__ NFT (to__ #141648) for    54.338 $ (0.042 ETH) validUntilTimeBetweenOrders 197 seconds
+DBG [30896-295] accountId 131505 sold__ NFT (to__ #151481) for    54.209 $ (0.042 ETH) validUntilTimeBetweenOrders 218 seconds
+DBG [30898-33 ] accountId 131505 sold__ NFT (to__ # 39939) for    54.358 $ (0.042 ETH) validUntilTimeBetweenOrders 1316 seconds
+DBG [30898-138] accountId 131505 sold__ NFT (to__ # 96619) for    90.467 $ (0.070 ETH) validUntilTimeBetweenOrders 74 seconds
+DBG [30898-227] accountId 131505 sold__ NFT (to__ #144338) for    54.457 $ (0.042 ETH) validUntilTimeBetweenOrders 2348 seconds
+DBG [30899-27 ] accountId 131505 bought NFT (from #126317) for    52.932 $ (0.041 ETH) validUntilTimeBetweenOrders 150 seconds
+DBG [30902-10 ] accountId 131505 sold__ NFT (to__ # 98266) for   118.512 $ (0.092 ETH) validUntilTimeBetweenOrders 3062 seconds
+DBG [30902-113] accountId 131505 sold__ NFT (to__ # 96241) for    54.077 $ (0.042 ETH) validUntilTimeBetweenOrders 158022 seconds
+DBG [30904-84 ] accountId 131505 sold__ NFT (to__ #150886) for    54.195 $ (0.042 ETH) validUntilTimeBetweenOrders 2754 seconds
+DBG [30904-177] accountId 131505 sold__ NFT (to__ #137174) for    46.464 $ (0.036 ETH) validUntilTimeBetweenOrders 6180 seconds
+DBG [30904-250] accountId 131505 sold__ NFT (to__ #135466) for     7.744 $ (0.006 ETH) validUntilTimeBetweenOrders 5313 seconds
+DBG [30904-312] accountId 131505 sold__ NFT (to__ #158184) for    79.900 $ (0.062 ETH) validUntilTimeBetweenOrders 208 seconds
+DBG [30904-313] accountId 131505 sold__ NFT (to__ # 62236) for     9.036 $ (0.007 ETH) validUntilTimeBetweenOrders 474 seconds
+DBG [30905-210] accountId 131505 sold__ NFT (to__ # 41982) for    54.963 $ (0.042 ETH) validUntilTimeBetweenOrders 1320 seconds
+DBG [30905-211] accountId 131505 sold__ NFT (to__ # 41982) for    55.094 $ (0.042 ETH) validUntilTimeBetweenOrders 5732 seconds
+DBG [30907-98 ] accountId 131505 sold__ NFT (to__ # 61632) for   226.324 $ (0.170 ETH) validUntilTimeBetweenOrders 8677 seconds
+DBG [30912-221] accountId 131505 bought NFT (from # 79731) for    46.487 $ (0.035 ETH) validUntilTimeBetweenOrders 5937 seconds
+DBG [30913-47 ] accountId 131505 bought NFT (from #165180) for    78.346 $ (0.059 ETH) validUntilTimeBetweenOrders 3431 seconds
+DBG [30916-47 ] accountId 131505 sold__ NFT (to__ # 54324) for    66.263 $ (0.050 ETH) validUntilTimeBetweenOrders 10531 seconds
+DBG [30927-126] accountId 131505 sold__ NFT (to__ #146897) for    81.410 $ (0.061 ETH) validUntilTimeBetweenOrders 3200 seconds
+DBG [30927-169] accountId 131505 bought NFT (from # 42344) for    49.299 $ (0.037 ETH) validUntilTimeBetweenOrders 315 seconds
+DBG [30970-101] accountId 131505 sold__ NFT (to__ #132130) for     9.057 $ (0.007 ETH) validUntilTimeBetweenOrders 890599 seconds
+DBG [30986-122] accountId 131505 bought NFT (from #139737) for    67.465 $ (0.052 ETH) validUntilTimeBetweenOrders 3171 seconds
+DBG [31007-217] accountId 131505 bought NFT (from # 54324) for   159.986 $ (0.125 ETH) validUntilTimeBetweenOrders 295674 seconds
+DBG [31008-53 ] accountId 131505 sold__ NFT (to__ #163589) for   298.214 $ (0.233 ETH) validUntilTimeBetweenOrders 90640 seconds
+DBG [31013-207] accountId 131505 sold__ NFT (to__ #185412) for    14.070 $ (0.011 ETH) validUntilTimeBetweenOrders 221279 seconds
+DBG [31021-217] accountId 131505 sold__ NFT (to__ #134293) for   140.352 $ (0.109 ETH) validUntilTimeBetweenOrders 1487 seconds
+DBG [31024-15 ] accountId 131505 bought NFT (from # 41982) for   119.179 $ (0.093 ETH) validUntilTimeBetweenOrders 2561 seconds
+DBG [31031-3  ] accountId 131505 bought NFT (from #179879) for   120.831 $ (0.094 ETH) validUntilTimeBetweenOrders 104 seconds
+DBG [31033-187] accountId 131505 bought NFT (from #149663) for    48.878 $ (0.038 ETH) validUntilTimeBetweenOrders 153947 seconds
+DBG [31038-104] accountId 131505 sold__ NFT (to__ # 38473) for    60.261 $ (0.047 ETH) validUntilTimeBetweenOrders 7953 seconds
+DBG [31040-6  ] accountId 131505 sold__ NFT (to__ #179879) for    84.275 $ (0.065 ETH) validUntilTimeBetweenOrders 27981 seconds
+DBG [31045-96 ] accountId 131505 sold__ NFT (to__ #172445) for   142.650 $ (0.109 ETH) validUntilTimeBetweenOrders 10105 seconds
+DBG [31048-193] accountId 131505 bought NFT (from #179879) for   123.561 $ (0.095 ETH) validUntilTimeBetweenOrders 92 seconds
+DBG [31050-121] accountId 131505 bought NFT (from # 41982) for   121.349 $ (0.093 ETH) validUntilTimeBetweenOrders 54420 seconds
+DBG [31051-368] accountId 131505 bought NFT (from # 64352) for   177.838 $ (0.137 ETH) validUntilTimeBetweenOrders 227 seconds
+DBG [31096-82 ] accountId 131505 bought NFT (from #174175) for   146.823 $ (0.110 ETH) validUntilTimeBetweenOrders 410 seconds
+DBG [31104-137] accountId 131505 bought NFT (from #167942) for   179.982 $ (0.135 ETH) validUntilTimeBetweenOrders 223 seconds
+DBG [31149-162] accountId 131505 bought NFT (from #136216) for   229.287 $ (0.176 ETH) validUntilTimeBetweenOrders 4897 seconds
+DBG [31153-33 ] accountId 131505 sold__ NFT (to__ #163106) for   312.925 $ (0.240 ETH) validUntilTimeBetweenOrders 18101 seconds
+DBG [31153-57 ] accountId 131505 sold__ NFT (to__ #139737) for   260.771 $ (0.200 ETH) validUntilTimeBetweenOrders 3183 seconds
+DBG [31178-218] accountId 131505 bought NFT (from # 54324) for     3.510 $ (0.003 ETH) validUntilTimeBetweenOrders 1445 seconds
+DBG [31186-37 ] accountId 131505 bought NFT (from # 76570) for   258.932 $ (0.200 ETH) validUntilTimeBetweenOrders 2785311 seconds
+DBG [31187-49 ] accountId 131505 sold__ NFT (to__ #130493) for   102.209 $ (0.079 ETH) validUntilTimeBetweenOrders 372 seconds
+DBG [31192-21 ] accountId 131505 bought NFT (from # 49707) for    32.276 $ (0.025 ETH) validUntilTimeBetweenOrders 28994 seconds
+DBG [31194-159] accountId 131505 sold__ NFT (to__ # 60767) for    56.501 $ (0.044 ETH) validUntilTimeBetweenOrders 557 seconds
+DBG [31198-263] accountId 131505 sold__ NFT (to__ #125216) for    56.291 $ (0.044 ETH) validUntilTimeBetweenOrders 7356 seconds
+DBG [31202-22 ] accountId 131505 bought NFT (from #125671) for   639.980 $ (0.500 ETH) validUntilTimeBetweenOrders 6322493 seconds
+DBG [31226-133] accountId 131505 sold__ NFT (to__ #190799) for    57.746 $ (0.044 ETH) validUntilTimeBetweenOrders 45639 seconds
+DBG [31227-150] accountId 131505 sold__ NFT (to__ #137952) for    50.141 $ (0.039 ETH) validUntilTimeBetweenOrders 2194 seconds
+DBG [31227-180] accountId 131505 sold__ NFT (to__ #125916) for   164.564 $ (0.128 ETH) validUntilTimeBetweenOrders 2813 seconds
+DBG [31235-352] accountId 131505 sold__ NFT (to__ #127223) for     2.568 $ (0.002 ETH) validUntilTimeBetweenOrders 1371197 seconds
+DBG [31238-95 ] accountId 131505 sold__ NFT (to__ # 39852) for    20.385 $ (0.016 ETH) validUntilTimeBetweenOrders 22886 seconds
+DBG [31238-96 ] accountId 131505 sold__ NFT (to__ #137787) for   192.310 $ (0.150 ETH) validUntilTimeBetweenOrders 436 seconds
+DBG [31241-73 ] accountId 131505 sold__ NFT (to__ # 99669) for    25.663 $ (0.020 ETH) validUntilTimeBetweenOrders 4148875 seconds
+DBG [31253-167] accountId 131505 bought NFT (from #121792) for   212.220 $ (0.165 ETH) validUntilTimeBetweenOrders 1775 seconds
+DBG [31260-60 ] accountId 131505 sold__ NFT (to__ #159778) for    57.126 $ (0.044 ETH) validUntilTimeBetweenOrders 937 seconds
+DBG [31263-35 ] accountId 131505 sold__ NFT (to__ #163460) for   135.706 $ (0.105 ETH) validUntilTimeBetweenOrders 112487 seconds
+DBG [31263-36 ] accountId 131505 sold__ NFT (to__ # 41985) for   252.025 $ (0.195 ETH) validUntilTimeBetweenOrders 5112 seconds
+DBG [31305-383] accountId 131505 bought NFT (from #128053) for   246.253 $ (0.190 ETH) validUntilTimeBetweenOrders 519 seconds
+DBG [31311-274] accountId 131505 bought NFT (from #145666) for   130.088 $ (0.100 ETH) validUntilTimeBetweenOrders 424 seconds
+DBG [31323-32 ] accountId 131505 bought NFT (from #128053) for   193.393 $ (0.149 ETH) validUntilTimeBetweenOrders 2408 seconds
+DBG [31337-296] accountId 131505 sold__ NFT (to__ # 95340) for   305.665 $ (0.235 ETH) validUntilTimeBetweenOrders 22081 seconds
+DBG [31354-248] accountId 131505 sold__ NFT (to__ #125916) for   328.953 $ (0.250 ETH) validUntilTimeBetweenOrders 183900 seconds
+DBG [31364-61 ] accountId 131505 sold__ NFT (to__ # 93228) for    78.929 $ (0.060 ETH) validUntilTimeBetweenOrders 1599 seconds
+DBG [31397-76 ] accountId 131505 bought NFT (from #127223) for   160.659 $ (0.123 ETH) validUntilTimeBetweenOrders 401 seconds
+DBG [31410-271] accountId 131505 bought NFT (from #146483) for   199.653 $ (0.150 ETH) validUntilTimeBetweenOrders 6282382 seconds
+DBG [31423-172] accountId 131505 sold__ NFT (to__ #174124) for   116.086 $ (0.085 ETH) validUntilTimeBetweenOrders 15478 seconds
+DBG [31435-127] accountId 131505 sold__ NFT (to__ #150540) for   121.224 $ (0.090 ETH) validUntilTimeBetweenOrders 5112 seconds
+DBG [31435-139] accountId 131505 sold__ NFT (to__ #140662) for   526.711 $ (0.391 ETH) validUntilTimeBetweenOrders 7266 seconds
+DBG [31449-94 ] accountId 131505 sold__ NFT (to__ # 80509) for    60.628 $ (0.045 ETH) validUntilTimeBetweenOrders 1062 seconds
+DBG [31456-350] accountId 131505 sold__ NFT (to__ #133412) for   162.745 $ (0.122 ETH) validUntilTimeBetweenOrders 5 seconds
+DBG [31470-5  ] accountId 131505 sold__ NFT (to__ #165431) for   253.048 $ (0.189 ETH) validUntilTimeBetweenOrders 58167 seconds
+DBG [31551-296] accountId 131505 bought NFT (from #162299) for   204.771 $ (0.139 ETH) validUntilTimeBetweenOrders 437 seconds
+DBG [31579-240] accountId 131505 sold__ NFT (to__ #145478) for   335.853 $ (0.220 ETH) validUntilTimeBetweenOrders 4376 seconds
+DBG [31616-166] accountId 131505 sold__ NFT (to__ #177833) for   386.139 $ (0.250 ETH) validUntilTimeBetweenOrders 339 seconds
+DBG [31620-122] accountId 131505 sold__ NFT (to__ #172445) for   266.134 $ (0.170 ETH) validUntilTimeBetweenOrders 10080 seconds
+DBG [31645-136] accountId 131505 sold__ NFT (to__ #174108) for   854.752 $ (0.550 ETH) validUntilTimeBetweenOrders 2698 seconds
+DBG [31881-187] accountId 131505 sold__ NFT (to__ #187404) for    16.298 $ (0.010 ETH) validUntilTimeBetweenOrders 2114851 seconds
+DBG [31920-5  ] accountId 131505 sold__ NFT (to__ # 81848) for     1.293 $ (0.001 ETH) validUntilTimeBetweenOrders 658871 seconds
+DBG [31921-99 ] accountId 131505 bought NFT (from #152678) for    81.094 $ (0.050 ETH) validUntilTimeBetweenOrders 13913 seconds
+DBG [31936-185] accountId 131505 sold__ NFT (to__ #165588) for   107.771 $ (0.067 ETH) validUntilTimeBetweenOrders 206304 seconds
+DBG [31937-92 ] accountId 131505 sold__ NFT (to__ #167895) for   289.016 $ (0.180 ETH) validUntilTimeBetweenOrders 219646 seconds
+DBG [31940-249] accountId 131505 bought NFT (from #124642) for   206.219 $ (0.130 ETH) validUntilTimeBetweenOrders 193 seconds
+DBG [31976-24 ] accountId 131505 sold__ NFT (to__ # 34544) for    63.310 $ (0.040 ETH) validUntilTimeBetweenOrders 30293 seconds
+DBG [32002-62 ] accountId 131505 bought NFT (from #158646) for    54.557 $ (0.035 ETH) validUntilTimeBetweenOrders 352579 seconds
+DBG [32002-326] accountId 131505 sold__ NFT (to__ #224238) for   415.671 $ (0.266 ETH) validUntilTimeBetweenOrders 1963 seconds
+DBG [32004-241] accountId 131505 sold__ NFT (to__ #144215) for   437.992 $ (0.279 ETH) validUntilTimeBetweenOrders 2229 seconds
+DBG [32013-163] accountId 131505 sold__ NFT (to__ #129278) for   429.286 $ (0.275 ETH) validUntilTimeBetweenOrders 1028 seconds
+DBG [32044-239] accountId 131505 bought NFT (from #115217) for    15.692 $ (0.010 ETH) validUntilTimeBetweenOrders 175520 seconds
+DBG [32046-43 ] accountId 131505 sold__ NFT (to__ #137621) for    21.338 $ (0.013 ETH) validUntilTimeBetweenOrders 1209 seconds
+DBG [32088-65 ] accountId 131505 bought NFT (from #136267) for   196.796 $ (0.125 ETH) validUntilTimeBetweenOrders 112 seconds
+DBG [32112-235] accountId 131505 sold__ NFT (to__ #163460) for   218.430 $ (0.139 ETH) validUntilTimeBetweenOrders 3252 seconds
+DBG [32123-127] accountId 131505 sold__ NFT (to__ #158339) for     3.177 $ (0.002 ETH) validUntilTimeBetweenOrders 2941255 seconds
+DBG [32148-22 ] accountId 131505 sold__ NFT (to__ #174108) for  1010.529 $ (0.650 ETH) validUntilTimeBetweenOrders 5123 seconds
+DBG [32184-191] accountId 131505 sold__ NFT (to__ #123481) for    60.542 $ (0.040 ETH) validUntilTimeBetweenOrders 82257 seconds
+DBG [32185-67 ] accountId 131505 sold__ NFT (to__ #123481) for    89.328 $ (0.059 ETH) validUntilTimeBetweenOrders 13772 seconds
+DBG [32187-98 ] accountId 131505 sold__ NFT (to__ #146320) for    83.585 $ (0.055 ETH) validUntilTimeBetweenOrders 16779 seconds
+DBG [32188-121] accountId 131505 bought NFT (from #131335) for   220.665 $ (0.145 ETH) validUntilTimeBetweenOrders 303 seconds
+DBG [32196-51 ] accountId 131505 sold__ NFT (to__ #127049) for    63.039 $ (0.041 ETH) validUntilTimeBetweenOrders 7945 seconds
+DBG [32212-13 ] accountId 131505 sold__ NFT (to__ # 38953) for    49.481 $ (0.032 ETH) validUntilTimeBetweenOrders 41294 seconds
+DBG [32213-97 ] accountId 131505 bought NFT (from # 49179) for   198.249 $ (0.128 ETH) validUntilTimeBetweenOrders 25613 seconds
+DBG [32220-47 ] accountId 131505 sold__ NFT (to__ #163106) for  1373.508 $ (0.889 ETH) validUntilTimeBetweenOrders 1874 seconds
+DBG [32223-159] accountId 131505 bought NFT (from #155813) for    83.125 $ (0.054 ETH) validUntilTimeBetweenOrders 5915 seconds
+DBG [32224-35 ] accountId 131505 bought NFT (from #124602) for    80.816 $ (0.052 ETH) validUntilTimeBetweenOrders 7983 seconds
+DBG [32245-121] accountId 131505 bought NFT (from # 95363) for   153.249 $ (0.100 ETH) validUntilTimeBetweenOrders 461 seconds
+DBG [32288-254] accountId 131505 bought NFT (from #183633) for   156.980 $ (0.100 ETH) validUntilTimeBetweenOrders 37090 seconds
+DBG [32292-352] accountId 131505 bought NFT (from #125856) for   322.334 $ (0.200 ETH) validUntilTimeBetweenOrders 3885 seconds
+DBG [32312-114] accountId 131505 sold__ NFT (to__ #138371) for    54.170 $ (0.033 ETH) validUntilTimeBetweenOrders 1898 seconds
+DBG [32327-26 ] accountId 131505 bought NFT (from #183604) for    65.890 $ (0.040 ETH) validUntilTimeBetweenOrders 19342 seconds
+DBG [32351-132] accountId 131505 bought NFT (from #113678) for    85.736 $ (0.052 ETH) validUntilTimeBetweenOrders 1575 seconds
+DBG [32351-133] accountId 131505 bought NFT (from #113678) for    85.736 $ (0.052 ETH) validUntilTimeBetweenOrders 1575 seconds
+DBG [32371-76 ] accountId 131505 sold__ NFT (to__ #174108) for   210.017 $ (0.129 ETH) validUntilTimeBetweenOrders 1993 seconds
+DBG [32403-206] accountId 131505 sold__ NFT (to__ #183102) for    99.037 $ (0.061 ETH) validUntilTimeBetweenOrders 886 seconds
+DBG [32415-69 ] accountId 131505 sold__ NFT (to__ #176859) for   239.385 $ (0.149 ETH) validUntilTimeBetweenOrders 607 seconds
+DBG [32427-57 ] accountId 131505 bought NFT (from #171129) for   188.298 $ (0.120 ETH) validUntilTimeBetweenOrders 147 seconds
+DBG [32428-260] accountId 131505 sold__ NFT (to__ #162853) for    83.650 $ (0.053 ETH) validUntilTimeBetweenOrders 10452 seconds
+DBG [32429-196] accountId 131505 sold__ NFT (to__ #147960) for    81.134 $ (0.051 ETH) validUntilTimeBetweenOrders 1342 seconds
+DBG [32453-65 ] accountId 131505 bought NFT (from #186802) for   570.279 $ (0.360 ETH) validUntilTimeBetweenOrders 957 seconds
+DBG [32453-66 ] accountId 131505 bought NFT (from #180892) for   316.030 $ (0.200 ETH) validUntilTimeBetweenOrders 82 seconds
+DBG [32472-229] accountId 131505 sold__ NFT (to__ #125024) for   686.401 $ (0.435 ETH) validUntilTimeBetweenOrders 347 seconds
+DBG [32477-340] accountId 131505 sold__ NFT (to__ #133445) for   391.764 $ (0.250 ETH) validUntilTimeBetweenOrders 1297 seconds
+DBG [32524-293] accountId 131505 bought NFT (from # 42344) for   249.252 $ (0.160 ETH) validUntilTimeBetweenOrders 900 seconds
+DBG [32556-67 ] accountId 131505 bought NFT (from #191146) for    14.185 $ (55.000 LRC) validUntilTimeBetweenOrders 801312 seconds
+DBG [32597-316] accountId 131505 bought NFT (from # 97219) for   127.057 $ (0.110 ETH) validUntilTimeBetweenOrders 285 seconds
+DBG [32614-156] accountId 131505 sold__ NFT (to__ #132895) for   199.732 $ (0.175 ETH) validUntilTimeBetweenOrders 48638 seconds
+DBG [32615-38 ] accountId 131505 bought NFT (from #132334) for   252.631 $ (0.222 ETH) validUntilTimeBetweenOrders 198 seconds
+DBG [32676-183] accountId 131505 bought NFT (from # 93945) for   123.659 $ (0.100 ETH) validUntilTimeBetweenOrders 473 seconds
+DBG [32676-184] accountId 131505 bought NFT (from # 93945) for   123.659 $ (0.100 ETH) validUntilTimeBetweenOrders 522 seconds
+DBG [32677-2  ] accountId 131505 bought NFT (from # 93945) for   123.475 $ (0.100 ETH) validUntilTimeBetweenOrders 907 seconds
+DBG [32701-134] accountId 131505 bought NFT (from # 96869) for   161.566 $ (0.125 ETH) validUntilTimeBetweenOrders 247 seconds
+DBG [32722-255] accountId 131505 sold__ NFT (to__ #142462) for   152.199 $ (0.120 ETH) validUntilTimeBetweenOrders 13796 seconds
+DBG [32767-183] accountId 131505 sold__ NFT (to__ # 82253) for   184.752 $ (0.145 ETH) validUntilTimeBetweenOrders 879 seconds
+DBG [32780-107] accountId 131505 bought NFT (from # 41450) for   269.215 $ (0.214 ETH) validUntilTimeBetweenOrders 8380 seconds
+DBG [32782-176] accountId 131505 bought NFT (from # 42138) for    62.449 $ (0.050 ETH) validUntilTimeBetweenOrders 1089 seconds
+DBG [32799-1  ] accountId 131505 sold__ NFT (to__ #168875) for     1.040 $ (4.000 LRC) validUntilTimeBetweenOrders 1269745 seconds
+DBG [32799-2  ] accountId 131505 sold__ NFT (to__ #168875) for     1.040 $ (4.000 LRC) validUntilTimeBetweenOrders 1269673 seconds
+DBG [32813-46 ] accountId 131505 sold__ NFT (to__ #157562) for     0.978 $ (4.000 LRC) validUntilTimeBetweenOrders 1246437 seconds
+DBG [32814-4  ] accountId 131505 sold__ NFT (to__ #157562) for     0.978 $ (4.000 LRC) validUntilTimeBetweenOrders 1246219 seconds
+DBG [32814-5  ] accountId 131505 sold__ NFT (to__ #157562) for     0.978 $ (4.000 LRC) validUntilTimeBetweenOrders 1246161 seconds
+DBG [32830-17 ] accountId 131505 sold__ NFT (to__ #151631) for   278.567 $ (0.226 ETH) validUntilTimeBetweenOrders 5252 seconds
+DBG [32837-141] accountId 131505 sold__ NFT (to__ #174108) for   487.603 $ (0.400 ETH) validUntilTimeBetweenOrders 1073 seconds
+DBG [32845-81 ] accountId 131505 sold__ NFT (to__ #163415) for     0.981 $ (4.000 LRC) validUntilTimeBetweenOrders 1211716 seconds
+DBG [32847-126] accountId 131505 bought NFT (from # 75941) for   256.649 $ (0.209 ETH) validUntilTimeBetweenOrders 1534 seconds
+DBG [32848-37 ] accountId 131505 bought NFT (from # 81036) for   306.410 $ (0.250 ETH) validUntilTimeBetweenOrders 664 seconds
+DBG [32848-150] accountId 131505 sold__ NFT (to__ #183821) for     0.964 $ (4.000 LRC) validUntilTimeBetweenOrders 1208229 seconds
+DBG [32848-151] accountId 131505 sold__ NFT (to__ #183821) for     0.964 $ (4.000 LRC) validUntilTimeBetweenOrders 1208223 seconds
+DBG [32848-152] accountId 131505 sold__ NFT (to__ #183821) for     0.964 $ (4.000 LRC) validUntilTimeBetweenOrders 1208218 seconds
+DBG [32848-153] accountId 131505 sold__ NFT (to__ #183821) for     0.964 $ (4.000 LRC) validUntilTimeBetweenOrders 1208214 seconds
+DBG [32848-154] accountId 131505 sold__ NFT (to__ #183821) for     0.964 $ (4.000 LRC) validUntilTimeBetweenOrders 1208210 seconds
+DBG [32848-155] accountId 131505 sold__ NFT (to__ #183821) for     0.964 $ (4.000 LRC) validUntilTimeBetweenOrders 1208205 seconds
+DBG [32848-156] accountId 131505 sold__ NFT (to__ #183821) for     0.964 $ (4.000 LRC) validUntilTimeBetweenOrders 1208201 seconds
+DBG [32848-157] accountId 131505 sold__ NFT (to__ #183821) for     0.964 $ (4.000 LRC) validUntilTimeBetweenOrders 1208197 seconds
+DBG [32848-158] accountId 131505 sold__ NFT (to__ #183821) for     0.964 $ (4.000 LRC) validUntilTimeBetweenOrders 1208192 seconds
+DBG [32848-159] accountId 131505 sold__ NFT (to__ #183821) for     0.964 $ (4.000 LRC) validUntilTimeBetweenOrders 1208187 seconds
+DBG [32848-160] accountId 131505 sold__ NFT (to__ #183821) for     0.964 $ (4.000 LRC) validUntilTimeBetweenOrders 1208179 seconds
+DBG [32848-161] accountId 131505 sold__ NFT (to__ #183821) for     0.964 $ (4.000 LRC) validUntilTimeBetweenOrders 1208175 seconds
+DBG [32848-162] accountId 131505 sold__ NFT (to__ #183821) for     0.964 $ (4.000 LRC) validUntilTimeBetweenOrders 1208167 seconds
+DBG [32848-163] accountId 131505 sold__ NFT (to__ #183821) for     0.964 $ (4.000 LRC) validUntilTimeBetweenOrders 1208162 seconds
+DBG [32848-164] accountId 131505 sold__ NFT (to__ #183821) for     0.964 $ (4.000 LRC) validUntilTimeBetweenOrders 1208158 seconds
+DBG [32848-165] accountId 131505 sold__ NFT (to__ #183821) for     0.964 $ (4.000 LRC) validUntilTimeBetweenOrders 1208154 seconds
+DBG [32848-166] accountId 131505 sold__ NFT (to__ #183821) for     0.964 $ (4.000 LRC) validUntilTimeBetweenOrders 1208149 seconds
+DBG [32848-167] accountId 131505 sold__ NFT (to__ #183821) for     0.964 $ (4.000 LRC) validUntilTimeBetweenOrders 1208144 seconds
+DBG [32848-197] accountId 131505 sold__ NFT (to__ #183821) for     0.968 $ (4.000 LRC) validUntilTimeBetweenOrders 1208139 seconds
+DBG [32848-198] accountId 131505 sold__ NFT (to__ #183821) for     0.968 $ (4.000 LRC) validUntilTimeBetweenOrders 1208134 seconds
+DBG [32848-199] accountId 131505 sold__ NFT (to__ #183821) for     0.968 $ (4.000 LRC) validUntilTimeBetweenOrders 1208130 seconds
+DBG [32848-200] accountId 131505 sold__ NFT (to__ #183821) for     0.968 $ (4.000 LRC) validUntilTimeBetweenOrders 1208125 seconds
+DBG [32848-201] accountId 131505 sold__ NFT (to__ #183821) for     0.968 $ (4.000 LRC) validUntilTimeBetweenOrders 1208120 seconds
+DBG [32848-202] accountId 131505 sold__ NFT (to__ #183821) for     0.968 $ (4.000 LRC) validUntilTimeBetweenOrders 1208116 seconds
+DBG [32848-203] accountId 131505 sold__ NFT (to__ #183821) for     0.968 $ (4.000 LRC) validUntilTimeBetweenOrders 1208111 seconds
+DBG [32848-204] accountId 131505 sold__ NFT (to__ #183821) for     0.968 $ (4.000 LRC) validUntilTimeBetweenOrders 1208107 seconds
+DBG [32848-205] accountId 131505 sold__ NFT (to__ #183821) for     0.968 $ (4.000 LRC) validUntilTimeBetweenOrders 1208103 seconds
+DBG [32848-206] accountId 131505 sold__ NFT (to__ #183821) for     0.968 $ (4.000 LRC) validUntilTimeBetweenOrders 1208094 seconds
+DBG [32848-207] accountId 131505 sold__ NFT (to__ #183821) for     0.968 $ (4.000 LRC) validUntilTimeBetweenOrders 1208089 seconds
+DBG [32889-89 ] accountId 131505 sold__ NFT (to__ # 41982) for   185.770 $ (0.150 ETH) validUntilTimeBetweenOrders 4631 seconds
+DBG [32895-119] accountId 131505 sold__ NFT (to__ #226760) for   285.411 $ (0.231 ETH) validUntilTimeBetweenOrders 4511 seconds
+DBG [32975-23 ] accountId 131505 bought NFT (from #166192) for   144.175 $ (0.114 ETH) validUntilTimeBetweenOrders 92 seconds
+DBG [32978-204] accountId 131505 sold__ NFT (to__ #173648) for     0.629 $ (0.001 ETH) validUntilTimeBetweenOrders 40824 seconds
+DBG [32983-95 ] accountId 131505 sold__ NFT (to__ #227314) for   336.064 $ (0.270 ETH) validUntilTimeBetweenOrders 21592 seconds
+DBG [33000-37 ] accountId 131505 sold__ NFT (to__ #188942) for     0.607 $ (0.001 ETH) validUntilTimeBetweenOrders 73554 seconds
+DBG [33018-308] accountId 131505 bought NFT (from # 43862) for   271.238 $ (0.226 ETH) validUntilTimeBetweenOrders 93 seconds
+DBG [33061-21 ] accountId 131505 sold__ NFT (to__ #151068) for    26.450 $ (0.022 ETH) validUntilTimeBetweenOrders 58952 seconds
+DBG [33074-59 ] accountId 131505 bought NFT (from #163167) for   361.498 $ (0.300 ETH) validUntilTimeBetweenOrders 345583 seconds
+DBG [33076-53 ] accountId 131505 sold__ NFT (to__ #181689) for   174.844 $ (0.145 ETH) validUntilTimeBetweenOrders 2656 seconds
+DBG [33076-63 ] accountId 131505 sold__ NFT (to__ #185497) for     0.603 $ (0.001 ETH) validUntilTimeBetweenOrders 173825 seconds
+DBG [33081-196] accountId 131505 bought NFT (from #141504) for   301.680 $ (0.250 ETH) validUntilTimeBetweenOrders 1034 seconds
+DBG [33087-108] accountId 131505 sold__ NFT (to__ #150840) for   392.299 $ (0.325 ETH) validUntilTimeBetweenOrders 8102 seconds
+DBG [33093-87 ] accountId 131505 bought NFT (from # 73573) for    83.798 $ (0.069 ETH) validUntilTimeBetweenOrders 58 seconds
+DBG [33098-131] accountId 131505 sold__ NFT (to__ #225094) for   108.119 $ (0.088 ETH) validUntilTimeBetweenOrders 2113 seconds
+DBG [33138-12 ] accountId 131505 bought NFT (from #129742) for    78.390 $ (0.065 ETH) validUntilTimeBetweenOrders 328 seconds
+DBG [33138-79 ] accountId 131505 bought NFT (from #129742) for    84.420 $ (0.070 ETH) validUntilTimeBetweenOrders 328 seconds
+DBG [33139-45 ] accountId 131505 bought NFT (from #165134) for   107.743 $ (0.089 ETH) validUntilTimeBetweenOrders 31350 seconds
+DBG [33142-58 ] accountId 131505 sold__ NFT (to__ #174108) for   331.371 $ (0.275 ETH) validUntilTimeBetweenOrders 986 seconds
+DBG [33190-275] accountId 131505 sold__ NFT (to__ #125064) for    93.423 $ (0.077 ETH) validUntilTimeBetweenOrders 24061 seconds
+DBG [33200-5  ] accountId 131505 sold__ NFT (to__ #227974) for   103.933 $ (0.085 ETH) validUntilTimeBetweenOrders 79952 seconds
+DBG [33231-159] accountId 131505 sold__ NFT (to__ #161567) for    10.475 $ (0.009 ETH) validUntilTimeBetweenOrders 4029947 seconds
+DBG [33242-67 ] accountId 131505 sold__ NFT (to__ #179879) for    49.182 $ (0.042 ETH) validUntilTimeBetweenOrders 2941 seconds
+DBG [33244-351] accountId 131505 bought NFT (from #166160) for    58.550 $ (0.050 ETH) validUntilTimeBetweenOrders 3678 seconds
+DBG [33244-367] accountId 131505 bought NFT (from #166160) for    58.550 $ (0.050 ETH) validUntilTimeBetweenOrders 112 seconds
+DBG [33245-4  ] accountId 131505 bought NFT (from #166160) for    58.550 $ (0.050 ETH) validUntilTimeBetweenOrders 112 seconds
+DBG [33250-254] accountId 131505 sold__ NFT (to__ #176736) for    81.548 $ (0.070 ETH) validUntilTimeBetweenOrders 233 seconds

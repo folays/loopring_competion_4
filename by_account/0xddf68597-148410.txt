@@ -1,0 +1,5 @@
+DBG [29630-46 ] accountId 148410 sold__ NFT (to__ #159180) for   116.372 $ (0.089 ETH) validUntilTimeBetweenOrders 1092524 seconds
+DBG [29704-98 ] accountId 148410 bought NFT (from #133357) for   232.278 $ (0.180 ETH) validUntilTimeBetweenOrders 42 seconds
+DBG [30102-164] accountId 148410 bought NFT (from # 92477) for    60.561 $ (0.045 ETH) validUntilTimeBetweenOrders 490 seconds
+DBG [30111-302] accountId 148410 bought NFT (from # 92477) for    87.770 $ (0.065 ETH) validUntilTimeBetweenOrders 353 seconds
+DBG [30112-294] accountId 148410 bought NFT (from # 92477) for    21.551 $ (0.016 ETH) validUntilTimeBetweenOrders 490 seconds

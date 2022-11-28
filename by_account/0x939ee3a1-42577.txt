@@ -1,0 +1,69 @@
+DBG [29483-174] accountId  42577 sold__ NFT (to__ #106421) for    13.831 $ (45.000 LRC) validUntilTimeBetweenOrders 1291986 seconds
+DBG [29485-338] accountId  42577 sold__ NFT (to__ # 38136) for    17.719 $ (57.000 LRC) validUntilTimeBetweenOrders 1288017 seconds
+DBG [29489-116] accountId  42577 sold__ NFT (to__ # 71856) for     3.067 $ (10.000 LRC) validUntilTimeBetweenOrders 1295157 seconds
+DBG [29498-2  ] accountId  42577 sold__ NFT (to__ #120264) for    18.544 $ (60.000 LRC) validUntilTimeBetweenOrders 1281585 seconds
+DBG [29535-161] accountId  42577 sold__ NFT (to__ #108758) for     0.915 $ (3.000 LRC) validUntilTimeBetweenOrders 1210293 seconds
+DBG [29586-50 ] accountId  42577 sold__ NFT (to__ # 72028) for   149.384 $ (500.000 LRC) validUntilTimeBetweenOrders 1279694 seconds
+DBG [29586-117] accountId  42577 bought NFT (from # 72028) for   298.680 $ (999.000 LRC) validUntilTimeBetweenOrders 1093878 seconds
+DBG [29975-162] accountId  42577 sold__ NFT (to__ # 71241) for    40.491 $ (0.031 ETH) validUntilTimeBetweenOrders 586321 seconds
+DBG [29975-190] accountId  42577 sold__ NFT (to__ # 71241) for   102.338 $ (0.078 ETH) validUntilTimeBetweenOrders 1032783 seconds
+DBG [30034-11 ] accountId  42577 bought NFT (from #174766) for   198.559 $ (0.150 ETH) validUntilTimeBetweenOrders 687 seconds
+DBG [30087-24 ] accountId  42577 bought NFT (from #124927) for    53.108 $ (0.040 ETH) validUntilTimeBetweenOrders 144 seconds
+DBG [30088-169] accountId  42577 bought NFT (from #166979) for    59.516 $ (200.000 LRC) validUntilTimeBetweenOrders 1295354 seconds
+DBG [30089-283] accountId  42577 bought NFT (from # 82253) for    54.517 $ (0.040 ETH) validUntilTimeBetweenOrders 51 seconds
+DBG [30269-138] accountId  42577 sold__ NFT (to__ #163167) for   229.181 $ (0.177 ETH) validUntilTimeBetweenOrders 61327 seconds
+DBG [30274-123] accountId  42577 sold__ NFT (to__ #163167) for    75.030 $ (0.058 ETH) validUntilTimeBetweenOrders 15283 seconds
+DBG [30275-199] accountId  42577 bought NFT (from #143625) for   271.277 $ (0.210 ETH) validUntilTimeBetweenOrders 3516 seconds
+DBG [30393-132] accountId  42577 sold__ NFT (to__ # 62231) for     4.173 $ (14.000 LRC) validUntilTimeBetweenOrders 249126 seconds
+DBG [30903-183] accountId  42577 sold__ NFT (to__ #121661) for    22.228 $ (86.000 LRC) validUntilTimeBetweenOrders 61755 seconds
+DBG [30919-100] accountId  42577 sold__ NFT (to__ # 36566) for    16.959 $ (65.000 LRC) validUntilTimeBetweenOrders 33705 seconds
+DBG [31090-204] accountId  42577 sold__ NFT (to__ #164549) for     1.579 $ (0.001 ETH) validUntilTimeBetweenOrders 246 seconds
+DBG [31229-94 ] accountId  42577 sold__ NFT (to__ # 59225) for     9.816 $ (40.000 LRC) validUntilTimeBetweenOrders 520842 seconds
+DBG [31329-70 ] accountId  42577 sold__ NFT (to__ #139737) for   303.367 $ (0.233 ETH) validUntilTimeBetweenOrders 27837 seconds
+DBG [31371-82 ] accountId  42577 sold__ NFT (to__ #192173) for   235.659 $ (0.179 ETH) validUntilTimeBetweenOrders 10930 seconds
+DBG [31393-108] accountId  42577 sold__ NFT (to__ #163754) for   274.232 $ (0.210 ETH) validUntilTimeBetweenOrders 1991 seconds
+DBG [31402-4  ] accountId  42577 sold__ NFT (to__ # 98432) for   247.646 $ (0.189 ETH) validUntilTimeBetweenOrders 711 seconds
+DBG [31460-144] accountId  42577 sold__ NFT (to__ # 39534) for    26.755 $ (0.020 ETH) validUntilTimeBetweenOrders 317 seconds
+DBG [31460-173] accountId  42577 sold__ NFT (to__ # 39534) for    26.755 $ (0.020 ETH) validUntilTimeBetweenOrders 50 seconds
+DBG [31460-174] accountId  42577 sold__ NFT (to__ # 39534) for    26.755 $ (0.020 ETH) validUntilTimeBetweenOrders 89 seconds
+DBG [31460-228] accountId  42577 sold__ NFT (to__ # 39534) for    26.676 $ (0.020 ETH) validUntilTimeBetweenOrders 245 seconds
+DBG [31460-229] accountId  42577 sold__ NFT (to__ # 39534) for    26.676 $ (0.020 ETH) validUntilTimeBetweenOrders 194 seconds
+DBG [31460-247] accountId  42577 sold__ NFT (to__ # 39534) for    26.676 $ (0.020 ETH) validUntilTimeBetweenOrders 71 seconds
+DBG [31461-266] accountId  42577 bought NFT (from #192576) for     1.239 $ (5.000 LRC) validUntilTimeBetweenOrders 1295950 seconds
+DBG [31461-382] accountId  42577 sold__ NFT (to__ #105338) for    24.796 $ (100.000 LRC) validUntilTimeBetweenOrders 1295939 seconds
+DBG [31462-22 ] accountId  42577 bought NFT (from #128380) for    18.374 $ (74.100 LRC) validUntilTimeBetweenOrders 1295988 seconds
+DBG [31465-69 ] accountId  42577 sold__ NFT (to__ # 73694) for    21.354 $ (86.000 LRC) validUntilTimeBetweenOrders 1295977 seconds
+DBG [31472-54 ] accountId  42577 bought NFT (from #126675) for    22.081 $ (89.000 LRC) validUntilTimeBetweenOrders 1295968 seconds
+DBG [31472-354] accountId  42577 bought NFT (from #188218) for    18.395 $ (74.100 LRC) validUntilTimeBetweenOrders 1295932 seconds
+DBG [31473-101] accountId  42577 sold__ NFT (to__ # 77675) for    24.843 $ (100.000 LRC) validUntilTimeBetweenOrders 1295708 seconds
+DBG [31473-351] accountId  42577 sold__ NFT (to__ # 59225) for    24.829 $ (99.900 LRC) validUntilTimeBetweenOrders 1295873 seconds
+DBG [31475-288] accountId  42577 bought NFT (from #192576) for     1.238 $ (5.000 LRC) validUntilTimeBetweenOrders 1295946 seconds
+DBG [31528-4  ] accountId  42577 bought NFT (from #101859) for    32.500 $ (125.000 LRC) validUntilTimeBetweenOrders 1295952 seconds
+DBG [31528-92 ] accountId  42577 sold__ NFT (to__ # 71756) for    39.011 $ (150.000 LRC) validUntilTimeBetweenOrders 1295593 seconds
+DBG [31536-25 ] accountId  42577 bought NFT (from #192576) for     1.317 $ (5.000 LRC) validUntilTimeBetweenOrders 1295941 seconds
+DBG [31536-34 ] accountId  42577 bought NFT (from #192576) for     1.317 $ (5.000 LRC) validUntilTimeBetweenOrders 1295918 seconds
+DBG [31536-113] accountId  42577 sold__ NFT (to__ # 34525) for    37.835 $ (144.000 LRC) validUntilTimeBetweenOrders 1295944 seconds
+DBG [31544-39 ] accountId  42577 bought NFT (from #192576) for     1.295 $ (5.000 LRC) validUntilTimeBetweenOrders 1295861 seconds
+DBG [31555-137] accountId  42577 sold__ NFT (to__ # 71948) for    37.828 $ (145.000 LRC) validUntilTimeBetweenOrders 1277350 seconds
+DBG [31566-95 ] accountId  42577 bought NFT (from #192576) for     1.325 $ (5.000 LRC) validUntilTimeBetweenOrders 1295956 seconds
+DBG [31581-23 ] accountId  42577 sold__ NFT (to__ #140901) for    46.679 $ (180.000 LRC) validUntilTimeBetweenOrders 1259970 seconds
+DBG [31585-185] accountId  42577 bought NFT (from #192576) for     1.337 $ (5.000 LRC) validUntilTimeBetweenOrders 1295919 seconds
+DBG [31585-243] accountId  42577 sold__ NFT (to__ # 40739) for    45.291 $ (169.000 LRC) validUntilTimeBetweenOrders 1295888 seconds
+DBG [31593-155] accountId  42577 sold__ NFT (to__ # 98736) for    46.737 $ (174.000 LRC) validUntilTimeBetweenOrders 1295010 seconds
+DBG [31600-137] accountId  42577 bought NFT (from #192576) for     1.330 $ (5.000 LRC) validUntilTimeBetweenOrders 1295967 seconds
+DBG [31603-44 ] accountId  42577 sold__ NFT (to__ # 51371) for   132.550 $ (500.000 LRC) validUntilTimeBetweenOrders 1282641 seconds
+DBG [31606-97 ] accountId  42577 sold__ NFT (to__ # 57671) for    93.409 $ (350.000 LRC) validUntilTimeBetweenOrders 1295738 seconds
+DBG [31615-47 ] accountId  42577 sold__ NFT (to__ #124834) for   367.035 $ (0.234 ETH) validUntilTimeBetweenOrders 57130 seconds
+DBG [31634-150] accountId  42577 sold__ NFT (to__ # 74395) for   326.962 $ (1200.000 LRC) validUntilTimeBetweenOrders 1295948 seconds
+DBG [31636-85 ] accountId  42577 sold__ NFT (to__ #151763) for   322.568 $ (0.209 ETH) validUntilTimeBetweenOrders 88680 seconds
+DBG [31894-68 ] accountId  42577 sold__ NFT (to__ # 63921) for    16.218 $ (0.010 ETH) validUntilTimeBetweenOrders 161288 seconds
+DBG [31949-92 ] accountId  42577 sold__ NFT (to__ #161948) for    45.833 $ (0.029 ETH) validUntilTimeBetweenOrders 1752 seconds
+DBG [32163-278] accountId  42577 bought NFT (from #112862) for    25.631 $ (100.000 LRC) validUntilTimeBetweenOrders 1210947 seconds
+DBG [32421-172] accountId  42577 sold__ NFT (to__ # 54117) for   387.533 $ (1123.000 LRC) validUntilTimeBetweenOrders 1283430 seconds
+DBG [32441-99 ] accountId  42577 sold__ NFT (to__ #125788) for     9.067 $ (0.006 ETH) validUntilTimeBetweenOrders 46658 seconds
+DBG [32442-3  ] accountId  42577 sold__ NFT (to__ # 73269) for    43.773 $ (0.028 ETH) validUntilTimeBetweenOrders 393114 seconds
+DBG [32773-122] accountId  42577 bought NFT (from #182425) for     1.254 $ (5.000 LRC) validUntilTimeBetweenOrders 1238874 seconds
+DBG [32773-171] accountId  42577 bought NFT (from #182425) for     1.254 $ (5.000 LRC) validUntilTimeBetweenOrders 1238669 seconds
+DBG [32964-88 ] accountId  42577 sold__ NFT (to__ # 51382) for    20.720 $ (80.000 LRC) validUntilTimeBetweenOrders 766316 seconds
+DBG [33141-6  ] accountId  42577 bought NFT (from # 33602) for   271.345 $ (1100.000 LRC) validUntilTimeBetweenOrders 1295986 seconds
+DBG [33187-38 ] accountId  42577 bought NFT (from #110544) for   284.504 $ (1149.000 LRC) validUntilTimeBetweenOrders 1209716 seconds

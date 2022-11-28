@@ -1,0 +1,124 @@
+DBG [29498-162] accountId  52694 sold__ NFT (to__ #127004) for     6.270 $ (0.005 ETH) validUntilTimeBetweenOrders 423105 seconds
+DBG [29524-48 ] accountId  52694 sold__ NFT (to__ #165935) for     3.091 $ (0.002 ETH) validUntilTimeBetweenOrders 419243 seconds
+DBG [29702-154] accountId  52694 bought NFT (from #188749) for   200.373 $ (0.155 ETH) validUntilTimeBetweenOrders 743 seconds
+DBG [29703-308] accountId  52694 bought NFT (from #188749) for   200.017 $ (0.155 ETH) validUntilTimeBetweenOrders 390 seconds
+DBG [30092-247] accountId  52694 bought NFT (from # 92477) for   243.810 $ (0.180 ETH) validUntilTimeBetweenOrders 83 seconds
+DBG [30096-159] accountId  52694 bought NFT (from # 92477) for   121.767 $ (0.090 ETH) validUntilTimeBetweenOrders 177 seconds
+DBG [30100-4  ] accountId  52694 bought NFT (from # 92477) for   137.390 $ (0.102 ETH) validUntilTimeBetweenOrders 407 seconds
+DBG [30101-297] accountId  52694 bought NFT (from # 92477) for    21.586 $ (0.016 ETH) validUntilTimeBetweenOrders 407 seconds
+DBG [30102-104] accountId  52694 bought NFT (from # 92477) for    60.561 $ (0.045 ETH) validUntilTimeBetweenOrders 407 seconds
+DBG [30103-288] accountId  52694 bought NFT (from # 92477) for   121.497 $ (0.090 ETH) validUntilTimeBetweenOrders 760 seconds
+DBG [30104-129] accountId  52694 bought NFT (from # 92477) for   121.497 $ (0.090 ETH) validUntilTimeBetweenOrders 70 seconds
+DBG [30105-200] accountId  52694 bought NFT (from # 92477) for   161.996 $ (0.120 ETH) validUntilTimeBetweenOrders 83 seconds
+DBG [30122-287] accountId  52694 bought NFT (from # 92477) for    88.189 $ (0.065 ETH) validUntilTimeBetweenOrders 1910 seconds
+DBG [30125-242] accountId  52694 bought NFT (from #180118) for   317.638 $ (0.235 ETH) validUntilTimeBetweenOrders 68 seconds
+DBG [30125-292] accountId  52694 bought NFT (from # 92477) for    21.626 $ (0.016 ETH) validUntilTimeBetweenOrders 3607 seconds
+DBG [30125-344] accountId  52694 bought NFT (from #133472) for   310.879 $ (0.230 ETH) validUntilTimeBetweenOrders 80 seconds
+DBG [30126-1  ] accountId  52694 bought NFT (from # 92477) for    87.857 $ (0.065 ETH) validUntilTimeBetweenOrders 2958 seconds
+DBG [30126-7  ] accountId  52694 bought NFT (from # 92477) for    60.824 $ (0.045 ETH) validUntilTimeBetweenOrders 3807 seconds
+DBG [30666-62 ] accountId  52694 sold__ NFT (to__ #134158) for    23.865 $ (0.018 ETH) validUntilTimeBetweenOrders 20773 seconds
+DBG [30666-118] accountId  52694 sold__ NFT (to__ #134158) for    23.068 $ (0.017 ETH) validUntilTimeBetweenOrders 20769 seconds
+DBG [31261-12 ] accountId  52694 sold__ NFT (to__ #125628) for    36.121 $ (0.028 ETH) validUntilTimeBetweenOrders 34585 seconds
+DBG [31284-54 ] accountId  52694 sold__ NFT (to__ #166462) for     1.907 $ (0.001 ETH) validUntilTimeBetweenOrders 59703 seconds
+DBG [31293-243] accountId  52694 sold__ NFT (to__ #134053) for     1.912 $ (0.001 ETH) validUntilTimeBetweenOrders 79107 seconds
+DBG [31302-197] accountId  52694 sold__ NFT (to__ #125035) for     1.809 $ (0.001 ETH) validUntilTimeBetweenOrders 90285 seconds
+DBG [31305-324] accountId  52694 sold__ NFT (to__ #149886) for     1.931 $ (0.001 ETH) validUntilTimeBetweenOrders 93921 seconds
+DBG [31306-157] accountId  52694 sold__ NFT (to__ #170629) for     3.227 $ (0.002 ETH) validUntilTimeBetweenOrders 95394 seconds
+DBG [31306-228] accountId  52694 sold__ NFT (to__ #136598) for     3.227 $ (0.002 ETH) validUntilTimeBetweenOrders 95426 seconds
+DBG [31308-4  ] accountId  52694 sold__ NFT (to__ #185714) for     3.247 $ (0.002 ETH) validUntilTimeBetweenOrders 1704 seconds
+DBG [31308-163] accountId  52694 sold__ NFT (to__ #157283) for     3.247 $ (0.002 ETH) validUntilTimeBetweenOrders 1683 seconds
+DBG [31309-44 ] accountId  52694 sold__ NFT (to__ #124707) for     3.248 $ (0.002 ETH) validUntilTimeBetweenOrders 3079 seconds
+DBG [31310-1  ] accountId  52694 sold__ NFT (to__ #139077) for     1.938 $ (0.001 ETH) validUntilTimeBetweenOrders 4689 seconds
+DBG [31311-77 ] accountId  52694 sold__ NFT (to__ #190252) for     3.239 $ (0.002 ETH) validUntilTimeBetweenOrders 5635 seconds
+DBG [31312-202] accountId  52694 sold__ NFT (to__ #164573) for     1.936 $ (0.001 ETH) validUntilTimeBetweenOrders 7806 seconds
+DBG [31314-64 ] accountId  52694 sold__ NFT (to__ #138630) for     3.234 $ (0.002 ETH) validUntilTimeBetweenOrders 11696 seconds
+DBG [31318-112] accountId  52694 sold__ NFT (to__ #134158) for     5.415 $ (0.004 ETH) validUntilTimeBetweenOrders 16474 seconds
+DBG [31332-59 ] accountId  52694 sold__ NFT (to__ #192355) for     1.933 $ (0.001 ETH) validUntilTimeBetweenOrders 132701 seconds
+DBG [31332-72 ] accountId  52694 sold__ NFT (to__ #192355) for     1.933 $ (0.001 ETH) validUntilTimeBetweenOrders 37310 seconds
+DBG [31388-28 ] accountId  52694 sold__ NFT (to__ #134452) for     1.950 $ (0.001 ETH) validUntilTimeBetweenOrders 223757 seconds
+DBG [31392-90 ] accountId  52694 sold__ NFT (to__ #132194) for     1.950 $ (0.001 ETH) validUntilTimeBetweenOrders 231906 seconds
+DBG [31472-123] accountId  52694 sold__ NFT (to__ #128502) for     6.649 $ (0.005 ETH) validUntilTimeBetweenOrders 6431 seconds
+DBG [31473-18 ] accountId  52694 sold__ NFT (to__ #134158) for     8.030 $ (0.006 ETH) validUntilTimeBetweenOrders 8313 seconds
+DBG [31489-123] accountId  52694 sold__ NFT (to__ #162853) for    12.089 $ (0.009 ETH) validUntilTimeBetweenOrders 20634 seconds
+DBG [31492-253] accountId  52694 sold__ NFT (to__ #164689) for     2.138 $ (0.002 ETH) validUntilTimeBetweenOrders 25648 seconds
+DBG [31494-251] accountId  52694 sold__ NFT (to__ #171808) for    13.384 $ (0.010 ETH) validUntilTimeBetweenOrders 27012 seconds
+DBG [31498-157] accountId  52694 sold__ NFT (to__ #148519) for     2.653 $ (0.002 ETH) validUntilTimeBetweenOrders 29587 seconds
+DBG [31506-121] accountId  52694 sold__ NFT (to__ # 91727) for    20.207 $ (0.015 ETH) validUntilTimeBetweenOrders 42183 seconds
+DBG [31507-15 ] accountId  52694 sold__ NFT (to__ # 96291) for     2.145 $ (0.002 ETH) validUntilTimeBetweenOrders 45108 seconds
+DBG [31519-80 ] accountId  52694 sold__ NFT (to__ # 91618) for     2.139 $ (0.002 ETH) validUntilTimeBetweenOrders 65646 seconds
+DBG [31519-96 ] accountId  52694 sold__ NFT (to__ # 91618) for     2.676 $ (0.002 ETH) validUntilTimeBetweenOrders 65655 seconds
+DBG [31520-58 ] accountId  52694 sold__ NFT (to__ #125366) for     2.143 $ (0.002 ETH) validUntilTimeBetweenOrders 66079 seconds
+DBG [31525-69 ] accountId  52694 sold__ NFT (to__ #128561) for     2.744 $ (0.002 ETH) validUntilTimeBetweenOrders 76802 seconds
+DBG [31538-277] accountId  52694 sold__ NFT (to__ #154289) for     2.220 $ (0.001 ETH) validUntilTimeBetweenOrders 8965 seconds
+DBG [31538-317] accountId  52694 sold__ NFT (to__ #154289) for     2.517 $ (0.002 ETH) validUntilTimeBetweenOrders 8583 seconds
+DBG [31539-185] accountId  52694 sold__ NFT (to__ #154289) for    11.054 $ (0.007 ETH) validUntilTimeBetweenOrders 8329 seconds
+DBG [31540-220] accountId  52694 sold__ NFT (to__ #173942) for     2.462 $ (0.002 ETH) validUntilTimeBetweenOrders 10364 seconds
+DBG [31547-128] accountId  52694 sold__ NFT (to__ #163214) for     2.469 $ (0.002 ETH) validUntilTimeBetweenOrders 20862 seconds
+DBG [31550-69 ] accountId  52694 sold__ NFT (to__ # 41812) for     4.373 $ (0.003 ETH) validUntilTimeBetweenOrders 26299 seconds
+DBG [31551-218] accountId  52694 sold__ NFT (to__ #148411) for     2.927 $ (0.002 ETH) validUntilTimeBetweenOrders 28798 seconds
+DBG [31567-211] accountId  52694 sold__ NFT (to__ # 44010) for     2.552 $ (0.002 ETH) validUntilTimeBetweenOrders 42870 seconds
+DBG [31581-376] accountId  52694 sold__ NFT (to__ #136605) for    23.139 $ (0.015 ETH) validUntilTimeBetweenOrders 3667 seconds
+DBG [31581-377] accountId  52694 sold__ NFT (to__ #136605) for    15.431 $ (0.010 ETH) validUntilTimeBetweenOrders 3666 seconds
+DBG [31582-96 ] accountId  52694 sold__ NFT (to__ # 37143) for    15.363 $ (0.010 ETH) validUntilTimeBetweenOrders 73755 seconds
+DBG [31594-220] accountId  52694 sold__ NFT (to__ # 38649) for   140.661 $ (0.090 ETH) validUntilTimeBetweenOrders 8221 seconds
+DBG [31627-35 ] accountId  52694 sold__ NFT (to__ #164860) for     2.477 $ (0.002 ETH) validUntilTimeBetweenOrders 135601 seconds
+DBG [31630-60 ] accountId  52694 sold__ NFT (to__ #132194) for     2.283 $ (0.001 ETH) validUntilTimeBetweenOrders 139530 seconds
+DBG [31631-81 ] accountId  52694 sold__ NFT (to__ #137502) for     2.477 $ (0.002 ETH) validUntilTimeBetweenOrders 144325 seconds
+DBG [31636-56 ] accountId  52694 sold__ NFT (to__ # 38649) for   130.983 $ (0.085 ETH) validUntilTimeBetweenOrders 50489 seconds
+DBG [31637-175] accountId  52694 sold__ NFT (to__ #136605) for    21.413 $ (0.014 ETH) validUntilTimeBetweenOrders 100250 seconds
+DBG [31643-166] accountId  52694 sold__ NFT (to__ #134158) for    10.749 $ (0.007 ETH) validUntilTimeBetweenOrders 194 seconds
+DBG [31649-169] accountId  52694 sold__ NFT (to__ # 33804) for    95.956 $ (0.062 ETH) validUntilTimeBetweenOrders 12360 seconds
+DBG [31718-39 ] accountId  52694 sold__ NFT (to__ #185745) for    15.046 $ (0.010 ETH) validUntilTimeBetweenOrders 4672 seconds
+DBG [31796-262] accountId  52694 sold__ NFT (to__ #133616) for     2.373 $ (0.002 ETH) validUntilTimeBetweenOrders 23714 seconds
+DBG [31799-76 ] accountId  52694 sold__ NFT (to__ # 33804) for   107.893 $ (0.072 ETH) validUntilTimeBetweenOrders 9074 seconds
+DBG [31808-177] accountId  52694 sold__ NFT (to__ #190933) for    21.629 $ (0.014 ETH) validUntilTimeBetweenOrders 42916 seconds
+DBG [31813-153] accountId  52694 sold__ NFT (to__ #102481) for     2.514 $ (0.002 ETH) validUntilTimeBetweenOrders 20439 seconds
+DBG [31846-67 ] accountId  52694 bought NFT (from #178652) for    10.886 $ (0.007 ETH) validUntilTimeBetweenOrders 23417 seconds
+DBG [31851-257] accountId  52694 bought NFT (from #173929) for    29.778 $ (0.019 ETH) validUntilTimeBetweenOrders 181712 seconds
+DBG [31858-168] accountId  52694 sold__ NFT (to__ #183821) for    13.646 $ (0.009 ETH) validUntilTimeBetweenOrders 19939 seconds
+DBG [31858-188] accountId  52694 sold__ NFT (to__ #128086) for    13.646 $ (0.009 ETH) validUntilTimeBetweenOrders 13051 seconds
+DBG [31858-189] accountId  52694 sold__ NFT (to__ #173642) for    13.646 $ (0.009 ETH) validUntilTimeBetweenOrders 20118 seconds
+DBG [31859-6  ] accountId  52694 sold__ NFT (to__ #133849) for    41.107 $ (0.026 ETH) validUntilTimeBetweenOrders 20254 seconds
+DBG [31859-29 ] accountId  52694 sold__ NFT (to__ #165552) for    13.702 $ (0.009 ETH) validUntilTimeBetweenOrders 24102 seconds
+DBG [31859-30 ] accountId  52694 sold__ NFT (to__ #133849) for    13.702 $ (0.009 ETH) validUntilTimeBetweenOrders 20254 seconds
+DBG [31859-60 ] accountId  52694 sold__ NFT (to__ #135967) for    27.404 $ (0.018 ETH) validUntilTimeBetweenOrders 20641 seconds
+DBG [31862-45 ] accountId  52694 sold__ NFT (to__ #125749) for     2.310 $ (0.001 ETH) validUntilTimeBetweenOrders 31414 seconds
+DBG [31869-152] accountId  52694 sold__ NFT (to__ #125817) for     3.105 $ (0.002 ETH) validUntilTimeBetweenOrders 36665 seconds
+DBG [31871-134] accountId  52694 sold__ NFT (to__ #158622) for     3.097 $ (0.002 ETH) validUntilTimeBetweenOrders 38990 seconds
+DBG [31871-135] accountId  52694 sold__ NFT (to__ #158622) for     2.608 $ (0.002 ETH) validUntilTimeBetweenOrders 50987 seconds
+DBG [31890-304] accountId  52694 sold__ NFT (to__ #139147) for     5.310 $ (0.003 ETH) validUntilTimeBetweenOrders 130111 seconds
+DBG [31891-7  ] accountId  52694 sold__ NFT (to__ #156127) for     3.166 $ (0.002 ETH) validUntilTimeBetweenOrders 71256 seconds
+DBG [31894-163] accountId  52694 sold__ NFT (to__ # 41275) for     3.172 $ (0.002 ETH) validUntilTimeBetweenOrders 76448 seconds
+DBG [31899-235] accountId  52694 sold__ NFT (to__ #160005) for     2.436 $ (0.001 ETH) validUntilTimeBetweenOrders 100425 seconds
+DBG [31905-106] accountId  52694 sold__ NFT (to__ #174490) for     2.418 $ (0.001 ETH) validUntilTimeBetweenOrders 110249 seconds
+DBG [31914-173] accountId  52694 sold__ NFT (to__ #136452) for     2.408 $ (0.001 ETH) validUntilTimeBetweenOrders 121421 seconds
+DBG [31939-19 ] accountId  52694 bought NFT (from #189538) for    81.429 $ (0.051 ETH) validUntilTimeBetweenOrders 17870 seconds
+DBG [31939-26 ] accountId  52694 bought NFT (from #164858) for    83.026 $ (0.052 ETH) validUntilTimeBetweenOrders 23994 seconds
+DBG [31939-42 ] accountId  52694 bought NFT (from #136594) for    84.157 $ (0.053 ETH) validUntilTimeBetweenOrders 57191 seconds
+DBG [31970-11 ] accountId  52694 sold__ NFT (to__ # 64315) for    31.594 $ (0.020 ETH) validUntilTimeBetweenOrders 38918 seconds
+DBG [31975-181] accountId  52694 sold__ NFT (to__ #224293) for     3.068 $ (0.002 ETH) validUntilTimeBetweenOrders 51521 seconds
+DBG [32033-193] accountId  52694 sold__ NFT (to__ # 44031) for     2.554 $ (0.002 ETH) validUntilTimeBetweenOrders 124042 seconds
+DBG [32078-166] accountId  52694 sold__ NFT (to__ # 95799) for     2.610 $ (0.002 ETH) validUntilTimeBetweenOrders 165752 seconds
+DBG [32106-87 ] accountId  52694 sold__ NFT (to__ #126933) for     2.683 $ (0.002 ETH) validUntilTimeBetweenOrders 16139 seconds
+DBG [32106-326] accountId  52694 sold__ NFT (to__ #126933) for     2.683 $ (0.002 ETH) validUntilTimeBetweenOrders 16139 seconds
+DBG [32116-58 ] accountId  52694 sold__ NFT (to__ #137707) for     2.686 $ (0.002 ETH) validUntilTimeBetweenOrders 25602 seconds
+DBG [32145-109] accountId  52694 sold__ NFT (to__ #135183) for     2.176 $ (0.001 ETH) validUntilTimeBetweenOrders 27072 seconds
+DBG [32162-315] accountId  52694 sold__ NFT (to__ # 33804) for   173.250 $ (0.111 ETH) validUntilTimeBetweenOrders 38750 seconds
+DBG [32178-293] accountId  52694 sold__ NFT (to__ #224648) for     2.143 $ (0.001 ETH) validUntilTimeBetweenOrders 54252 seconds
+DBG [32178-295] accountId  52694 sold__ NFT (to__ #224648) for     2.602 $ (0.002 ETH) validUntilTimeBetweenOrders 54252 seconds
+DBG [32178-381] accountId  52694 sold__ NFT (to__ #165094) for     2.155 $ (0.001 ETH) validUntilTimeBetweenOrders 56314 seconds
+DBG [32179-27 ] accountId  52694 sold__ NFT (to__ #165094) for     2.617 $ (0.002 ETH) validUntilTimeBetweenOrders 56467 seconds
+DBG [32187-96 ] accountId  52694 sold__ NFT (to__ #192269) for     2.584 $ (0.002 ETH) validUntilTimeBetweenOrders 69070 seconds
+DBG [32384-71 ] accountId  52694 sold__ NFT (to__ #162853) for     1.781 $ (0.001 ETH) validUntilTimeBetweenOrders 1168 seconds
+DBG [32408-182] accountId  52694 sold__ NFT (to__ #128900) for     1.786 $ (0.001 ETH) validUntilTimeBetweenOrders 37875 seconds
+DBG [32424-140] accountId  52694 sold__ NFT (to__ #137418) for     1.734 $ (0.001 ETH) validUntilTimeBetweenOrders 65407 seconds
+DBG [32429-223] accountId  52694 bought NFT (from #186138) for  1787.010 $ (1.123 ETH) validUntilTimeBetweenOrders 44518 seconds
+DBG [32444-127] accountId  52694 sold__ NFT (to__ #188773) for     5.170 $ (0.003 ETH) validUntilTimeBetweenOrders 101207 seconds
+DBG [32469-162] accountId  52694 bought NFT (from # 92477) for   144.096 $ (0.090 ETH) validUntilTimeBetweenOrders 3126652 seconds
+DBG [32487-141] accountId  52694 sold__ NFT (to__ #134158) for    25.426 $ (0.017 ETH) validUntilTimeBetweenOrders 162111 seconds
+DBG [32556-70 ] accountId  52694 bought NFT (from #225305) for    99.472 $ (0.075 ETH) validUntilTimeBetweenOrders 403 seconds
+DBG [33018-125] accountId  52694 bought NFT (from #192698) for   636.978 $ (0.530 ETH) validUntilTimeBetweenOrders 34 seconds
+DBG [33018-126] accountId  52694 bought NFT (from #183653) for    70.909 $ (0.059 ETH) validUntilTimeBetweenOrders 1321 seconds
+DBG [33018-159] accountId  52694 bought NFT (from #179083) for    81.725 $ (0.068 ETH) validUntilTimeBetweenOrders 393 seconds
+DBG [33018-161] accountId  52694 bought NFT (from #227478) for   161.047 $ (0.134 ETH) validUntilTimeBetweenOrders 2158 seconds
+DBG [33018-203] accountId  52694 bought NFT (from #227478) for   132.000 $ (0.110 ETH) validUntilTimeBetweenOrders 2255 seconds

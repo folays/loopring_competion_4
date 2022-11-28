@@ -1,0 +1,17 @@
+DBG [29539-4  ] accountId  51155 sold__ NFT (to__ # 51382) for     4.550 $ (15.000 LRC) validUntilTimeBetweenOrders 1294859 seconds
+DBG [30148-371] accountId  51155 bought NFT (from # 81371) for    14.748 $ (50.000 LRC) validUntilTimeBetweenOrders 1288379 seconds
+DBG [30149-24 ] accountId  51155 bought NFT (from # 81371) for    12.438 $ (42.000 LRC) validUntilTimeBetweenOrders 1293317 seconds
+DBG [30201-180] accountId  51155 bought NFT (from #132733) for     2.937 $ (10.000 LRC) validUntilTimeBetweenOrders 1295577 seconds
+DBG [30201-181] accountId  51155 bought NFT (from #132733) for     2.937 $ (10.000 LRC) validUntilTimeBetweenOrders 1295578 seconds
+DBG [30201-186] accountId  51155 bought NFT (from #132733) for     2.937 $ (10.000 LRC) validUntilTimeBetweenOrders 1295447 seconds
+DBG [30201-189] accountId  51155 bought NFT (from #132733) for     2.937 $ (10.000 LRC) validUntilTimeBetweenOrders 1295386 seconds
+DBG [30300-63 ] accountId  51155 bought NFT (from # 81371) for     8.546 $ (30.000 LRC) validUntilTimeBetweenOrders 1253038 seconds
+DBG [30407-309] accountId  51155 sold__ NFT (to__ # 36633) for     4.478 $ (15.000 LRC) validUntilTimeBetweenOrders 67676 seconds
+DBG [30449-68 ] accountId  51155 sold__ NFT (to__ # 51333) for     2.610 $ (9.000 LRC) validUntilTimeBetweenOrders 12330 seconds
+DBG [30449-85 ] accountId  51155 sold__ NFT (to__ # 51333) for     2.620 $ (9.000 LRC) validUntilTimeBetweenOrders 12306 seconds
+DBG [30449-86 ] accountId  51155 sold__ NFT (to__ # 51333) for     2.620 $ (9.000 LRC) validUntilTimeBetweenOrders 12289 seconds
+DBG [30449-87 ] accountId  51155 sold__ NFT (to__ # 51333) for     2.620 $ (9.000 LRC) validUntilTimeBetweenOrders 12273 seconds
+DBG [30875-27 ] accountId  51155 sold__ NFT (to__ # 62233) for   256.203 $ (1000.000 LRC) validUntilTimeBetweenOrders 696679 seconds
+DBG [30876-204] accountId  51155 bought NFT (from #128380) for     4.933 $ (19.000 LRC) validUntilTimeBetweenOrders 1294132 seconds
+DBG [31591-41 ] accountId  51155 sold__ NFT (to__ #136267) for    38.653 $ (0.025 ETH) validUntilTimeBetweenOrders 6952 seconds
+DBG [31969-93 ] accountId  51155 bought NFT (from # 40837) for    19.494 $ (70.000 LRC) validUntilTimeBetweenOrders 1205419 seconds

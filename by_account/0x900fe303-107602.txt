@@ -1,0 +1,3 @@
+DBG [32605-135] accountId 107602 sold__ NFT (to__ #107603) for  2440.234 $ (11350.000 LRC) validUntilTimeBetweenOrders 1295958 seconds
+DBG [32605-136] accountId 107602 bought NFT (from #107603) for  2364.984 $ (11000.000 LRC) validUntilTimeBetweenOrders 1295947 seconds
+DBG [33224-108] accountId 107602 bought NFT (from #107712) for   122.881 $ (495.000 LRC) validUntilTimeBetweenOrders 1295431 seconds

@@ -1,0 +1,50 @@
+DBG [29501-236] accountId  72288 sold__ NFT (to__ # 33614) for     9.649 $ (0.007 ETH) validUntilTimeBetweenOrders 1255 seconds
+DBG [29501-283] accountId  72288 sold__ NFT (to__ # 90925) for     9.649 $ (0.007 ETH) validUntilTimeBetweenOrders 1379 seconds
+DBG [29507-237] accountId  72288 sold__ NFT (to__ #174793) for     9.564 $ (0.007 ETH) validUntilTimeBetweenOrders 12585 seconds
+DBG [29524-139] accountId  72288 sold__ NFT (to__ #165935) for     4.322 $ (0.003 ETH) validUntilTimeBetweenOrders 791702 seconds
+DBG [29524-152] accountId  72288 sold__ NFT (to__ #165935) for     5.403 $ (0.004 ETH) validUntilTimeBetweenOrders 791555 seconds
+DBG [29649-157] accountId  72288 sold__ NFT (to__ #153980) for   291.592 $ (0.220 ETH) validUntilTimeBetweenOrders 12973 seconds
+DBG [30109-76 ] accountId  72288 bought NFT (from # 92477) for   324.332 $ (0.240 ETH) validUntilTimeBetweenOrders 128 seconds
+DBG [30117-55 ] accountId  72288 bought NFT (from # 92477) for   264.933 $ (0.195 ETH) validUntilTimeBetweenOrders 975 seconds
+DBG [30119-106] accountId  72288 bought NFT (from # 92477) for   366.394 $ (0.270 ETH) validUntilTimeBetweenOrders 2040 seconds
+DBG [30121-225] accountId  72288 bought NFT (from # 92477) for   244.301 $ (0.180 ETH) validUntilTimeBetweenOrders 2390 seconds
+DBG [30122-19 ] accountId  72288 bought NFT (from # 92477) for   121.968 $ (0.090 ETH) validUntilTimeBetweenOrders 2600 seconds
+DBG [30122-231] accountId  72288 bought NFT (from # 92477) for   183.162 $ (0.135 ETH) validUntilTimeBetweenOrders 1910 seconds
+DBG [30122-283] accountId  72288 bought NFT (from # 92477) for    43.416 $ (0.032 ETH) validUntilTimeBetweenOrders 2600 seconds
+DBG [30123-81 ] accountId  72288 bought NFT (from # 92477) for    81.313 $ (0.060 ETH) validUntilTimeBetweenOrders 2003 seconds
+DBG [30123-236] accountId  72288 bought NFT (from # 92477) for   121.970 $ (0.090 ETH) validUntilTimeBetweenOrders 2846 seconds
+DBG [30125-166] accountId  72288 bought NFT (from # 92477) for    64.939 $ (0.048 ETH) validUntilTimeBetweenOrders 3533 seconds
+DBG [30138-129] accountId  72288 bought NFT (from # 92477) for   172.970 $ (0.130 ETH) validUntilTimeBetweenOrders 16255 seconds
+DBG [30153-64 ] accountId  72288 bought NFT (from #163451) for    35.958 $ (0.027 ETH) validUntilTimeBetweenOrders 34592 seconds
+DBG [30165-146] accountId  72288 bought NFT (from #131468) for    77.990 $ (0.059 ETH) validUntilTimeBetweenOrders 1618 seconds
+DBG [30203-138] accountId  72288 sold__ NFT (to__ #171068) for   281.170 $ (0.214 ETH) validUntilTimeBetweenOrders 5088 seconds
+DBG [30226-224] accountId  72288 sold__ NFT (to__ #174522) for   301.471 $ (0.230 ETH) validUntilTimeBetweenOrders 286 seconds
+DBG [30555-121] accountId  72288 bought NFT (from # 92477) for   182.651 $ (0.135 ETH) validUntilTimeBetweenOrders 372961 seconds
+DBG [30811-35 ] accountId  72288 bought NFT (from #106489) for    19.387 $ (0.015 ETH) validUntilTimeBetweenOrders 8035 seconds
+DBG [30892-243] accountId  72288 bought NFT (from #183393) for   108.395 $ (0.084 ETH) validUntilTimeBetweenOrders 4419 seconds
+DBG [30892-255] accountId  72288 bought NFT (from #183393) for   108.395 $ (0.084 ETH) validUntilTimeBetweenOrders 4426 seconds
+DBG [30892-320] accountId  72288 bought NFT (from #183393) for   108.683 $ (0.084 ETH) validUntilTimeBetweenOrders 4421 seconds
+DBG [31186-78 ] accountId  72288 bought NFT (from #123481) for     9.050 $ (0.007 ETH) validUntilTimeBetweenOrders 1207636 seconds
+DBG [31252-56 ] accountId  72288 sold__ NFT (to__ #105869) for   237.389 $ (0.185 ETH) validUntilTimeBetweenOrders 37 seconds
+DBG [31287-137] accountId  72288 bought NFT (from #137963) for   176.248 $ (0.138 ETH) validUntilTimeBetweenOrders 373 seconds
+DBG [31288-4  ] accountId  72288 bought NFT (from #153387) for   176.505 $ (0.138 ETH) validUntilTimeBetweenOrders 53739 seconds
+DBG [31464-83 ] accountId  72288 bought NFT (from #125231) for    79.901 $ (0.060 ETH) validUntilTimeBetweenOrders 3249 seconds
+DBG [31464-84 ] accountId  72288 bought NFT (from #168199) for    80.061 $ (0.060 ETH) validUntilTimeBetweenOrders 3659 seconds
+DBG [31524-192] accountId  72288 bought NFT (from # 38136) for   207.587 $ (0.150 ETH) validUntilTimeBetweenOrders 21874 seconds
+DBG [31525-2  ] accountId  72288 bought NFT (from #171696) for   207.587 $ (0.150 ETH) validUntilTimeBetweenOrders 88918 seconds
+DBG [31525-130] accountId  72288 bought NFT (from # 38136) for   241.577 $ (0.175 ETH) validUntilTimeBetweenOrders 2940 seconds
+DBG [31527-191] accountId  72288 bought NFT (from # 87205) for   246.980 $ (0.177 ETH) validUntilTimeBetweenOrders 1325 seconds
+DBG [31536-290] accountId  72288 bought NFT (from #170990) for   247.047 $ (0.165 ETH) validUntilTimeBetweenOrders 100 seconds
+DBG [32748-27 ] accountId  72288 bought NFT (from # 92477) for   226.925 $ (0.180 ETH) validUntilTimeBetweenOrders 3518559 seconds
+DBG [32748-78 ] accountId  72288 bought NFT (from #172635) for    50.302 $ (0.040 ETH) validUntilTimeBetweenOrders 126529 seconds
+DBG [32796-123] accountId  72288 bought NFT (from #137652) for    75.766 $ (0.060 ETH) validUntilTimeBetweenOrders 221340 seconds
+DBG [32797-43 ] accountId  72288 bought NFT (from # 92477) for   228.625 $ (0.180 ETH) validUntilTimeBetweenOrders 3590518 seconds
+DBG [32797-62 ] accountId  72288 bought NFT (from #133975) for    12.320 $ (0.010 ETH) validUntilTimeBetweenOrders 116948 seconds
+DBG [33008-113] accountId  72288 sold__ NFT (to__ #176230) for    88.970 $ (0.073 ETH) validUntilTimeBetweenOrders 3605 seconds
+DBG [33012-131] accountId  72288 bought NFT (from #175479) for    60.575 $ (0.050 ETH) validUntilTimeBetweenOrders 69 seconds
+DBG [33087-8  ] accountId  72288 bought NFT (from #128526) for    78.447 $ (0.065 ETH) validUntilTimeBetweenOrders 5114 seconds
+DBG [33087-35 ] accountId  72288 bought NFT (from #132545) for    78.205 $ (0.065 ETH) validUntilTimeBetweenOrders 228 seconds
+DBG [33087-110] accountId  72288 bought NFT (from #183821) for     9.657 $ (0.008 ETH) validUntilTimeBetweenOrders 4529 seconds
+DBG [33087-111] accountId  72288 bought NFT (from #124580) for    10.743 $ (0.009 ETH) validUntilTimeBetweenOrders 5094 seconds
+DBG [33087-125] accountId  72288 bought NFT (from #130359) for     8.453 $ (0.007 ETH) validUntilTimeBetweenOrders 71027 seconds
+DBG [33087-126] accountId  72288 bought NFT (from #131407) for    10.868 $ (0.009 ETH) validUntilTimeBetweenOrders 17934 seconds

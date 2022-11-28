@@ -1,0 +1,509 @@
+DBG [29454-187] accountId 127004 sold__ NFT (to__ #188302) for   458.987 $ (0.340 ETH) validUntilTimeBetweenOrders 23682 seconds
+DBG [29461-56 ] accountId 127004 sold__ NFT (to__ #115701) for   571.534 $ (0.440 ETH) validUntilTimeBetweenOrders 23807 seconds
+DBG [29480-183] accountId 127004 bought NFT (from #139842) for    11.315 $ (0.009 ETH) validUntilTimeBetweenOrders 9319 seconds
+DBG [29483-178] accountId 127004 sold__ NFT (to__ #183670) for   590.896 $ (0.445 ETH) validUntilTimeBetweenOrders 14532 seconds
+DBG [29493-234] accountId 127004 bought NFT (from #148030) for     7.317 $ (0.005 ETH) validUntilTimeBetweenOrders 67729 seconds
+DBG [29493-282] accountId 127004 bought NFT (from #129245) for     7.450 $ (0.006 ETH) validUntilTimeBetweenOrders 533833 seconds
+DBG [29493-283] accountId 127004 bought NFT (from #135418) for    15.432 $ (0.012 ETH) validUntilTimeBetweenOrders 581917 seconds
+DBG [29493-284] accountId 127004 bought NFT (from #125008) for     7.716 $ (0.006 ETH) validUntilTimeBetweenOrders 593140 seconds
+DBG [29493-285] accountId 127004 bought NFT (from # 59201) for     7.982 $ (0.006 ETH) validUntilTimeBetweenOrders 598380 seconds
+DBG [29497-47 ] accountId 127004 bought NFT (from #165850) for     9.054 $ (0.007 ETH) validUntilTimeBetweenOrders 871461 seconds
+DBG [29497-48 ] accountId 127004 bought NFT (from #132545) for     9.068 $ (0.007 ETH) validUntilTimeBetweenOrders 684166 seconds
+DBG [29497-56 ] accountId 127004 bought NFT (from # 98023) for     9.478 $ (0.007 ETH) validUntilTimeBetweenOrders 694457 seconds
+DBG [29497-57 ] accountId 127004 bought NFT (from #171696) for     9.492 $ (0.007 ETH) validUntilTimeBetweenOrders 620653 seconds
+DBG [29497-58 ] accountId 127004 bought NFT (from #162672) for     8.814 $ (0.006 ETH) validUntilTimeBetweenOrders 2713 seconds
+DBG [29497-193] accountId 127004 bought NFT (from #158536) for     8.866 $ (0.006 ETH) validUntilTimeBetweenOrders 83 seconds
+DBG [29498-112] accountId 127004 bought NFT (from #131468) for     5.737 $ (0.004 ETH) validUntilTimeBetweenOrders 19647 seconds
+DBG [29498-113] accountId 127004 bought NFT (from #131468) for    40.156 $ (0.029 ETH) validUntilTimeBetweenOrders 19647 seconds
+DBG [29498-114] accountId 127004 bought NFT (from #126519) for     5.873 $ (0.004 ETH) validUntilTimeBetweenOrders 46528 seconds
+DBG [29498-160] accountId 127004 bought NFT (from #148030) for     6.010 $ (0.004 ETH) validUntilTimeBetweenOrders 74812 seconds
+DBG [29498-161] accountId 127004 bought NFT (from # 80678) for     6.147 $ (0.004 ETH) validUntilTimeBetweenOrders 97015 seconds
+DBG [29498-162] accountId 127004 bought NFT (from # 52694) for     6.270 $ (0.005 ETH) validUntilTimeBetweenOrders 423105 seconds
+DBG [29498-163] accountId 127004 bought NFT (from #108396) for     6.420 $ (0.005 ETH) validUntilTimeBetweenOrders 452186 seconds
+DBG [29498-164] accountId 127004 bought NFT (from #163415) for     6.966 $ (0.005 ETH) validUntilTimeBetweenOrders 518296 seconds
+DBG [29500-74 ] accountId 127004 bought NFT (from #180892) for   133.176 $ (0.098 ETH) validUntilTimeBetweenOrders 2179 seconds
+DBG [29500-165] accountId 127004 bought NFT (from #166872) for   136.115 $ (0.100 ETH) validUntilTimeBetweenOrders 906936 seconds
+DBG [29501-211] accountId 127004 sold__ NFT (to__ # 33614) for     9.500 $ (0.007 ETH) validUntilTimeBetweenOrders 244 seconds
+DBG [29502-64 ] accountId 127004 bought NFT (from #186998) for   261.543 $ (0.189 ETH) validUntilTimeBetweenOrders 43 seconds
+DBG [29502-65 ] accountId 127004 bought NFT (from #148169) for   262.927 $ (0.190 ETH) validUntilTimeBetweenOrders 6434 seconds
+DBG [29502-81 ] accountId 127004 bought NFT (from #186138) for   272.476 $ (0.197 ETH) validUntilTimeBetweenOrders 9417 seconds
+DBG [29502-82 ] accountId 127004 bought NFT (from #162745) for   290.604 $ (0.210 ETH) validUntilTimeBetweenOrders 21139 seconds
+DBG [29504-91 ] accountId 127004 sold__ NFT (to__ #157775) for    10.343 $ (0.007 ETH) validUntilTimeBetweenOrders 6143 seconds
+DBG [29524-30 ] accountId 127004 sold__ NFT (to__ #165935) for     8.100 $ (0.006 ETH) validUntilTimeBetweenOrders 44702 seconds
+DBG [29545-302] accountId 127004 sold__ NFT (to__ # 39052) for   472.849 $ (0.350 ETH) validUntilTimeBetweenOrders 1028 seconds
+DBG [29626-23 ] accountId 127004 sold__ NFT (to__ # 89729) for  1276.104 $ (0.990 ETH) validUntilTimeBetweenOrders 1978 seconds
+DBG [29632-103] accountId 127004 sold__ NFT (to__ #156003) for   429.417 $ (0.330 ETH) validUntilTimeBetweenOrders 11136 seconds
+DBG [29638-96 ] accountId 127004 sold__ NFT (to__ #178652) for   445.117 $ (0.350 ETH) validUntilTimeBetweenOrders 3756 seconds
+DBG [29645-216] accountId 127004 sold__ NFT (to__ #132074) for   457.530 $ (0.350 ETH) validUntilTimeBetweenOrders 15158 seconds
+DBG [29708-122] accountId 127004 bought NFT (from #140964) for    45.559 $ (0.035 ETH) validUntilTimeBetweenOrders 2712 seconds
+DBG [29708-250] accountId 127004 bought NFT (from #127264) for    48.184 $ (0.037 ETH) validUntilTimeBetweenOrders 1809 seconds
+DBG [29708-251] accountId 127004 bought NFT (from #125576) for    49.486 $ (0.038 ETH) validUntilTimeBetweenOrders 11459 seconds
+DBG [29711-306] accountId 127004 bought NFT (from #188780) for   182.947 $ (0.140 ETH) validUntilTimeBetweenOrders 7035 seconds
+DBG [29712-41 ] accountId 127004 bought NFT (from #157775) for    10.193 $ (0.008 ETH) validUntilTimeBetweenOrders 12909 seconds
+DBG [29712-63 ] accountId 127004 bought NFT (from #125576) for    32.540 $ (0.025 ETH) validUntilTimeBetweenOrders 527 seconds
+DBG [29712-83 ] accountId 127004 bought NFT (from #161741) for    33.842 $ (0.026 ETH) validUntilTimeBetweenOrders 1052 seconds
+DBG [29750-189] accountId 127004 bought NFT (from #140123) for    45.066 $ (0.034 ETH) validUntilTimeBetweenOrders 2475 seconds
+DBG [29750-211] accountId 127004 bought NFT (from #131044) for    33.632 $ (0.025 ETH) validUntilTimeBetweenOrders 68 seconds
+DBG [29750-212] accountId 127004 bought NFT (from #131044) for   186.992 $ (0.139 ETH) validUntilTimeBetweenOrders 1713 seconds
+DBG [29750-216] accountId 127004 bought NFT (from #179879) for   195.064 $ (0.145 ETH) validUntilTimeBetweenOrders 1838 seconds
+DBG [29751-199] accountId 127004 bought NFT (from # 97076) for   207.229 $ (0.155 ETH) validUntilTimeBetweenOrders 221 seconds
+DBG [29751-203] accountId 127004 bought NFT (from #188749) for   207.362 $ (0.155 ETH) validUntilTimeBetweenOrders 71367 seconds
+DBG [29751-263] accountId 127004 bought NFT (from #188749) for   207.362 $ (0.155 ETH) validUntilTimeBetweenOrders 72002 seconds
+DBG [29751-264] accountId 127004 bought NFT (from #188749) for   207.362 $ (0.155 ETH) validUntilTimeBetweenOrders 71367 seconds
+DBG [29752-59 ] accountId 127004 bought NFT (from #188749) for   207.362 $ (0.155 ETH) validUntilTimeBetweenOrders 71367 seconds
+DBG [29752-64 ] accountId 127004 bought NFT (from #188749) for   207.362 $ (0.155 ETH) validUntilTimeBetweenOrders 72002 seconds
+DBG [29761-313] accountId 127004 sold__ NFT (to__ #128000) for     8.054 $ (0.006 ETH) validUntilTimeBetweenOrders 15845 seconds
+DBG [29761-339] accountId 127004 sold__ NFT (to__ #128000) for     6.712 $ (0.005 ETH) validUntilTimeBetweenOrders 15845 seconds
+DBG [29763-49 ] accountId 127004 bought NFT (from #188749) for  1041.813 $ (0.775 ETH) validUntilTimeBetweenOrders 89387 seconds
+DBG [29763-351] accountId 127004 sold__ NFT (to__ # 34621) for     6.698 $ (0.005 ETH) validUntilTimeBetweenOrders 19887 seconds
+DBG [29768-12 ] accountId 127004 sold__ NFT (to__ # 33602) for     7.932 $ (0.006 ETH) validUntilTimeBetweenOrders 25646 seconds
+DBG [29771-273] accountId 127004 sold__ NFT (to__ #140039) for   309.413 $ (0.235 ETH) validUntilTimeBetweenOrders 1390 seconds
+DBG [29776-165] accountId 127004 sold__ NFT (to__ #136738) for     6.607 $ (0.005 ETH) validUntilTimeBetweenOrders 37564 seconds
+DBG [29776-166] accountId 127004 sold__ NFT (to__ #136738) for     7.929 $ (0.006 ETH) validUntilTimeBetweenOrders 37564 seconds
+DBG [29776-167] accountId 127004 sold__ NFT (to__ #136738) for    42.286 $ (0.032 ETH) validUntilTimeBetweenOrders 11053 seconds
+DBG [29776-382] accountId 127004 sold__ NFT (to__ # 39162) for     7.940 $ (0.006 ETH) validUntilTimeBetweenOrders 10601 seconds
+DBG [29777-200] accountId 127004 sold__ NFT (to__ #139717) for    31.764 $ (0.024 ETH) validUntilTimeBetweenOrders 40560 seconds
+DBG [29779-9  ] accountId 127004 sold__ NFT (to__ #188987) for   480.869 $ (0.365 ETH) validUntilTimeBetweenOrders 12862 seconds
+DBG [29780-121] accountId 127004 sold__ NFT (to__ #188772) for    42.401 $ (0.032 ETH) validUntilTimeBetweenOrders 19456 seconds
+DBG [29780-172] accountId 127004 sold__ NFT (to__ #174468) for   169.689 $ (0.128 ETH) validUntilTimeBetweenOrders 15862 seconds
+DBG [29781-112] accountId 127004 sold__ NFT (to__ # 60068) for     6.637 $ (0.005 ETH) validUntilTimeBetweenOrders 47341 seconds
+DBG [29829-99 ] accountId 127004 sold__ NFT (to__ #143982) for    19.546 $ (0.015 ETH) validUntilTimeBetweenOrders 7221 seconds
+DBG [29829-100] accountId 127004 sold__ NFT (to__ #143982) for     6.515 $ (0.005 ETH) validUntilTimeBetweenOrders 7221 seconds
+DBG [29834-92 ] accountId 127004 sold__ NFT (to__ #183821) for     6.524 $ (0.005 ETH) validUntilTimeBetweenOrders 133967 seconds
+DBG [29834-93 ] accountId 127004 sold__ NFT (to__ #183821) for     6.524 $ (0.005 ETH) validUntilTimeBetweenOrders 15462 seconds
+DBG [29839-2  ] accountId 127004 sold__ NFT (to__ #134694) for     6.428 $ (0.005 ETH) validUntilTimeBetweenOrders 142497 seconds
+DBG [29855-217] accountId 127004 sold__ NFT (to__ #173488) for     6.635 $ (0.005 ETH) validUntilTimeBetweenOrders 171313 seconds
+DBG [29855-251] accountId 127004 sold__ NFT (to__ #173488) for     6.679 $ (0.005 ETH) validUntilTimeBetweenOrders 52570 seconds
+DBG [29856-181] accountId 127004 sold__ NFT (to__ #138312) for     6.665 $ (0.005 ETH) validUntilTimeBetweenOrders 173496 seconds
+DBG [29856-183] accountId 127004 sold__ NFT (to__ #138312) for     6.665 $ (0.005 ETH) validUntilTimeBetweenOrders 54753 seconds
+DBG [29856-244] accountId 127004 sold__ NFT (to__ #149348) for    35.840 $ (0.027 ETH) validUntilTimeBetweenOrders 147544 seconds
+DBG [29866-161] accountId 127004 bought NFT (from # 57887) for     6.632 $ (0.005 ETH) validUntilTimeBetweenOrders 3732 seconds
+DBG [29868-106] accountId 127004 sold__ NFT (to__ #139080) for     6.675 $ (0.005 ETH) validUntilTimeBetweenOrders 187933 seconds
+DBG [29870-213] accountId 127004 sold__ NFT (to__ #189106) for     6.659 $ (0.005 ETH) validUntilTimeBetweenOrders 50451 seconds
+DBG [29870-233] accountId 127004 sold__ NFT (to__ #189106) for     6.669 $ (0.005 ETH) validUntilTimeBetweenOrders 169194 seconds
+DBG [29908-12 ] accountId 127004 bought NFT (from # 54038) for     6.143 $ (0.004 ETH) validUntilTimeBetweenOrders 42539 seconds
+DBG [29908-13 ] accountId 127004 bought NFT (from #135866) for     6.283 $ (0.004 ETH) validUntilTimeBetweenOrders 58166 seconds
+DBG [29911-355] accountId 127004 bought NFT (from #177969) for   138.741 $ (0.100 ETH) validUntilTimeBetweenOrders 678 seconds
+DBG [29918-94 ] accountId 127004 sold__ NFT (to__ #138090) for   125.735 $ (0.095 ETH) validUntilTimeBetweenOrders 5790 seconds
+DBG [29927-169] accountId 127004 bought NFT (from #183393) for   278.091 $ (0.210 ETH) validUntilTimeBetweenOrders 1632 seconds
+DBG [29929-132] accountId 127004 sold__ NFT (to__ #130196) for   106.199 $ (0.080 ETH) validUntilTimeBetweenOrders 87 seconds
+DBG [29932-229] accountId 127004 sold__ NFT (to__ #104895) for    64.356 $ (0.049 ETH) validUntilTimeBetweenOrders 127 seconds
+DBG [29932-230] accountId 127004 sold__ NFT (to__ # 38669) for    64.356 $ (0.049 ETH) validUntilTimeBetweenOrders 122 seconds
+DBG [29935-123] accountId 127004 sold__ NFT (to__ #133995) for     6.592 $ (0.005 ETH) validUntilTimeBetweenOrders 278716 seconds
+DBG [29943-194] accountId 127004 bought NFT (from #179879) for   146.121 $ (0.110 ETH) validUntilTimeBetweenOrders 7951 seconds
+DBG [29944-29 ] accountId 127004 sold__ NFT (to__ #171431) for     6.670 $ (0.005 ETH) validUntilTimeBetweenOrders 173920 seconds
+DBG [29945-195] accountId 127004 sold__ NFT (to__ #114731) for   120.430 $ (0.090 ETH) validUntilTimeBetweenOrders 18436 seconds
+DBG [29964-205] accountId 127004 bought NFT (from #164255) for     5.747 $ (0.004 ETH) validUntilTimeBetweenOrders 19072 seconds
+DBG [29964-206] accountId 127004 bought NFT (from #146240) for     5.619 $ (0.004 ETH) validUntilTimeBetweenOrders 7285 seconds
+DBG [29965-128] accountId 127004 sold__ NFT (to__ #146185) for   146.272 $ (0.115 ETH) validUntilTimeBetweenOrders 1279 seconds
+DBG [29966-210] accountId 127004 sold__ NFT (to__ #125416) for   147.051 $ (0.115 ETH) validUntilTimeBetweenOrders 1992 seconds
+DBG [29969-22 ] accountId 127004 sold__ NFT (to__ #134158) for    70.938 $ (0.055 ETH) validUntilTimeBetweenOrders 8741 seconds
+DBG [29969-53 ] accountId 127004 sold__ NFT (to__ #134158) for    90.285 $ (0.070 ETH) validUntilTimeBetweenOrders 9253 seconds
+DBG [30020-23 ] accountId 127004 bought NFT (from #187992) for    44.821 $ (0.034 ETH) validUntilTimeBetweenOrders 3596 seconds
+DBG [30020-29 ] accountId 127004 bought NFT (from #187819) for    44.954 $ (0.034 ETH) validUntilTimeBetweenOrders 11325 seconds
+DBG [30020-31 ] accountId 127004 bought NFT (from #131044) for    46.276 $ (0.035 ETH) validUntilTimeBetweenOrders 12541 seconds
+DBG [30020-32 ] accountId 127004 bought NFT (from #131044) for    92.551 $ (0.070 ETH) validUntilTimeBetweenOrders 12584 seconds
+DBG [30098-277] accountId 127004 bought NFT (from # 92477) for   228.984 $ (0.170 ETH) validUntilTimeBetweenOrders 291 seconds
+DBG [30100-1  ] accountId 127004 bought NFT (from # 92477) for   606.134 $ (0.450 ETH) validUntilTimeBetweenOrders 291 seconds
+DBG [30101-82 ] accountId 127004 bought NFT (from # 92477) for   183.477 $ (0.136 ETH) validUntilTimeBetweenOrders 398 seconds
+DBG [30103-57 ] accountId 127004 bought NFT (from # 92477) for    21.599 $ (0.016 ETH) validUntilTimeBetweenOrders 291 seconds
+DBG [30103-232] accountId 127004 bought NFT (from # 92477) for   303.742 $ (0.225 ETH) validUntilTimeBetweenOrders 399 seconds
+DBG [30104-340] accountId 127004 bought NFT (from # 92477) for   607.484 $ (0.450 ETH) validUntilTimeBetweenOrders 398 seconds
+DBG [30105-238] accountId 127004 bought NFT (from # 92477) for   404.989 $ (0.300 ETH) validUntilTimeBetweenOrders 552 seconds
+DBG [30106-382] accountId 127004 bought NFT (from # 92477) for   761.964 $ (0.565 ETH) validUntilTimeBetweenOrders 649 seconds
+DBG [30134-108] accountId 127004 sold__ NFT (to__ #149943) for    79.772 $ (0.059 ETH) validUntilTimeBetweenOrders 349 seconds
+DBG [30134-117] accountId 127004 sold__ NFT (to__ #166110) for    59.491 $ (0.044 ETH) validUntilTimeBetweenOrders 1904 seconds
+DBG [30134-118] accountId 127004 sold__ NFT (to__ #176509) for   178.472 $ (0.132 ETH) validUntilTimeBetweenOrders 422 seconds
+DBG [30134-170] accountId 127004 sold__ NFT (to__ #151631) for    79.729 $ (0.059 ETH) validUntilTimeBetweenOrders 165 seconds
+DBG [30134-171] accountId 127004 sold__ NFT (to__ #138247) for    79.729 $ (0.059 ETH) validUntilTimeBetweenOrders 179 seconds
+DBG [30134-268] accountId 127004 sold__ NFT (to__ # 99465) for    79.637 $ (0.059 ETH) validUntilTimeBetweenOrders 897 seconds
+DBG [30138-27 ] accountId 127004 bought NFT (from # 92477) for    86.717 $ (0.065 ETH) validUntilTimeBetweenOrders 15926 seconds
+DBG [30138-34 ] accountId 127004 bought NFT (from # 92477) for    60.035 $ (0.045 ETH) validUntilTimeBetweenOrders 16769 seconds
+DBG [30138-36 ] accountId 127004 bought NFT (from # 92477) for    60.035 $ (0.045 ETH) validUntilTimeBetweenOrders 16769 seconds
+DBG [30144-107] accountId 127004 bought NFT (from #158113) for    43.990 $ (0.033 ETH) validUntilTimeBetweenOrders 22594 seconds
+DBG [30214-234] accountId 127004 sold__ NFT (to__ #134071) for   282.336 $ (0.215 ETH) validUntilTimeBetweenOrders 566 seconds
+DBG [30218-303] accountId 127004 sold__ NFT (to__ #107503) for   164.184 $ (0.125 ETH) validUntilTimeBetweenOrders 1942 seconds
+DBG [30219-154] accountId 127004 sold__ NFT (to__ #190094) for   282.764 $ (0.215 ETH) validUntilTimeBetweenOrders 3652 seconds
+DBG [30249-6  ] accountId 127004 bought NFT (from # 81013) for   181.830 $ (0.139 ETH) validUntilTimeBetweenOrders 2127 seconds
+DBG [30249-7  ] accountId 127004 sold__ NFT (to__ #136738) for   281.248 $ (0.215 ETH) validUntilTimeBetweenOrders 1451 seconds
+DBG [30249-199] accountId 127004 bought NFT (from #128834) for    77.108 $ (0.059 ETH) validUntilTimeBetweenOrders 42737 seconds
+DBG [30249-200] accountId 127004 bought NFT (from #128834) for    64.039 $ (0.049 ETH) validUntilTimeBetweenOrders 42737 seconds
+DBG [30249-281] accountId 127004 bought NFT (from #140556) for    35.156 $ (0.027 ETH) validUntilTimeBetweenOrders 35030 seconds
+DBG [30249-282] accountId 127004 bought NFT (from #128834) for    24.701 $ (0.019 ETH) validUntilTimeBetweenOrders 42737 seconds
+DBG [30249-283] accountId 127004 bought NFT (from #136562) for    36.594 $ (0.028 ETH) validUntilTimeBetweenOrders 10322 seconds
+DBG [30249-284] accountId 127004 bought NFT (from #128834) for    24.831 $ (0.019 ETH) validUntilTimeBetweenOrders 42737 seconds
+DBG [30281-153] accountId 127004 sold__ NFT (to__ # 91727) for    71.312 $ (0.055 ETH) validUntilTimeBetweenOrders 560 seconds
+DBG [30282-32 ] accountId 127004 bought NFT (from #173715) for     5.568 $ (0.004 ETH) validUntilTimeBetweenOrders 21304 seconds
+DBG [30282-33 ] accountId 127004 bought NFT (from # 54038) for     4.791 $ (0.004 ETH) validUntilTimeBetweenOrders 4018 seconds
+DBG [30282-34 ] accountId 127004 bought NFT (from # 54038) for     4.791 $ (0.004 ETH) validUntilTimeBetweenOrders 4018 seconds
+DBG [30282-57 ] accountId 127004 bought NFT (from #170149) for     9.843 $ (0.008 ETH) validUntilTimeBetweenOrders 26416 seconds
+DBG [30282-58 ] accountId 127004 bought NFT (from #140556) for     4.922 $ (0.004 ETH) validUntilTimeBetweenOrders 16555 seconds
+DBG [30282-59 ] accountId 127004 bought NFT (from #173715) for     5.051 $ (0.004 ETH) validUntilTimeBetweenOrders 22291 seconds
+DBG [30282-83 ] accountId 127004 bought NFT (from #173715) for     5.181 $ (0.004 ETH) validUntilTimeBetweenOrders 70721 seconds
+DBG [30282-84 ] accountId 127004 bought NFT (from #126032) for     5.310 $ (0.004 ETH) validUntilTimeBetweenOrders 95123 seconds
+DBG [30282-85 ] accountId 127004 bought NFT (from #173715) for     5.310 $ (0.004 ETH) validUntilTimeBetweenOrders 102137 seconds
+DBG [30282-110] accountId 127004 bought NFT (from #171287) for     5.504 $ (0.004 ETH) validUntilTimeBetweenOrders 127561 seconds
+DBG [30282-111] accountId 127004 bought NFT (from #124994) for     5.699 $ (0.004 ETH) validUntilTimeBetweenOrders 187864 seconds
+DBG [30282-112] accountId 127004 bought NFT (from #105839) for     5.440 $ (0.004 ETH) validUntilTimeBetweenOrders 100699 seconds
+DBG [30282-113] accountId 127004 bought NFT (from #173715) for     5.440 $ (0.004 ETH) validUntilTimeBetweenOrders 118575 seconds
+DBG [30282-114] accountId 127004 bought NFT (from #138422) for     5.686 $ (0.004 ETH) validUntilTimeBetweenOrders 189212 seconds
+DBG [30282-136] accountId 127004 bought NFT (from #138422) for    17.057 $ (0.013 ETH) validUntilTimeBetweenOrders 189238 seconds
+DBG [30282-137] accountId 127004 bought NFT (from #165951) for     5.828 $ (0.004 ETH) validUntilTimeBetweenOrders 351832 seconds
+DBG [30282-138] accountId 127004 bought NFT (from #150269) for     6.476 $ (0.005 ETH) validUntilTimeBetweenOrders 13026 seconds
+DBG [30282-155] accountId 127004 bought NFT (from #132455) for     8.159 $ (0.006 ETH) validUntilTimeBetweenOrders 760651 seconds
+DBG [30282-156] accountId 127004 bought NFT (from #129245) for     8.418 $ (0.006 ETH) validUntilTimeBetweenOrders 1669626 seconds
+DBG [30282-157] accountId 127004 sold__ NFT (to__ # 57699) for   259.027 $ (0.200 ETH) validUntilTimeBetweenOrders 1391 seconds
+DBG [30282-158] accountId 127004 bought NFT (from #144434) for    10.361 $ (0.008 ETH) validUntilTimeBetweenOrders 1974096 seconds
+DBG [30283-27 ] accountId 127004 sold__ NFT (to__ #171276) for   259.981 $ (0.200 ETH) validUntilTimeBetweenOrders 236 seconds
+DBG [30302-5  ] accountId 127004 sold__ NFT (to__ # 98266) for   272.761 $ (0.210 ETH) validUntilTimeBetweenOrders 33108 seconds
+DBG [30308-50 ] accountId 127004 sold__ NFT (to__ #135263) for   159.750 $ (0.124 ETH) validUntilTimeBetweenOrders 46405 seconds
+DBG [30309-64 ] accountId 127004 sold__ NFT (to__ #158373) for   284.579 $ (0.220 ETH) validUntilTimeBetweenOrders 1858 seconds
+DBG [30312-23 ] accountId 127004 sold__ NFT (to__ #162028) for   155.684 $ (0.120 ETH) validUntilTimeBetweenOrders 106719 seconds
+DBG [30314-101] accountId 127004 sold__ NFT (to__ # 38649) for   163.728 $ (0.125 ETH) validUntilTimeBetweenOrders 11571 seconds
+DBG [30320-310] accountId 127004 sold__ NFT (to__ #167004) for   288.922 $ (0.218 ETH) validUntilTimeBetweenOrders 3521 seconds
+DBG [30326-122] accountId 127004 bought NFT (from #173715) for     5.795 $ (0.004 ETH) validUntilTimeBetweenOrders 562 seconds
+DBG [30326-123] accountId 127004 bought NFT (from #128526) for     5.926 $ (0.004 ETH) validUntilTimeBetweenOrders 2865 seconds
+DBG [30327-301] accountId 127004 sold__ NFT (to__ #102062) for   197.950 $ (0.150 ETH) validUntilTimeBetweenOrders 1304 seconds
+DBG [30329-350] accountId 127004 bought NFT (from #127508) for   205.523 $ (0.155 ETH) validUntilTimeBetweenOrders 37971 seconds
+DBG [30329-351] accountId 127004 bought NFT (from #162745) for    33.149 $ (0.025 ETH) validUntilTimeBetweenOrders 160866 seconds
+DBG [30329-369] accountId 127004 bought NFT (from #128834) for    64.972 $ (0.049 ETH) validUntilTimeBetweenOrders 159158 seconds
+DBG [30331-183] accountId 127004 bought NFT (from #183513) for    66.241 $ (0.050 ETH) validUntilTimeBetweenOrders 207398 seconds
+DBG [30331-226] accountId 127004 bought NFT (from #183513) for    66.241 $ (0.050 ETH) validUntilTimeBetweenOrders 507338 seconds
+DBG [30331-228] accountId 127004 bought NFT (from #128834) for    66.109 $ (0.050 ETH) validUntilTimeBetweenOrders 162021 seconds
+DBG [30331-230] accountId 127004 bought NFT (from #128834) for    59.617 $ (0.045 ETH) validUntilTimeBetweenOrders 162021 seconds
+DBG [30332-32 ] accountId 127004 bought NFT (from # 84059) for     6.492 $ (0.005 ETH) validUntilTimeBetweenOrders 1551 seconds
+DBG [30332-68 ] accountId 127004 bought NFT (from #173715) for     7.816 $ (0.006 ETH) validUntilTimeBetweenOrders 71906 seconds
+DBG [30332-69 ] accountId 127004 bought NFT (from # 91727) for     7.816 $ (0.006 ETH) validUntilTimeBetweenOrders 40915 seconds
+DBG [30332-360] accountId 127004 bought NFT (from #162789) for   229.924 $ (0.174 ETH) validUntilTimeBetweenOrders 38651 seconds
+DBG [30334-48 ] accountId 127004 bought NFT (from #186096) for     6.414 $ (0.005 ETH) validUntilTimeBetweenOrders 61500 seconds
+DBG [30334-49 ] accountId 127004 bought NFT (from #128834) for   289.619 $ (0.219 ETH) validUntilTimeBetweenOrders 15077 seconds
+DBG [30334-50 ] accountId 127004 bought NFT (from #186096) for   113.123 $ (0.086 ETH) validUntilTimeBetweenOrders 61647 seconds
+DBG [30334-174] accountId 127004 bought NFT (from #183513) for    65.890 $ (0.050 ETH) validUntilTimeBetweenOrders 510361 seconds
+DBG [30334-176] accountId 127004 bought NFT (from #183513) for    65.890 $ (0.050 ETH) validUntilTimeBetweenOrders 443078 seconds
+DBG [30334-191] accountId 127004 bought NFT (from #183513) for    65.890 $ (0.050 ETH) validUntilTimeBetweenOrders 1728790 seconds
+DBG [30334-224] accountId 127004 bought NFT (from #183513) for    65.890 $ (0.050 ETH) validUntilTimeBetweenOrders 1728601 seconds
+DBG [30334-225] accountId 127004 bought NFT (from #183513) for    65.890 $ (0.050 ETH) validUntilTimeBetweenOrders 210421 seconds
+DBG [30334-239] accountId 127004 bought NFT (from #183513) for    65.890 $ (0.050 ETH) validUntilTimeBetweenOrders 510361 seconds
+DBG [30334-242] accountId 127004 bought NFT (from #183513) for    65.890 $ (0.050 ETH) validUntilTimeBetweenOrders 443078 seconds
+DBG [30334-273] accountId 127004 bought NFT (from #183513) for    65.890 $ (0.050 ETH) validUntilTimeBetweenOrders 1728790 seconds
+DBG [30334-275] accountId 127004 bought NFT (from #183513) for    65.890 $ (0.050 ETH) validUntilTimeBetweenOrders 1728601 seconds
+DBG [30344-155] accountId 127004 bought NFT (from #150137) for    79.318 $ (0.060 ETH) validUntilTimeBetweenOrders 57653 seconds
+DBG [30344-164] accountId 127004 bought NFT (from # 98935) for    68.499 $ (0.052 ETH) validUntilTimeBetweenOrders 823703 seconds
+DBG [30348-93 ] accountId 127004 bought NFT (from #183513) for   131.845 $ (0.100 ETH) validUntilTimeBetweenOrders 224840 seconds
+DBG [30348-97 ] accountId 127004 bought NFT (from #183513) for   131.845 $ (0.100 ETH) validUntilTimeBetweenOrders 224840 seconds
+DBG [30349-138] accountId 127004 bought NFT (from #183513) for    66.176 $ (0.050 ETH) validUntilTimeBetweenOrders 525859 seconds
+DBG [30373-161] accountId 127004 bought NFT (from #124602) for    91.024 $ (0.068 ETH) validUntilTimeBetweenOrders 5610 seconds
+DBG [30373-163] accountId 127004 bought NFT (from #187700) for    93.047 $ (0.069 ETH) validUntilTimeBetweenOrders 278301 seconds
+DBG [30384-77 ] accountId 127004 sold__ NFT (to__ #148050) for   270.213 $ (0.200 ETH) validUntilTimeBetweenOrders 17262 seconds
+DBG [30384-184] accountId 127004 bought NFT (from #136562) for    39.366 $ (0.029 ETH) validUntilTimeBetweenOrders 2218 seconds
+DBG [30385-3  ] accountId 127004 bought NFT (from #136026) for    25.737 $ (0.019 ETH) validUntilTimeBetweenOrders 21432 seconds
+DBG [30385-4  ] accountId 127004 bought NFT (from #136026) for    37.955 $ (0.028 ETH) validUntilTimeBetweenOrders 21432 seconds
+DBG [30385-5  ] accountId 127004 bought NFT (from #120319) for    24.434 $ (0.018 ETH) validUntilTimeBetweenOrders 180029 seconds
+DBG [30386-152] accountId 127004 bought NFT (from # 38136) for   202.355 $ (0.150 ETH) validUntilTimeBetweenOrders 462633 seconds
+DBG [30386-166] accountId 127004 bought NFT (from #115677) for   269.807 $ (0.200 ETH) validUntilTimeBetweenOrders 42520 seconds
+DBG [30393-25 ] accountId 127004 sold__ NFT (to__ #162028) for    47.144 $ (0.035 ETH) validUntilTimeBetweenOrders 8270 seconds
+DBG [30395-33 ] accountId 127004 sold__ NFT (to__ # 37020) for   269.169 $ (0.200 ETH) validUntilTimeBetweenOrders 4839 seconds
+DBG [30397-98 ] accountId 127004 sold__ NFT (to__ #123481) for   114.678 $ (0.085 ETH) validUntilTimeBetweenOrders 613 seconds
+DBG [30405-66 ] accountId 127004 bought NFT (from #183513) for    68.021 $ (0.050 ETH) validUntilTimeBetweenOrders 1823665 seconds
+DBG [30405-80 ] accountId 127004 bought NFT (from #136026) for    40.243 $ (0.030 ETH) validUntilTimeBetweenOrders 47108 seconds
+DBG [30405-81 ] accountId 127004 bought NFT (from #174783) for    29.910 $ (0.022 ETH) validUntilTimeBetweenOrders 580311 seconds
+DBG [30405-244] accountId 127004 bought NFT (from #184364) for    39.268 $ (0.029 ETH) validUntilTimeBetweenOrders 11152 seconds
+DBG [30405-245] accountId 127004 bought NFT (from # 71572) for     6.658 $ (0.005 ETH) validUntilTimeBetweenOrders 113342 seconds
+DBG [30405-246] accountId 127004 bought NFT (from #155920) for   119.571 $ (0.088 ETH) validUntilTimeBetweenOrders 263668 seconds
+DBG [30406-137] accountId 127004 sold__ NFT (to__ #126014) for   122.541 $ (0.090 ETH) validUntilTimeBetweenOrders 1352 seconds
+DBG [30406-375] accountId 127004 sold__ NFT (to__ #152830) for   245.081 $ (0.180 ETH) validUntilTimeBetweenOrders 1505 seconds
+DBG [30407-74 ] accountId 127004 sold__ NFT (to__ # 58925) for    92.586 $ (0.068 ETH) validUntilTimeBetweenOrders 2039 seconds
+DBG [30407-314] accountId 127004 bought NFT (from # 60767) for   312.479 $ (0.230 ETH) validUntilTimeBetweenOrders 2191 seconds
+DBG [30408-65 ] accountId 127004 bought NFT (from #128951) for    32.678 $ (0.024 ETH) validUntilTimeBetweenOrders 2954 seconds
+DBG [30408-66 ] accountId 127004 bought NFT (from #145939) for    40.833 $ (0.030 ETH) validUntilTimeBetweenOrders 362608 seconds
+DBG [30409-89 ] accountId 127004 sold__ NFT (to__ #126014) for   122.303 $ (0.090 ETH) validUntilTimeBetweenOrders 2069 seconds
+DBG [30416-145] accountId 127004 sold__ NFT (to__ #155110) for   121.936 $ (0.090 ETH) validUntilTimeBetweenOrders 7566 seconds
+DBG [30427-17 ] accountId 127004 sold__ NFT (to__ #189308) for     5.420 $ (0.004 ETH) validUntilTimeBetweenOrders 22845 seconds
+DBG [30445-23 ] accountId 127004 sold__ NFT (to__ # 38649) for   114.469 $ (0.085 ETH) validUntilTimeBetweenOrders 44990 seconds
+DBG [30458-8  ] accountId 127004 sold__ NFT (to__ #175132) for    46.110 $ (0.034 ETH) validUntilTimeBetweenOrders 70838 seconds
+DBG [30458-75 ] accountId 127004 sold__ NFT (to__ #136316) for   127.481 $ (0.094 ETH) validUntilTimeBetweenOrders 534 seconds
+DBG [30458-107] accountId 127004 sold__ NFT (to__ #153883) for    67.748 $ (0.050 ETH) validUntilTimeBetweenOrders 804 seconds
+DBG [30458-307] accountId 127004 sold__ NFT (to__ #155527) for    46.069 $ (0.034 ETH) validUntilTimeBetweenOrders 73379 seconds
+DBG [30464-130] accountId 127004 sold__ NFT (to__ #183926) for    45.698 $ (0.034 ETH) validUntilTimeBetweenOrders 74628 seconds
+DBG [30470-66 ] accountId 127004 bought NFT (from #176403) for    75.550 $ (0.056 ETH) validUntilTimeBetweenOrders 1900 seconds
+DBG [30470-301] accountId 127004 bought NFT (from # 38649) for    25.633 $ (0.019 ETH) validUntilTimeBetweenOrders 28033 seconds
+DBG [30485-316] accountId 127004 bought NFT (from #103514) for    40.533 $ (0.030 ETH) validUntilTimeBetweenOrders 465989 seconds
+DBG [30538-59 ] accountId 127004 bought NFT (from #124590) for    27.204 $ (0.020 ETH) validUntilTimeBetweenOrders 10907 seconds
+DBG [30541-78 ] accountId 127004 bought NFT (from #181954) for    40.917 $ (0.030 ETH) validUntilTimeBetweenOrders 4460 seconds
+DBG [30541-199] accountId 127004 bought NFT (from #181954) for     5.456 $ (0.004 ETH) validUntilTimeBetweenOrders 4460 seconds
+DBG [30541-200] accountId 127004 bought NFT (from #181954) for   122.757 $ (0.090 ETH) validUntilTimeBetweenOrders 4460 seconds
+DBG [30542-124] accountId 127004 bought NFT (from #181954) for   319.834 $ (0.235 ETH) validUntilTimeBetweenOrders 4460 seconds
+DBG [30543-98 ] accountId 127004 bought NFT (from #102062) for    81.608 $ (0.060 ETH) validUntilTimeBetweenOrders 233211 seconds
+DBG [30543-127] accountId 127004 bought NFT (from # 38649) for    74.857 $ (0.055 ETH) validUntilTimeBetweenOrders 6321 seconds
+DBG [30543-128] accountId 127004 bought NFT (from # 38649) for    35.387 $ (0.026 ETH) validUntilTimeBetweenOrders 6321 seconds
+DBG [30543-129] accountId 127004 bought NFT (from # 38649) for    25.860 $ (0.019 ETH) validUntilTimeBetweenOrders 6321 seconds
+DBG [30543-130] accountId 127004 bought NFT (from #124590) for    27.221 $ (0.020 ETH) validUntilTimeBetweenOrders 18734 seconds
+DBG [30543-161] accountId 127004 bought NFT (from # 99767) for    32.665 $ (0.024 ETH) validUntilTimeBetweenOrders 22002 seconds
+DBG [30545-4  ] accountId 127004 bought NFT (from # 98935) for    47.497 $ (0.035 ETH) validUntilTimeBetweenOrders 1131227 seconds
+DBG [30550-37 ] accountId 127004 sold__ NFT (to__ #128641) for   122.705 $ (0.090 ETH) validUntilTimeBetweenOrders 10630 seconds
+DBG [30562-4  ] accountId 127004 sold__ NFT (to__ #163090) for   122.057 $ (0.090 ETH) validUntilTimeBetweenOrders 29204 seconds
+DBG [30582-206] accountId 127004 bought NFT (from #181728) for    60.056 $ (0.045 ETH) validUntilTimeBetweenOrders 2226375 seconds
+DBG [30587-101] accountId 127004 bought NFT (from #124590) for     5.943 $ (0.004 ETH) validUntilTimeBetweenOrders 4510 seconds
+DBG [30588-151] accountId 127004 bought NFT (from #183513) for    66.361 $ (0.050 ETH) validUntilTimeBetweenOrders 297338 seconds
+DBG [30588-153] accountId 127004 bought NFT (from #183513) for    66.361 $ (0.050 ETH) validUntilTimeBetweenOrders 2066330 seconds
+DBG [30588-213] accountId 127004 bought NFT (from #183513) for    66.361 $ (0.050 ETH) validUntilTimeBetweenOrders 2066330 seconds
+DBG [30588-237] accountId 127004 bought NFT (from #183513) for    66.361 $ (0.050 ETH) validUntilTimeBetweenOrders 297338 seconds
+DBG [30588-238] accountId 127004 bought NFT (from #183513) for    66.361 $ (0.050 ETH) validUntilTimeBetweenOrders 2066141 seconds
+DBG [30588-241] accountId 127004 bought NFT (from #183513) for    66.361 $ (0.050 ETH) validUntilTimeBetweenOrders 2066330 seconds
+DBG [30589-311] accountId 127004 sold__ NFT (to__ #144465) for   232.171 $ (0.175 ETH) validUntilTimeBetweenOrders 2448 seconds
+DBG [30589-312] accountId 127004 sold__ NFT (to__ #185745) for   232.171 $ (0.175 ETH) validUntilTimeBetweenOrders 2512 seconds
+DBG [30591-119] accountId 127004 sold__ NFT (to__ #149015) for   265.452 $ (0.200 ETH) validUntilTimeBetweenOrders 1993 seconds
+DBG [30594-190] accountId 127004 bought NFT (from # 45829) for    79.570 $ (0.060 ETH) validUntilTimeBetweenOrders 1092551 seconds
+DBG [30598-13 ] accountId 127004 bought NFT (from #184364) for    42.613 $ (0.032 ETH) validUntilTimeBetweenOrders 7725 seconds
+DBG [30598-38 ] accountId 127004 bought NFT (from #150137) for    42.613 $ (0.032 ETH) validUntilTimeBetweenOrders 5337 seconds
+DBG [30598-71 ] accountId 127004 bought NFT (from #184364) for    54.627 $ (0.041 ETH) validUntilTimeBetweenOrders 2645209 seconds
+DBG [30603-189] accountId 127004 bought NFT (from # 92477) for    80.046 $ (0.060 ETH) validUntilTimeBetweenOrders 457044 seconds
+DBG [30603-230] accountId 127004 bought NFT (from # 92477) for    60.060 $ (0.045 ETH) validUntilTimeBetweenOrders 459723 seconds
+DBG [30607-130] accountId 127004 sold__ NFT (to__ #150540) for   120.189 $ (0.090 ETH) validUntilTimeBetweenOrders 7233 seconds
+DBG [30608-87 ] accountId 127004 sold__ NFT (to__ #131732) for   120.189 $ (0.090 ETH) validUntilTimeBetweenOrders 7401 seconds
+DBG [30611-55 ] accountId 127004 sold__ NFT (to__ #130150) for   119.740 $ (0.090 ETH) validUntilTimeBetweenOrders 13090 seconds
+DBG [30629-28 ] accountId 127004 bought NFT (from #155920) for   103.393 $ (0.078 ETH) validUntilTimeBetweenOrders 1352 seconds
+DBG [30629-127] accountId 127004 sold__ NFT (to__ # 38649) for  1113.462 $ (0.840 ETH) validUntilTimeBetweenOrders 3696 seconds
+DBG [30629-178] accountId 127004 bought NFT (from #136562) for    66.278 $ (0.050 ETH) validUntilTimeBetweenOrders 40381 seconds
+DBG [30630-5  ] accountId 127004 bought NFT (from # 60767) for   158.403 $ (0.119 ETH) validUntilTimeBetweenOrders 2409379 seconds
+DBG [30630-6  ] accountId 127004 bought NFT (from #149015) for   662.112 $ (0.499 ETH) validUntilTimeBetweenOrders 71440 seconds
+DBG [30630-16 ] accountId 127004 bought NFT (from #188784) for   104.718 $ (0.079 ETH) validUntilTimeBetweenOrders 15495 seconds
+DBG [30630-36 ] accountId 127004 bought NFT (from #150137) for    91.463 $ (0.069 ETH) validUntilTimeBetweenOrders 67461 seconds
+DBG [30630-160] accountId 127004 bought NFT (from #186096) for   297.144 $ (0.224 ETH) validUntilTimeBetweenOrders 87226 seconds
+DBG [30632-164] accountId 127004 sold__ NFT (to__ #162874) for    62.975 $ (0.048 ETH) validUntilTimeBetweenOrders 4030 seconds
+DBG [30639-100] accountId 127004 sold__ NFT (to__ #159407) for    62.928 $ (0.048 ETH) validUntilTimeBetweenOrders 16023 seconds
+DBG [30639-215] accountId 127004 sold__ NFT (to__ # 78999) for   225.216 $ (0.170 ETH) validUntilTimeBetweenOrders 1291 seconds
+DBG [30640-292] accountId 127004 sold__ NFT (to__ #174819) for   225.216 $ (0.170 ETH) validUntilTimeBetweenOrders 1999 seconds
+DBG [30642-380] accountId 127004 bought NFT (from #183670) for    36.491 $ (0.028 ETH) validUntilTimeBetweenOrders 128161 seconds
+DBG [30643-9  ] accountId 127004 bought NFT (from #126317) for    39.808 $ (0.030 ETH) validUntilTimeBetweenOrders 148739 seconds
+DBG [30643-21 ] accountId 127004 bought NFT (from #187994) for    46.283 $ (0.035 ETH) validUntilTimeBetweenOrders 209382 seconds
+DBG [30646-6  ] accountId 127004 sold__ NFT (to__ #186361) for   131.006 $ (0.100 ETH) validUntilTimeBetweenOrders 14417 seconds
+DBG [30675-324] accountId 127004 sold__ NFT (to__ # 95340) for   100.855 $ (0.076 ETH) validUntilTimeBetweenOrders 69400 seconds
+DBG [30682-301] accountId 127004 sold__ NFT (to__ #190799) for   297.044 $ (0.225 ETH) validUntilTimeBetweenOrders 1206 seconds
+DBG [30684-33 ] accountId 127004 bought NFT (from #183513) for   131.836 $ (0.100 ETH) validUntilTimeBetweenOrders 2255754 seconds
+DBG [30698-15 ] accountId 127004 sold__ NFT (to__ #175024) for   144.766 $ (0.110 ETH) validUntilTimeBetweenOrders 35638 seconds
+DBG [30704-26 ] accountId 127004 bought NFT (from #168017) for     7.759 $ (0.006 ETH) validUntilTimeBetweenOrders 1042447 seconds
+DBG [30704-27 ] accountId 127004 bought NFT (from #177285) for    23.673 $ (0.018 ETH) validUntilTimeBetweenOrders 301572 seconds
+DBG [30704-36 ] accountId 127004 bought NFT (from #151003) for    34.353 $ (0.026 ETH) validUntilTimeBetweenOrders 91228 seconds
+DBG [30704-41 ] accountId 127004 bought NFT (from #152720) for     4.458 $ (0.003 ETH) validUntilTimeBetweenOrders 114636 seconds
+DBG [30704-50 ] accountId 127004 bought NFT (from #125302) for    11.585 $ (0.009 ETH) validUntilTimeBetweenOrders 137392 seconds
+DBG [30704-51 ] accountId 127004 bought NFT (from # 54779) for    39.493 $ (0.030 ETH) validUntilTimeBetweenOrders 122695 seconds
+DBG [30704-96 ] accountId 127004 bought NFT (from #173353) for    17.205 $ (0.013 ETH) validUntilTimeBetweenOrders 773338 seconds
+DBG [30704-97 ] accountId 127004 bought NFT (from #187768) for    19.700 $ (0.015 ETH) validUntilTimeBetweenOrders 872942 seconds
+DBG [30704-116] accountId 127004 bought NFT (from # 95340) for    32.781 $ (0.025 ETH) validUntilTimeBetweenOrders 318913 seconds
+DBG [30708-206] accountId 127004 bought NFT (from #149671) for    72.453 $ (0.055 ETH) validUntilTimeBetweenOrders 768563 seconds
+DBG [30708-207] accountId 127004 bought NFT (from # 54779) for    39.520 $ (0.030 ETH) validUntilTimeBetweenOrders 127209 seconds
+DBG [30708-208] accountId 127004 bought NFT (from #177285) for    23.712 $ (0.018 ETH) validUntilTimeBetweenOrders 306086 seconds
+DBG [30708-307] accountId 127004 bought NFT (from #129245) for    26.282 $ (0.020 ETH) validUntilTimeBetweenOrders 677179 seconds
+DBG [30708-308] accountId 127004 bought NFT (from #176299) for    72.275 $ (0.055 ETH) validUntilTimeBetweenOrders 908761 seconds
+DBG [30708-309] accountId 127004 bought NFT (from #176509) for    45.152 $ (0.034 ETH) validUntilTimeBetweenOrders 316083 seconds
+DBG [30714-45 ] accountId 127004 sold__ NFT (to__ #128003) for   143.541 $ (0.110 ETH) validUntilTimeBetweenOrders 7311 seconds
+DBG [30714-60 ] accountId 127004 sold__ NFT (to__ # 79731) for    52.197 $ (0.040 ETH) validUntilTimeBetweenOrders 915 seconds
+DBG [30715-9  ] accountId 127004 sold__ NFT (to__ # 79731) for    72.099 $ (0.055 ETH) validUntilTimeBetweenOrders 915 seconds
+DBG [30718-30 ] accountId 127004 bought NFT (from #175479) for   260.001 $ (0.200 ETH) validUntilTimeBetweenOrders 56 seconds
+DBG [30718-113] accountId 127004 bought NFT (from #175479) for   260.001 $ (0.200 ETH) validUntilTimeBetweenOrders 78 seconds
+DBG [30721-117] accountId 127004 sold__ NFT (to__ #145818) for   786.689 $ (0.600 ETH) validUntilTimeBetweenOrders 1402 seconds
+DBG [30721-136] accountId 127004 sold__ NFT (to__ #145818) for   131.115 $ (0.100 ETH) validUntilTimeBetweenOrders 1463 seconds
+DBG [30724-88 ] accountId 127004 bought NFT (from # 99767) for     5.721 $ (0.004 ETH) validUntilTimeBetweenOrders 185158 seconds
+DBG [30724-89 ] accountId 127004 bought NFT (from # 99767) for     5.721 $ (0.004 ETH) validUntilTimeBetweenOrders 185158 seconds
+DBG [30724-130] accountId 127004 bought NFT (from #177469) for    75.418 $ (0.058 ETH) validUntilTimeBetweenOrders 19274 seconds
+DBG [30725-202] accountId 127004 bought NFT (from #125302) for    26.656 $ (0.021 ETH) validUntilTimeBetweenOrders 13123 seconds
+DBG [30725-232] accountId 127004 bought NFT (from #126014) for    36.409 $ (0.028 ETH) validUntilTimeBetweenOrders 2060 seconds
+DBG [30725-233] accountId 127004 bought NFT (from #106421) for    27.046 $ (0.021 ETH) validUntilTimeBetweenOrders 1615257 seconds
+DBG [30725-281] accountId 127004 sold__ NFT (to__ # 60767) for    52.012 $ (0.040 ETH) validUntilTimeBetweenOrders 2026 seconds
+DBG [30741-29 ] accountId 127004 sold__ NFT (to__ #126378) for   128.052 $ (0.100 ETH) validUntilTimeBetweenOrders 37649 seconds
+DBG [30750-102] accountId 127004 bought NFT (from #166442) for    48.640 $ (0.038 ETH) validUntilTimeBetweenOrders 26012 seconds
+DBG [30750-109] accountId 127004 bought NFT (from #162706) for    25.600 $ (0.020 ETH) validUntilTimeBetweenOrders 36462 seconds
+DBG [30772-104] accountId 127004 sold__ NFT (to__ #126200) for   126.980 $ (0.099 ETH) validUntilTimeBetweenOrders 10143 seconds
+DBG [30797-175] accountId 127004 bought NFT (from #134158) for     5.302 $ (0.004 ETH) validUntilTimeBetweenOrders 39027 seconds
+DBG [30904-151] accountId 127004 sold__ NFT (to__ #157592) for   151.007 $ (0.117 ETH) validUntilTimeBetweenOrders 231973 seconds
+DBG [30916-33 ] accountId 127004 bought NFT (from #151003) for   210.717 $ (0.159 ETH) validUntilTimeBetweenOrders 474652 seconds
+DBG [30923-78 ] accountId 127004 sold__ NFT (to__ #123481) for   185.780 $ (0.140 ETH) validUntilTimeBetweenOrders 241110 seconds
+DBG [30993-266] accountId 127004 bought NFT (from #189356) for   128.591 $ (0.100 ETH) validUntilTimeBetweenOrders 200 seconds
+DBG [30993-291] accountId 127004 bought NFT (from #134042) for   127.292 $ (0.099 ETH) validUntilTimeBetweenOrders 329 seconds
+DBG [30993-292] accountId 127004 bought NFT (from # 82494) for   128.591 $ (0.100 ETH) validUntilTimeBetweenOrders 275 seconds
+DBG [30993-293] accountId 127004 bought NFT (from # 40169) for   141.450 $ (0.110 ETH) validUntilTimeBetweenOrders 262 seconds
+DBG [30993-294] accountId 127004 bought NFT (from #127913) for   120.875 $ (0.094 ETH) validUntilTimeBetweenOrders 374 seconds
+DBG [30993-295] accountId 127004 bought NFT (from #129278) for   127.305 $ (0.099 ETH) validUntilTimeBetweenOrders 235 seconds
+DBG [30993-331] accountId 127004 bought NFT (from #191414) for   108.016 $ (0.084 ETH) validUntilTimeBetweenOrders 331 seconds
+DBG [30993-332] accountId 127004 bought NFT (from # 95753) for   109.302 $ (0.085 ETH) validUntilTimeBetweenOrders 393 seconds
+DBG [30993-366] accountId 127004 bought NFT (from #165850) for   128.401 $ (0.100 ETH) validUntilTimeBetweenOrders 259 seconds
+DBG [30993-368] accountId 127004 bought NFT (from #172385) for   121.981 $ (0.095 ETH) validUntilTimeBetweenOrders 348 seconds
+DBG [30994-6  ] accountId 127004 bought NFT (from #152268) for   109.141 $ (0.085 ETH) validUntilTimeBetweenOrders 317 seconds
+DBG [30994-7  ] accountId 127004 bought NFT (from #191193) for   159.217 $ (0.124 ETH) validUntilTimeBetweenOrders 12 seconds
+DBG [30997-21 ] accountId 127004 bought NFT (from #134042) for   121.604 $ (0.095 ETH) validUntilTimeBetweenOrders 159 seconds
+DBG [30997-22 ] accountId 127004 bought NFT (from #186802) for   140.804 $ (0.110 ETH) validUntilTimeBetweenOrders 1449 seconds
+DBG [30997-23 ] accountId 127004 bought NFT (from #167164) for   147.192 $ (0.115 ETH) validUntilTimeBetweenOrders 400 seconds
+DBG [30999-298] accountId 127004 sold__ NFT (to__ #124602) for    76.500 $ (0.060 ETH) validUntilTimeBetweenOrders 435623 seconds
+DBG [31037-148] accountId 127004 bought NFT (from #173768) for   640.902 $ (0.499 ETH) validUntilTimeBetweenOrders 61 seconds
+DBG [31037-162] accountId 127004 bought NFT (from #173768) for   125.869 $ (0.098 ETH) validUntilTimeBetweenOrders 55 seconds
+DBG [31037-202] accountId 127004 bought NFT (from #136562) for    51.375 $ (0.040 ETH) validUntilTimeBetweenOrders 232751 seconds
+DBG [31037-258] accountId 127004 sold__ NFT (to__ #140842) for    57.797 $ (0.045 ETH) validUntilTimeBetweenOrders 377 seconds
+DBG [31040-316] accountId 127004 sold__ NFT (to__ #124602) for    78.420 $ (0.060 ETH) validUntilTimeBetweenOrders 5313 seconds
+DBG [31123-39 ] accountId 127004 sold__ NFT (to__ # 89091) for   652.404 $ (0.490 ETH) validUntilTimeBetweenOrders 145581 seconds
+DBG [31128-87 ] accountId 127004 sold__ NFT (to__ #175024) for    65.615 $ (0.050 ETH) validUntilTimeBetweenOrders 153444 seconds
+DBG [31132-112] accountId 127004 bought NFT (from #126014) for    26.209 $ (0.020 ETH) validUntilTimeBetweenOrders 342696 seconds
+DBG [31132-113] accountId 127004 bought NFT (from #186190) for   144.149 $ (0.110 ETH) validUntilTimeBetweenOrders 164821 seconds
+DBG [31132-114] accountId 127004 bought NFT (from #173353) for    78.627 $ (0.060 ETH) validUntilTimeBetweenOrders 485088 seconds
+DBG [31132-160] accountId 127004 bought NFT (from # 54779) for   262.127 $ (0.200 ETH) validUntilTimeBetweenOrders 164988 seconds
+DBG [31132-190] accountId 127004 bought NFT (from # 42730) for    72.085 $ (0.055 ETH) validUntilTimeBetweenOrders 345875 seconds
+DBG [31138-131] accountId 127004 bought NFT (from #130880) for     6.528 $ (0.005 ETH) validUntilTimeBetweenOrders 114282 seconds
+DBG [31139-4  ] accountId 127004 bought NFT (from # 43328) for     7.834 $ (0.006 ETH) validUntilTimeBetweenOrders 1851106 seconds
+DBG [31139-5  ] accountId 127004 bought NFT (from #126014) for     9.140 $ (0.007 ETH) validUntilTimeBetweenOrders 2517621 seconds
+DBG [31283-25 ] accountId 127004 bought NFT (from # 94395) for    30.608 $ (0.024 ETH) validUntilTimeBetweenOrders 75028 seconds
+DBG [31284-43 ] accountId 127004 bought NFT (from #166442) for   108.612 $ (0.085 ETH) validUntilTimeBetweenOrders 16040 seconds
+DBG [31296-290] accountId 127004 sold__ NFT (to__ # 87799) for    95.911 $ (0.075 ETH) validUntilTimeBetweenOrders 357 seconds
+DBG [31297-311] accountId 127004 sold__ NFT (to__ # 90825) for   285.270 $ (0.220 ETH) validUntilTimeBetweenOrders 700 seconds
+DBG [31316-200] accountId 127004 sold__ NFT (to__ # 40945) for   259.716 $ (0.200 ETH) validUntilTimeBetweenOrders 11908 seconds
+DBG [31361-42 ] accountId 127004 bought NFT (from #121989) for    65.672 $ (0.050 ETH) validUntilTimeBetweenOrders 53988 seconds
+DBG [31376-133] accountId 127004 sold__ NFT (to__ # 45829) for   228.948 $ (0.175 ETH) validUntilTimeBetweenOrders 107472 seconds
+DBG [31380-13 ] accountId 127004 sold__ NFT (to__ #124752) for    65.658 $ (0.050 ETH) validUntilTimeBetweenOrders 64978 seconds
+DBG [31383-52 ] accountId 127004 sold__ NFT (to__ #178489) for   223.300 $ (0.170 ETH) validUntilTimeBetweenOrders 24115 seconds
+DBG [31383-56 ] accountId 127004 sold__ NFT (to__ #178489) for   249.570 $ (0.190 ETH) validUntilTimeBetweenOrders 25930 seconds
+DBG [31395-92 ] accountId 127004 bought NFT (from #190933) for     3.922 $ (0.003 ETH) validUntilTimeBetweenOrders 275854 seconds
+DBG [31395-104] accountId 127004 bought NFT (from #163196) for     3.922 $ (0.003 ETH) validUntilTimeBetweenOrders 1001365 seconds
+DBG [31395-105] accountId 127004 bought NFT (from #190933) for     4.183 $ (0.003 ETH) validUntilTimeBetweenOrders 190737 seconds
+DBG [31395-107] accountId 127004 bought NFT (from #190933) for     3.922 $ (0.003 ETH) validUntilTimeBetweenOrders 276135 seconds
+DBG [31395-119] accountId 127004 bought NFT (from #190933) for     3.922 $ (0.003 ETH) validUntilTimeBetweenOrders 276172 seconds
+DBG [31574-171] accountId 127004 bought NFT (from #148554) for   153.274 $ (0.100 ETH) validUntilTimeBetweenOrders 731918 seconds
+DBG [31576-15 ] accountId 127004 bought NFT (from #192153) for    15.389 $ (0.010 ETH) validUntilTimeBetweenOrders 74567 seconds
+DBG [31576-16 ] accountId 127004 bought NFT (from #192153) for    15.389 $ (0.010 ETH) validUntilTimeBetweenOrders 74567 seconds
+DBG [31576-26 ] accountId 127004 bought NFT (from #192153) for    46.167 $ (0.030 ETH) validUntilTimeBetweenOrders 74567 seconds
+DBG [31576-29 ] accountId 127004 bought NFT (from #192153) for    15.389 $ (0.010 ETH) validUntilTimeBetweenOrders 74960 seconds
+DBG [31576-41 ] accountId 127004 bought NFT (from #192153) for    46.332 $ (0.030 ETH) validUntilTimeBetweenOrders 74960 seconds
+DBG [31576-51 ] accountId 127004 bought NFT (from #192153) for    77.220 $ (0.050 ETH) validUntilTimeBetweenOrders 75125 seconds
+DBG [31576-54 ] accountId 127004 bought NFT (from #192153) for    15.444 $ (0.010 ETH) validUntilTimeBetweenOrders 75245 seconds
+DBG [31576-67 ] accountId 127004 bought NFT (from #135308) for    15.379 $ (0.010 ETH) validUntilTimeBetweenOrders 29624 seconds
+DBG [31576-80 ] accountId 127004 bought NFT (from #106489) for    23.040 $ (0.015 ETH) validUntilTimeBetweenOrders 15772 seconds
+DBG [31576-81 ] accountId 127004 bought NFT (from #106489) for    22.118 $ (0.014 ETH) validUntilTimeBetweenOrders 15547 seconds
+DBG [31576-82 ] accountId 127004 bought NFT (from #106489) for    23.040 $ (0.015 ETH) validUntilTimeBetweenOrders 15772 seconds
+DBG [31576-108] accountId 127004 bought NFT (from #192153) for    30.669 $ (0.020 ETH) validUntilTimeBetweenOrders 75306 seconds
+DBG [31577-47 ] accountId 127004 bought NFT (from #124927) for    53.670 $ (0.035 ETH) validUntilTimeBetweenOrders 67900 seconds
+DBG [31577-48 ] accountId 127004 bought NFT (from #126821) for    46.003 $ (0.030 ETH) validUntilTimeBetweenOrders 33708 seconds
+DBG [31592-51 ] accountId 127004 bought NFT (from #183513) for   140.960 $ (0.090 ETH) validUntilTimeBetweenOrders 269 seconds
+DBG [31592-275] accountId 127004 bought NFT (from #183513) for   140.960 $ (0.090 ETH) validUntilTimeBetweenOrders 46 seconds
+DBG [31593-195] accountId 127004 bought NFT (from #183513) for   187.653 $ (0.120 ETH) validUntilTimeBetweenOrders 165 seconds
+DBG [31792-125] accountId 127004 sold__ NFT (to__ #136147) for    12.867 $ (0.009 ETH) validUntilTimeBetweenOrders 402947 seconds
+DBG [31828-194] accountId 127004 sold__ NFT (to__ #174392) for    75.987 $ (0.050 ETH) validUntilTimeBetweenOrders 452268 seconds
+DBG [31851-126] accountId 127004 bought NFT (from #191909) for    70.362 $ (0.045 ETH) validUntilTimeBetweenOrders 5029 seconds
+DBG [31851-143] accountId 127004 bought NFT (from #191909) for    70.362 $ (0.045 ETH) validUntilTimeBetweenOrders 5174 seconds
+DBG [31854-234] accountId 127004 bought NFT (from #191909) for    70.196 $ (0.045 ETH) validUntilTimeBetweenOrders 9001 seconds
+DBG [31855-111] accountId 127004 bought NFT (from #191909) for    70.173 $ (0.045 ETH) validUntilTimeBetweenOrders 10363 seconds
+DBG [31855-112] accountId 127004 bought NFT (from #191909) for    70.173 $ (0.045 ETH) validUntilTimeBetweenOrders 10363 seconds
+DBG [31855-140] accountId 127004 bought NFT (from #191909) for    70.030 $ (0.045 ETH) validUntilTimeBetweenOrders 10508 seconds
+DBG [31855-163] accountId 127004 bought NFT (from #191909) for   140.061 $ (0.090 ETH) validUntilTimeBetweenOrders 10363 seconds
+DBG [31855-175] accountId 127004 bought NFT (from #191909) for   280.122 $ (0.180 ETH) validUntilTimeBetweenOrders 10363 seconds
+DBG [31880-25 ] accountId 127004 sold__ NFT (to__ #152251) for    73.305 $ (0.045 ETH) validUntilTimeBetweenOrders 2974 seconds
+DBG [31881-1  ] accountId 127004 bought NFT (from #191909) for    73.170 $ (0.045 ETH) validUntilTimeBetweenOrders 50864 seconds
+DBG [31881-69 ] accountId 127004 sold__ NFT (to__ #164760) for    73.438 $ (0.045 ETH) validUntilTimeBetweenOrders 1081 seconds
+DBG [31884-35 ] accountId 127004 bought NFT (from #191909) for    73.294 $ (0.045 ETH) validUntilTimeBetweenOrders 57480 seconds
+DBG [31885-67 ] accountId 127004 sold__ NFT (to__ #157561) for    73.039 $ (0.045 ETH) validUntilTimeBetweenOrders 130148 seconds
+DBG [31885-87 ] accountId 127004 sold__ NFT (to__ #135263) for    73.039 $ (0.045 ETH) validUntilTimeBetweenOrders 1673 seconds
+DBG [31885-105] accountId 127004 sold__ NFT (to__ # 78887) for    72.666 $ (0.045 ETH) validUntilTimeBetweenOrders 942 seconds
+DBG [31886-19 ] accountId 127004 bought NFT (from #191909) for    72.706 $ (0.045 ETH) validUntilTimeBetweenOrders 61819 seconds
+DBG [31886-20 ] accountId 127004 bought NFT (from #191909) for    72.706 $ (0.045 ETH) validUntilTimeBetweenOrders 61674 seconds
+DBG [31886-29 ] accountId 127004 bought NFT (from #191909) for    72.760 $ (0.045 ETH) validUntilTimeBetweenOrders 61898 seconds
+DBG [31897-128] accountId 127004 sold__ NFT (to__ #163460) for    45.122 $ (0.028 ETH) validUntilTimeBetweenOrders 630559 seconds
+DBG [31903-158] accountId 127004 bought NFT (from #183513) for    48.979 $ (0.030 ETH) validUntilTimeBetweenOrders 218460 seconds
+DBG [31939-143] accountId 127004 sold__ NFT (to__ #141504) for    23.952 $ (0.015 ETH) validUntilTimeBetweenOrders 98337 seconds
+DBG [31960-79 ] accountId 127004 sold__ NFT (to__ #140556) for  1577.857 $ (0.990 ETH) validUntilTimeBetweenOrders 6646 seconds
+DBG [31962-326] accountId 127004 bought NFT (from #183513) for    47.382 $ (0.030 ETH) validUntilTimeBetweenOrders 316187 seconds
+DBG [31962-327] accountId 127004 bought NFT (from #183513) for    63.176 $ (0.040 ETH) validUntilTimeBetweenOrders 360321 seconds
+DBG [31978-21 ] accountId 127004 sold__ NFT (to__ #176551) for    39.896 $ (0.025 ETH) validUntilTimeBetweenOrders 123660 seconds
+DBG [31982-288] accountId 127004 bought NFT (from #174547) for    12.660 $ (0.008 ETH) validUntilTimeBetweenOrders 918893 seconds
+DBG [31982-296] accountId 127004 bought NFT (from #160753) for     5.380 $ (0.003 ETH) validUntilTimeBetweenOrders 442998 seconds
+DBG [31982-297] accountId 127004 bought NFT (from #175834) for     7.438 $ (0.005 ETH) validUntilTimeBetweenOrders 265256 seconds
+DBG [31983-222] accountId 127004 bought NFT (from #163915) for     5.693 $ (0.004 ETH) validUntilTimeBetweenOrders 668133 seconds
+DBG [32004-377] accountId 127004 bought NFT (from # 94395) for    29.696 $ (0.019 ETH) validUntilTimeBetweenOrders 944646 seconds
+DBG [32008-256] accountId 127004 sold__ NFT (to__ #100309) for   665.591 $ (0.425 ETH) validUntilTimeBetweenOrders 31744 seconds
+DBG [32009-18 ] accountId 127004 sold__ NFT (to__ #137497) for    10.142 $ (0.006 ETH) validUntilTimeBetweenOrders 175236 seconds
+DBG [32012-186] accountId 127004 sold__ NFT (to__ #157259) for    23.519 $ (0.015 ETH) validUntilTimeBetweenOrders 17311 seconds
+DBG [32016-122] accountId 127004 bought NFT (from # 82910) for    77.966 $ (0.050 ETH) validUntilTimeBetweenOrders 71576 seconds
+DBG [32018-285] accountId 127004 bought NFT (from #149015) for    48.185 $ (0.031 ETH) validUntilTimeBetweenOrders 82433 seconds
+DBG [32080-32 ] accountId 127004 bought NFT (from #129856) for   160.625 $ (0.100 ETH) validUntilTimeBetweenOrders 435901 seconds
+DBG [32080-94 ] accountId 127004 bought NFT (from #178652) for    79.666 $ (0.050 ETH) validUntilTimeBetweenOrders 338561 seconds
+DBG [32081-48 ] accountId 127004 bought NFT (from # 54779) for    31.745 $ (0.020 ETH) validUntilTimeBetweenOrders 1443613 seconds
+DBG [32081-59 ] accountId 127004 bought NFT (from #101171) for    38.237 $ (0.024 ETH) validUntilTimeBetweenOrders 1614450 seconds
+DBG [32170-32 ] accountId 127004 sold__ NFT (to__ #124752) for    23.509 $ (0.015 ETH) validUntilTimeBetweenOrders 110354 seconds
+DBG [32175-316] accountId 127004 sold__ NFT (to__ #224635) for    30.629 $ (0.019 ETH) validUntilTimeBetweenOrders 660 seconds
+DBG [32176-138] accountId 127004 sold__ NFT (to__ #224635) for     4.804 $ (0.003 ETH) validUntilTimeBetweenOrders 164 seconds
+DBG [32190-85 ] accountId 127004 bought NFT (from #174392) for    65.637 $ (0.043 ETH) validUntilTimeBetweenOrders 934 seconds
+DBG [32190-101] accountId 127004 bought NFT (from #167229) for    67.174 $ (0.044 ETH) validUntilTimeBetweenOrders 6374 seconds
+DBG [32329-50 ] accountId 127004 sold__ NFT (to__ # 99592) for     3.289 $ (0.002 ETH) validUntilTimeBetweenOrders 15257 seconds
+DBG [32360-283] accountId 127004 sold__ NFT (to__ #142718) for     3.265 $ (0.002 ETH) validUntilTimeBetweenOrders 64549 seconds
+DBG [32361-27 ] accountId 127004 bought NFT (from #224295) for   245.856 $ (0.150 ETH) validUntilTimeBetweenOrders 8578 seconds
+DBG [32365-15 ] accountId 127004 bought NFT (from #183604) for    65.413 $ (0.040 ETH) validUntilTimeBetweenOrders 65959 seconds
+DBG [32371-101] accountId 127004 bought NFT (from #183604) for    65.122 $ (0.040 ETH) validUntilTimeBetweenOrders 74276 seconds
+DBG [32371-103] accountId 127004 bought NFT (from #183604) for    65.122 $ (0.040 ETH) validUntilTimeBetweenOrders 77041 seconds
+DBG [32390-272] accountId 127004 sold__ NFT (to__ # 36468) for     1.622 $ (0.001 ETH) validUntilTimeBetweenOrders 45858 seconds
+DBG [32392-5  ] accountId 127004 sold__ NFT (to__ #176848) for  2451.419 $ (1.500 ETH) validUntilTimeBetweenOrders 117659 seconds
+DBG [32397-37 ] accountId 127004 sold__ NFT (to__ #146192) for    11.292 $ (0.007 ETH) validUntilTimeBetweenOrders 57064 seconds
+DBG [32404-63 ] accountId 127004 sold__ NFT (to__ #159757) for  1548.055 $ (0.950 ETH) validUntilTimeBetweenOrders 2242 seconds
+DBG [32414-56 ] accountId 127004 sold__ NFT (to__ # 82045) for   240.991 $ (0.150 ETH) validUntilTimeBetweenOrders 2250 seconds
+DBG [32425-97 ] accountId 127004 sold__ NFT (to__ #137911) for     1.569 $ (0.001 ETH) validUntilTimeBetweenOrders 98723 seconds
+DBG [32475-157] accountId 127004 sold__ NFT (to__ #157033) for   132.324 $ (0.085 ETH) validUntilTimeBetweenOrders 2093 seconds
+DBG [32476-32 ] accountId 127004 sold__ NFT (to__ #137865) for     7.022 $ (0.004 ETH) validUntilTimeBetweenOrders 8668 seconds
+DBG [32476-96 ] accountId 127004 sold__ NFT (to__ #224229) for     0.780 $ (0.001 ETH) validUntilTimeBetweenOrders 540881 seconds
+DBG [32479-150] accountId 127004 sold__ NFT (to__ # 59592) for    66.603 $ (0.043 ETH) validUntilTimeBetweenOrders 13300 seconds
+DBG [32486-147] accountId 127004 sold__ NFT (to__ #134158) for     7.759 $ (0.005 ETH) validUntilTimeBetweenOrders 23855 seconds
+DBG [32493-119] accountId 127004 sold__ NFT (to__ #134158) for     6.668 $ (0.004 ETH) validUntilTimeBetweenOrders 29426 seconds
+DBG [32493-141] accountId 127004 sold__ NFT (to__ #134158) for     6.644 $ (0.004 ETH) validUntilTimeBetweenOrders 29544 seconds
+DBG [32496-72 ] accountId 127004 sold__ NFT (to__ #134158) for    11.700 $ (0.008 ETH) validUntilTimeBetweenOrders 32461 seconds
+DBG [32496-334] accountId 127004 sold__ NFT (to__ #168199) for     3.676 $ (0.003 ETH) validUntilTimeBetweenOrders 27898 seconds
+DBG [32510-93 ] accountId 127004 bought NFT (from #159583) for    29.958 $ (0.020 ETH) validUntilTimeBetweenOrders 21876 seconds
+DBG [32511-34 ] accountId 127004 bought NFT (from #170627) for     3.408 $ (0.002 ETH) validUntilTimeBetweenOrders 111317 seconds
+DBG [32522-126] accountId 127004 sold__ NFT (to__ #166071) for    35.918 $ (0.025 ETH) validUntilTimeBetweenOrders 68262 seconds
+DBG [32549-293] accountId 127004 bought NFT (from #133398) for   209.107 $ (0.158 ETH) validUntilTimeBetweenOrders 95 seconds
+DBG [32553-33 ] accountId 127004 bought NFT (from #150076) for   305.445 $ (0.230 ETH) validUntilTimeBetweenOrders 7327 seconds
+DBG [32553-224] accountId 127004 bought NFT (from #171287) for   349.992 $ (0.265 ETH) validUntilTimeBetweenOrders 1856 seconds
+DBG [32553-271] accountId 127004 bought NFT (from #128762) for   331.429 $ (0.250 ETH) validUntilTimeBetweenOrders 76 seconds
+DBG [32555-350] accountId 127004 sold__ NFT (to__ # 60767) for     1.987 $ (0.002 ETH) validUntilTimeBetweenOrders 5254 seconds
+DBG [32557-130] accountId 127004 bought NFT (from #225305) for   331.362 $ (0.249 ETH) validUntilTimeBetweenOrders 2173 seconds
+DBG [32557-249] accountId 127004 bought NFT (from #149818) for     3.299 $ (0.003 ETH) validUntilTimeBetweenOrders 42547 seconds
+DBG [32557-250] accountId 127004 bought NFT (from #172635) for     3.299 $ (0.003 ETH) validUntilTimeBetweenOrders 166960 seconds
+DBG [32557-251] accountId 127004 bought NFT (from #147812) for     3.695 $ (0.003 ETH) validUntilTimeBetweenOrders 427550 seconds
+DBG [32557-274] accountId 127004 bought NFT (from #149825) for     3.826 $ (0.003 ETH) validUntilTimeBetweenOrders 532186 seconds
+DBG [32584-13 ] accountId 127004 sold__ NFT (to__ #155326) for     6.183 $ (0.005 ETH) validUntilTimeBetweenOrders 136906 seconds
+DBG [32642-119] accountId 127004 sold__ NFT (to__ #154136) for    18.124 $ (0.015 ETH) validUntilTimeBetweenOrders 70559 seconds
+DBG [32658-105] accountId 127004 sold__ NFT (to__ #154136) for    19.274 $ (0.015 ETH) validUntilTimeBetweenOrders 80450 seconds
+DBG [32665-79 ] accountId 127004 bought NFT (from #191909) for    39.714 $ (0.030 ETH) validUntilTimeBetweenOrders 698240 seconds
+DBG [32665-80 ] accountId 127004 bought NFT (from #157775) for    41.964 $ (0.032 ETH) validUntilTimeBetweenOrders 63522 seconds
+DBG [32665-81 ] accountId 127004 bought NFT (from #191909) for    39.714 $ (0.030 ETH) validUntilTimeBetweenOrders 695384 seconds
+DBG [32665-101] accountId 127004 bought NFT (from #191909) for    39.547 $ (0.030 ETH) validUntilTimeBetweenOrders 697514 seconds
+DBG [32665-153] accountId 127004 bought NFT (from #191909) for    39.547 $ (0.030 ETH) validUntilTimeBetweenOrders 694626 seconds
+DBG [32723-101] accountId 127004 sold__ NFT (to__ #142462) for   119.964 $ (0.095 ETH) validUntilTimeBetweenOrders 18843 seconds
+DBG [32723-122] accountId 127004 sold__ NFT (to__ #142462) for   107.336 $ (0.085 ETH) validUntilTimeBetweenOrders 18843 seconds
+DBG [32724-59 ] accountId 127004 sold__ NFT (to__ #225377) for   404.089 $ (0.320 ETH) validUntilTimeBetweenOrders 371 seconds
+DBG [32725-49 ] accountId 127004 sold__ NFT (to__ #225845) for   510.044 $ (0.400 ETH) validUntilTimeBetweenOrders 863 seconds
+DBG [32726-107] accountId 127004 sold__ NFT (to__ #143770) for    48.300 $ (0.038 ETH) validUntilTimeBetweenOrders 1488 seconds
+DBG [32728-61 ] accountId 127004 sold__ NFT (to__ # 40778) for     7.732 $ (0.006 ETH) validUntilTimeBetweenOrders 3346 seconds
+DBG [32728-100] accountId 127004 sold__ NFT (to__ #106421) for    51.582 $ (0.040 ETH) validUntilTimeBetweenOrders 5814 seconds
+DBG [32728-102] accountId 127004 sold__ NFT (to__ #106421) for    56.740 $ (0.044 ETH) validUntilTimeBetweenOrders 5814 seconds
+DBG [32728-166] accountId 127004 sold__ NFT (to__ #106421) for    64.076 $ (0.050 ETH) validUntilTimeBetweenOrders 5814 seconds
+DBG [32728-182] accountId 127004 sold__ NFT (to__ #106421) for   166.597 $ (0.130 ETH) validUntilTimeBetweenOrders 7424 seconds
+DBG [32745-176] accountId 127004 sold__ NFT (to__ #136602) for    50.350 $ (0.040 ETH) validUntilTimeBetweenOrders 3503 seconds
+DBG [32748-28 ] accountId 127004 sold__ NFT (to__ #226169) for    18.910 $ (0.015 ETH) validUntilTimeBetweenOrders 6989 seconds
+DBG [32755-101] accountId 127004 sold__ NFT (to__ #166872) for    62.968 $ (0.050 ETH) validUntilTimeBetweenOrders 4040 seconds
+DBG [32756-98 ] accountId 127004 sold__ NFT (to__ #187768) for    44.077 $ (0.035 ETH) validUntilTimeBetweenOrders 4708 seconds
+DBG [32757-84 ] accountId 127004 sold__ NFT (to__ #109301) for    16.365 $ (0.013 ETH) validUntilTimeBetweenOrders 22974 seconds
+DBG [32757-85 ] accountId 127004 sold__ NFT (to__ #171276) for    37.765 $ (0.030 ETH) validUntilTimeBetweenOrders 7077 seconds
+DBG [32757-94 ] accountId 127004 sold__ NFT (to__ #171276) for    37.765 $ (0.030 ETH) validUntilTimeBetweenOrders 14892 seconds
+DBG [32757-123] accountId 127004 sold__ NFT (to__ #127379) for   409.122 $ (0.325 ETH) validUntilTimeBetweenOrders 53089 seconds
+DBG [32778-264] accountId 127004 sold__ NFT (to__ #134158) for    10.040 $ (0.008 ETH) validUntilTimeBetweenOrders 53019 seconds
+DBG [32779-13 ] accountId 127004 sold__ NFT (to__ #134158) for    28.237 $ (0.022 ETH) validUntilTimeBetweenOrders 37258 seconds
+DBG [32779-16 ] accountId 127004 sold__ NFT (to__ #134158) for    47.062 $ (0.037 ETH) validUntilTimeBetweenOrders 37258 seconds
+DBG [32793-192] accountId 127004 sold__ NFT (to__ #226398) for   240.453 $ (0.190 ETH) validUntilTimeBetweenOrders 62136 seconds
+DBG [32953-8  ] accountId 127004 sold__ NFT (to__ #136459) for   473.834 $ (0.375 ETH) validUntilTimeBetweenOrders 1768 seconds
+DBG [33007-164] accountId 127004 sold__ NFT (to__ # 99021) for    66.710 $ (0.055 ETH) validUntilTimeBetweenOrders 417698 seconds
+DBG [33034-25 ] accountId 127004 bought NFT (from #106489) for    17.681 $ (0.015 ETH) validUntilTimeBetweenOrders 4460 seconds
+DBG [33034-26 ] accountId 127004 bought NFT (from #106489) for    17.681 $ (0.015 ETH) validUntilTimeBetweenOrders 4460 seconds
+DBG [33034-42 ] accountId 127004 bought NFT (from #106489) for    17.681 $ (0.015 ETH) validUntilTimeBetweenOrders 4460 seconds
+DBG [33034-43 ] accountId 127004 bought NFT (from #106489) for    17.681 $ (0.015 ETH) validUntilTimeBetweenOrders 4460 seconds
+DBG [33034-44 ] accountId 127004 bought NFT (from #106489) for    17.681 $ (0.015 ETH) validUntilTimeBetweenOrders 4460 seconds
+DBG [33034-45 ] accountId 127004 bought NFT (from #106489) for    17.681 $ (0.015 ETH) validUntilTimeBetweenOrders 4460 seconds
+DBG [33076-161] accountId 127004 sold__ NFT (to__ #179879) for   242.546 $ (0.200 ETH) validUntilTimeBetweenOrders 10511 seconds
+DBG [33078-21 ] accountId 127004 sold__ NFT (to__ # 44352) for     6.044 $ (0.005 ETH) validUntilTimeBetweenOrders 847451 seconds
+DBG [33096-192] accountId 127004 sold__ NFT (to__ #171661) for    60.735 $ (0.050 ETH) validUntilTimeBetweenOrders 4829 seconds
+DBG [33121-87 ] accountId 127004 bought NFT (from #169542) for    61.138 $ (0.050 ETH) validUntilTimeBetweenOrders 273 seconds
+DBG [33122-9  ] accountId 127004 bought NFT (from #169542) for    52.579 $ (0.043 ETH) validUntilTimeBetweenOrders 981 seconds
+DBG [33242-333] accountId 127004 sold__ NFT (to__ #175653) for     5.855 $ (0.005 ETH) validUntilTimeBetweenOrders 962655 seconds

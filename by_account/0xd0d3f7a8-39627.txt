@@ -1,0 +1,196 @@
+DBG [29515-9  ] accountId  39627 sold__ NFT (to__ #105813) for    80.610 $ (0.059 ETH) validUntilTimeBetweenOrders 14334 seconds
+DBG [29638-158] accountId  39627 sold__ NFT (to__ #146489) for   170.416 $ (0.134 ETH) validUntilTimeBetweenOrders 229771 seconds
+DBG [29714-36 ] accountId  39627 bought NFT (from # 43778) for     5.318 $ (0.004 ETH) validUntilTimeBetweenOrders 988 seconds
+DBG [29714-78 ] accountId  39627 bought NFT (from # 43778) for     5.318 $ (0.004 ETH) validUntilTimeBetweenOrders 1087 seconds
+DBG [29714-117] accountId  39627 bought NFT (from # 43778) for     5.318 $ (0.004 ETH) validUntilTimeBetweenOrders 1333 seconds
+DBG [29752-115] accountId  39627 sold__ NFT (to__ #168723) for     4.669 $ (0.003 ETH) validUntilTimeBetweenOrders 7108 seconds
+DBG [29753-312] accountId  39627 sold__ NFT (to__ #124574) for     4.573 $ (0.003 ETH) validUntilTimeBetweenOrders 3291 seconds
+DBG [29754-113] accountId  39627 sold__ NFT (to__ #130167) for     4.573 $ (0.003 ETH) validUntilTimeBetweenOrders 989 seconds
+DBG [29858-128] accountId  39627 sold__ NFT (to__ #176124) for     4.634 $ (0.004 ETH) validUntilTimeBetweenOrders 24623 seconds
+DBG [29864-329] accountId  39627 sold__ NFT (to__ #135054) for     4.645 $ (0.004 ETH) validUntilTimeBetweenOrders 32861 seconds
+DBG [29877-90 ] accountId  39627 sold__ NFT (to__ #162853) for     4.664 $ (0.004 ETH) validUntilTimeBetweenOrders 50374 seconds
+DBG [29939-266] accountId  39627 bought NFT (from # 37461) for    63.514 $ (0.048 ETH) validUntilTimeBetweenOrders 3217 seconds
+DBG [29940-302] accountId  39627 bought NFT (from #157510) for    53.177 $ (0.040 ETH) validUntilTimeBetweenOrders 3789 seconds
+DBG [29942-28 ] accountId  39627 bought NFT (from #157510) for    53.222 $ (0.040 ETH) validUntilTimeBetweenOrders 5916 seconds
+DBG [30056-322] accountId  39627 sold__ NFT (to__ # 82253) for    20.050 $ (0.015 ETH) validUntilTimeBetweenOrders 2085606 seconds
+DBG [30130-278] accountId  39627 bought NFT (from # 92477) for    60.726 $ (0.045 ETH) validUntilTimeBetweenOrders 7039 seconds
+DBG [30130-290] accountId  39627 bought NFT (from # 92477) for    80.968 $ (0.060 ETH) validUntilTimeBetweenOrders 6196 seconds
+DBG [30352-158] accountId  39627 sold__ NFT (to__ #145147) for    66.371 $ (0.050 ETH) validUntilTimeBetweenOrders 387035 seconds
+DBG [30382-36 ] accountId  39627 sold__ NFT (to__ #169060) for    13.460 $ (0.010 ETH) validUntilTimeBetweenOrders 7452 seconds
+DBG [30388-79 ] accountId  39627 bought NFT (from # 81371) for     8.970 $ (30.000 LRC) validUntilTimeBetweenOrders 1129295 seconds
+DBG [30388-114] accountId  39627 bought NFT (from # 81371) for    16.445 $ (55.000 LRC) validUntilTimeBetweenOrders 982917 seconds
+DBG [30454-153] accountId  39627 sold__ NFT (to__ #188673) for    60.240 $ (0.045 ETH) validUntilTimeBetweenOrders 82384 seconds
+DBG [30558-215] accountId  39627 bought NFT (from # 43778) for     3.465 $ (0.003 ETH) validUntilTimeBetweenOrders 240 seconds
+DBG [30558-219] accountId  39627 bought NFT (from # 43778) for     3.465 $ (0.003 ETH) validUntilTimeBetweenOrders 240 seconds
+DBG [30559-85 ] accountId  39627 bought NFT (from # 43778) for     3.465 $ (0.003 ETH) validUntilTimeBetweenOrders 685 seconds
+DBG [30559-125] accountId  39627 bought NFT (from # 43778) for     3.465 $ (0.003 ETH) validUntilTimeBetweenOrders 708 seconds
+DBG [30559-262] accountId  39627 sold__ NFT (to__ # 99671) for    13.587 $ (0.010 ETH) validUntilTimeBetweenOrders 418 seconds
+DBG [30559-263] accountId  39627 sold__ NFT (to__ # 99671) for    13.587 $ (0.010 ETH) validUntilTimeBetweenOrders 418 seconds
+DBG [30560-114] accountId  39627 sold__ NFT (to__ #115258) for     4.076 $ (0.003 ETH) validUntilTimeBetweenOrders 8 seconds
+DBG [30560-192] accountId  39627 bought NFT (from # 43778) for     3.465 $ (0.003 ETH) validUntilTimeBetweenOrders 1862 seconds
+DBG [30561-18 ] accountId  39627 sold__ NFT (to__ #163668) for     6.497 $ (0.005 ETH) validUntilTimeBetweenOrders 110 seconds
+DBG [30561-347] accountId  39627 bought NFT (from # 43778) for     3.458 $ (0.003 ETH) validUntilTimeBetweenOrders 4323 seconds
+DBG [30562-7  ] accountId  39627 bought NFT (from # 43778) for     2.075 $ (0.002 ETH) validUntilTimeBetweenOrders 4323 seconds
+DBG [30562-280] accountId  39627 sold__ NFT (to__ # 64352) for    15.528 $ (0.011 ETH) validUntilTimeBetweenOrders 371 seconds
+DBG [30565-76 ] accountId  39627 sold__ NFT (to__ #126200) for     3.251 $ (0.002 ETH) validUntilTimeBetweenOrders 2609 seconds
+DBG [30565-373] accountId  39627 sold__ NFT (to__ #102062) for     6.502 $ (0.005 ETH) validUntilTimeBetweenOrders 5562 seconds
+DBG [30580-115] accountId  39627 sold__ NFT (to__ # 44215) for     4.054 $ (0.003 ETH) validUntilTimeBetweenOrders 1710 seconds
+DBG [30580-134] accountId  39627 sold__ NFT (to__ #135346) for     4.054 $ (0.003 ETH) validUntilTimeBetweenOrders 2077 seconds
+DBG [30581-261] accountId  39627 sold__ NFT (to__ # 55871) for     3.982 $ (0.003 ETH) validUntilTimeBetweenOrders 5162 seconds
+DBG [30586-110] accountId  39627 sold__ NFT (to__ #126821) for    23.944 $ (0.018 ETH) validUntilTimeBetweenOrders 14992 seconds
+DBG [30586-111] accountId  39627 sold__ NFT (to__ #126821) for     4.391 $ (0.003 ETH) validUntilTimeBetweenOrders 17954 seconds
+DBG [30587-186] accountId  39627 sold__ NFT (to__ #130522) for     1.969 $ (0.001 ETH) validUntilTimeBetweenOrders 22071 seconds
+DBG [30587-240] accountId  39627 sold__ NFT (to__ #170101) for     1.969 $ (0.001 ETH) validUntilTimeBetweenOrders 22579 seconds
+DBG [30597-112] accountId  39627 bought NFT (from # 82667) for    41.262 $ (0.031 ETH) validUntilTimeBetweenOrders 295 seconds
+DBG [30597-149] accountId  39627 bought NFT (from # 82667) for    41.262 $ (0.031 ETH) validUntilTimeBetweenOrders 295 seconds
+DBG [30600-46 ] accountId  39627 bought NFT (from # 43778) for     3.402 $ (0.003 ETH) validUntilTimeBetweenOrders 74835 seconds
+DBG [30600-254] accountId  39627 bought NFT (from # 43778) for     5.337 $ (0.004 ETH) validUntilTimeBetweenOrders 1020 seconds
+DBG [30600-281] accountId  39627 bought NFT (from # 43778) for     5.337 $ (0.004 ETH) validUntilTimeBetweenOrders 1020 seconds
+DBG [30600-286] accountId  39627 bought NFT (from # 43778) for     5.337 $ (0.004 ETH) validUntilTimeBetweenOrders 1020 seconds
+DBG [30600-290] accountId  39627 bought NFT (from # 43778) for     5.337 $ (0.004 ETH) validUntilTimeBetweenOrders 1020 seconds
+DBG [30600-305] accountId  39627 bought NFT (from # 43778) for     5.337 $ (0.004 ETH) validUntilTimeBetweenOrders 1020 seconds
+DBG [30600-317] accountId  39627 bought NFT (from # 43778) for     1.067 $ (0.001 ETH) validUntilTimeBetweenOrders 1020 seconds
+DBG [30600-366] accountId  39627 bought NFT (from # 43778) for     5.337 $ (0.004 ETH) validUntilTimeBetweenOrders 1020 seconds
+DBG [30600-374] accountId  39627 bought NFT (from # 43778) for     5.337 $ (0.004 ETH) validUntilTimeBetweenOrders 1208 seconds
+DBG [30601-15 ] accountId  39627 bought NFT (from # 43778) for     5.337 $ (0.004 ETH) validUntilTimeBetweenOrders 1247 seconds
+DBG [30601-70 ] accountId  39627 bought NFT (from # 43778) for     5.337 $ (0.004 ETH) validUntilTimeBetweenOrders 1319 seconds
+DBG [30601-93 ] accountId  39627 bought NFT (from # 43778) for     5.337 $ (0.004 ETH) validUntilTimeBetweenOrders 1319 seconds
+DBG [30601-106] accountId  39627 bought NFT (from # 43778) for     5.337 $ (0.004 ETH) validUntilTimeBetweenOrders 1386 seconds
+DBG [30606-117] accountId  39627 sold__ NFT (to__ #179879) for    66.758 $ (0.050 ETH) validUntilTimeBetweenOrders 8417 seconds
+DBG [30606-119] accountId  39627 sold__ NFT (to__ #179879) for    80.113 $ (0.060 ETH) validUntilTimeBetweenOrders 11699 seconds
+DBG [30606-168] accountId  39627 sold__ NFT (to__ #185412) for     4.006 $ (0.003 ETH) validUntilTimeBetweenOrders 445 seconds
+DBG [30608-8  ] accountId  39627 sold__ NFT (to__ #136147) for     8.373 $ (0.006 ETH) validUntilTimeBetweenOrders 914632 seconds
+DBG [30619-189] accountId  39627 sold__ NFT (to__ #126821) for    15.936 $ (0.012 ETH) validUntilTimeBetweenOrders 21499 seconds
+DBG [30619-208] accountId  39627 sold__ NFT (to__ #126821) for    23.905 $ (0.018 ETH) validUntilTimeBetweenOrders 22837 seconds
+DBG [30619-209] accountId  39627 sold__ NFT (to__ #126821) for    25.100 $ (0.019 ETH) validUntilTimeBetweenOrders 23270 seconds
+DBG [30633-148] accountId  39627 sold__ NFT (to__ #164314) for     2.498 $ (0.002 ETH) validUntilTimeBetweenOrders 111 seconds
+DBG [30633-183] accountId  39627 sold__ NFT (to__ #149435) for     2.498 $ (0.002 ETH) validUntilTimeBetweenOrders 563 seconds
+DBG [30678-372] accountId  39627 bought NFT (from #158267) for     9.870 $ (0.007 ETH) validUntilTimeBetweenOrders 13973 seconds
+DBG [30679-47 ] accountId  39627 bought NFT (from #158267) for     9.884 $ (0.007 ETH) validUntilTimeBetweenOrders 14066 seconds
+DBG [30691-45 ] accountId  39627 sold__ NFT (to__ #190036) for     1.975 $ (0.001 ETH) validUntilTimeBetweenOrders 29589 seconds
+DBG [30716-79 ] accountId  39627 sold__ NFT (to__ #164471) for     1.556 $ (0.001 ETH) validUntilTimeBetweenOrders 8768 seconds
+DBG [30717-123] accountId  39627 sold__ NFT (to__ #172784) for     1.555 $ (0.001 ETH) validUntilTimeBetweenOrders 9969 seconds
+DBG [30722-76 ] accountId  39627 bought NFT (from # 92637) for    39.221 $ (0.030 ETH) validUntilTimeBetweenOrders 415 seconds
+DBG [30722-82 ] accountId  39627 bought NFT (from # 92637) for    19.611 $ (0.015 ETH) validUntilTimeBetweenOrders 135 seconds
+DBG [30724-129] accountId  39627 sold__ NFT (to__ #126200) for     1.547 $ (0.001 ETH) validUntilTimeBetweenOrders 20955 seconds
+DBG [30771-333] accountId  39627 bought NFT (from # 98553) for   101.324 $ (0.079 ETH) validUntilTimeBetweenOrders 50588 seconds
+DBG [30837-94 ] accountId  39627 sold__ NFT (to__ #135866) for   116.586 $ (0.090 ETH) validUntilTimeBetweenOrders 1644 seconds
+DBG [30869-359] accountId  39627 sold__ NFT (to__ #130522) for    18.801 $ (0.015 ETH) validUntilTimeBetweenOrders 3263160 seconds
+DBG [30878-130] accountId  39627 bought NFT (from #183393) for   162.732 $ (0.126 ETH) validUntilTimeBetweenOrders 1004 seconds
+DBG [30879-324] accountId  39627 bought NFT (from #183393) for    54.244 $ (0.042 ETH) validUntilTimeBetweenOrders 996 seconds
+DBG [30888-81 ] accountId  39627 bought NFT (from #183393) for    54.036 $ (0.042 ETH) validUntilTimeBetweenOrders 1961 seconds
+DBG [30948-213] accountId  39627 sold__ NFT (to__ #184280) for    75.166 $ (0.058 ETH) validUntilTimeBetweenOrders 132 seconds
+DBG [30948-333] accountId  39627 sold__ NFT (to__ #176924) for    75.148 $ (0.058 ETH) validUntilTimeBetweenOrders 244 seconds
+DBG [30987-73 ] accountId  39627 sold__ NFT (to__ #128457) for    68.082 $ (0.053 ETH) validUntilTimeBetweenOrders 5593 seconds
+DBG [31082-59 ] accountId  39627 bought NFT (from # 81013) for    59.430 $ (0.045 ETH) validUntilTimeBetweenOrders 213406 seconds
+DBG [31092-123] accountId  39627 bought NFT (from #157510) for     5.317 $ (0.004 ETH) validUntilTimeBetweenOrders 95 seconds
+DBG [31204-27 ] accountId  39627 sold__ NFT (to__ #187380) for     4.488 $ (0.003 ETH) validUntilTimeBetweenOrders 398138 seconds
+DBG [31248-174] accountId  39627 bought NFT (from # 43778) for     5.147 $ (0.004 ETH) validUntilTimeBetweenOrders 293 seconds
+DBG [31248-176] accountId  39627 bought NFT (from # 43778) for     5.147 $ (0.004 ETH) validUntilTimeBetweenOrders 293 seconds
+DBG [31248-178] accountId  39627 bought NFT (from # 43778) for     5.147 $ (0.004 ETH) validUntilTimeBetweenOrders 322 seconds
+DBG [31248-189] accountId  39627 bought NFT (from # 43778) for     5.147 $ (0.004 ETH) validUntilTimeBetweenOrders 293 seconds
+DBG [31248-191] accountId  39627 bought NFT (from # 43778) for     5.147 $ (0.004 ETH) validUntilTimeBetweenOrders 322 seconds
+DBG [31248-193] accountId  39627 bought NFT (from # 43778) for     5.147 $ (0.004 ETH) validUntilTimeBetweenOrders 293 seconds
+DBG [31248-196] accountId  39627 bought NFT (from # 43778) for     5.147 $ (0.004 ETH) validUntilTimeBetweenOrders 322 seconds
+DBG [31248-197] accountId  39627 bought NFT (from # 43778) for     5.147 $ (0.004 ETH) validUntilTimeBetweenOrders 293 seconds
+DBG [31248-202] accountId  39627 bought NFT (from # 43778) for     5.147 $ (0.004 ETH) validUntilTimeBetweenOrders 293 seconds
+DBG [31248-205] accountId  39627 bought NFT (from # 43778) for     5.147 $ (0.004 ETH) validUntilTimeBetweenOrders 293 seconds
+DBG [31248-228] accountId  39627 bought NFT (from # 43778) for     5.147 $ (0.004 ETH) validUntilTimeBetweenOrders 293 seconds
+DBG [31248-241] accountId  39627 bought NFT (from # 43778) for     5.147 $ (0.004 ETH) validUntilTimeBetweenOrders 293 seconds
+DBG [31248-244] accountId  39627 bought NFT (from # 43778) for     5.147 $ (0.004 ETH) validUntilTimeBetweenOrders 293 seconds
+DBG [31248-246] accountId  39627 bought NFT (from # 43778) for     5.147 $ (0.004 ETH) validUntilTimeBetweenOrders 293 seconds
+DBG [31248-258] accountId  39627 bought NFT (from # 43778) for     5.147 $ (0.004 ETH) validUntilTimeBetweenOrders 293 seconds
+DBG [31248-261] accountId  39627 bought NFT (from # 43778) for     5.147 $ (0.004 ETH) validUntilTimeBetweenOrders 293 seconds
+DBG [31248-264] accountId  39627 bought NFT (from # 43778) for     5.147 $ (0.004 ETH) validUntilTimeBetweenOrders 293 seconds
+DBG [31248-267] accountId  39627 bought NFT (from # 43778) for     5.147 $ (0.004 ETH) validUntilTimeBetweenOrders 293 seconds
+DBG [31248-292] accountId  39627 bought NFT (from # 43778) for     5.147 $ (0.004 ETH) validUntilTimeBetweenOrders 293 seconds
+DBG [31249-37 ] accountId  39627 bought NFT (from # 43778) for     5.145 $ (0.004 ETH) validUntilTimeBetweenOrders 709 seconds
+DBG [31249-155] accountId  39627 sold__ NFT (to__ #138090) for   167.204 $ (0.130 ETH) validUntilTimeBetweenOrders 375 seconds
+DBG [31252-178] accountId  39627 sold__ NFT (to__ #126014) for    14.692 $ (0.011 ETH) validUntilTimeBetweenOrders 236 seconds
+DBG [31252-258] accountId  39627 sold__ NFT (to__ #124566) for     2.682 $ (0.002 ETH) validUntilTimeBetweenOrders 492 seconds
+DBG [31253-23 ] accountId  39627 sold__ NFT (to__ # 45829) for     2.045 $ (0.002 ETH) validUntilTimeBetweenOrders 71 seconds
+DBG [31253-157] accountId  39627 sold__ NFT (to__ #158406) for     4.090 $ (0.003 ETH) validUntilTimeBetweenOrders 2864 seconds
+DBG [31253-219] accountId  39627 sold__ NFT (to__ #187261) for     2.045 $ (0.002 ETH) validUntilTimeBetweenOrders 370 seconds
+DBG [31253-257] accountId  39627 sold__ NFT (to__ #140226) for     2.045 $ (0.002 ETH) validUntilTimeBetweenOrders 826 seconds
+DBG [31259-228] accountId  39627 sold__ NFT (to__ # 39981) for     2.045 $ (0.002 ETH) validUntilTimeBetweenOrders 8255 seconds
+DBG [31259-229] accountId  39627 sold__ NFT (to__ # 39981) for     8.178 $ (0.006 ETH) validUntilTimeBetweenOrders 8255 seconds
+DBG [31371-171] accountId  39627 sold__ NFT (to__ #166154) for     4.716 $ (0.004 ETH) validUntilTimeBetweenOrders 642475 seconds
+DBG [31383-230] accountId  39627 sold__ NFT (to__ # 51382) for     5.004 $ (20.000 LRC) validUntilTimeBetweenOrders 981933 seconds
+DBG [31464-132] accountId  39627 bought NFT (from #191351) for    53.472 $ (0.040 ETH) validUntilTimeBetweenOrders 4039 seconds
+DBG [31490-42 ] accountId  39627 bought NFT (from #183652) for     1.939 $ (0.001 ETH) validUntilTimeBetweenOrders 16959 seconds
+DBG [31490-52 ] accountId  39627 bought NFT (from #134865) for     1.952 $ (0.001 ETH) validUntilTimeBetweenOrders 2207 seconds
+DBG [31583-169] accountId  39627 sold__ NFT (to__ #114650) for     6.486 $ (0.004 ETH) validUntilTimeBetweenOrders 372 seconds
+DBG [31601-158] accountId  39627 sold__ NFT (to__ #100075) for     2.153 $ (0.001 ETH) validUntilTimeBetweenOrders 20874 seconds
+DBG [31603-114] accountId  39627 sold__ NFT (to__ #167741) for    10.780 $ (0.007 ETH) validUntilTimeBetweenOrders 979727 seconds
+DBG [31636-30 ] accountId  39627 sold__ NFT (to__ #167741) for     1.836 $ (0.001 ETH) validUntilTimeBetweenOrders 73281 seconds
+DBG [31637-38 ] accountId  39627 sold__ NFT (to__ #167741) for     1.843 $ (0.001 ETH) validUntilTimeBetweenOrders 73729 seconds
+DBG [31643-177] accountId  39627 sold__ NFT (to__ #127716) for     1.859 $ (0.001 ETH) validUntilTimeBetweenOrders 84970 seconds
+DBG [31664-138] accountId  39627 sold__ NFT (to__ #168436) for     2.158 $ (0.001 ETH) validUntilTimeBetweenOrders 100491 seconds
+DBG [31666-240] accountId  39627 sold__ NFT (to__ #168436) for     1.847 $ (0.001 ETH) validUntilTimeBetweenOrders 101318 seconds
+DBG [31725-92 ] accountId  39627 sold__ NFT (to__ # 94955) for     2.118 $ (0.001 ETH) validUntilTimeBetweenOrders 107737 seconds
+DBG [31781-36 ] accountId  39627 sold__ NFT (to__ #168436) for     2.098 $ (0.001 ETH) validUntilTimeBetweenOrders 117164 seconds
+DBG [31790-28 ] accountId  39627 sold__ NFT (to__ #168436) for     3.609 $ (0.002 ETH) validUntilTimeBetweenOrders 119569 seconds
+DBG [31793-229] accountId  39627 sold__ NFT (to__ # 55592) for     2.111 $ (0.001 ETH) validUntilTimeBetweenOrders 123157 seconds
+DBG [31830-78 ] accountId  39627 sold__ NFT (to__ #135350) for     1.833 $ (0.001 ETH) validUntilTimeBetweenOrders 170350 seconds
+DBG [31835-357] accountId  39627 sold__ NFT (to__ #157775) for     1.827 $ (0.001 ETH) validUntilTimeBetweenOrders 177619 seconds
+DBG [31849-30 ] accountId  39627 sold__ NFT (to__ #131447) for     1.851 $ (0.001 ETH) validUntilTimeBetweenOrders 190219 seconds
+DBG [31854-131] accountId  39627 sold__ NFT (to__ #160523) for     1.856 $ (0.001 ETH) validUntilTimeBetweenOrders 197154 seconds
+DBG [31856-47 ] accountId  39627 sold__ NFT (to__ #169542) for     1.850 $ (0.001 ETH) validUntilTimeBetweenOrders 199451 seconds
+DBG [31857-84 ] accountId  39627 sold__ NFT (to__ #169542) for     7.396 $ (0.005 ETH) validUntilTimeBetweenOrders 199451 seconds
+DBG [31857-114] accountId  39627 sold__ NFT (to__ #143622) for     3.698 $ (0.002 ETH) validUntilTimeBetweenOrders 199682 seconds
+DBG [31932-169] accountId  39627 sold__ NFT (to__ #100309) for     1.922 $ (0.001 ETH) validUntilTimeBetweenOrders 323673 seconds
+DBG [31935-187] accountId  39627 sold__ NFT (to__ #160400) for     1.898 $ (0.001 ETH) validUntilTimeBetweenOrders 330381 seconds
+DBG [32162-316] accountId  39627 sold__ NFT (to__ #106492) for    91.932 $ (0.059 ETH) validUntilTimeBetweenOrders 965 seconds
+DBG [32179-56 ] accountId  39627 sold__ NFT (to__ #143483) for     1.385 $ (0.001 ETH) validUntilTimeBetweenOrders 5118 seconds
+DBG [32183-13 ] accountId  39627 sold__ NFT (to__ # 55592) for     6.796 $ (0.004 ETH) validUntilTimeBetweenOrders 6275 seconds
+DBG [32189-209] accountId  39627 sold__ NFT (to__ #145685) for    66.920 $ (0.044 ETH) validUntilTimeBetweenOrders 25551 seconds
+DBG [32237-231] accountId  39627 sold__ NFT (to__ # 40837) for     1.379 $ (0.001 ETH) validUntilTimeBetweenOrders 101164 seconds
+DBG [32372-364] accountId  39627 bought NFT (from # 43778) for    48.836 $ (0.030 ETH) validUntilTimeBetweenOrders 536 seconds
+DBG [32373-59 ] accountId  39627 bought NFT (from # 43778) for    49.022 $ (0.030 ETH) validUntilTimeBetweenOrders 622 seconds
+DBG [32412-32 ] accountId  39627 sold__ NFT (to__ # 76841) for   112.565 $ (0.070 ETH) validUntilTimeBetweenOrders 67433 seconds
+DBG [32473-171] accountId  39627 bought NFT (from # 82667) for   102.315 $ (0.065 ETH) validUntilTimeBetweenOrders 204853 seconds
+DBG [32604-339] accountId  39627 sold__ NFT (to__ #124749) for    14.696 $ (0.013 ETH) validUntilTimeBetweenOrders 31953 seconds
+DBG [32663-220] accountId  39627 sold__ NFT (to__ #155920) for    52.398 $ (0.040 ETH) validUntilTimeBetweenOrders 121054 seconds
+DBG [32665-118] accountId  39627 bought NFT (from # 43778) for     5.273 $ (0.004 ETH) validUntilTimeBetweenOrders 1772 seconds
+DBG [32665-133] accountId  39627 bought NFT (from # 43778) for     5.273 $ (0.004 ETH) validUntilTimeBetweenOrders 1772 seconds
+DBG [32665-175] accountId  39627 bought NFT (from # 43778) for     5.273 $ (0.004 ETH) validUntilTimeBetweenOrders 978 seconds
+DBG [32665-177] accountId  39627 bought NFT (from # 43778) for     5.273 $ (0.004 ETH) validUntilTimeBetweenOrders 1977 seconds
+DBG [32665-188] accountId  39627 bought NFT (from # 43778) for     5.273 $ (0.004 ETH) validUntilTimeBetweenOrders 1977 seconds
+DBG [32665-211] accountId  39627 bought NFT (from # 43778) for     5.273 $ (0.004 ETH) validUntilTimeBetweenOrders 2079 seconds
+DBG [32665-256] accountId  39627 bought NFT (from # 43778) for     5.318 $ (0.004 ETH) validUntilTimeBetweenOrders 2116 seconds
+DBG [32665-267] accountId  39627 bought NFT (from # 43778) for     5.318 $ (0.004 ETH) validUntilTimeBetweenOrders 2116 seconds
+DBG [32665-269] accountId  39627 bought NFT (from # 43778) for     5.318 $ (0.004 ETH) validUntilTimeBetweenOrders 2189 seconds
+DBG [32665-287] accountId  39627 bought NFT (from # 43778) for     5.318 $ (0.004 ETH) validUntilTimeBetweenOrders 2292 seconds
+DBG [32665-313] accountId  39627 bought NFT (from # 43778) for     5.283 $ (0.004 ETH) validUntilTimeBetweenOrders 2392 seconds
+DBG [32665-316] accountId  39627 bought NFT (from # 43778) for     5.283 $ (0.004 ETH) validUntilTimeBetweenOrders 2433 seconds
+DBG [32665-318] accountId  39627 bought NFT (from # 43778) for     5.283 $ (0.004 ETH) validUntilTimeBetweenOrders 2433 seconds
+DBG [32665-334] accountId  39627 bought NFT (from # 43778) for     5.283 $ (0.004 ETH) validUntilTimeBetweenOrders 2433 seconds
+DBG [32665-336] accountId  39627 bought NFT (from # 43778) for     5.283 $ (0.004 ETH) validUntilTimeBetweenOrders 2433 seconds
+DBG [32666-8  ] accountId  39627 bought NFT (from # 43778) for     5.236 $ (0.004 ETH) validUntilTimeBetweenOrders 2551 seconds
+DBG [32667-120] accountId  39627 sold__ NFT (to__ #156232) for     6.369 $ (0.005 ETH) validUntilTimeBetweenOrders 126749 seconds
+DBG [32678-81 ] accountId  39627 sold__ NFT (to__ #132582) for    30.984 $ (0.025 ETH) validUntilTimeBetweenOrders 20994 seconds
+DBG [32714-322] accountId  39627 sold__ NFT (to__ #134158) for   101.894 $ (0.080 ETH) validUntilTimeBetweenOrders 1604 seconds
+DBG [32736-188] accountId  39627 sold__ NFT (to__ #126821) for    11.321 $ (0.009 ETH) validUntilTimeBetweenOrders 226218 seconds
+DBG [32794-86 ] accountId  39627 sold__ NFT (to__ #166826) for    31.767 $ (0.025 ETH) validUntilTimeBetweenOrders 190659 seconds
+DBG [32899-191] accountId  39627 bought NFT (from #163627) for   113.182 $ (0.092 ETH) validUntilTimeBetweenOrders 3785 seconds
+DBG [33074-214] accountId  39627 sold__ NFT (to__ #191479) for     0.849 $ (0.001 ETH) validUntilTimeBetweenOrders 15629 seconds
+DBG [33075-10 ] accountId  39627 sold__ NFT (to__ #139086) for     1.699 $ (0.001 ETH) validUntilTimeBetweenOrders 15590 seconds
+DBG [33078-62 ] accountId  39627 sold__ NFT (to__ #113325) for   118.341 $ (0.098 ETH) validUntilTimeBetweenOrders 9985 seconds
+DBG [33087-162] accountId  39627 bought NFT (from # 43778) for     4.830 $ (0.004 ETH) validUntilTimeBetweenOrders 1170 seconds
+DBG [33087-190] accountId  39627 bought NFT (from # 43778) for     4.830 $ (0.004 ETH) validUntilTimeBetweenOrders 1236 seconds
+DBG [33087-198] accountId  39627 bought NFT (from # 43778) for     4.830 $ (0.004 ETH) validUntilTimeBetweenOrders 1236 seconds
+DBG [33087-203] accountId  39627 bought NFT (from # 43778) for     4.830 $ (0.004 ETH) validUntilTimeBetweenOrders 1236 seconds
+DBG [33087-251] accountId  39627 bought NFT (from # 43778) for     4.830 $ (0.004 ETH) validUntilTimeBetweenOrders 1344 seconds
+DBG [33087-268] accountId  39627 bought NFT (from # 43778) for     4.830 $ (0.004 ETH) validUntilTimeBetweenOrders 1344 seconds
+DBG [33087-276] accountId  39627 bought NFT (from # 43778) for     2.898 $ (0.002 ETH) validUntilTimeBetweenOrders 1344 seconds
+DBG [33088-8  ] accountId  39627 sold__ NFT (to__ #143993) for     0.845 $ (0.001 ETH) validUntilTimeBetweenOrders 37384 seconds
+DBG [33088-172] accountId  39627 sold__ NFT (to__ # 47445) for     0.842 $ (0.001 ETH) validUntilTimeBetweenOrders 38163 seconds
+DBG [33089-217] accountId  39627 sold__ NFT (to__ #125490) for     0.839 $ (0.001 ETH) validUntilTimeBetweenOrders 39212 seconds
+DBG [33093-177] accountId  39627 sold__ NFT (to__ #167122) for     0.850 $ (0.001 ETH) validUntilTimeBetweenOrders 43727 seconds
+DBG [33112-7  ] accountId  39627 sold__ NFT (to__ #165440) for     0.846 $ (0.001 ETH) validUntilTimeBetweenOrders 74400 seconds
+DBG [33124-114] accountId  39627 sold__ NFT (to__ #125898) for     4.243 $ (0.004 ETH) validUntilTimeBetweenOrders 94051 seconds
+DBG [33125-205] accountId  39627 sold__ NFT (to__ #161948) for     1.697 $ (0.001 ETH) validUntilTimeBetweenOrders 94938 seconds
+DBG [33152-71 ] accountId  39627 sold__ NFT (to__ #137666) for     0.844 $ (0.001 ETH) validUntilTimeBetweenOrders 132414 seconds
+DBG [33215-36 ] accountId  39627 sold__ NFT (to__ #126138) for     0.855 $ (0.001 ETH) validUntilTimeBetweenOrders 234223 seconds
+DBG [33232-106] accountId  39627 sold__ NFT (to__ #167866) for     0.820 $ (0.001 ETH) validUntilTimeBetweenOrders 266856 seconds
+DBG [33239-75 ] accountId  39627 sold__ NFT (to__ #100075) for     0.823 $ (0.001 ETH) validUntilTimeBetweenOrders 276850 seconds

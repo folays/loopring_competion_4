@@ -1,0 +1,5 @@
+DBG [30767-293] accountId  67523 sold__ NFT (to__ # 80815) for    11.024 $ (0.009 ETH) validUntilTimeBetweenOrders 9768 seconds
+DBG [30891-145] accountId  67523 bought NFT (from #147134) for   102.839 $ (0.080 ETH) validUntilTimeBetweenOrders 2718 seconds
+DBG [30891-243] accountId  67523 bought NFT (from #186096) for   102.775 $ (0.080 ETH) validUntilTimeBetweenOrders 186 seconds
+DBG [30902-284] accountId  67523 sold__ NFT (to__ #188302) for    21.887 $ (0.017 ETH) validUntilTimeBetweenOrders 207697 seconds
+DBG [31292-293] accountId  67523 sold__ NFT (to__ #129377) for    26.836 $ (0.021 ETH) validUntilTimeBetweenOrders 4618 seconds

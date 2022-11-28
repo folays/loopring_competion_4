@@ -1,0 +1,64 @@
+DBG [29713-218] accountId  79917 sold__ NFT (to__ #109749) for    21.406 $ (70.000 LRC) validUntilTimeBetweenOrders 270311 seconds
+DBG [29719-5  ] accountId  79917 bought NFT (from # 36566) for    10.774 $ (35.000 LRC) validUntilTimeBetweenOrders 1285834 seconds
+DBG [29746-136] accountId  79917 bought NFT (from # 77303) for     9.286 $ (30.000 LRC) validUntilTimeBetweenOrders 1289392 seconds
+DBG [29746-138] accountId  79917 bought NFT (from # 77303) for     9.286 $ (30.000 LRC) validUntilTimeBetweenOrders 1293567 seconds
+DBG [29757-249] accountId  79917 bought NFT (from #177802) for    21.183 $ (69.000 LRC) validUntilTimeBetweenOrders 1295984 seconds
+DBG [29795-82 ] accountId  79917 sold__ NFT (to__ #178567) for    19.902 $ (0.015 ETH) validUntilTimeBetweenOrders 1972535 seconds
+DBG [29878-198] accountId  79917 bought NFT (from # 74395) for     8.940 $ (30.000 LRC) validUntilTimeBetweenOrders 1282750 seconds
+DBG [30138-152] accountId  79917 bought NFT (from # 81371) for     8.865 $ (30.000 LRC) validUntilTimeBetweenOrders 1293847 seconds
+DBG [30146-35 ] accountId  79917 bought NFT (from #154136) for    10.332 $ (35.000 LRC) validUntilTimeBetweenOrders 1289801 seconds
+DBG [30146-105] accountId  79917 bought NFT (from # 79917) for     5.904 $ (20.000 LRC) validUntilTimeBetweenOrders 879197 seconds
+DBG [30146-105] accountId  79917 sold__ NFT (to__ # 79917) for     5.904 $ (20.000 LRC) validUntilTimeBetweenOrders 879197 seconds
+DBG [30150-371] accountId  79917 bought NFT (from # 81371) for    14.835 $ (50.000 LRC) validUntilTimeBetweenOrders 1285970 seconds
+DBG [30697-35 ] accountId  79917 sold__ NFT (to__ #151914) for   131.546 $ (0.100 ETH) validUntilTimeBetweenOrders 2829971 seconds
+DBG [30906-163] accountId  79917 bought NFT (from #106022) for     1.326 $ (5.000 LRC) validUntilTimeBetweenOrders 1287637 seconds
+DBG [31349-216] accountId  79917 bought NFT (from # 32965) for    12.503 $ (50.000 LRC) validUntilTimeBetweenOrders 869223 seconds
+DBG [31349-243] accountId  79917 bought NFT (from #107558) for    12.503 $ (50.000 LRC) validUntilTimeBetweenOrders 631306 seconds
+DBG [31349-244] accountId  79917 bought NFT (from #107558) for    12.503 $ (50.000 LRC) validUntilTimeBetweenOrders 631268 seconds
+DBG [31349-246] accountId  79917 bought NFT (from # 42575) for    17.255 $ (69.000 LRC) validUntilTimeBetweenOrders 386649 seconds
+DBG [32482-3  ] accountId  79917 sold__ NFT (to__ # 54717) for    15.718 $ (0.010 ETH) validUntilTimeBetweenOrders 5737720 seconds
+DBG [33041-0  ] accountId  79917 sold__ NFT (to__ #147910) for     2.471 $ (10.000 LRC) validUntilTimeBetweenOrders 1295732 seconds
+DBG [33041-1  ] accountId  79917 sold__ NFT (to__ #147910) for     2.471 $ (10.000 LRC) validUntilTimeBetweenOrders 1295843 seconds
+DBG [33041-2  ] accountId  79917 sold__ NFT (to__ #147910) for     2.471 $ (10.000 LRC) validUntilTimeBetweenOrders 1295761 seconds
+DBG [33041-3  ] accountId  79917 sold__ NFT (to__ #147910) for     2.471 $ (10.000 LRC) validUntilTimeBetweenOrders 1295797 seconds
+DBG [33041-17 ] accountId  79917 sold__ NFT (to__ #147910) for     2.471 $ (10.000 LRC) validUntilTimeBetweenOrders 1295644 seconds
+DBG [33041-114] accountId  79917 sold__ NFT (to__ # 72805) for     2.460 $ (10.000 LRC) validUntilTimeBetweenOrders 1294330 seconds
+DBG [33041-116] accountId  79917 sold__ NFT (to__ # 72805) for     2.460 $ (10.000 LRC) validUntilTimeBetweenOrders 1294292 seconds
+DBG [33044-7  ] accountId  79917 sold__ NFT (to__ # 51382) for     2.471 $ (10.000 LRC) validUntilTimeBetweenOrders 1291013 seconds
+DBG [33068-79 ] accountId  79917 sold__ NFT (to__ #106022) for     2.452 $ (10.000 LRC) validUntilTimeBetweenOrders 1262135 seconds
+DBG [33074-151] accountId  79917 sold__ NFT (to__ # 66155) for     2.449 $ (10.000 LRC) validUntilTimeBetweenOrders 1252654 seconds
+DBG [33080-210] accountId  79917 sold__ NFT (to__ #102492) for     2.461 $ (10.000 LRC) validUntilTimeBetweenOrders 1242209 seconds
+DBG [33081-118] accountId  79917 sold__ NFT (to__ # 84507) for     2.452 $ (10.000 LRC) validUntilTimeBetweenOrders 1240449 seconds
+DBG [33081-136] accountId  79917 sold__ NFT (to__ # 84507) for     2.444 $ (10.000 LRC) validUntilTimeBetweenOrders 1240439 seconds
+DBG [33081-137] accountId  79917 sold__ NFT (to__ #102277) for     2.444 $ (10.000 LRC) validUntilTimeBetweenOrders 1240465 seconds
+DBG [33081-138] accountId  79917 sold__ NFT (to__ # 84507) for     2.444 $ (10.000 LRC) validUntilTimeBetweenOrders 1240464 seconds
+DBG [33081-142] accountId  79917 sold__ NFT (to__ # 84507) for     2.444 $ (10.000 LRC) validUntilTimeBetweenOrders 1240461 seconds
+DBG [33081-143] accountId  79917 sold__ NFT (to__ #102277) for     2.444 $ (10.000 LRC) validUntilTimeBetweenOrders 1240497 seconds
+DBG [33081-144] accountId  79917 sold__ NFT (to__ #102277) for     2.444 $ (10.000 LRC) validUntilTimeBetweenOrders 1240391 seconds
+DBG [33081-145] accountId  79917 sold__ NFT (to__ # 84507) for     2.444 $ (10.000 LRC) validUntilTimeBetweenOrders 1240470 seconds
+DBG [33081-146] accountId  79917 sold__ NFT (to__ #102277) for     2.444 $ (10.000 LRC) validUntilTimeBetweenOrders 1240349 seconds
+DBG [33081-163] accountId  79917 sold__ NFT (to__ # 84507) for     2.443 $ (10.000 LRC) validUntilTimeBetweenOrders 1240311 seconds
+DBG [33081-165] accountId  79917 sold__ NFT (to__ # 84507) for     2.443 $ (10.000 LRC) validUntilTimeBetweenOrders 1240301 seconds
+DBG [33086-18 ] accountId  79917 sold__ NFT (to__ # 91564) for     2.453 $ (10.000 LRC) validUntilTimeBetweenOrders 1232911 seconds
+DBG [33086-34 ] accountId  79917 sold__ NFT (to__ # 91564) for     2.453 $ (10.000 LRC) validUntilTimeBetweenOrders 1232766 seconds
+DBG [33086-35 ] accountId  79917 sold__ NFT (to__ # 91564) for     2.453 $ (10.000 LRC) validUntilTimeBetweenOrders 1232759 seconds
+DBG [33086-38 ] accountId  79917 sold__ NFT (to__ # 91564) for     2.453 $ (10.000 LRC) validUntilTimeBetweenOrders 1232814 seconds
+DBG [33086-39 ] accountId  79917 sold__ NFT (to__ # 91564) for     2.453 $ (10.000 LRC) validUntilTimeBetweenOrders 1232710 seconds
+DBG [33086-40 ] accountId  79917 sold__ NFT (to__ # 91564) for     2.453 $ (10.000 LRC) validUntilTimeBetweenOrders 1232703 seconds
+DBG [33097-139] accountId  79917 sold__ NFT (to__ # 79230) for     2.496 $ (10.000 LRC) validUntilTimeBetweenOrders 1216715 seconds
+DBG [33100-91 ] accountId  79917 sold__ NFT (to__ # 82968) for     2.501 $ (10.000 LRC) validUntilTimeBetweenOrders 1211305 seconds
+DBG [33122-19 ] accountId  79917 sold__ NFT (to__ # 92138) for     2.477 $ (10.000 LRC) validUntilTimeBetweenOrders 1176893 seconds
+DBG [33122-20 ] accountId  79917 sold__ NFT (to__ # 92138) for     2.477 $ (10.000 LRC) validUntilTimeBetweenOrders 1176861 seconds
+DBG [33125-201] accountId  79917 sold__ NFT (to__ # 92138) for     2.437 $ (10.000 LRC) validUntilTimeBetweenOrders 1171498 seconds
+DBG [33135-9  ] accountId  79917 sold__ NFT (to__ # 91487) for     2.435 $ (10.000 LRC) validUntilTimeBetweenOrders 1157961 seconds
+DBG [33138-44 ] accountId  79917 sold__ NFT (to__ # 93844) for     2.446 $ (10.000 LRC) validUntilTimeBetweenOrders 1153935 seconds
+DBG [33159-32 ] accountId  79917 sold__ NFT (to__ #140901) for     2.457 $ (10.000 LRC) validUntilTimeBetweenOrders 1124323 seconds
+DBG [33159-34 ] accountId  79917 sold__ NFT (to__ #140901) for     2.457 $ (10.000 LRC) validUntilTimeBetweenOrders 1124243 seconds
+DBG [33159-40 ] accountId  79917 sold__ NFT (to__ #140901) for     2.457 $ (10.000 LRC) validUntilTimeBetweenOrders 1124204 seconds
+DBG [33179-9  ] accountId  79917 sold__ NFT (to__ # 32965) for     2.467 $ (10.000 LRC) validUntilTimeBetweenOrders 1089592 seconds
+DBG [33179-10 ] accountId  79917 sold__ NFT (to__ # 32965) for     2.467 $ (10.000 LRC) validUntilTimeBetweenOrders 1089489 seconds
+DBG [33237-102] accountId  79917 sold__ NFT (to__ # 72260) for     2.420 $ (10.000 LRC) validUntilTimeBetweenOrders 993486 seconds
+DBG [33237-117] accountId  79917 sold__ NFT (to__ # 72260) for     2.420 $ (10.000 LRC) validUntilTimeBetweenOrders 993472 seconds
+DBG [33237-118] accountId  79917 sold__ NFT (to__ # 72260) for     2.420 $ (10.000 LRC) validUntilTimeBetweenOrders 993456 seconds
+DBG [33237-127] accountId  79917 sold__ NFT (to__ # 72260) for     2.420 $ (10.000 LRC) validUntilTimeBetweenOrders 993301 seconds
+DBG [33237-128] accountId  79917 sold__ NFT (to__ # 72260) for     2.420 $ (10.000 LRC) validUntilTimeBetweenOrders 993284 seconds

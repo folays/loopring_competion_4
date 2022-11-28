@@ -1,0 +1,5 @@
+DBG [33007-5  ] accountId 179062 sold__ NFT (to__ #227458) for   315.035 $ (0.260 ETH) validUntilTimeBetweenOrders 1011 seconds
+DBG [33011-260] accountId 179062 bought NFT (from #175479) for    96.920 $ (0.080 ETH) validUntilTimeBetweenOrders 42 seconds
+DBG [33012-42 ] accountId 179062 bought NFT (from #175479) for    96.920 $ (0.080 ETH) validUntilTimeBetweenOrders 444 seconds
+DBG [33012-270] accountId 179062 bought NFT (from #175479) for    48.460 $ (0.040 ETH) validUntilTimeBetweenOrders 444 seconds
+DBG [33016-208] accountId 179062 bought NFT (from #165552) for   229.140 $ (0.190 ETH) validUntilTimeBetweenOrders 29 seconds

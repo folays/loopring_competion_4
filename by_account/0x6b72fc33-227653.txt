@@ -1,0 +1,5 @@
+DBG [33074-80 ] accountId 227653 sold__ NFT (to__ #225421) for    12.009 $ (49.000 LRC) validUntilTimeBetweenOrders 1294672 seconds
+DBG [33074-81 ] accountId 227653 sold__ NFT (to__ #225421) for    12.009 $ (49.000 LRC) validUntilTimeBetweenOrders 1294680 seconds
+DBG [33223-4  ] accountId 227653 sold__ NFT (to__ #150198) for   106.236 $ (0.088 ETH) validUntilTimeBetweenOrders 72336 seconds
+DBG [33253-147] accountId 227653 bought NFT (from #225398) for    37.172 $ (0.033 ETH) validUntilTimeBetweenOrders 91789 seconds
+DBG [33253-167] accountId 227653 bought NFT (from #226037) for    17.772 $ (0.016 ETH) validUntilTimeBetweenOrders 91907 seconds

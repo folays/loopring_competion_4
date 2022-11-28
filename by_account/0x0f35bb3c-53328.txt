@@ -1,0 +1,4 @@
+DBG [29550-142] accountId  53328 sold__ NFT (to__ #130043) for     0.663 $ (0.001 ETH) validUntilTimeBetweenOrders 24283 seconds
+DBG [29604-112] accountId  53328 sold__ NFT (to__ #134418) for     0.621 $ (0.001 ETH) validUntilTimeBetweenOrders 116841 seconds
+DBG [31037-239] accountId  53328 bought NFT (from # 40883) for     1.233 $ (0.001 ETH) validUntilTimeBetweenOrders 375980 seconds
+DBG [31354-1  ] accountId  53328 bought NFT (from # 78263) for    33.412 $ (135.000 LRC) validUntilTimeBetweenOrders 1280850 seconds

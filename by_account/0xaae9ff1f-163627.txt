@@ -1,0 +1,570 @@
+DBG [29463-348] accountId 163627 bought NFT (from #176859) for    10.454 $ (0.008 ETH) validUntilTimeBetweenOrders 18541 seconds
+DBG [29464-61 ] accountId 163627 bought NFT (from #133975) for     0.917 $ (0.001 ETH) validUntilTimeBetweenOrders 5193 seconds
+DBG [29464-187] accountId 163627 bought NFT (from #126821) for    42.358 $ (140.000 LRC) validUntilTimeBetweenOrders 984007 seconds
+DBG [29464-325] accountId 163627 sold__ NFT (to__ #164447) for     3.653 $ (0.003 ETH) validUntilTimeBetweenOrders 2933 seconds
+DBG [29465-75 ] accountId 163627 sold__ NFT (to__ #164447) for    10.438 $ (0.008 ETH) validUntilTimeBetweenOrders 2933 seconds
+DBG [29466-116] accountId 163627 sold__ NFT (to__ #152905) for     4.795 $ (0.004 ETH) validUntilTimeBetweenOrders 3232 seconds
+DBG [29468-83 ] accountId 163627 sold__ NFT (to__ #128466) for    12.936 $ (0.010 ETH) validUntilTimeBetweenOrders 8385 seconds
+DBG [29468-179] accountId 163627 sold__ NFT (to__ #174731) for    38.828 $ (0.030 ETH) validUntilTimeBetweenOrders 9070 seconds
+DBG [29469-183] accountId 163627 sold__ NFT (to__ # 80397) for    50.700 $ (0.039 ETH) validUntilTimeBetweenOrders 4550 seconds
+DBG [29471-173] accountId 163627 sold__ NFT (to__ #167066) for     3.378 $ (0.003 ETH) validUntilTimeBetweenOrders 13041 seconds
+DBG [29484-377] accountId 163627 sold__ NFT (to__ #186857) for     3.514 $ (0.003 ETH) validUntilTimeBetweenOrders 33555 seconds
+DBG [29486-144] accountId 163627 sold__ NFT (to__ #178035) for     7.026 $ (0.005 ETH) validUntilTimeBetweenOrders 35688 seconds
+DBG [29487-86 ] accountId 163627 bought NFT (from #128713) for     8.841 $ (0.007 ETH) validUntilTimeBetweenOrders 14564 seconds
+DBG [29493-60 ] accountId 163627 sold__ NFT (to__ #136267) for     2.914 $ (0.002 ETH) validUntilTimeBetweenOrders 8974 seconds
+DBG [29495-75 ] accountId 163627 sold__ NFT (to__ # 38136) for    14.638 $ (0.011 ETH) validUntilTimeBetweenOrders 11599 seconds
+DBG [29497-66 ] accountId 163627 sold__ NFT (to__ # 38136) for     3.105 $ (0.002 ETH) validUntilTimeBetweenOrders 52033 seconds
+DBG [29498-44 ] accountId 163627 sold__ NFT (to__ #187691) for     2.983 $ (0.002 ETH) validUntilTimeBetweenOrders 16645 seconds
+DBG [29498-49 ] accountId 163627 sold__ NFT (to__ # 38136) for    45.351 $ (0.033 ETH) validUntilTimeBetweenOrders 53628 seconds
+DBG [29511-181] accountId 163627 sold__ NFT (to__ # 40985) for     5.988 $ (0.004 ETH) validUntilTimeBetweenOrders 42148 seconds
+DBG [29519-38 ] accountId 163627 sold__ NFT (to__ #138239) for     2.975 $ (0.002 ETH) validUntilTimeBetweenOrders 55203 seconds
+DBG [29538-238] accountId 163627 bought NFT (from #128466) for    32.381 $ (0.024 ETH) validUntilTimeBetweenOrders 92665 seconds
+DBG [29552-234] accountId 163627 sold__ NFT (to__ #128466) for    13.826 $ (0.010 ETH) validUntilTimeBetweenOrders 64696 seconds
+DBG [29553-217] accountId 163627 sold__ NFT (to__ #143577) for     3.309 $ (0.003 ETH) validUntilTimeBetweenOrders 151038 seconds
+DBG [29553-289] accountId 163627 sold__ NFT (to__ #143577) for     3.425 $ (0.003 ETH) validUntilTimeBetweenOrders 151069 seconds
+DBG [29553-334] accountId 163627 sold__ NFT (to__ #143577) for     6.857 $ (0.005 ETH) validUntilTimeBetweenOrders 65181 seconds
+DBG [29554-212] accountId 163627 sold__ NFT (to__ #158406) for   199.979 $ (0.151 ETH) validUntilTimeBetweenOrders 115448 seconds
+DBG [29554-295] accountId 163627 sold__ NFT (to__ #158406) for     6.877 $ (0.005 ETH) validUntilTimeBetweenOrders 66626 seconds
+DBG [29554-351] accountId 163627 sold__ NFT (to__ #158406) for     3.425 $ (0.003 ETH) validUntilTimeBetweenOrders 152514 seconds
+DBG [29555-335] accountId 163627 sold__ NFT (to__ #174731) for   293.430 $ (0.221 ETH) validUntilTimeBetweenOrders 69428 seconds
+DBG [29556-96 ] accountId 163627 sold__ NFT (to__ #128466) for    13.788 $ (0.010 ETH) validUntilTimeBetweenOrders 70222 seconds
+DBG [29556-310] accountId 163627 bought NFT (from #124602) for     2.787 $ (0.002 ETH) validUntilTimeBetweenOrders 59416 seconds
+DBG [29556-311] accountId 163627 bought NFT (from #185981) for     2.840 $ (0.002 ETH) validUntilTimeBetweenOrders 40686 seconds
+DBG [29556-312] accountId 163627 bought NFT (from #147812) for     9.156 $ (0.007 ETH) validUntilTimeBetweenOrders 68585 seconds
+DBG [29556-331] accountId 163627 bought NFT (from #155353) for     6.529 $ (0.005 ETH) validUntilTimeBetweenOrders 198231 seconds
+DBG [29556-332] accountId 163627 bought NFT (from # 41243) for     3.318 $ (0.003 ETH) validUntilTimeBetweenOrders 188345 seconds
+DBG [29556-333] accountId 163627 bought NFT (from #150619) for     3.318 $ (0.003 ETH) validUntilTimeBetweenOrders 366884 seconds
+DBG [29556-334] accountId 163627 bought NFT (from #147812) for    10.669 $ (0.008 ETH) validUntilTimeBetweenOrders 321513 seconds
+DBG [29556-336] accountId 163627 bought NFT (from #147812) for    15.128 $ (0.011 ETH) validUntilTimeBetweenOrders 351963 seconds
+DBG [29556-365] accountId 163627 bought NFT (from #163373) for     3.904 $ (0.003 ETH) validUntilTimeBetweenOrders 1803253 seconds
+DBG [29556-366] accountId 163627 bought NFT (from #147812) for    12.948 $ (0.010 ETH) validUntilTimeBetweenOrders 760779 seconds
+DBG [29556-367] accountId 163627 bought NFT (from # 83925) for    13.147 $ (0.010 ETH) validUntilTimeBetweenOrders 1980746 seconds
+DBG [29557-6  ] accountId 163627 bought NFT (from # 95753) for    14.741 $ (0.011 ETH) validUntilTimeBetweenOrders 390835 seconds
+DBG [29557-7  ] accountId 163627 bought NFT (from #163373) for     5.232 $ (0.004 ETH) validUntilTimeBetweenOrders 1803342 seconds
+DBG [29557-20 ] accountId 163627 bought NFT (from #147812) for    15.936 $ (0.012 ETH) validUntilTimeBetweenOrders 675623 seconds
+DBG [29557-39 ] accountId 163627 sold__ NFT (to__ #103028) for    24.077 $ (0.018 ETH) validUntilTimeBetweenOrders 158037 seconds
+DBG [29557-40 ] accountId 163627 bought NFT (from #163373) for    13.121 $ (0.010 ETH) validUntilTimeBetweenOrders 1803541 seconds
+DBG [29557-57 ] accountId 163627 bought NFT (from #124602) for    15.272 $ (0.011 ETH) validUntilTimeBetweenOrders 75628 seconds
+DBG [29557-58 ] accountId 163627 bought NFT (from #150619) for     3.984 $ (0.003 ETH) validUntilTimeBetweenOrders 367744 seconds
+DBG [29557-135] accountId 163627 bought NFT (from #183378) for    59.760 $ (0.045 ETH) validUntilTimeBetweenOrders 2363396 seconds
+DBG [29557-136] accountId 163627 bought NFT (from #177970) for     4.754 $ (0.004 ETH) validUntilTimeBetweenOrders 2629303 seconds
+DBG [29557-137] accountId 163627 bought NFT (from #163373) for    13.121 $ (0.010 ETH) validUntilTimeBetweenOrders 1803678 seconds
+DBG [29557-138] accountId 163627 bought NFT (from #177139) for     6.640 $ (0.005 ETH) validUntilTimeBetweenOrders 110962 seconds
+DBG [29557-220] accountId 163627 bought NFT (from #120264) for     6.669 $ (0.005 ETH) validUntilTimeBetweenOrders 4646551 seconds
+DBG [29557-221] accountId 163627 bought NFT (from #164447) for    96.699 $ (0.072 ETH) validUntilTimeBetweenOrders 719 seconds
+DBG [29557-304] accountId 163627 bought NFT (from #129210) for     7.459 $ (0.006 ETH) validUntilTimeBetweenOrders 4319691 seconds
+DBG [29557-305] accountId 163627 bought NFT (from #163373) for    16.013 $ (0.012 ETH) validUntilTimeBetweenOrders 1804075 seconds
+DBG [29557-359] accountId 163627 bought NFT (from #164858) for    23.899 $ (0.018 ETH) validUntilTimeBetweenOrders 32656 seconds
+DBG [29557-362] accountId 163627 bought NFT (from #124602) for    14.011 $ (0.011 ETH) validUntilTimeBetweenOrders 77658 seconds
+DBG [29557-382] accountId 163627 bought NFT (from #162706) for    52.199 $ (0.039 ETH) validUntilTimeBetweenOrders 92230 seconds
+DBG [29558-51 ] accountId 163627 bought NFT (from #102062) for     6.034 $ (0.005 ETH) validUntilTimeBetweenOrders 91009 seconds
+DBG [29568-83 ] accountId 163627 sold__ NFT (to__ #181689) for     3.296 $ (0.003 ETH) validUntilTimeBetweenOrders 180390 seconds
+DBG [29570-236] accountId 163627 sold__ NFT (to__ #128466) for    39.765 $ (0.030 ETH) validUntilTimeBetweenOrders 186868 seconds
+DBG [29572-17 ] accountId 163627 sold__ NFT (to__ #183821) for     0.936 $ (0.001 ETH) validUntilTimeBetweenOrders 152924 seconds
+DBG [29752-333] accountId 163627 bought NFT (from # 91564) for    16.831 $ (0.013 ETH) validUntilTimeBetweenOrders 1032908 seconds
+DBG [29752-364] accountId 163627 bought NFT (from #168875) for     5.477 $ (0.004 ETH) validUntilTimeBetweenOrders 203668 seconds
+DBG [29752-370] accountId 163627 bought NFT (from #139377) for     5.543 $ (0.004 ETH) validUntilTimeBetweenOrders 682215 seconds
+DBG [29752-380] accountId 163627 bought NFT (from # 91564) for    11.221 $ (0.008 ETH) validUntilTimeBetweenOrders 1213467 seconds
+DBG [29752-381] accountId 163627 bought NFT (from # 91564) for    16.831 $ (0.013 ETH) validUntilTimeBetweenOrders 1032908 seconds
+DBG [29753-112] accountId 163627 bought NFT (from #165674) for     1.342 $ (0.001 ETH) validUntilTimeBetweenOrders 9769 seconds
+DBG [29753-148] accountId 163627 bought NFT (from #175024) for     6.719 $ (0.005 ETH) validUntilTimeBetweenOrders 100995 seconds
+DBG [29753-149] accountId 163627 bought NFT (from #155450) for     9.138 $ (0.007 ETH) validUntilTimeBetweenOrders 10038 seconds
+DBG [29753-180] accountId 163627 bought NFT (from #164763) for   155.873 $ (0.116 ETH) validUntilTimeBetweenOrders 506128 seconds
+DBG [29753-195] accountId 163627 bought NFT (from # 43778) for     5.380 $ (0.004 ETH) validUntilTimeBetweenOrders 64082 seconds
+DBG [29753-237] accountId 163627 bought NFT (from #187877) for    85.939 $ (0.064 ETH) validUntilTimeBetweenOrders 9335 seconds
+DBG [29753-260] accountId 163627 bought NFT (from # 80397) for     2.555 $ (0.002 ETH) validUntilTimeBetweenOrders 45058 seconds
+DBG [29758-31 ] accountId 163627 bought NFT (from #185981) for    10.367 $ (0.008 ETH) validUntilTimeBetweenOrders 74554 seconds
+DBG [29760-185] accountId 163627 sold__ NFT (to__ # 38136) for   302.032 $ (0.225 ETH) validUntilTimeBetweenOrders 12005 seconds
+DBG [29803-83 ] accountId 163627 bought NFT (from #133842) for    13.021 $ (0.010 ETH) validUntilTimeBetweenOrders 23196 seconds
+DBG [29804-15 ] accountId 163627 bought NFT (from #128466) for    32.795 $ (0.025 ETH) validUntilTimeBetweenOrders 24928 seconds
+DBG [29943-193] accountId 163627 bought NFT (from #178035) for    11.690 $ (0.009 ETH) validUntilTimeBetweenOrders 10187 seconds
+DBG [29943-195] accountId 163627 bought NFT (from #131371) for    15.276 $ (0.011 ETH) validUntilTimeBetweenOrders 7433 seconds
+DBG [29943-196] accountId 163627 bought NFT (from #103028) for    12.752 $ (0.010 ETH) validUntilTimeBetweenOrders 18516 seconds
+DBG [29943-215] accountId 163627 bought NFT (from #185981) for     6.482 $ (0.005 ETH) validUntilTimeBetweenOrders 13012 seconds
+DBG [29980-224] accountId 163627 bought NFT (from #128466) for    22.724 $ (0.017 ETH) validUntilTimeBetweenOrders 9040 seconds
+DBG [29980-225] accountId 163627 bought NFT (from #129927) for    18.714 $ (0.014 ETH) validUntilTimeBetweenOrders 81049 seconds
+DBG [29980-305] accountId 163627 bought NFT (from #162789) for     8.689 $ (0.006 ETH) validUntilTimeBetweenOrders 10459 seconds
+DBG [30013-232] accountId 163627 sold__ NFT (to__ #147812) for    23.115 $ (0.017 ETH) validUntilTimeBetweenOrders 32204 seconds
+DBG [30016-251] accountId 163627 sold__ NFT (to__ # 38136) for    19.863 $ (0.015 ETH) validUntilTimeBetweenOrders 4942 seconds
+DBG [30127-103] accountId 163627 bought NFT (from #166746) for   243.900 $ (0.180 ETH) validUntilTimeBetweenOrders 20559 seconds
+DBG [30127-340] accountId 163627 bought NFT (from #127929) for     4.471 $ (0.003 ETH) validUntilTimeBetweenOrders 96229 seconds
+DBG [30167-343] accountId 163627 sold__ NFT (to__ #181689) for     6.707 $ (0.005 ETH) validUntilTimeBetweenOrders 42351 seconds
+DBG [30199-198] accountId 163627 bought NFT (from #128466) for    25.088 $ (0.019 ETH) validUntilTimeBetweenOrders 3519 seconds
+DBG [30199-199] accountId 163627 bought NFT (from #102062) for    26.276 $ (0.020 ETH) validUntilTimeBetweenOrders 5076 seconds
+DBG [30199-214] accountId 163627 bought NFT (from #102062) for    21.549 $ (0.016 ETH) validUntilTimeBetweenOrders 10280 seconds
+DBG [30199-215] accountId 163627 bought NFT (from #128466) for    14.657 $ (0.011 ETH) validUntilTimeBetweenOrders 3856 seconds
+DBG [30199-216] accountId 163627 bought NFT (from #164447) for    41.197 $ (0.031 ETH) validUntilTimeBetweenOrders 54359 seconds
+DBG [30199-231] accountId 163627 bought NFT (from #128466) for    13.204 $ (0.010 ETH) validUntilTimeBetweenOrders 4638 seconds
+DBG [30199-232] accountId 163627 bought NFT (from #128466) for     7.923 $ (0.006 ETH) validUntilTimeBetweenOrders 4272 seconds
+DBG [30199-233] accountId 163627 bought NFT (from #125858) for     6.602 $ (0.005 ETH) validUntilTimeBetweenOrders 89199 seconds
+DBG [30199-234] accountId 163627 bought NFT (from #128466) for     8.279 $ (0.006 ETH) validUntilTimeBetweenOrders 13914 seconds
+DBG [30199-247] accountId 163627 bought NFT (from #128466) for    14.459 $ (0.011 ETH) validUntilTimeBetweenOrders 103889 seconds
+DBG [30264-47 ] accountId 163627 sold__ NFT (to__ #147812) for    22.261 $ (0.017 ETH) validUntilTimeBetweenOrders 158370 seconds
+DBG [30292-127] accountId 163627 sold__ NFT (to__ #140901) for     5.041 $ (0.004 ETH) validUntilTimeBetweenOrders 109877 seconds
+DBG [30499-173] accountId 163627 bought NFT (from # 79655) for    21.973 $ (0.016 ETH) validUntilTimeBetweenOrders 196859 seconds
+DBG [30519-15 ] accountId 163627 sold__ NFT (to__ #182860) for     2.072 $ (7.000 LRC) validUntilTimeBetweenOrders 1292367 seconds
+DBG [30519-39 ] accountId 163627 sold__ NFT (to__ #182860) for     2.072 $ (7.000 LRC) validUntilTimeBetweenOrders 1291014 seconds
+DBG [30519-40 ] accountId 163627 sold__ NFT (to__ #182860) for     2.072 $ (7.000 LRC) validUntilTimeBetweenOrders 1290916 seconds
+DBG [30519-41 ] accountId 163627 sold__ NFT (to__ #182860) for     2.072 $ (7.000 LRC) validUntilTimeBetweenOrders 1290994 seconds
+DBG [30519-46 ] accountId 163627 sold__ NFT (to__ #182860) for     2.072 $ (7.000 LRC) validUntilTimeBetweenOrders 1292270 seconds
+DBG [30519-47 ] accountId 163627 sold__ NFT (to__ #182860) for     2.072 $ (7.000 LRC) validUntilTimeBetweenOrders 1292251 seconds
+DBG [30519-52 ] accountId 163627 sold__ NFT (to__ #182860) for     2.072 $ (7.000 LRC) validUntilTimeBetweenOrders 1290817 seconds
+DBG [30519-56 ] accountId 163627 sold__ NFT (to__ #182860) for     2.072 $ (7.000 LRC) validUntilTimeBetweenOrders 1290805 seconds
+DBG [30519-57 ] accountId 163627 sold__ NFT (to__ #182860) for     2.072 $ (7.000 LRC) validUntilTimeBetweenOrders 1290868 seconds
+DBG [30519-58 ] accountId 163627 sold__ NFT (to__ #182860) for     2.072 $ (7.000 LRC) validUntilTimeBetweenOrders 1290854 seconds
+DBG [30519-63 ] accountId 163627 sold__ NFT (to__ #182860) for     2.072 $ (7.000 LRC) validUntilTimeBetweenOrders 1290848 seconds
+DBG [30519-64 ] accountId 163627 sold__ NFT (to__ #182860) for     2.072 $ (7.000 LRC) validUntilTimeBetweenOrders 1290837 seconds
+DBG [30519-65 ] accountId 163627 sold__ NFT (to__ #182860) for     2.072 $ (7.000 LRC) validUntilTimeBetweenOrders 1292133 seconds
+DBG [30519-69 ] accountId 163627 sold__ NFT (to__ #182860) for     2.072 $ (7.000 LRC) validUntilTimeBetweenOrders 1292122 seconds
+DBG [30519-81 ] accountId 163627 sold__ NFT (to__ #182860) for     2.072 $ (7.000 LRC) validUntilTimeBetweenOrders 1292109 seconds
+DBG [30519-82 ] accountId 163627 sold__ NFT (to__ #182860) for     2.072 $ (7.000 LRC) validUntilTimeBetweenOrders 1292095 seconds
+DBG [30519-83 ] accountId 163627 sold__ NFT (to__ #182860) for     2.072 $ (7.000 LRC) validUntilTimeBetweenOrders 1292082 seconds
+DBG [30519-84 ] accountId 163627 sold__ NFT (to__ #182860) for     2.072 $ (7.000 LRC) validUntilTimeBetweenOrders 1292066 seconds
+DBG [30519-90 ] accountId 163627 sold__ NFT (to__ #182860) for     2.072 $ (7.000 LRC) validUntilTimeBetweenOrders 1292055 seconds
+DBG [30519-194] accountId 163627 sold__ NFT (to__ #182860) for     2.072 $ (7.000 LRC) validUntilTimeBetweenOrders 1290605 seconds
+DBG [30519-345] accountId 163627 sold__ NFT (to__ #182860) for     2.072 $ (7.000 LRC) validUntilTimeBetweenOrders 1291298 seconds
+DBG [30519-360] accountId 163627 sold__ NFT (to__ #182860) for     2.072 $ (7.000 LRC) validUntilTimeBetweenOrders 1291284 seconds
+DBG [30519-361] accountId 163627 sold__ NFT (to__ #182860) for     2.072 $ (7.000 LRC) validUntilTimeBetweenOrders 1291267 seconds
+DBG [30519-362] accountId 163627 sold__ NFT (to__ #182860) for     2.072 $ (7.000 LRC) validUntilTimeBetweenOrders 1291253 seconds
+DBG [30519-363] accountId 163627 sold__ NFT (to__ #182860) for     2.072 $ (7.000 LRC) validUntilTimeBetweenOrders 1291241 seconds
+DBG [30519-368] accountId 163627 sold__ NFT (to__ #182860) for     2.072 $ (7.000 LRC) validUntilTimeBetweenOrders 1289869 seconds
+DBG [30519-369] accountId 163627 sold__ NFT (to__ #182860) for     2.072 $ (7.000 LRC) validUntilTimeBetweenOrders 1289810 seconds
+DBG [30519-370] accountId 163627 sold__ NFT (to__ #182860) for     2.072 $ (7.000 LRC) validUntilTimeBetweenOrders 1289856 seconds
+DBG [30520-3  ] accountId 163627 sold__ NFT (to__ #182860) for     2.072 $ (7.000 LRC) validUntilTimeBetweenOrders 1289734 seconds
+DBG [30520-4  ] accountId 163627 sold__ NFT (to__ #182860) for     2.072 $ (7.000 LRC) validUntilTimeBetweenOrders 1291141 seconds
+DBG [30520-5  ] accountId 163627 sold__ NFT (to__ #182860) for     2.072 $ (7.000 LRC) validUntilTimeBetweenOrders 1291130 seconds
+DBG [30520-6  ] accountId 163627 sold__ NFT (to__ #182860) for     2.072 $ (7.000 LRC) validUntilTimeBetweenOrders 1291116 seconds
+DBG [30528-66 ] accountId 163627 sold__ NFT (to__ #162706) for     7.392 $ (25.000 LRC) validUntilTimeBetweenOrders 802327 seconds
+DBG [30528-67 ] accountId 163627 sold__ NFT (to__ #162706) for     7.392 $ (25.000 LRC) validUntilTimeBetweenOrders 802398 seconds
+DBG [30528-68 ] accountId 163627 sold__ NFT (to__ # 62233) for     7.392 $ (25.000 LRC) validUntilTimeBetweenOrders 802402 seconds
+DBG [30528-69 ] accountId 163627 sold__ NFT (to__ #162706) for     7.392 $ (25.000 LRC) validUntilTimeBetweenOrders 802411 seconds
+DBG [30528-70 ] accountId 163627 sold__ NFT (to__ #162706) for     7.392 $ (25.000 LRC) validUntilTimeBetweenOrders 802425 seconds
+DBG [30528-78 ] accountId 163627 sold__ NFT (to__ #162706) for     7.392 $ (25.000 LRC) validUntilTimeBetweenOrders 802437 seconds
+DBG [30528-79 ] accountId 163627 sold__ NFT (to__ #162706) for     7.392 $ (25.000 LRC) validUntilTimeBetweenOrders 802456 seconds
+DBG [30528-103] accountId 163627 sold__ NFT (to__ #161567) for     7.392 $ (25.000 LRC) validUntilTimeBetweenOrders 802581 seconds
+DBG [30528-104] accountId 163627 sold__ NFT (to__ #162706) for     7.392 $ (25.000 LRC) validUntilTimeBetweenOrders 802585 seconds
+DBG [30528-105] accountId 163627 sold__ NFT (to__ #162706) for     7.392 $ (25.000 LRC) validUntilTimeBetweenOrders 802598 seconds
+DBG [30528-106] accountId 163627 sold__ NFT (to__ #102786) for     7.392 $ (25.000 LRC) validUntilTimeBetweenOrders 802598 seconds
+DBG [30528-107] accountId 163627 sold__ NFT (to__ # 62233) for     7.392 $ (25.000 LRC) validUntilTimeBetweenOrders 802599 seconds
+DBG [30528-108] accountId 163627 sold__ NFT (to__ # 62233) for     7.392 $ (25.000 LRC) validUntilTimeBetweenOrders 802609 seconds
+DBG [30528-109] accountId 163627 sold__ NFT (to__ # 62233) for     7.392 $ (25.000 LRC) validUntilTimeBetweenOrders 802618 seconds
+DBG [30528-110] accountId 163627 sold__ NFT (to__ #102786) for     7.392 $ (25.000 LRC) validUntilTimeBetweenOrders 802626 seconds
+DBG [30528-111] accountId 163627 sold__ NFT (to__ # 62233) for     7.392 $ (25.000 LRC) validUntilTimeBetweenOrders 802627 seconds
+DBG [30528-112] accountId 163627 sold__ NFT (to__ # 62233) for     7.392 $ (25.000 LRC) validUntilTimeBetweenOrders 802637 seconds
+DBG [30528-113] accountId 163627 sold__ NFT (to__ # 62233) for     7.392 $ (25.000 LRC) validUntilTimeBetweenOrders 802646 seconds
+DBG [30528-114] accountId 163627 sold__ NFT (to__ #188640) for     7.392 $ (25.000 LRC) validUntilTimeBetweenOrders 802650 seconds
+DBG [30528-115] accountId 163627 sold__ NFT (to__ # 62233) for     7.392 $ (25.000 LRC) validUntilTimeBetweenOrders 802656 seconds
+DBG [30528-116] accountId 163627 sold__ NFT (to__ #102786) for     7.392 $ (25.000 LRC) validUntilTimeBetweenOrders 802655 seconds
+DBG [30528-133] accountId 163627 sold__ NFT (to__ #188640) for     7.392 $ (25.000 LRC) validUntilTimeBetweenOrders 802656 seconds
+DBG [30528-138] accountId 163627 sold__ NFT (to__ # 62233) for     7.392 $ (25.000 LRC) validUntilTimeBetweenOrders 802663 seconds
+DBG [30528-139] accountId 163627 sold__ NFT (to__ #102786) for     7.392 $ (25.000 LRC) validUntilTimeBetweenOrders 802667 seconds
+DBG [30528-140] accountId 163627 sold__ NFT (to__ #188640) for     7.392 $ (25.000 LRC) validUntilTimeBetweenOrders 802669 seconds
+DBG [30528-141] accountId 163627 sold__ NFT (to__ # 62233) for     7.392 $ (25.000 LRC) validUntilTimeBetweenOrders 802670 seconds
+DBG [30528-143] accountId 163627 sold__ NFT (to__ #188640) for     7.392 $ (25.000 LRC) validUntilTimeBetweenOrders 802676 seconds
+DBG [30528-144] accountId 163627 sold__ NFT (to__ #102786) for     7.392 $ (25.000 LRC) validUntilTimeBetweenOrders 802679 seconds
+DBG [30528-145] accountId 163627 sold__ NFT (to__ #161567) for     7.392 $ (25.000 LRC) validUntilTimeBetweenOrders 802685 seconds
+DBG [30528-146] accountId 163627 sold__ NFT (to__ #102786) for     7.392 $ (25.000 LRC) validUntilTimeBetweenOrders 802694 seconds
+DBG [30528-147] accountId 163627 sold__ NFT (to__ #161567) for     7.392 $ (25.000 LRC) validUntilTimeBetweenOrders 802702 seconds
+DBG [30528-148] accountId 163627 sold__ NFT (to__ #120264) for     7.392 $ (25.000 LRC) validUntilTimeBetweenOrders 802703 seconds
+DBG [30528-149] accountId 163627 sold__ NFT (to__ #188640) for     7.392 $ (25.000 LRC) validUntilTimeBetweenOrders 802718 seconds
+DBG [30528-150] accountId 163627 sold__ NFT (to__ #120264) for     7.392 $ (25.000 LRC) validUntilTimeBetweenOrders 802718 seconds
+DBG [30528-151] accountId 163627 sold__ NFT (to__ #162706) for     7.392 $ (25.000 LRC) validUntilTimeBetweenOrders 802729 seconds
+DBG [30528-152] accountId 163627 sold__ NFT (to__ #120264) for     7.392 $ (25.000 LRC) validUntilTimeBetweenOrders 802737 seconds
+DBG [30528-153] accountId 163627 sold__ NFT (to__ #188640) for     7.392 $ (25.000 LRC) validUntilTimeBetweenOrders 802742 seconds
+DBG [30528-154] accountId 163627 sold__ NFT (to__ #162706) for     7.392 $ (25.000 LRC) validUntilTimeBetweenOrders 802741 seconds
+DBG [30528-155] accountId 163627 sold__ NFT (to__ #161567) for     7.392 $ (25.000 LRC) validUntilTimeBetweenOrders 802741 seconds
+DBG [30528-156] accountId 163627 sold__ NFT (to__ #120264) for     7.392 $ (25.000 LRC) validUntilTimeBetweenOrders 802754 seconds
+DBG [30528-157] accountId 163627 sold__ NFT (to__ #161567) for     7.392 $ (25.000 LRC) validUntilTimeBetweenOrders 802755 seconds
+DBG [30528-180] accountId 163627 sold__ NFT (to__ #162706) for     7.392 $ (25.000 LRC) validUntilTimeBetweenOrders 802756 seconds
+DBG [30528-191] accountId 163627 sold__ NFT (to__ #188640) for     7.392 $ (25.000 LRC) validUntilTimeBetweenOrders 802768 seconds
+DBG [30528-192] accountId 163627 sold__ NFT (to__ #161567) for     7.392 $ (25.000 LRC) validUntilTimeBetweenOrders 802769 seconds
+DBG [30528-193] accountId 163627 sold__ NFT (to__ #188640) for     7.392 $ (25.000 LRC) validUntilTimeBetweenOrders 802781 seconds
+DBG [30528-194] accountId 163627 sold__ NFT (to__ #181689) for     7.392 $ (25.000 LRC) validUntilTimeBetweenOrders 802781 seconds
+DBG [30528-195] accountId 163627 sold__ NFT (to__ #162706) for     7.392 $ (25.000 LRC) validUntilTimeBetweenOrders 802784 seconds
+DBG [30528-196] accountId 163627 sold__ NFT (to__ #188640) for     7.392 $ (25.000 LRC) validUntilTimeBetweenOrders 802790 seconds
+DBG [30528-197] accountId 163627 sold__ NFT (to__ #162706) for     7.392 $ (25.000 LRC) validUntilTimeBetweenOrders 802796 seconds
+DBG [30528-198] accountId 163627 sold__ NFT (to__ #188640) for     7.392 $ (25.000 LRC) validUntilTimeBetweenOrders 802807 seconds
+DBG [30528-199] accountId 163627 sold__ NFT (to__ #161567) for     7.392 $ (25.000 LRC) validUntilTimeBetweenOrders 802809 seconds
+DBG [30528-200] accountId 163627 sold__ NFT (to__ #162706) for     7.392 $ (25.000 LRC) validUntilTimeBetweenOrders 802810 seconds
+DBG [30528-201] accountId 163627 sold__ NFT (to__ #162706) for     7.392 $ (25.000 LRC) validUntilTimeBetweenOrders 802822 seconds
+DBG [30528-202] accountId 163627 sold__ NFT (to__ #161567) for     7.392 $ (25.000 LRC) validUntilTimeBetweenOrders 802822 seconds
+DBG [30528-203] accountId 163627 sold__ NFT (to__ #161567) for     7.392 $ (25.000 LRC) validUntilTimeBetweenOrders 802850 seconds
+DBG [30528-204] accountId 163627 sold__ NFT (to__ #188640) for     7.392 $ (25.000 LRC) validUntilTimeBetweenOrders 802861 seconds
+DBG [30528-228] accountId 163627 sold__ NFT (to__ #181689) for     7.392 $ (25.000 LRC) validUntilTimeBetweenOrders 802898 seconds
+DBG [30528-229] accountId 163627 sold__ NFT (to__ #181689) for     7.392 $ (25.000 LRC) validUntilTimeBetweenOrders 802911 seconds
+DBG [30528-230] accountId 163627 sold__ NFT (to__ #181689) for     7.392 $ (25.000 LRC) validUntilTimeBetweenOrders 802920 seconds
+DBG [30528-231] accountId 163627 sold__ NFT (to__ #181689) for     7.392 $ (25.000 LRC) validUntilTimeBetweenOrders 802927 seconds
+DBG [30528-232] accountId 163627 sold__ NFT (to__ #181689) for     7.392 $ (25.000 LRC) validUntilTimeBetweenOrders 802938 seconds
+DBG [30528-234] accountId 163627 sold__ NFT (to__ #181689) for     7.392 $ (25.000 LRC) validUntilTimeBetweenOrders 802962 seconds
+DBG [30528-235] accountId 163627 sold__ NFT (to__ #162706) for     7.392 $ (25.000 LRC) validUntilTimeBetweenOrders 802963 seconds
+DBG [30528-236] accountId 163627 sold__ NFT (to__ #188640) for     7.392 $ (25.000 LRC) validUntilTimeBetweenOrders 802967 seconds
+DBG [30528-237] accountId 163627 sold__ NFT (to__ #181689) for     7.392 $ (25.000 LRC) validUntilTimeBetweenOrders 802971 seconds
+DBG [30528-238] accountId 163627 sold__ NFT (to__ #162706) for     7.392 $ (25.000 LRC) validUntilTimeBetweenOrders 802975 seconds
+DBG [30528-255] accountId 163627 sold__ NFT (to__ #181689) for     7.392 $ (25.000 LRC) validUntilTimeBetweenOrders 802979 seconds
+DBG [30528-256] accountId 163627 sold__ NFT (to__ #188640) for     7.392 $ (25.000 LRC) validUntilTimeBetweenOrders 802986 seconds
+DBG [30528-257] accountId 163627 sold__ NFT (to__ #162706) for     7.392 $ (25.000 LRC) validUntilTimeBetweenOrders 802986 seconds
+DBG [30528-259] accountId 163627 sold__ NFT (to__ #102786) for     7.392 $ (25.000 LRC) validUntilTimeBetweenOrders 802995 seconds
+DBG [30878-344] accountId 163627 bought NFT (from #183393) for    54.244 $ (0.042 ETH) validUntilTimeBetweenOrders 1006 seconds
+DBG [30880-127] accountId 163627 bought NFT (from #183393) for    54.190 $ (0.042 ETH) validUntilTimeBetweenOrders 1056 seconds
+DBG [30880-247] accountId 163627 bought NFT (from #183393) for    54.190 $ (0.042 ETH) validUntilTimeBetweenOrders 1056 seconds
+DBG [30883-121] accountId 163627 bought NFT (from #183393) for    54.088 $ (0.042 ETH) validUntilTimeBetweenOrders 1158 seconds
+DBG [30884-332] accountId 163627 bought NFT (from #191204) for    84.721 $ (0.066 ETH) validUntilTimeBetweenOrders 174 seconds
+DBG [30885-110] accountId 163627 bought NFT (from # 40386) for    83.437 $ (0.065 ETH) validUntilTimeBetweenOrders 61 seconds
+DBG [31470-128] accountId 163627 sold__ NFT (to__ #152905) for    61.581 $ (250.000 LRC) validUntilTimeBetweenOrders 1288496 seconds
+DBG [31473-307] accountId 163627 sold__ NFT (to__ #128967) for     1.740 $ (7.000 LRC) validUntilTimeBetweenOrders 1285158 seconds
+DBG [31473-308] accountId 163627 sold__ NFT (to__ #128967) for     1.740 $ (7.000 LRC) validUntilTimeBetweenOrders 1285139 seconds
+DBG [31473-309] accountId 163627 sold__ NFT (to__ #128967) for     1.740 $ (7.000 LRC) validUntilTimeBetweenOrders 1285123 seconds
+DBG [31473-310] accountId 163627 sold__ NFT (to__ #128967) for     1.740 $ (7.000 LRC) validUntilTimeBetweenOrders 1285110 seconds
+DBG [31475-25 ] accountId 163627 bought NFT (from #191351) for    53.754 $ (0.040 ETH) validUntilTimeBetweenOrders 15541 seconds
+DBG [31590-68 ] accountId 163627 sold__ NFT (to__ #178035) for     1.874 $ (7.000 LRC) validUntilTimeBetweenOrders 1040871 seconds
+DBG [31590-69 ] accountId 163627 sold__ NFT (to__ #178035) for     1.874 $ (7.000 LRC) validUntilTimeBetweenOrders 1040906 seconds
+DBG [31590-70 ] accountId 163627 sold__ NFT (to__ #178035) for     1.874 $ (7.000 LRC) validUntilTimeBetweenOrders 1040866 seconds
+DBG [31590-137] accountId 163627 sold__ NFT (to__ #178035) for     0.535 $ (2.000 LRC) validUntilTimeBetweenOrders 1295863 seconds
+DBG [31590-139] accountId 163627 sold__ NFT (to__ #178035) for     0.535 $ (2.000 LRC) validUntilTimeBetweenOrders 1295850 seconds
+DBG [31590-166] accountId 163627 sold__ NFT (to__ #178035) for     0.534 $ (2.000 LRC) validUntilTimeBetweenOrders 1295850 seconds
+DBG [31590-168] accountId 163627 sold__ NFT (to__ #178035) for     0.534 $ (2.000 LRC) validUntilTimeBetweenOrders 1295818 seconds
+DBG [31590-240] accountId 163627 sold__ NFT (to__ #178035) for     7.571 $ (28.600 LRC) validUntilTimeBetweenOrders 1295990 seconds
+DBG [31590-258] accountId 163627 sold__ NFT (to__ #178035) for     5.824 $ (22.000 LRC) validUntilTimeBetweenOrders 1295969 seconds
+DBG [31591-149] accountId 163627 sold__ NFT (to__ #178035) for    10.395 $ (39.000 LRC) validUntilTimeBetweenOrders 1295867 seconds
+DBG [31591-152] accountId 163627 sold__ NFT (to__ #178035) for    10.395 $ (39.000 LRC) validUntilTimeBetweenOrders 1295842 seconds
+DBG [31591-154] accountId 163627 sold__ NFT (to__ #178035) for     9.382 $ (35.200 LRC) validUntilTimeBetweenOrders 1295874 seconds
+DBG [31593-33 ] accountId 163627 sold__ NFT (to__ #193079) for     1.477 $ (5.500 LRC) validUntilTimeBetweenOrders 1293071 seconds
+DBG [31594-141] accountId 163627 sold__ NFT (to__ #178261) for     0.761 $ (2.850 LRC) validUntilTimeBetweenOrders 1292275 seconds
+DBG [31595-116] accountId 163627 sold__ NFT (to__ #132582) for     3.334 $ (12.500 LRC) validUntilTimeBetweenOrders 1291255 seconds
+DBG [31595-295] accountId 163627 sold__ NFT (to__ #183821) for     1.464 $ (5.500 LRC) validUntilTimeBetweenOrders 1291083 seconds
+DBG [31595-296] accountId 163627 sold__ NFT (to__ #183821) for     0.586 $ (2.200 LRC) validUntilTimeBetweenOrders 1290454 seconds
+DBG [31595-297] accountId 163627 sold__ NFT (to__ #183821) for     0.586 $ (2.200 LRC) validUntilTimeBetweenOrders 1290449 seconds
+DBG [31595-298] accountId 163627 sold__ NFT (to__ #183821) for     0.586 $ (2.200 LRC) validUntilTimeBetweenOrders 1290444 seconds
+DBG [31595-299] accountId 163627 sold__ NFT (to__ #183821) for     0.586 $ (2.200 LRC) validUntilTimeBetweenOrders 1290439 seconds
+DBG [31595-300] accountId 163627 sold__ NFT (to__ #183821) for     0.586 $ (2.200 LRC) validUntilTimeBetweenOrders 1290434 seconds
+DBG [31595-301] accountId 163627 sold__ NFT (to__ #183821) for     0.759 $ (2.850 LRC) validUntilTimeBetweenOrders 1291118 seconds
+DBG [31595-302] accountId 163627 sold__ NFT (to__ #183821) for     0.759 $ (2.850 LRC) validUntilTimeBetweenOrders 1291107 seconds
+DBG [31595-303] accountId 163627 sold__ NFT (to__ #183821) for     0.759 $ (2.850 LRC) validUntilTimeBetweenOrders 1291101 seconds
+DBG [31595-304] accountId 163627 sold__ NFT (to__ #183821) for     0.759 $ (2.850 LRC) validUntilTimeBetweenOrders 1291097 seconds
+DBG [31595-305] accountId 163627 sold__ NFT (to__ #183821) for     0.759 $ (2.850 LRC) validUntilTimeBetweenOrders 1291092 seconds
+DBG [31595-350] accountId 163627 sold__ NFT (to__ #183821) for     0.759 $ (2.850 LRC) validUntilTimeBetweenOrders 1291083 seconds
+DBG [31595-351] accountId 163627 sold__ NFT (to__ #183821) for     0.759 $ (2.850 LRC) validUntilTimeBetweenOrders 1291078 seconds
+DBG [31595-352] accountId 163627 sold__ NFT (to__ #183821) for     1.331 $ (5.000 LRC) validUntilTimeBetweenOrders 1290799 seconds
+DBG [31595-353] accountId 163627 sold__ NFT (to__ #183821) for     1.331 $ (5.000 LRC) validUntilTimeBetweenOrders 1290795 seconds
+DBG [31596-24 ] accountId 163627 sold__ NFT (to__ #183821) for     2.795 $ (10.500 LRC) validUntilTimeBetweenOrders 1290874 seconds
+DBG [31597-110] accountId 163627 sold__ NFT (to__ # 42110) for     1.865 $ (7.000 LRC) validUntilTimeBetweenOrders 1289147 seconds
+DBG [31597-111] accountId 163627 sold__ NFT (to__ # 42110) for     1.865 $ (7.000 LRC) validUntilTimeBetweenOrders 1289133 seconds
+DBG [31597-112] accountId 163627 sold__ NFT (to__ # 42110) for     1.865 $ (7.000 LRC) validUntilTimeBetweenOrders 1289124 seconds
+DBG [31597-113] accountId 163627 sold__ NFT (to__ # 42110) for     1.865 $ (7.000 LRC) validUntilTimeBetweenOrders 1289113 seconds
+DBG [31597-114] accountId 163627 sold__ NFT (to__ # 42110) for     1.865 $ (7.000 LRC) validUntilTimeBetweenOrders 1289100 seconds
+DBG [31597-115] accountId 163627 sold__ NFT (to__ # 42110) for     1.865 $ (7.000 LRC) validUntilTimeBetweenOrders 1289090 seconds
+DBG [31597-116] accountId 163627 sold__ NFT (to__ # 42110) for     1.865 $ (7.000 LRC) validUntilTimeBetweenOrders 1289079 seconds
+DBG [31597-118] accountId 163627 sold__ NFT (to__ # 42110) for     1.865 $ (7.000 LRC) validUntilTimeBetweenOrders 1289069 seconds
+DBG [31599-177] accountId 163627 sold__ NFT (to__ #128967) for     3.344 $ (12.500 LRC) validUntilTimeBetweenOrders 1286080 seconds
+DBG [31599-200] accountId 163627 sold__ NFT (to__ #128967) for     3.344 $ (12.500 LRC) validUntilTimeBetweenOrders 1286002 seconds
+DBG [31599-201] accountId 163627 sold__ NFT (to__ #128967) for     3.344 $ (12.500 LRC) validUntilTimeBetweenOrders 1285986 seconds
+DBG [31600-47 ] accountId 163627 sold__ NFT (to__ #128967) for     0.985 $ (3.700 LRC) validUntilTimeBetweenOrders 1285061 seconds
+DBG [31600-49 ] accountId 163627 sold__ NFT (to__ #128967) for     0.985 $ (3.700 LRC) validUntilTimeBetweenOrders 1285049 seconds
+DBG [31600-50 ] accountId 163627 sold__ NFT (to__ #128967) for     0.985 $ (3.700 LRC) validUntilTimeBetweenOrders 1285035 seconds
+DBG [31600-51 ] accountId 163627 sold__ NFT (to__ #128967) for     0.985 $ (3.700 LRC) validUntilTimeBetweenOrders 1285016 seconds
+DBG [31600-98 ] accountId 163627 sold__ NFT (to__ #128967) for     0.984 $ (3.700 LRC) validUntilTimeBetweenOrders 1285004 seconds
+DBG [31601-188] accountId 163627 sold__ NFT (to__ #133493) for     5.318 $ (20.000 LRC) validUntilTimeBetweenOrders 1283983 seconds
+DBG [31601-362] accountId 163627 sold__ NFT (to__ # 97179) for     0.988 $ (3.700 LRC) validUntilTimeBetweenOrders 1283171 seconds
+DBG [31601-363] accountId 163627 sold__ NFT (to__ # 97179) for     0.988 $ (3.700 LRC) validUntilTimeBetweenOrders 1283156 seconds
+DBG [31601-364] accountId 163627 sold__ NFT (to__ # 97179) for     0.988 $ (3.700 LRC) validUntilTimeBetweenOrders 1283139 seconds
+DBG [31601-365] accountId 163627 sold__ NFT (to__ # 97179) for     0.988 $ (3.700 LRC) validUntilTimeBetweenOrders 1283120 seconds
+DBG [31601-366] accountId 163627 sold__ NFT (to__ # 97179) for     0.988 $ (3.700 LRC) validUntilTimeBetweenOrders 1283109 seconds
+DBG [31602-10 ] accountId 163627 sold__ NFT (to__ # 97179) for     0.989 $ (3.700 LRC) validUntilTimeBetweenOrders 1283096 seconds
+DBG [31602-11 ] accountId 163627 sold__ NFT (to__ # 97179) for     0.989 $ (3.700 LRC) validUntilTimeBetweenOrders 1283081 seconds
+DBG [31602-12 ] accountId 163627 sold__ NFT (to__ # 97179) for     0.989 $ (3.700 LRC) validUntilTimeBetweenOrders 1283068 seconds
+DBG [31602-37 ] accountId 163627 sold__ NFT (to__ # 97179) for     1.203 $ (4.500 LRC) validUntilTimeBetweenOrders 1283159 seconds
+DBG [31602-38 ] accountId 163627 sold__ NFT (to__ # 97179) for     1.203 $ (4.500 LRC) validUntilTimeBetweenOrders 1283142 seconds
+DBG [31602-39 ] accountId 163627 sold__ NFT (to__ # 97179) for     1.203 $ (4.500 LRC) validUntilTimeBetweenOrders 1283131 seconds
+DBG [31602-40 ] accountId 163627 sold__ NFT (to__ # 97179) for     1.203 $ (4.500 LRC) validUntilTimeBetweenOrders 1283120 seconds
+DBG [31602-41 ] accountId 163627 sold__ NFT (to__ #183821) for     1.203 $ (4.500 LRC) validUntilTimeBetweenOrders 1283114 seconds
+DBG [31602-151] accountId 163627 sold__ NFT (to__ #183821) for     1.069 $ (4.000 LRC) validUntilTimeBetweenOrders 1282368 seconds
+DBG [31602-152] accountId 163627 sold__ NFT (to__ #183821) for     1.069 $ (4.000 LRC) validUntilTimeBetweenOrders 1282362 seconds
+DBG [31605-108] accountId 163627 sold__ NFT (to__ # 97179) for     0.797 $ (3.000 LRC) validUntilTimeBetweenOrders 1278148 seconds
+DBG [31605-109] accountId 163627 sold__ NFT (to__ # 97179) for     0.797 $ (3.000 LRC) validUntilTimeBetweenOrders 1278136 seconds
+DBG [31605-208] accountId 163627 sold__ NFT (to__ #178035) for     0.850 $ (3.200 LRC) validUntilTimeBetweenOrders 1278236 seconds
+DBG [31605-252] accountId 163627 sold__ NFT (to__ #178035) for     0.797 $ (3.000 LRC) validUntilTimeBetweenOrders 1277234 seconds
+DBG [31606-48 ] accountId 163627 sold__ NFT (to__ #154458) for     0.801 $ (3.000 LRC) validUntilTimeBetweenOrders 1276730 seconds
+DBG [31607-248] accountId 163627 sold__ NFT (to__ #183821) for     0.796 $ (3.000 LRC) validUntilTimeBetweenOrders 1273500 seconds
+DBG [31608-162] accountId 163627 sold__ NFT (to__ #154458) for     0.796 $ (3.000 LRC) validUntilTimeBetweenOrders 1272403 seconds
+DBG [31608-163] accountId 163627 sold__ NFT (to__ #154458) for     0.796 $ (3.000 LRC) validUntilTimeBetweenOrders 1272396 seconds
+DBG [31609-218] accountId 163627 sold__ NFT (to__ # 92386) for     0.802 $ (3.000 LRC) validUntilTimeBetweenOrders 1270897 seconds
+DBG [31609-219] accountId 163627 sold__ NFT (to__ # 92386) for     0.802 $ (3.000 LRC) validUntilTimeBetweenOrders 1270885 seconds
+DBG [31609-220] accountId 163627 sold__ NFT (to__ # 92386) for     0.802 $ (3.000 LRC) validUntilTimeBetweenOrders 1270875 seconds
+DBG [31609-264] accountId 163627 sold__ NFT (to__ # 92386) for     0.803 $ (3.000 LRC) validUntilTimeBetweenOrders 1270865 seconds
+DBG [31609-265] accountId 163627 sold__ NFT (to__ # 92386) for     0.803 $ (3.000 LRC) validUntilTimeBetweenOrders 1270854 seconds
+DBG [31609-298] accountId 163627 sold__ NFT (to__ # 92386) for     0.806 $ (3.000 LRC) validUntilTimeBetweenOrders 1270724 seconds
+DBG [31609-299] accountId 163627 sold__ NFT (to__ # 92386) for     0.806 $ (3.000 LRC) validUntilTimeBetweenOrders 1270713 seconds
+DBG [31609-300] accountId 163627 sold__ NFT (to__ # 92386) for     0.806 $ (3.000 LRC) validUntilTimeBetweenOrders 1270694 seconds
+DBG [31609-301] accountId 163627 sold__ NFT (to__ # 92386) for     0.806 $ (3.000 LRC) validUntilTimeBetweenOrders 1270678 seconds
+DBG [31609-302] accountId 163627 sold__ NFT (to__ # 92386) for     0.806 $ (3.000 LRC) validUntilTimeBetweenOrders 1270667 seconds
+DBG [31609-303] accountId 163627 sold__ NFT (to__ # 92386) for     0.806 $ (3.000 LRC) validUntilTimeBetweenOrders 1270652 seconds
+DBG [31609-305] accountId 163627 sold__ NFT (to__ # 92386) for     0.806 $ (3.000 LRC) validUntilTimeBetweenOrders 1270639 seconds
+DBG [31610-56 ] accountId 163627 sold__ NFT (to__ # 92386) for     0.800 $ (3.000 LRC) validUntilTimeBetweenOrders 1269773 seconds
+DBG [31610-57 ] accountId 163627 sold__ NFT (to__ # 92386) for     0.800 $ (3.000 LRC) validUntilTimeBetweenOrders 1269761 seconds
+DBG [31610-58 ] accountId 163627 sold__ NFT (to__ # 92386) for     0.800 $ (3.000 LRC) validUntilTimeBetweenOrders 1269739 seconds
+DBG [31610-59 ] accountId 163627 sold__ NFT (to__ # 92386) for     0.800 $ (3.000 LRC) validUntilTimeBetweenOrders 1269728 seconds
+DBG [31610-76 ] accountId 163627 sold__ NFT (to__ # 92386) for     0.853 $ (3.200 LRC) validUntilTimeBetweenOrders 1270566 seconds
+DBG [31610-77 ] accountId 163627 sold__ NFT (to__ # 92386) for     0.853 $ (3.200 LRC) validUntilTimeBetweenOrders 1270288 seconds
+DBG [31610-190] accountId 163627 sold__ NFT (to__ #183821) for     0.853 $ (3.200 LRC) validUntilTimeBetweenOrders 1269836 seconds
+DBG [31610-191] accountId 163627 sold__ NFT (to__ #183821) for     0.853 $ (3.200 LRC) validUntilTimeBetweenOrders 1269830 seconds
+DBG [31613-32 ] accountId 163627 sold__ NFT (to__ #183838) for     0.800 $ (3.000 LRC) validUntilTimeBetweenOrders 1265479 seconds
+DBG [31613-33 ] accountId 163627 sold__ NFT (to__ #183838) for     0.800 $ (3.000 LRC) validUntilTimeBetweenOrders 1265468 seconds
+DBG [31615-116] accountId 163627 sold__ NFT (to__ #163373) for     0.798 $ (3.000 LRC) validUntilTimeBetweenOrders 1261426 seconds
+DBG [31615-117] accountId 163627 sold__ NFT (to__ #163373) for     0.798 $ (3.000 LRC) validUntilTimeBetweenOrders 1261414 seconds
+DBG [31615-118] accountId 163627 sold__ NFT (to__ #163373) for     0.798 $ (3.000 LRC) validUntilTimeBetweenOrders 1261407 seconds
+DBG [31615-119] accountId 163627 sold__ NFT (to__ #163373) for     0.798 $ (3.000 LRC) validUntilTimeBetweenOrders 1261401 seconds
+DBG [31615-120] accountId 163627 sold__ NFT (to__ #163373) for     0.798 $ (3.000 LRC) validUntilTimeBetweenOrders 1261395 seconds
+DBG [31615-121] accountId 163627 sold__ NFT (to__ #163373) for     0.798 $ (3.000 LRC) validUntilTimeBetweenOrders 1261390 seconds
+DBG [31615-122] accountId 163627 sold__ NFT (to__ #163373) for     0.798 $ (3.000 LRC) validUntilTimeBetweenOrders 1261383 seconds
+DBG [31615-123] accountId 163627 sold__ NFT (to__ #163373) for     0.798 $ (3.000 LRC) validUntilTimeBetweenOrders 1261377 seconds
+DBG [31615-124] accountId 163627 sold__ NFT (to__ #163373) for     0.852 $ (3.200 LRC) validUntilTimeBetweenOrders 1262210 seconds
+DBG [31615-125] accountId 163627 sold__ NFT (to__ #163373) for     0.852 $ (3.200 LRC) validUntilTimeBetweenOrders 1262203 seconds
+DBG [31615-126] accountId 163627 sold__ NFT (to__ #163373) for     0.852 $ (3.200 LRC) validUntilTimeBetweenOrders 1262198 seconds
+DBG [31615-156] accountId 163627 sold__ NFT (to__ #163373) for     0.852 $ (3.200 LRC) validUntilTimeBetweenOrders 1262193 seconds
+DBG [31615-157] accountId 163627 sold__ NFT (to__ #163373) for     0.852 $ (3.200 LRC) validUntilTimeBetweenOrders 1262187 seconds
+DBG [31615-158] accountId 163627 sold__ NFT (to__ #163373) for     0.852 $ (3.200 LRC) validUntilTimeBetweenOrders 1262180 seconds
+DBG [31615-159] accountId 163627 sold__ NFT (to__ #163373) for     0.852 $ (3.200 LRC) validUntilTimeBetweenOrders 1262174 seconds
+DBG [31615-160] accountId 163627 sold__ NFT (to__ #163373) for     0.852 $ (3.200 LRC) validUntilTimeBetweenOrders 1262168 seconds
+DBG [31615-161] accountId 163627 sold__ NFT (to__ #163373) for     0.852 $ (3.200 LRC) validUntilTimeBetweenOrders 1262161 seconds
+DBG [31615-162] accountId 163627 sold__ NFT (to__ #163373) for     0.852 $ (3.200 LRC) validUntilTimeBetweenOrders 1262156 seconds
+DBG [31615-163] accountId 163627 sold__ NFT (to__ #163373) for     0.852 $ (3.200 LRC) validUntilTimeBetweenOrders 1262150 seconds
+DBG [31615-164] accountId 163627 sold__ NFT (to__ #163373) for     0.852 $ (3.200 LRC) validUntilTimeBetweenOrders 1262145 seconds
+DBG [31615-165] accountId 163627 sold__ NFT (to__ #163373) for     0.852 $ (3.200 LRC) validUntilTimeBetweenOrders 1262140 seconds
+DBG [31620-143] accountId 163627 sold__ NFT (to__ # 42110) for     0.862 $ (3.200 LRC) validUntilTimeBetweenOrders 1254100 seconds
+DBG [31620-144] accountId 163627 sold__ NFT (to__ # 42110) for     0.862 $ (3.200 LRC) validUntilTimeBetweenOrders 1254090 seconds
+DBG [31620-145] accountId 163627 sold__ NFT (to__ # 42110) for     0.862 $ (3.200 LRC) validUntilTimeBetweenOrders 1254078 seconds
+DBG [31620-146] accountId 163627 sold__ NFT (to__ # 42110) for     0.862 $ (3.200 LRC) validUntilTimeBetweenOrders 1254068 seconds
+DBG [31620-147] accountId 163627 sold__ NFT (to__ # 42110) for     0.862 $ (3.200 LRC) validUntilTimeBetweenOrders 1254059 seconds
+DBG [31620-148] accountId 163627 sold__ NFT (to__ # 42110) for     0.862 $ (3.200 LRC) validUntilTimeBetweenOrders 1254042 seconds
+DBG [31620-149] accountId 163627 sold__ NFT (to__ # 42110) for     0.862 $ (3.200 LRC) validUntilTimeBetweenOrders 1254028 seconds
+DBG [31620-166] accountId 163627 sold__ NFT (to__ # 42110) for     0.865 $ (3.200 LRC) validUntilTimeBetweenOrders 1254017 seconds
+DBG [31620-270] accountId 163627 sold__ NFT (to__ # 42110) for     1.406 $ (5.200 LRC) validUntilTimeBetweenOrders 1252878 seconds
+DBG [31620-271] accountId 163627 sold__ NFT (to__ # 42110) for     1.406 $ (5.200 LRC) validUntilTimeBetweenOrders 1252862 seconds
+DBG [31620-272] accountId 163627 sold__ NFT (to__ # 42110) for     1.406 $ (5.200 LRC) validUntilTimeBetweenOrders 1252848 seconds
+DBG [31620-274] accountId 163627 sold__ NFT (to__ # 42110) for     1.406 $ (5.200 LRC) validUntilTimeBetweenOrders 1252836 seconds
+DBG [31621-7  ] accountId 163627 sold__ NFT (to__ # 42110) for     1.406 $ (5.200 LRC) validUntilTimeBetweenOrders 1252822 seconds
+DBG [31669-83 ] accountId 163627 sold__ NFT (to__ #128466) for     0.880 $ (3.200 LRC) validUntilTimeBetweenOrders 1203799 seconds
+DBG [31794-27 ] accountId 163627 sold__ NFT (to__ # 36768) for     0.857 $ (3.200 LRC) validUntilTimeBetweenOrders 1182284 seconds
+DBG [31794-96 ] accountId 163627 sold__ NFT (to__ # 36768) for     0.857 $ (3.200 LRC) validUntilTimeBetweenOrders 1182267 seconds
+DBG [31794-99 ] accountId 163627 sold__ NFT (to__ # 36768) for     0.857 $ (3.200 LRC) validUntilTimeBetweenOrders 1182247 seconds
+DBG [31794-100] accountId 163627 sold__ NFT (to__ # 36768) for     0.857 $ (3.200 LRC) validUntilTimeBetweenOrders 1182230 seconds
+DBG [31794-104] accountId 163627 sold__ NFT (to__ # 36768) for     0.857 $ (3.200 LRC) validUntilTimeBetweenOrders 1182211 seconds
+DBG [31794-105] accountId 163627 sold__ NFT (to__ # 36768) for     0.857 $ (3.200 LRC) validUntilTimeBetweenOrders 1182195 seconds
+DBG [31794-106] accountId 163627 sold__ NFT (to__ # 36768) for     0.857 $ (3.200 LRC) validUntilTimeBetweenOrders 1182178 seconds
+DBG [31794-110] accountId 163627 sold__ NFT (to__ # 36768) for     0.857 $ (3.200 LRC) validUntilTimeBetweenOrders 1182161 seconds
+DBG [31794-172] accountId 163627 sold__ NFT (to__ # 36768) for     0.857 $ (3.200 LRC) validUntilTimeBetweenOrders 1182082 seconds
+DBG [31794-173] accountId 163627 sold__ NFT (to__ # 36768) for     0.857 $ (3.200 LRC) validUntilTimeBetweenOrders 1182062 seconds
+DBG [31794-176] accountId 163627 sold__ NFT (to__ # 36768) for     0.857 $ (3.200 LRC) validUntilTimeBetweenOrders 1182043 seconds
+DBG [31794-253] accountId 163627 sold__ NFT (to__ # 36768) for     0.858 $ (3.200 LRC) validUntilTimeBetweenOrders 1182027 seconds
+DBG [31794-254] accountId 163627 sold__ NFT (to__ # 36768) for     0.858 $ (3.200 LRC) validUntilTimeBetweenOrders 1182012 seconds
+DBG [31794-255] accountId 163627 sold__ NFT (to__ # 36768) for     0.858 $ (3.200 LRC) validUntilTimeBetweenOrders 1181997 seconds
+DBG [31794-256] accountId 163627 sold__ NFT (to__ # 36768) for     0.858 $ (3.200 LRC) validUntilTimeBetweenOrders 1181979 seconds
+DBG [31794-264] accountId 163627 sold__ NFT (to__ # 36768) for     0.858 $ (3.200 LRC) validUntilTimeBetweenOrders 1181956 seconds
+DBG [31794-327] accountId 163627 sold__ NFT (to__ # 36768) for     0.858 $ (3.200 LRC) validUntilTimeBetweenOrders 1181892 seconds
+DBG [31794-330] accountId 163627 sold__ NFT (to__ # 36768) for     0.858 $ (3.200 LRC) validUntilTimeBetweenOrders 1181863 seconds
+DBG [31794-331] accountId 163627 sold__ NFT (to__ # 36768) for     0.858 $ (3.200 LRC) validUntilTimeBetweenOrders 1181833 seconds
+DBG [31795-20 ] accountId 163627 sold__ NFT (to__ # 36768) for     0.864 $ (3.200 LRC) validUntilTimeBetweenOrders 1181808 seconds
+DBG [31795-24 ] accountId 163627 sold__ NFT (to__ # 36768) for     0.864 $ (3.200 LRC) validUntilTimeBetweenOrders 1181777 seconds
+DBG [31795-96 ] accountId 163627 sold__ NFT (to__ # 36768) for     0.948 $ (3.500 LRC) validUntilTimeBetweenOrders 1181565 seconds
+DBG [31795-97 ] accountId 163627 sold__ NFT (to__ # 36768) for     0.948 $ (3.500 LRC) validUntilTimeBetweenOrders 1181522 seconds
+DBG [31795-100] accountId 163627 sold__ NFT (to__ # 36768) for     0.948 $ (3.500 LRC) validUntilTimeBetweenOrders 1181500 seconds
+DBG [31812-314] accountId 163627 sold__ NFT (to__ # 42110) for     1.871 $ (7.000 LRC) validUntilTimeBetweenOrders 985577 seconds
+DBG [31812-328] accountId 163627 sold__ NFT (to__ # 42110) for     1.871 $ (7.000 LRC) validUntilTimeBetweenOrders 985566 seconds
+DBG [31812-331] accountId 163627 sold__ NFT (to__ # 42110) for     1.871 $ (7.000 LRC) validUntilTimeBetweenOrders 985547 seconds
+DBG [31856-328] accountId 163627 sold__ NFT (to__ #183821) for     3.548 $ (13.000 LRC) validUntilTimeBetweenOrders 1295460 seconds
+DBG [31856-329] accountId 163627 sold__ NFT (to__ #183821) for     3.548 $ (13.000 LRC) validUntilTimeBetweenOrders 1295454 seconds
+DBG [31856-330] accountId 163627 sold__ NFT (to__ #183821) for     3.548 $ (13.000 LRC) validUntilTimeBetweenOrders 1295449 seconds
+DBG [31856-331] accountId 163627 sold__ NFT (to__ #183821) for     3.548 $ (13.000 LRC) validUntilTimeBetweenOrders 1295444 seconds
+DBG [31856-333] accountId 163627 sold__ NFT (to__ #183821) for     0.819 $ (3.000 LRC) validUntilTimeBetweenOrders 1295141 seconds
+DBG [31856-334] accountId 163627 sold__ NFT (to__ #183821) for     0.819 $ (3.000 LRC) validUntilTimeBetweenOrders 1295135 seconds
+DBG [31856-335] accountId 163627 sold__ NFT (to__ #183821) for     0.819 $ (3.000 LRC) validUntilTimeBetweenOrders 1295129 seconds
+DBG [31856-336] accountId 163627 sold__ NFT (to__ #183821) for     0.819 $ (3.000 LRC) validUntilTimeBetweenOrders 1295123 seconds
+DBG [31856-337] accountId 163627 sold__ NFT (to__ #183821) for     0.819 $ (3.000 LRC) validUntilTimeBetweenOrders 1295116 seconds
+DBG [31857-3  ] accountId 163627 sold__ NFT (to__ #183821) for     5.731 $ (21.000 LRC) validUntilTimeBetweenOrders 1295396 seconds
+DBG [31857-47 ] accountId 163627 sold__ NFT (to__ # 97179) for     7.636 $ (28.000 LRC) validUntilTimeBetweenOrders 1294990 seconds
+DBG [31857-78 ] accountId 163627 sold__ NFT (to__ # 97179) for     2.509 $ (9.200 LRC) validUntilTimeBetweenOrders 1294999 seconds
+DBG [31857-79 ] accountId 163627 sold__ NFT (to__ # 97179) for     2.509 $ (9.200 LRC) validUntilTimeBetweenOrders 1294989 seconds
+DBG [31857-110] accountId 163627 sold__ NFT (to__ # 97179) for     1.636 $ (6.000 LRC) validUntilTimeBetweenOrders 1294608 seconds
+DBG [31857-111] accountId 163627 sold__ NFT (to__ # 97179) for     1.636 $ (6.000 LRC) validUntilTimeBetweenOrders 1294596 seconds
+DBG [31858-15 ] accountId 163627 sold__ NFT (to__ # 97179) for     1.094 $ (4.000 LRC) validUntilTimeBetweenOrders 1293962 seconds
+DBG [31858-16 ] accountId 163627 sold__ NFT (to__ # 97179) for     1.094 $ (4.000 LRC) validUntilTimeBetweenOrders 1293952 seconds
+DBG [31858-31 ] accountId 163627 sold__ NFT (to__ # 97179) for     1.094 $ (4.000 LRC) validUntilTimeBetweenOrders 1293549 seconds
+DBG [31858-32 ] accountId 163627 sold__ NFT (to__ # 97179) for     1.094 $ (4.000 LRC) validUntilTimeBetweenOrders 1293539 seconds
+DBG [31858-33 ] accountId 163627 sold__ NFT (to__ # 97179) for     1.094 $ (4.000 LRC) validUntilTimeBetweenOrders 1293871 seconds
+DBG [31858-34 ] accountId 163627 sold__ NFT (to__ # 97179) for     1.094 $ (4.000 LRC) validUntilTimeBetweenOrders 1293860 seconds
+DBG [31858-35 ] accountId 163627 sold__ NFT (to__ # 97179) for     1.094 $ (4.000 LRC) validUntilTimeBetweenOrders 1293851 seconds
+DBG [31858-36 ] accountId 163627 sold__ NFT (to__ # 97179) for     1.094 $ (4.000 LRC) validUntilTimeBetweenOrders 1293841 seconds
+DBG [31858-70 ] accountId 163627 sold__ NFT (to__ #183821) for     1.094 $ (4.000 LRC) validUntilTimeBetweenOrders 1293621 seconds
+DBG [31858-71 ] accountId 163627 sold__ NFT (to__ #183821) for     1.094 $ (4.000 LRC) validUntilTimeBetweenOrders 1293616 seconds
+DBG [31858-72 ] accountId 163627 sold__ NFT (to__ #183821) for     1.094 $ (4.000 LRC) validUntilTimeBetweenOrders 1293611 seconds
+DBG [31858-76 ] accountId 163627 sold__ NFT (to__ #183821) for     1.094 $ (4.000 LRC) validUntilTimeBetweenOrders 1293216 seconds
+DBG [31858-77 ] accountId 163627 sold__ NFT (to__ #183821) for     1.094 $ (4.000 LRC) validUntilTimeBetweenOrders 1293212 seconds
+DBG [31858-78 ] accountId 163627 sold__ NFT (to__ #183821) for     1.094 $ (4.000 LRC) validUntilTimeBetweenOrders 1293207 seconds
+DBG [31862-130] accountId 163627 sold__ NFT (to__ # 97179) for     1.092 $ (4.000 LRC) validUntilTimeBetweenOrders 1286815 seconds
+DBG [31862-131] accountId 163627 sold__ NFT (to__ # 97179) for     1.092 $ (4.000 LRC) validUntilTimeBetweenOrders 1286803 seconds
+DBG [31867-97 ] accountId 163627 sold__ NFT (to__ #183821) for     1.092 $ (4.000 LRC) validUntilTimeBetweenOrders 1279614 seconds
+DBG [31867-98 ] accountId 163627 sold__ NFT (to__ #183821) for     1.092 $ (4.000 LRC) validUntilTimeBetweenOrders 1279609 seconds
+DBG [31867-99 ] accountId 163627 sold__ NFT (to__ #183821) for     1.092 $ (4.000 LRC) validUntilTimeBetweenOrders 1279603 seconds
+DBG [31867-111] accountId 163627 sold__ NFT (to__ #183821) for     1.641 $ (6.000 LRC) validUntilTimeBetweenOrders 1279038 seconds
+DBG [31867-112] accountId 163627 sold__ NFT (to__ #183821) for     1.641 $ (6.000 LRC) validUntilTimeBetweenOrders 1279034 seconds
+DBG [31884-47 ] accountId 163627 sold__ NFT (to__ # 97179) for     1.659 $ (6.000 LRC) validUntilTimeBetweenOrders 1251041 seconds
+DBG [31884-48 ] accountId 163627 sold__ NFT (to__ # 97179) for     1.659 $ (6.000 LRC) validUntilTimeBetweenOrders 1251030 seconds
+DBG [31906-99 ] accountId 163627 sold__ NFT (to__ #183821) for     0.566 $ (2.000 LRC) validUntilTimeBetweenOrders 1295972 seconds
+DBG [31906-100] accountId 163627 sold__ NFT (to__ #183821) for     0.566 $ (2.000 LRC) validUntilTimeBetweenOrders 1295963 seconds
+DBG [31906-101] accountId 163627 sold__ NFT (to__ #183821) for     0.566 $ (2.000 LRC) validUntilTimeBetweenOrders 1295957 seconds
+DBG [31906-102] accountId 163627 sold__ NFT (to__ #183821) for     0.566 $ (2.000 LRC) validUntilTimeBetweenOrders 1295945 seconds
+DBG [31906-103] accountId 163627 sold__ NFT (to__ #183821) for     0.566 $ (2.000 LRC) validUntilTimeBetweenOrders 1295939 seconds
+DBG [31906-104] accountId 163627 sold__ NFT (to__ #183821) for     0.566 $ (2.000 LRC) validUntilTimeBetweenOrders 1295933 seconds
+DBG [31906-105] accountId 163627 sold__ NFT (to__ #183821) for     0.566 $ (2.000 LRC) validUntilTimeBetweenOrders 1295924 seconds
+DBG [31906-106] accountId 163627 sold__ NFT (to__ #183821) for     0.566 $ (2.000 LRC) validUntilTimeBetweenOrders 1295919 seconds
+DBG [31906-107] accountId 163627 sold__ NFT (to__ #183821) for     0.566 $ (2.000 LRC) validUntilTimeBetweenOrders 1295914 seconds
+DBG [31906-108] accountId 163627 sold__ NFT (to__ #183821) for     0.566 $ (2.000 LRC) validUntilTimeBetweenOrders 1295909 seconds
+DBG [31906-109] accountId 163627 sold__ NFT (to__ #183821) for     0.566 $ (2.000 LRC) validUntilTimeBetweenOrders 1295904 seconds
+DBG [31906-110] accountId 163627 sold__ NFT (to__ #183821) for     0.566 $ (2.000 LRC) validUntilTimeBetweenOrders 1295900 seconds
+DBG [31906-111] accountId 163627 sold__ NFT (to__ #183821) for     0.566 $ (2.000 LRC) validUntilTimeBetweenOrders 1295895 seconds
+DBG [31906-112] accountId 163627 sold__ NFT (to__ #183821) for     0.566 $ (2.000 LRC) validUntilTimeBetweenOrders 1295890 seconds
+DBG [31906-113] accountId 163627 sold__ NFT (to__ #183821) for     0.566 $ (2.000 LRC) validUntilTimeBetweenOrders 1295884 seconds
+DBG [31906-114] accountId 163627 sold__ NFT (to__ #183821) for     0.566 $ (2.000 LRC) validUntilTimeBetweenOrders 1295880 seconds
+DBG [31906-142] accountId 163627 sold__ NFT (to__ #183821) for     0.563 $ (2.000 LRC) validUntilTimeBetweenOrders 1295874 seconds
+DBG [31906-143] accountId 163627 sold__ NFT (to__ #183821) for     0.563 $ (2.000 LRC) validUntilTimeBetweenOrders 1295870 seconds
+DBG [31906-144] accountId 163627 sold__ NFT (to__ #183821) for     0.563 $ (2.000 LRC) validUntilTimeBetweenOrders 1295865 seconds
+DBG [31906-145] accountId 163627 sold__ NFT (to__ #183821) for     0.563 $ (2.000 LRC) validUntilTimeBetweenOrders 1295860 seconds
+DBG [31906-146] accountId 163627 sold__ NFT (to__ #183821) for     0.563 $ (2.000 LRC) validUntilTimeBetweenOrders 1295855 seconds
+DBG [31906-179] accountId 163627 sold__ NFT (to__ #183821) for     0.562 $ (2.000 LRC) validUntilTimeBetweenOrders 1295898 seconds
+DBG [31906-180] accountId 163627 sold__ NFT (to__ #183821) for     0.562 $ (2.000 LRC) validUntilTimeBetweenOrders 1295893 seconds
+DBG [31906-181] accountId 163627 sold__ NFT (to__ #183821) for     0.562 $ (2.000 LRC) validUntilTimeBetweenOrders 1295887 seconds
+DBG [31906-182] accountId 163627 sold__ NFT (to__ #183821) for     0.562 $ (2.000 LRC) validUntilTimeBetweenOrders 1295879 seconds
+DBG [31906-183] accountId 163627 sold__ NFT (to__ #183821) for     0.562 $ (2.000 LRC) validUntilTimeBetweenOrders 1295873 seconds
+DBG [31906-184] accountId 163627 sold__ NFT (to__ #183821) for     0.562 $ (2.000 LRC) validUntilTimeBetweenOrders 1295868 seconds
+DBG [31906-185] accountId 163627 sold__ NFT (to__ #183821) for     0.562 $ (2.000 LRC) validUntilTimeBetweenOrders 1295863 seconds
+DBG [31906-186] accountId 163627 sold__ NFT (to__ #183821) for     0.562 $ (2.000 LRC) validUntilTimeBetweenOrders 1295858 seconds
+DBG [31906-187] accountId 163627 sold__ NFT (to__ #183821) for     0.562 $ (2.000 LRC) validUntilTimeBetweenOrders 1295853 seconds
+DBG [31906-188] accountId 163627 sold__ NFT (to__ #183821) for     0.562 $ (2.000 LRC) validUntilTimeBetweenOrders 1295848 seconds
+DBG [31906-189] accountId 163627 sold__ NFT (to__ #183821) for     0.562 $ (2.000 LRC) validUntilTimeBetweenOrders 1295841 seconds
+DBG [31906-190] accountId 163627 sold__ NFT (to__ #183821) for     0.562 $ (2.000 LRC) validUntilTimeBetweenOrders 1295836 seconds
+DBG [31906-191] accountId 163627 sold__ NFT (to__ #183821) for     0.562 $ (2.000 LRC) validUntilTimeBetweenOrders 1295830 seconds
+DBG [31906-192] accountId 163627 sold__ NFT (to__ #183821) for     0.562 $ (2.000 LRC) validUntilTimeBetweenOrders 1295825 seconds
+DBG [31906-193] accountId 163627 sold__ NFT (to__ #183821) for     0.562 $ (2.000 LRC) validUntilTimeBetweenOrders 1295820 seconds
+DBG [31906-194] accountId 163627 sold__ NFT (to__ #183821) for     0.562 $ (2.000 LRC) validUntilTimeBetweenOrders 1295815 seconds
+DBG [31906-242] accountId 163627 sold__ NFT (to__ #183821) for     1.518 $ (5.400 LRC) validUntilTimeBetweenOrders 1295934 seconds
+DBG [31906-278] accountId 163627 sold__ NFT (to__ #183821) for     0.673 $ (2.400 LRC) validUntilTimeBetweenOrders 1295724 seconds
+DBG [31906-279] accountId 163627 sold__ NFT (to__ #183821) for     0.673 $ (2.400 LRC) validUntilTimeBetweenOrders 1295719 seconds
+DBG [31906-280] accountId 163627 sold__ NFT (to__ #183821) for     0.673 $ (2.400 LRC) validUntilTimeBetweenOrders 1295714 seconds
+DBG [31906-281] accountId 163627 sold__ NFT (to__ #183821) for     0.673 $ (2.400 LRC) validUntilTimeBetweenOrders 1295710 seconds
+DBG [31906-282] accountId 163627 sold__ NFT (to__ #183821) for     0.673 $ (2.400 LRC) validUntilTimeBetweenOrders 1295704 seconds
+DBG [31906-283] accountId 163627 sold__ NFT (to__ #183821) for     0.673 $ (2.400 LRC) validUntilTimeBetweenOrders 1295699 seconds
+DBG [31906-284] accountId 163627 sold__ NFT (to__ #183821) for     0.673 $ (2.400 LRC) validUntilTimeBetweenOrders 1295694 seconds
+DBG [31906-285] accountId 163627 sold__ NFT (to__ #183821) for     0.673 $ (2.400 LRC) validUntilTimeBetweenOrders 1295688 seconds
+DBG [31906-286] accountId 163627 sold__ NFT (to__ #183821) for     0.673 $ (2.400 LRC) validUntilTimeBetweenOrders 1295683 seconds
+DBG [31906-287] accountId 163627 sold__ NFT (to__ #183821) for     0.673 $ (2.400 LRC) validUntilTimeBetweenOrders 1295678 seconds
+DBG [31906-288] accountId 163627 sold__ NFT (to__ #183821) for     0.673 $ (2.400 LRC) validUntilTimeBetweenOrders 1295673 seconds
+DBG [31906-289] accountId 163627 sold__ NFT (to__ #183821) for     0.673 $ (2.400 LRC) validUntilTimeBetweenOrders 1295667 seconds
+DBG [31906-290] accountId 163627 sold__ NFT (to__ #183821) for     0.673 $ (2.400 LRC) validUntilTimeBetweenOrders 1295661 seconds
+DBG [31906-291] accountId 163627 sold__ NFT (to__ #183821) for     0.673 $ (2.400 LRC) validUntilTimeBetweenOrders 1295656 seconds
+DBG [31906-304] accountId 163627 sold__ NFT (to__ #150464) for     0.676 $ (2.400 LRC) validUntilTimeBetweenOrders 1295537 seconds
+DBG [31906-305] accountId 163627 sold__ NFT (to__ #150464) for     0.620 $ (2.200 LRC) validUntilTimeBetweenOrders 1295406 seconds
+DBG [31907-8  ] accountId 163627 sold__ NFT (to__ #150464) for     0.845 $ (3.000 LRC) validUntilTimeBetweenOrders 1295164 seconds
+DBG [31907-9  ] accountId 163627 sold__ NFT (to__ #128466) for     0.620 $ (2.200 LRC) validUntilTimeBetweenOrders 1295280 seconds
+DBG [31907-28 ] accountId 163627 sold__ NFT (to__ #128466) for     0.620 $ (2.200 LRC) validUntilTimeBetweenOrders 1295258 seconds
+DBG [31907-29 ] accountId 163627 sold__ NFT (to__ #128466) for     0.620 $ (2.200 LRC) validUntilTimeBetweenOrders 1295249 seconds
+DBG [31907-30 ] accountId 163627 sold__ NFT (to__ #183821) for     0.959 $ (3.400 LRC) validUntilTimeBetweenOrders 1295087 seconds
+DBG [31907-31 ] accountId 163627 sold__ NFT (to__ #183821) for     0.959 $ (3.400 LRC) validUntilTimeBetweenOrders 1295082 seconds
+DBG [31907-32 ] accountId 163627 sold__ NFT (to__ #128466) for     0.620 $ (2.200 LRC) validUntilTimeBetweenOrders 1295046 seconds
+DBG [31907-33 ] accountId 163627 sold__ NFT (to__ #183821) for     0.959 $ (3.400 LRC) validUntilTimeBetweenOrders 1295076 seconds
+DBG [31907-34 ] accountId 163627 sold__ NFT (to__ #128466) for     0.620 $ (2.200 LRC) validUntilTimeBetweenOrders 1295037 seconds
+DBG [31907-35 ] accountId 163627 sold__ NFT (to__ #183821) for     0.959 $ (3.400 LRC) validUntilTimeBetweenOrders 1295071 seconds
+DBG [31907-36 ] accountId 163627 sold__ NFT (to__ #183821) for     0.959 $ (3.400 LRC) validUntilTimeBetweenOrders 1295065 seconds
+DBG [31907-37 ] accountId 163627 sold__ NFT (to__ #183821) for     0.959 $ (3.400 LRC) validUntilTimeBetweenOrders 1295059 seconds
+DBG [31907-38 ] accountId 163627 sold__ NFT (to__ #128466) for     0.677 $ (2.400 LRC) validUntilTimeBetweenOrders 1295286 seconds
+DBG [31907-66 ] accountId 163627 sold__ NFT (to__ #128466) for     0.846 $ (3.000 LRC) validUntilTimeBetweenOrders 1294934 seconds
+DBG [31907-67 ] accountId 163627 sold__ NFT (to__ #128466) for     0.846 $ (3.000 LRC) validUntilTimeBetweenOrders 1294876 seconds
+DBG [31907-68 ] accountId 163627 sold__ NFT (to__ #128466) for     0.846 $ (3.000 LRC) validUntilTimeBetweenOrders 1294869 seconds
+DBG [31907-69 ] accountId 163627 sold__ NFT (to__ #128466) for     0.846 $ (3.000 LRC) validUntilTimeBetweenOrders 1294858 seconds
+DBG [31907-86 ] accountId 163627 sold__ NFT (to__ #183821) for     0.620 $ (2.200 LRC) validUntilTimeBetweenOrders 1294876 seconds
+DBG [31907-87 ] accountId 163627 sold__ NFT (to__ #183821) for     0.620 $ (2.200 LRC) validUntilTimeBetweenOrders 1294870 seconds
+DBG [31907-88 ] accountId 163627 sold__ NFT (to__ #183821) for     0.620 $ (2.200 LRC) validUntilTimeBetweenOrders 1294865 seconds
+DBG [31907-89 ] accountId 163627 sold__ NFT (to__ #183821) for     0.663 $ (2.350 LRC) validUntilTimeBetweenOrders 1294759 seconds
+DBG [31907-90 ] accountId 163627 sold__ NFT (to__ #183821) for     0.663 $ (2.350 LRC) validUntilTimeBetweenOrders 1294748 seconds
+DBG [31907-91 ] accountId 163627 sold__ NFT (to__ #183821) for     0.663 $ (2.350 LRC) validUntilTimeBetweenOrders 1294743 seconds
+DBG [31907-92 ] accountId 163627 sold__ NFT (to__ #183821) for     0.663 $ (2.350 LRC) validUntilTimeBetweenOrders 1294737 seconds
+DBG [31907-93 ] accountId 163627 sold__ NFT (to__ #183821) for     0.663 $ (2.350 LRC) validUntilTimeBetweenOrders 1294732 seconds
+DBG [31907-94 ] accountId 163627 sold__ NFT (to__ #183821) for     0.663 $ (2.350 LRC) validUntilTimeBetweenOrders 1294727 seconds
+DBG [31907-95 ] accountId 163627 sold__ NFT (to__ #183821) for     0.663 $ (2.350 LRC) validUntilTimeBetweenOrders 1294724 seconds
+DBG [31907-96 ] accountId 163627 sold__ NFT (to__ #183821) for     0.663 $ (2.350 LRC) validUntilTimeBetweenOrders 1294719 seconds
+DBG [31907-97 ] accountId 163627 sold__ NFT (to__ #128466) for     0.620 $ (2.200 LRC) validUntilTimeBetweenOrders 1294784 seconds
+DBG [31907-98 ] accountId 163627 sold__ NFT (to__ #183821) for     0.663 $ (2.350 LRC) validUntilTimeBetweenOrders 1294714 seconds
+DBG [31907-99 ] accountId 163627 sold__ NFT (to__ #183821) for     0.663 $ (2.350 LRC) validUntilTimeBetweenOrders 1294709 seconds
+DBG [31907-135] accountId 163627 sold__ NFT (to__ #150464) for     3.411 $ (12.100 LRC) validUntilTimeBetweenOrders 1294511 seconds
+DBG [31907-169] accountId 163627 sold__ NFT (to__ #128466) for    13.025 $ (46.200 LRC) validUntilTimeBetweenOrders 1295733 seconds
+DBG [31907-189] accountId 163627 sold__ NFT (to__ #128466) for    10.550 $ (37.400 LRC) validUntilTimeBetweenOrders 1295919 seconds
+DBG [31907-190] accountId 163627 sold__ NFT (to__ #128466) for    17.376 $ (61.600 LRC) validUntilTimeBetweenOrders 1295828 seconds
+DBG [31907-215] accountId 163627 bought NFT (from #163627) for     1.553 $ (5.500 LRC) validUntilTimeBetweenOrders 1294211 seconds
+DBG [31907-215] accountId 163627 sold__ NFT (to__ #163627) for     1.553 $ (5.500 LRC) validUntilTimeBetweenOrders 1294211 seconds
+DBG [31907-216] accountId 163627 bought NFT (from #163627) for     1.553 $ (5.500 LRC) validUntilTimeBetweenOrders 1294193 seconds
+DBG [31907-216] accountId 163627 sold__ NFT (to__ #163627) for     1.553 $ (5.500 LRC) validUntilTimeBetweenOrders 1294193 seconds
+DBG [31907-217] accountId 163627 sold__ NFT (to__ #128466) for    15.756 $ (55.800 LRC) validUntilTimeBetweenOrders 1295905 seconds
+DBG [31907-229] accountId 163627 sold__ NFT (to__ #128466) for    14.879 $ (52.700 LRC) validUntilTimeBetweenOrders 1295905 seconds
+DBG [31908-79 ] accountId 163627 sold__ NFT (to__ #128466) for    42.462 $ (150.000 LRC) validUntilTimeBetweenOrders 1295341 seconds
+DBG [31911-161] accountId 163627 sold__ NFT (to__ # 42110) for     1.254 $ (4.500 LRC) validUntilTimeBetweenOrders 1287591 seconds
+DBG [31911-162] accountId 163627 sold__ NFT (to__ # 42110) for     1.254 $ (4.500 LRC) validUntilTimeBetweenOrders 1287579 seconds
+DBG [31911-163] accountId 163627 sold__ NFT (to__ # 42110) for     1.254 $ (4.500 LRC) validUntilTimeBetweenOrders 1287563 seconds
+DBG [31911-164] accountId 163627 sold__ NFT (to__ # 42110) for     1.254 $ (4.500 LRC) validUntilTimeBetweenOrders 1287551 seconds
+DBG [31939-105] accountId 163627 sold__ NFT (to__ #178035) for     1.835 $ (6.500 LRC) validUntilTimeBetweenOrders 1237634 seconds
+DBG [31939-106] accountId 163627 sold__ NFT (to__ #178035) for     1.835 $ (6.500 LRC) validUntilTimeBetweenOrders 1237623 seconds
+DBG [31939-107] accountId 163627 sold__ NFT (to__ #178035) for     1.835 $ (6.500 LRC) validUntilTimeBetweenOrders 1237611 seconds
+DBG [31955-116] accountId 163627 sold__ NFT (to__ #128466) for     1.817 $ (6.500 LRC) validUntilTimeBetweenOrders 1212658 seconds
+DBG [31970-128] accountId 163627 sold__ NFT (to__ #167580) for     1.798 $ (6.500 LRC) validUntilTimeBetweenOrders 1190668 seconds
+DBG [31997-56 ] accountId 163627 sold__ NFT (to__ #178035) for     1.778 $ (6.500 LRC) validUntilTimeBetweenOrders 1141333 seconds
+DBG [31997-57 ] accountId 163627 sold__ NFT (to__ #178035) for     1.778 $ (6.500 LRC) validUntilTimeBetweenOrders 1141322 seconds
+DBG [32001-70 ] accountId 163627 sold__ NFT (to__ #154458) for     1.777 $ (6.500 LRC) validUntilTimeBetweenOrders 1137536 seconds
+DBG [32001-92 ] accountId 163627 sold__ NFT (to__ #154458) for     1.775 $ (6.500 LRC) validUntilTimeBetweenOrders 1137488 seconds
+DBG [32001-93 ] accountId 163627 sold__ NFT (to__ #154458) for     1.775 $ (6.500 LRC) validUntilTimeBetweenOrders 1137435 seconds
+DBG [32002-364] accountId 163627 sold__ NFT (to__ #128967) for     3.313 $ (12.100 LRC) validUntilTimeBetweenOrders 1134957 seconds
+DBG [32002-365] accountId 163627 sold__ NFT (to__ #128967) for     3.313 $ (12.100 LRC) validUntilTimeBetweenOrders 1134932 seconds
+DBG [32002-377] accountId 163627 sold__ NFT (to__ #128967) for     3.313 $ (12.100 LRC) validUntilTimeBetweenOrders 1134921 seconds
+DBG [32004-155] accountId 163627 bought NFT (from #162853) for     2.259 $ (8.250 LRC) validUntilTimeBetweenOrders 869492 seconds
+DBG [32004-156] accountId 163627 bought NFT (from #162853) for     2.259 $ (8.250 LRC) validUntilTimeBetweenOrders 869477 seconds
+DBG [32004-166] accountId 163627 bought NFT (from #162853) for     2.259 $ (8.250 LRC) validUntilTimeBetweenOrders 869451 seconds
+DBG [32004-196] accountId 163627 bought NFT (from # 41885) for     1.568 $ (0.001 ETH) validUntilTimeBetweenOrders 54135 seconds
+DBG [32004-249] accountId 163627 bought NFT (from # 43778) for     1.253 $ (0.001 ETH) validUntilTimeBetweenOrders 243791 seconds
+DBG [32004-250] accountId 163627 bought NFT (from # 43778) for     1.253 $ (0.001 ETH) validUntilTimeBetweenOrders 243791 seconds
+DBG [32101-155] accountId 163627 sold__ NFT (to__ # 97179) for     1.749 $ (6.500 LRC) validUntilTimeBetweenOrders 1041114 seconds
+DBG [32101-156] accountId 163627 sold__ NFT (to__ # 97179) for     1.749 $ (6.500 LRC) validUntilTimeBetweenOrders 1041104 seconds
+DBG [32101-157] accountId 163627 sold__ NFT (to__ # 97179) for     1.749 $ (6.500 LRC) validUntilTimeBetweenOrders 1041041 seconds
+DBG [32101-158] accountId 163627 sold__ NFT (to__ # 97179) for     1.749 $ (6.500 LRC) validUntilTimeBetweenOrders 1041030 seconds
+DBG [32102-2  ] accountId 163627 sold__ NFT (to__ # 97179) for     1.749 $ (6.500 LRC) validUntilTimeBetweenOrders 1041020 seconds
+DBG [32209-124] accountId 163627 sold__ NFT (to__ # 38136) for     3.306 $ (12.100 LRC) validUntilTimeBetweenOrders 905633 seconds
+DBG [32209-125] accountId 163627 sold__ NFT (to__ # 38136) for     3.306 $ (12.100 LRC) validUntilTimeBetweenOrders 905618 seconds
+DBG [32209-148] accountId 163627 sold__ NFT (to__ # 38136) for     3.298 $ (12.100 LRC) validUntilTimeBetweenOrders 905582 seconds
+DBG [32547-16 ] accountId 163627 bought NFT (from # 91564) for     5.582 $ (0.004 ETH) validUntilTimeBetweenOrders 1120614 seconds
+DBG [32663-38 ] accountId 163627 sold__ NFT (to__ # 42110) for     2.817 $ (10.300 LRC) validUntilTimeBetweenOrders 1287307 seconds
+DBG [32663-39 ] accountId 163627 sold__ NFT (to__ # 42110) for     2.817 $ (10.300 LRC) validUntilTimeBetweenOrders 1287293 seconds
+DBG [32663-61 ] accountId 163627 sold__ NFT (to__ # 42110) for     2.806 $ (10.300 LRC) validUntilTimeBetweenOrders 1287280 seconds
+DBG [32663-62 ] accountId 163627 sold__ NFT (to__ # 42110) for     2.806 $ (10.300 LRC) validUntilTimeBetweenOrders 1287265 seconds
+DBG [32663-63 ] accountId 163627 sold__ NFT (to__ # 42110) for     2.806 $ (10.300 LRC) validUntilTimeBetweenOrders 1287251 seconds
+DBG [32663-64 ] accountId 163627 sold__ NFT (to__ # 42110) for     2.806 $ (10.300 LRC) validUntilTimeBetweenOrders 1287237 seconds
+DBG [32665-321] accountId 163627 sold__ NFT (to__ #113678) for     2.807 $ (10.300 LRC) validUntilTimeBetweenOrders 1283370 seconds
+DBG [32665-322] accountId 163627 sold__ NFT (to__ #113678) for     2.807 $ (10.300 LRC) validUntilTimeBetweenOrders 1283356 seconds
+DBG [32665-323] accountId 163627 sold__ NFT (to__ #113678) for     2.807 $ (10.300 LRC) validUntilTimeBetweenOrders 1283344 seconds
+DBG [32665-324] accountId 163627 sold__ NFT (to__ #113678) for     2.807 $ (10.300 LRC) validUntilTimeBetweenOrders 1283334 seconds
+DBG [32665-373] accountId 163627 sold__ NFT (to__ #113678) for     2.795 $ (10.300 LRC) validUntilTimeBetweenOrders 1283321 seconds
+DBG [32766-85 ] accountId 163627 sold__ NFT (to__ #128466) for     2.015 $ (8.000 LRC) validUntilTimeBetweenOrders 1295943 seconds
+DBG [32766-86 ] accountId 163627 sold__ NFT (to__ #128466) for     2.015 $ (8.000 LRC) validUntilTimeBetweenOrders 1295934 seconds
+DBG [32767-109] accountId 163627 sold__ NFT (to__ #113678) for     1.010 $ (4.000 LRC) validUntilTimeBetweenOrders 1294487 seconds
+DBG [32769-211] accountId 163627 sold__ NFT (to__ #128466) for    80.259 $ (320.000 LRC) validUntilTimeBetweenOrders 1295941 seconds
+DBG [32811-123] accountId 163627 sold__ NFT (to__ #175213) for    74.366 $ (0.060 ETH) validUntilTimeBetweenOrders 66507 seconds
+DBG [32899-191] accountId 163627 sold__ NFT (to__ # 39627) for   113.182 $ (0.092 ETH) validUntilTimeBetweenOrders 3785 seconds
+DBG [32899-356] accountId 163627 sold__ NFT (to__ # 39643) for    99.103 $ (0.081 ETH) validUntilTimeBetweenOrders 4003 seconds
+DBG [32922-8  ] accountId 163627 sold__ NFT (to__ #190461) for     0.716 $ (2.850 LRC) validUntilTimeBetweenOrders 1086228 seconds
+DBG [32922-53 ] accountId 163627 sold__ NFT (to__ #190461) for     0.716 $ (2.850 LRC) validUntilTimeBetweenOrders 1085602 seconds
+DBG [32978-168] accountId 163627 sold__ NFT (to__ #190461) for     0.754 $ (2.850 LRC) validUntilTimeBetweenOrders 999501 seconds
+DBG [33216-38 ] accountId 163627 sold__ NFT (to__ # 42110) for     1.239 $ (5.000 LRC) validUntilTimeBetweenOrders 646528 seconds
+DBG [33216-39 ] accountId 163627 sold__ NFT (to__ # 42110) for     1.239 $ (5.000 LRC) validUntilTimeBetweenOrders 646513 seconds
+DBG [33216-50 ] accountId 163627 sold__ NFT (to__ # 42110) for     1.239 $ (5.000 LRC) validUntilTimeBetweenOrders 646503 seconds
+DBG [33216-51 ] accountId 163627 sold__ NFT (to__ # 42110) for     1.239 $ (5.000 LRC) validUntilTimeBetweenOrders 646495 seconds
+DBG [33216-52 ] accountId 163627 sold__ NFT (to__ # 42110) for     1.239 $ (5.000 LRC) validUntilTimeBetweenOrders 646486 seconds
+DBG [33216-53 ] accountId 163627 sold__ NFT (to__ # 42110) for     1.239 $ (5.000 LRC) validUntilTimeBetweenOrders 646476 seconds
+DBG [33216-54 ] accountId 163627 sold__ NFT (to__ # 42110) for     1.239 $ (5.000 LRC) validUntilTimeBetweenOrders 646469 seconds
+DBG [33216-55 ] accountId 163627 sold__ NFT (to__ # 42110) for     1.239 $ (5.000 LRC) validUntilTimeBetweenOrders 646459 seconds
+DBG [33216-56 ] accountId 163627 sold__ NFT (to__ # 42110) for     1.239 $ (5.000 LRC) validUntilTimeBetweenOrders 646438 seconds
+DBG [33216-57 ] accountId 163627 sold__ NFT (to__ # 42110) for     1.239 $ (5.000 LRC) validUntilTimeBetweenOrders 646428 seconds

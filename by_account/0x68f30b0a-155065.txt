@@ -1,0 +1,56 @@
+DBG [29460-39 ] accountId 155065 sold__ NFT (to__ #128466) for   520.072 $ (0.400 ETH) validUntilTimeBetweenOrders 2058790 seconds
+DBG [29506-45 ] accountId 155065 bought NFT (from #157822) for     3.447 $ (0.003 ETH) validUntilTimeBetweenOrders 6287 seconds
+DBG [29506-58 ] accountId 155065 bought NFT (from #125891) for   184.498 $ (0.133 ETH) validUntilTimeBetweenOrders 18709 seconds
+DBG [29506-102] accountId 155065 bought NFT (from #157822) for     6.880 $ (0.005 ETH) validUntilTimeBetweenOrders 6398 seconds
+DBG [29506-103] accountId 155065 bought NFT (from #128967) for    12.659 $ (0.009 ETH) validUntilTimeBetweenOrders 17892 seconds
+DBG [29506-104] accountId 155065 bought NFT (from #157822) for    20.640 $ (0.015 ETH) validUntilTimeBetweenOrders 6398 seconds
+DBG [29506-268] accountId 155065 bought NFT (from #101491) for     2.754 $ (0.002 ETH) validUntilTimeBetweenOrders 8745 seconds
+DBG [29506-269] accountId 155065 bought NFT (from #157822) for     5.507 $ (0.004 ETH) validUntilTimeBetweenOrders 7890 seconds
+DBG [29506-300] accountId 155065 bought NFT (from #102062) for     3.096 $ (0.002 ETH) validUntilTimeBetweenOrders 990 seconds
+DBG [29506-301] accountId 155065 bought NFT (from #157822) for     3.425 $ (0.003 ETH) validUntilTimeBetweenOrders 7890 seconds
+DBG [29506-302] accountId 155065 bought NFT (from #162902) for     3.425 $ (0.003 ETH) validUntilTimeBetweenOrders 8637 seconds
+DBG [29506-303] accountId 155065 bought NFT (from #162902) for     3.425 $ (0.003 ETH) validUntilTimeBetweenOrders 83290 seconds
+DBG [29506-304] accountId 155065 bought NFT (from #157822) for     3.425 $ (0.003 ETH) validUntilTimeBetweenOrders 7890 seconds
+DBG [29506-305] accountId 155065 bought NFT (from #185981) for     3.480 $ (0.003 ETH) validUntilTimeBetweenOrders 71613 seconds
+DBG [29506-306] accountId 155065 bought NFT (from #124602) for     3.562 $ (0.003 ETH) validUntilTimeBetweenOrders 60143 seconds
+DBG [29506-328] accountId 155065 bought NFT (from #128466) for     3.767 $ (0.003 ETH) validUntilTimeBetweenOrders 145428 seconds
+DBG [29506-329] accountId 155065 bought NFT (from #128466) for     3.835 $ (0.003 ETH) validUntilTimeBetweenOrders 141088 seconds
+DBG [29506-330] accountId 155065 bought NFT (from # 41243) for     3.972 $ (0.003 ETH) validUntilTimeBetweenOrders 100252 seconds
+DBG [29506-331] accountId 155065 bought NFT (from #185981) for     4.575 $ (0.003 ETH) validUntilTimeBetweenOrders 12228 seconds
+DBG [29506-332] accountId 155065 bought NFT (from #162902) for     6.574 $ (0.005 ETH) validUntilTimeBetweenOrders 35157 seconds
+DBG [29506-333] accountId 155065 bought NFT (from #134158) for     6.574 $ (0.005 ETH) validUntilTimeBetweenOrders 15549 seconds
+DBG [29506-344] accountId 155065 bought NFT (from #144127) for     6.711 $ (0.005 ETH) validUntilTimeBetweenOrders 5857 seconds
+DBG [29506-345] accountId 155065 bought NFT (from #157822) for     9.587 $ (0.007 ETH) validUntilTimeBetweenOrders 20758 seconds
+DBG [29507-7  ] accountId 155065 bought NFT (from #129927) for    13.696 $ (0.010 ETH) validUntilTimeBetweenOrders 30615 seconds
+DBG [29507-82 ] accountId 155065 bought NFT (from # 97981) for    34.221 $ (0.025 ETH) validUntilTimeBetweenOrders 24174 seconds
+DBG [29507-111] accountId 155065 bought NFT (from #163100) for    39.660 $ (0.029 ETH) validUntilTimeBetweenOrders 169638 seconds
+DBG [29507-309] accountId 155065 bought NFT (from #127781) for     0.683 $ (0.001 ETH) validUntilTimeBetweenOrders 229438 seconds
+DBG [29512-58 ] accountId 155065 bought NFT (from # 45829) for    67.308 $ (0.050 ETH) validUntilTimeBetweenOrders 17707 seconds
+DBG [29519-250] accountId 155065 bought NFT (from #169320) for     1.374 $ (0.001 ETH) validUntilTimeBetweenOrders 3408541 seconds
+DBG [29534-281] accountId 155065 bought NFT (from #154235) for     1.359 $ (0.001 ETH) validUntilTimeBetweenOrders 2300 seconds
+DBG [29534-294] accountId 155065 bought NFT (from #154235) for     1.359 $ (0.001 ETH) validUntilTimeBetweenOrders 2360 seconds
+DBG [29534-295] accountId 155065 bought NFT (from # 43274) for     0.951 $ (0.001 ETH) validUntilTimeBetweenOrders 5026 seconds
+DBG [29534-297] accountId 155065 bought NFT (from #154235) for     1.359 $ (0.001 ETH) validUntilTimeBetweenOrders 2360 seconds
+DBG [29534-299] accountId 155065 bought NFT (from # 43274) for     0.679 $ (0.001 ETH) validUntilTimeBetweenOrders 5026 seconds
+DBG [29534-326] accountId 155065 bought NFT (from #154235) for     1.359 $ (0.001 ETH) validUntilTimeBetweenOrders 2360 seconds
+DBG [29534-328] accountId 155065 bought NFT (from # 43274) for     0.679 $ (0.001 ETH) validUntilTimeBetweenOrders 5026 seconds
+DBG [29534-329] accountId 155065 bought NFT (from #154235) for     1.359 $ (0.001 ETH) validUntilTimeBetweenOrders 2360 seconds
+DBG [29585-11 ] accountId 155065 bought NFT (from #128376) for     0.674 $ (0.001 ETH) validUntilTimeBetweenOrders 2877 seconds
+DBG [29643-14 ] accountId 155065 bought NFT (from #133493) for     0.646 $ (0.001 ETH) validUntilTimeBetweenOrders 11770 seconds
+DBG [29643-15 ] accountId 155065 bought NFT (from #133493) for     0.646 $ (0.001 ETH) validUntilTimeBetweenOrders 11770 seconds
+DBG [29643-288] accountId 155065 bought NFT (from #163154) for     0.644 $ (0.001 ETH) validUntilTimeBetweenOrders 3578 seconds
+DBG [29718-46 ] accountId 155065 bought NFT (from #162773) for     4.131 $ (0.003 ETH) validUntilTimeBetweenOrders 157 seconds
+DBG [29718-116] accountId 155065 bought NFT (from #169320) for     1.333 $ (0.001 ETH) validUntilTimeBetweenOrders 3724787 seconds
+DBG [29718-130] accountId 155065 bought NFT (from #169320) for     1.333 $ (0.001 ETH) validUntilTimeBetweenOrders 3729566 seconds
+DBG [29718-132] accountId 155065 bought NFT (from #169320) for     1.333 $ (0.001 ETH) validUntilTimeBetweenOrders 3729566 seconds
+DBG [29718-153] accountId 155065 bought NFT (from #169320) for     1.335 $ (0.001 ETH) validUntilTimeBetweenOrders 3729933 seconds
+DBG [29718-160] accountId 155065 bought NFT (from #169320) for     0.667 $ (0.001 ETH) validUntilTimeBetweenOrders 3729997 seconds
+DBG [29718-185] accountId 155065 bought NFT (from #169320) for     0.667 $ (0.001 ETH) validUntilTimeBetweenOrders 3730062 seconds
+DBG [29718-187] accountId 155065 bought NFT (from #169320) for     1.335 $ (0.001 ETH) validUntilTimeBetweenOrders 3730062 seconds
+DBG [29718-188] accountId 155065 bought NFT (from #169320) for     1.335 $ (0.001 ETH) validUntilTimeBetweenOrders 3730062 seconds
+DBG [29718-191] accountId 155065 bought NFT (from #169320) for     1.335 $ (0.001 ETH) validUntilTimeBetweenOrders 3725283 seconds
+DBG [29718-209] accountId 155065 bought NFT (from #169320) for     1.335 $ (0.001 ETH) validUntilTimeBetweenOrders 3725397 seconds
+DBG [29718-211] accountId 155065 bought NFT (from #169320) for     1.335 $ (0.001 ETH) validUntilTimeBetweenOrders 3725397 seconds
+DBG [29718-212] accountId 155065 bought NFT (from #169320) for     1.335 $ (0.001 ETH) validUntilTimeBetweenOrders 3725397 seconds
+DBG [29718-213] accountId 155065 bought NFT (from #169320) for     1.335 $ (0.001 ETH) validUntilTimeBetweenOrders 3725397 seconds
+DBG [29718-221] accountId 155065 bought NFT (from #169320) for     1.335 $ (0.001 ETH) validUntilTimeBetweenOrders 3725397 seconds

@@ -1,0 +1,77 @@
+DBG [29509-9  ] accountId 174366 sold__ NFT (to__ #101505) for     0.120 $ (0.390 LRC) validUntilTimeBetweenOrders 981527 seconds
+DBG [29521-30 ] accountId 174366 sold__ NFT (to__ # 42004) for     0.770 $ (2.500 LRC) validUntilTimeBetweenOrders 957476 seconds
+DBG [29535-172] accountId 174366 sold__ NFT (to__ #179114) for     0.430 $ (1.410 LRC) validUntilTimeBetweenOrders 929511 seconds
+DBG [29860-106] accountId 174366 sold__ NFT (to__ # 40714) for     2.218 $ (7.500 LRC) validUntilTimeBetweenOrders 406038 seconds
+DBG [29979-131] accountId 174366 bought NFT (from # 95753) for    91.744 $ (0.069 ETH) validUntilTimeBetweenOrders 277 seconds
+DBG [30025-119] accountId 174366 bought NFT (from #188603) for   267.876 $ (0.200 ETH) validUntilTimeBetweenOrders 7358 seconds
+DBG [30025-141] accountId 174366 bought NFT (from #188603) for   107.150 $ (0.080 ETH) validUntilTimeBetweenOrders 7224 seconds
+DBG [30025-202] accountId 174366 bought NFT (from #188603) for    53.351 $ (0.040 ETH) validUntilTimeBetweenOrders 7121 seconds
+DBG [30035-139] accountId 174366 sold__ NFT (to__ # 42250) for     2.987 $ (10.000 LRC) validUntilTimeBetweenOrders 149761 seconds
+DBG [30713-75 ] accountId 174366 sold__ NFT (to__ #150464) for     0.566 $ (1.999 LRC) validUntilTimeBetweenOrders 795170 seconds
+DBG [30792-48 ] accountId 174366 sold__ NFT (to__ # 99915) for     0.266 $ (0.995 LRC) validUntilTimeBetweenOrders 935326 seconds
+DBG [31048-90 ] accountId 174366 sold__ NFT (to__ #143483) for     0.234 $ (0.900 LRC) validUntilTimeBetweenOrders 1070648 seconds
+DBG [31132-101] accountId 174366 bought NFT (from #188603) for    26.207 $ (0.020 ETH) validUntilTimeBetweenOrders 1665725 seconds
+DBG [31132-103] accountId 174366 bought NFT (from #136554) for    26.207 $ (0.020 ETH) validUntilTimeBetweenOrders 39168 seconds
+DBG [31145-46 ] accountId 174366 sold__ NFT (to__ #187261) for    27.556 $ (0.021 ETH) validUntilTimeBetweenOrders 24605 seconds
+DBG [31253-134] accountId 174366 sold__ NFT (to__ #146666) for     0.738 $ (3.000 LRC) validUntilTimeBetweenOrders 725399 seconds
+DBG [31291-118] accountId 174366 bought NFT (from # 47717) for   236.923 $ (0.185 ETH) validUntilTimeBetweenOrders 998 seconds
+DBG [31317-216] accountId 174366 sold__ NFT (to__ # 40778) for    51.917 $ (0.040 ETH) validUntilTimeBetweenOrders 106 seconds
+DBG [31318-76 ] accountId 174366 sold__ NFT (to__ #149841) for    51.787 $ (0.040 ETH) validUntilTimeBetweenOrders 5907 seconds
+DBG [31350-372] accountId 174366 bought NFT (from #191123) for    26.270 $ (0.020 ETH) validUntilTimeBetweenOrders 692 seconds
+DBG [31351-17 ] accountId 174366 bought NFT (from #188603) for    26.330 $ (0.020 ETH) validUntilTimeBetweenOrders 2005692 seconds
+DBG [31351-18 ] accountId 174366 bought NFT (from #188603) for    26.330 $ (0.020 ETH) validUntilTimeBetweenOrders 2005692 seconds
+DBG [31351-23 ] accountId 174366 bought NFT (from #188603) for    26.330 $ (0.020 ETH) validUntilTimeBetweenOrders 1990357 seconds
+DBG [31351-35 ] accountId 174366 bought NFT (from #191123) for    37.520 $ (0.029 ETH) validUntilTimeBetweenOrders 426 seconds
+DBG [31351-37 ] accountId 174366 bought NFT (from #143625) for    37.520 $ (0.029 ETH) validUntilTimeBetweenOrders 8107 seconds
+DBG [31552-258] accountId 174366 sold__ NFT (to__ # 41865) for     0.235 $ (0.900 LRC) validUntilTimeBetweenOrders 286378 seconds
+DBG [31584-42 ] accountId 174366 bought NFT (from #162773) for   142.714 $ (0.090 ETH) validUntilTimeBetweenOrders 224 seconds
+DBG [31584-99 ] accountId 174366 bought NFT (from # 76841) for   110.844 $ (420.000 LRC) validUntilTimeBetweenOrders 1030679 seconds
+DBG [31584-118] accountId 174366 bought NFT (from #189352) for    71.102 $ (0.045 ETH) validUntilTimeBetweenOrders 482811 seconds
+DBG [31584-133] accountId 174366 bought NFT (from #115677) for    78.894 $ (0.050 ETH) validUntilTimeBetweenOrders 165621 seconds
+DBG [31585-36 ] accountId 174366 sold__ NFT (to__ #139070) for    53.846 $ (0.034 ETH) validUntilTimeBetweenOrders 502 seconds
+DBG [31663-261] accountId 174366 sold__ NFT (to__ #140204) for    68.493 $ (0.044 ETH) validUntilTimeBetweenOrders 17460 seconds
+DBG [31943-63 ] accountId 174366 bought NFT (from #182341) for    60.539 $ (0.038 ETH) validUntilTimeBetweenOrders 7082 seconds
+DBG [32083-190] accountId 174366 sold__ NFT (to__ #149841) for    54.966 $ (0.035 ETH) validUntilTimeBetweenOrders 17812 seconds
+DBG [32083-191] accountId 174366 sold__ NFT (to__ #149841) for    46.044 $ (0.029 ETH) validUntilTimeBetweenOrders 17812 seconds
+DBG [32084-12 ] accountId 174366 sold__ NFT (to__ #149841) for    47.450 $ (0.030 ETH) validUntilTimeBetweenOrders 36504 seconds
+DBG [32126-57 ] accountId 174366 sold__ NFT (to__ # 85768) for    55.024 $ (0.035 ETH) validUntilTimeBetweenOrders 88896 seconds
+DBG [32305-333] accountId 174366 bought NFT (from # 61647) for    57.010 $ (0.035 ETH) validUntilTimeBetweenOrders 3255 seconds
+DBG [32308-95 ] accountId 174366 bought NFT (from #183604) for   131.436 $ (0.080 ETH) validUntilTimeBetweenOrders 60 seconds
+DBG [32311-109] accountId 174366 bought NFT (from #183604) for    65.926 $ (0.040 ETH) validUntilTimeBetweenOrders 2979 seconds
+DBG [32311-134] accountId 174366 bought NFT (from #183604) for    65.926 $ (0.040 ETH) validUntilTimeBetweenOrders 214 seconds
+DBG [32311-258] accountId 174366 bought NFT (from # 61647) for   230.741 $ (0.140 ETH) validUntilTimeBetweenOrders 2322 seconds
+DBG [32336-36 ] accountId 174366 sold__ NFT (to__ #188773) for    62.524 $ (0.038 ETH) validUntilTimeBetweenOrders 359618 seconds
+DBG [32344-81 ] accountId 174366 sold__ NFT (to__ #175024) for    84.264 $ (0.051 ETH) validUntilTimeBetweenOrders 6857 seconds
+DBG [32357-194] accountId 174366 sold__ NFT (to__ #163589) for    87.694 $ (0.053 ETH) validUntilTimeBetweenOrders 16131 seconds
+DBG [32366-167] accountId 174366 sold__ NFT (to__ #126200) for    80.145 $ (0.049 ETH) validUntilTimeBetweenOrders 1758 seconds
+DBG [32369-61 ] accountId 174366 sold__ NFT (to__ #164858) for    45.731 $ (0.028 ETH) validUntilTimeBetweenOrders 1199 seconds
+DBG [32396-192] accountId 174366 bought NFT (from #191951) for    17.905 $ (0.011 ETH) validUntilTimeBetweenOrders 43928 seconds
+DBG [32396-193] accountId 174366 bought NFT (from #191951) for    17.905 $ (0.011 ETH) validUntilTimeBetweenOrders 44010 seconds
+DBG [32396-196] accountId 174366 bought NFT (from #191951) for    39.682 $ (0.025 ETH) validUntilTimeBetweenOrders 43825 seconds
+DBG [32397-41 ] accountId 174366 bought NFT (from #191951) for    17.905 $ (0.011 ETH) validUntilTimeBetweenOrders 43928 seconds
+DBG [32422-193] accountId 174366 sold__ NFT (to__ # 41865) for     0.679 $ (2.000 LRC) validUntilTimeBetweenOrders 740795 seconds
+DBG [32422-262] accountId 174366 sold__ NFT (to__ # 41865) for     0.673 $ (2.000 LRC) validUntilTimeBetweenOrders 740951 seconds
+DBG [32427-97 ] accountId 174366 sold__ NFT (to__ # 84159) for     0.678 $ (2.000 LRC) validUntilTimeBetweenOrders 748750 seconds
+DBG [32451-88 ] accountId 174366 bought NFT (from #188603) for   158.131 $ (0.100 ETH) validUntilTimeBetweenOrders 406 seconds
+DBG [32455-190] accountId 174366 sold__ NFT (to__ # 53208) for   347.108 $ (0.220 ETH) validUntilTimeBetweenOrders 2730 seconds
+DBG [32457-281] accountId 174366 sold__ NFT (to__ # 38378) for   382.855 $ (0.240 ETH) validUntilTimeBetweenOrders 688 seconds
+DBG [32463-144] accountId 174366 sold__ NFT (to__ #161948) for     0.661 $ (2.000 LRC) validUntilTimeBetweenOrders 807918 seconds
+DBG [32494-142] accountId 174366 sold__ NFT (to__ # 91857) for     0.598 $ (2.000 LRC) validUntilTimeBetweenOrders 847924 seconds
+DBG [32494-173] accountId 174366 sold__ NFT (to__ # 91857) for     0.599 $ (2.000 LRC) validUntilTimeBetweenOrders 848462 seconds
+DBG [32494-174] accountId 174366 sold__ NFT (to__ # 91857) for     0.599 $ (2.000 LRC) validUntilTimeBetweenOrders 848299 seconds
+DBG [32582-15 ] accountId 174366 sold__ NFT (to__ #137765) for    45.888 $ (0.038 ETH) validUntilTimeBetweenOrders 8316 seconds
+DBG [32619-147] accountId 174366 sold__ NFT (to__ #173768) for    41.134 $ (0.035 ETH) validUntilTimeBetweenOrders 43431 seconds
+DBG [32858-123] accountId 174366 sold__ NFT (to__ #145636) for    44.136 $ (0.037 ETH) validUntilTimeBetweenOrders 274846 seconds
+DBG [32957-149] accountId 174366 sold__ NFT (to__ #143982) for    49.763 $ (0.040 ETH) validUntilTimeBetweenOrders 77833 seconds
+DBG [33006-64 ] accountId 174366 bought NFT (from #129278) for    95.710 $ (0.079 ETH) validUntilTimeBetweenOrders 50759 seconds
+DBG [33006-255] accountId 174366 bought NFT (from #163109) for    72.700 $ (0.060 ETH) validUntilTimeBetweenOrders 181235 seconds
+DBG [33006-263] accountId 174366 bought NFT (from # 43862) for    77.426 $ (0.064 ETH) validUntilTimeBetweenOrders 374249 seconds
+DBG [33007-6  ] accountId 174366 bought NFT (from #163109) for    72.700 $ (0.060 ETH) validUntilTimeBetweenOrders 181235 seconds
+DBG [33007-37 ] accountId 174366 bought NFT (from #126138) for    83.606 $ (0.069 ETH) validUntilTimeBetweenOrders 140106 seconds
+DBG [33007-41 ] accountId 174366 bought NFT (from #180021) for   208.529 $ (0.172 ETH) validUntilTimeBetweenOrders 1314 seconds
+DBG [33007-72 ] accountId 174366 bought NFT (from #183653) for    89.669 $ (0.074 ETH) validUntilTimeBetweenOrders 89416 seconds
+DBG [33125-118] accountId 174366 sold__ NFT (to__ #164858) for    60.374 $ (0.050 ETH) validUntilTimeBetweenOrders 23918 seconds
+DBG [33187-11 ] accountId 174366 sold__ NFT (to__ #188805) for    46.945 $ (0.039 ETH) validUntilTimeBetweenOrders 3796 seconds
+DBG [33187-71 ] accountId 174366 sold__ NFT (to__ #188805) for    46.945 $ (0.039 ETH) validUntilTimeBetweenOrders 4773 seconds
+DBG [33187-72 ] accountId 174366 sold__ NFT (to__ #188805) for    46.945 $ (0.039 ETH) validUntilTimeBetweenOrders 4773 seconds
+DBG [33240-122] accountId 174366 sold__ NFT (to__ #130364) for    58.610 $ (0.050 ETH) validUntilTimeBetweenOrders 8814 seconds

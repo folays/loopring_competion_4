@@ -1,0 +1,230 @@
+DBG [29455-8  ] accountId  40985 sold__ NFT (to__ #113678) for     9.315 $ (0.007 ETH) validUntilTimeBetweenOrders 4149 seconds
+DBG [29455-61 ] accountId  40985 sold__ NFT (to__ #156232) for     3.105 $ (0.002 ETH) validUntilTimeBetweenOrders 4682 seconds
+DBG [29455-109] accountId  40985 sold__ NFT (to__ #156232) for     6.576 $ (0.005 ETH) validUntilTimeBetweenOrders 3974 seconds
+DBG [29455-158] accountId  40985 sold__ NFT (to__ #156232) for     6.704 $ (0.005 ETH) validUntilTimeBetweenOrders 4895 seconds
+DBG [29455-188] accountId  40985 sold__ NFT (to__ #156232) for    13.395 $ (0.010 ETH) validUntilTimeBetweenOrders 4895 seconds
+DBG [29456-51 ] accountId  40985 sold__ NFT (to__ # 53112) for     3.874 $ (0.003 ETH) validUntilTimeBetweenOrders 6099 seconds
+DBG [29457-222] accountId  40985 bought NFT (from #162902) for    10.398 $ (0.008 ETH) validUntilTimeBetweenOrders 14672 seconds
+DBG [29457-302] accountId  40985 bought NFT (from # 41243) for    17.675 $ (0.013 ETH) validUntilTimeBetweenOrders 20307 seconds
+DBG [29459-21 ] accountId  40985 bought NFT (from #128466) for     5.860 $ (0.004 ETH) validUntilTimeBetweenOrders 55418 seconds
+DBG [29459-22 ] accountId  40985 bought NFT (from # 43591) for     2.604 $ (0.002 ETH) validUntilTimeBetweenOrders 4422 seconds
+DBG [29467-241] accountId  40985 sold__ NFT (to__ # 34145) for     2.370 $ (8.000 LRC) validUntilTimeBetweenOrders 38230 seconds
+DBG [29486-122] accountId  40985 sold__ NFT (to__ #178035) for     3.920 $ (0.003 ETH) validUntilTimeBetweenOrders 53271 seconds
+DBG [29511-54 ] accountId  40985 sold__ NFT (to__ #128466) for     3.555 $ (0.003 ETH) validUntilTimeBetweenOrders 99220 seconds
+DBG [29511-181] accountId  40985 bought NFT (from #163627) for     5.988 $ (0.004 ETH) validUntilTimeBetweenOrders 42148 seconds
+DBG [29519-79 ] accountId  40985 sold__ NFT (to__ #138239) for    10.733 $ (0.008 ETH) validUntilTimeBetweenOrders 107629 seconds
+DBG [29527-214] accountId  40985 bought NFT (from #145478) for     2.706 $ (0.002 ETH) validUntilTimeBetweenOrders 13118 seconds
+DBG [29527-215] accountId  40985 bought NFT (from #124602) for     8.931 $ (0.007 ETH) validUntilTimeBetweenOrders 14325 seconds
+DBG [29548-215] accountId  40985 sold__ NFT (to__ #162902) for     4.011 $ (0.003 ETH) validUntilTimeBetweenOrders 161234 seconds
+DBG [29564-153] accountId  40985 bought NFT (from # 43591) for     2.945 $ (0.002 ETH) validUntilTimeBetweenOrders 14224 seconds
+DBG [29565-181] accountId  40985 sold__ NFT (to__ #128466) for    14.797 $ (0.011 ETH) validUntilTimeBetweenOrders 2781 seconds
+DBG [29567-104] accountId  40985 sold__ NFT (to__ #174547) for     3.454 $ (0.003 ETH) validUntilTimeBetweenOrders 5871 seconds
+DBG [29568-87 ] accountId  40985 sold__ NFT (to__ #181689) for     3.427 $ (0.003 ETH) validUntilTimeBetweenOrders 7087 seconds
+DBG [29570-260] accountId  40985 bought NFT (from #124602) for     7.555 $ (0.006 ETH) validUntilTimeBetweenOrders 17703 seconds
+DBG [29570-261] accountId  40985 bought NFT (from #147812) for     8.550 $ (0.006 ETH) validUntilTimeBetweenOrders 97838 seconds
+DBG [29570-285] accountId  40985 bought NFT (from #102062) for     3.367 $ (0.003 ETH) validUntilTimeBetweenOrders 119702 seconds
+DBG [29579-106] accountId  40985 sold__ NFT (to__ #150464) for    67.387 $ (0.050 ETH) validUntilTimeBetweenOrders 1972 seconds
+DBG [29582-29 ] accountId  40985 bought NFT (from #128466) for    13.192 $ (0.010 ETH) validUntilTimeBetweenOrders 21342 seconds
+DBG [29582-61 ] accountId  40985 bought NFT (from #158406) for     4.708 $ (0.003 ETH) validUntilTimeBetweenOrders 9690 seconds
+DBG [29582-62 ] accountId  40985 bought NFT (from #167583) for    14.207 $ (0.011 ETH) validUntilTimeBetweenOrders 4657071 seconds
+DBG [29582-85 ] accountId  40985 bought NFT (from #167583) for    24.016 $ (0.018 ETH) validUntilTimeBetweenOrders 4697121 seconds
+DBG [29601-21 ] accountId  40985 sold__ NFT (to__ #174731) for    14.368 $ (0.011 ETH) validUntilTimeBetweenOrders 2233 seconds
+DBG [29601-275] accountId  40985 bought NFT (from #128466) for     8.251 $ (0.007 ETH) validUntilTimeBetweenOrders 7416 seconds
+DBG [29602-85 ] accountId  40985 bought NFT (from #170990) for     6.217 $ (0.005 ETH) validUntilTimeBetweenOrders 62956 seconds
+DBG [29646-78 ] accountId  40985 sold__ NFT (to__ #163373) for     2.477 $ (0.002 ETH) validUntilTimeBetweenOrders 188 seconds
+DBG [29658-224] accountId  40985 sold__ NFT (to__ #127929) for     2.527 $ (0.002 ETH) validUntilTimeBetweenOrders 6011 seconds
+DBG [29660-69 ] accountId  40985 sold__ NFT (to__ #152905) for     2.526 $ (0.002 ETH) validUntilTimeBetweenOrders 8774 seconds
+DBG [29671-56 ] accountId  40985 sold__ NFT (to__ #162853) for     2.692 $ (0.002 ETH) validUntilTimeBetweenOrders 41 seconds
+DBG [29675-10 ] accountId  40985 sold__ NFT (to__ #174731) for     3.207 $ (0.002 ETH) validUntilTimeBetweenOrders 16638 seconds
+DBG [29683-205] accountId  40985 bought NFT (from #162773) for     2.580 $ (0.002 ETH) validUntilTimeBetweenOrders 4072 seconds
+DBG [29684-19 ] accountId  40985 bought NFT (from #163373) for     4.862 $ (0.004 ETH) validUntilTimeBetweenOrders 57973 seconds
+DBG [29686-112] accountId  40985 sold__ NFT (to__ #156232) for    46.065 $ (0.035 ETH) validUntilTimeBetweenOrders 288 seconds
+DBG [29687-117] accountId  40985 bought NFT (from #162773) for    14.900 $ (0.011 ETH) validUntilTimeBetweenOrders 9915 seconds
+DBG [29687-163] accountId  40985 bought NFT (from #186802) for    10.915 $ (0.008 ETH) validUntilTimeBetweenOrders 64843 seconds
+DBG [29688-38 ] accountId  40985 bought NFT (from #166071) for     9.112 $ (0.007 ETH) validUntilTimeBetweenOrders 7196 seconds
+DBG [29688-66 ] accountId  40985 bought NFT (from #162773) for     2.783 $ (0.002 ETH) validUntilTimeBetweenOrders 9915 seconds
+DBG [29688-67 ] accountId  40985 bought NFT (from #166071) for     2.530 $ (0.002 ETH) validUntilTimeBetweenOrders 7196 seconds
+DBG [29695-131] accountId  40985 sold__ NFT (to__ #128466) for     2.597 $ (0.002 ETH) validUntilTimeBetweenOrders 2063 seconds
+DBG [29695-132] accountId  40985 sold__ NFT (to__ #128466) for    15.580 $ (0.012 ETH) validUntilTimeBetweenOrders 2375 seconds
+DBG [29696-118] accountId  40985 bought NFT (from #128466) for    14.143 $ (0.011 ETH) validUntilTimeBetweenOrders 53354 seconds
+DBG [29708-93 ] accountId  40985 sold__ NFT (to__ #188640) for     2.846 $ (0.002 ETH) validUntilTimeBetweenOrders 422 seconds
+DBG [29708-126] accountId  40985 sold__ NFT (to__ #188640) for     3.059 $ (0.002 ETH) validUntilTimeBetweenOrders 20636 seconds
+DBG [29708-128] accountId  40985 sold__ NFT (to__ #188640) for     6.118 $ (0.005 ETH) validUntilTimeBetweenOrders 20636 seconds
+DBG [29708-192] accountId  40985 sold__ NFT (to__ #188640) for     3.124 $ (0.002 ETH) validUntilTimeBetweenOrders 245 seconds
+DBG [29709-229] accountId  40985 sold__ NFT (to__ #147602) for     6.761 $ (0.005 ETH) validUntilTimeBetweenOrders 412 seconds
+DBG [29710-374] accountId  40985 sold__ NFT (to__ # 57887) for     2.855 $ (0.002 ETH) validUntilTimeBetweenOrders 3402 seconds
+DBG [29711-119] accountId  40985 sold__ NFT (to__ # 91943) for     3.069 $ (0.002 ETH) validUntilTimeBetweenOrders 23958 seconds
+DBG [29711-149] accountId  40985 sold__ NFT (to__ # 91943) for     2.742 $ (0.002 ETH) validUntilTimeBetweenOrders 3567 seconds
+DBG [29712-65 ] accountId  40985 bought NFT (from #128466) for    24.080 $ (0.018 ETH) validUntilTimeBetweenOrders 94586 seconds
+DBG [29712-109] accountId  40985 bought NFT (from #125858) for     3.644 $ (0.003 ETH) validUntilTimeBetweenOrders 100728 seconds
+DBG [29714-205] accountId  40985 sold__ NFT (to__ # 65597) for    18.613 $ (0.014 ETH) validUntilTimeBetweenOrders 1627 seconds
+DBG [29714-286] accountId  40985 bought NFT (from # 36768) for    15.938 $ (0.012 ETH) validUntilTimeBetweenOrders 4885426 seconds
+DBG [29721-40 ] accountId  40985 sold__ NFT (to__ #128967) for     3.104 $ (0.002 ETH) validUntilTimeBetweenOrders 36193 seconds
+DBG [29738-242] accountId  40985 sold__ NFT (to__ #147812) for    12.459 $ (0.009 ETH) validUntilTimeBetweenOrders 64734 seconds
+DBG [29749-11 ] accountId  40985 sold__ NFT (to__ #128967) for     3.161 $ (0.002 ETH) validUntilTimeBetweenOrders 84734 seconds
+DBG [29750-102] accountId  40985 sold__ NFT (to__ #128967) for     6.320 $ (0.005 ETH) validUntilTimeBetweenOrders 86371 seconds
+DBG [29751-55 ] accountId  40985 sold__ NFT (to__ #128967) for     6.323 $ (0.005 ETH) validUntilTimeBetweenOrders 87834 seconds
+DBG [29751-170] accountId  40985 sold__ NFT (to__ # 66694) for     4.690 $ (0.004 ETH) validUntilTimeBetweenOrders 2043 seconds
+DBG [29752-71 ] accountId  40985 bought NFT (from #172784) for     2.863 $ (0.002 ETH) validUntilTimeBetweenOrders 22045 seconds
+DBG [29752-72 ] accountId  40985 sold__ NFT (to__ #139377) for    14.047 $ (0.011 ETH) validUntilTimeBetweenOrders 3288 seconds
+DBG [29752-109] accountId  40985 bought NFT (from # 46448) for    30.502 $ (0.023 ETH) validUntilTimeBetweenOrders 49905 seconds
+DBG [29752-110] accountId  40985 bought NFT (from #172784) for     2.676 $ (0.002 ETH) validUntilTimeBetweenOrders 62813 seconds
+DBG [29752-185] accountId  40985 bought NFT (from #128466) for    14.699 $ (0.011 ETH) validUntilTimeBetweenOrders 75558 seconds
+DBG [29752-282] accountId  40985 bought NFT (from # 46448) for    13.347 $ (0.010 ETH) validUntilTimeBetweenOrders 50709 seconds
+DBG [29795-16 ] accountId  40985 sold__ NFT (to__ #128466) for    10.614 $ (0.008 ETH) validUntilTimeBetweenOrders 54351 seconds
+DBG [29798-143] accountId  40985 bought NFT (from #147812) for     8.343 $ (0.006 ETH) validUntilTimeBetweenOrders 53457 seconds
+DBG [29813-149] accountId  40985 sold__ NFT (to__ #181689) for     2.734 $ (0.002 ETH) validUntilTimeBetweenOrders 2854 seconds
+DBG [29814-60 ] accountId  40985 bought NFT (from #147812) for     2.734 $ (0.002 ETH) validUntilTimeBetweenOrders 76664 seconds
+DBG [29820-16 ] accountId  40985 sold__ NFT (to__ # 44215) for     5.394 $ (0.004 ETH) validUntilTimeBetweenOrders 10396 seconds
+DBG [29822-174] accountId  40985 sold__ NFT (to__ # 40837) for     4.907 $ (0.004 ETH) validUntilTimeBetweenOrders 1050 seconds
+DBG [29824-336] accountId  40985 sold__ NFT (to__ #135769) for     2.581 $ (0.002 ETH) validUntilTimeBetweenOrders 8229 seconds
+DBG [29833-160] accountId  40985 sold__ NFT (to__ # 36768) for    77.933 $ (0.060 ETH) validUntilTimeBetweenOrders 127 seconds
+DBG [29833-221] accountId  40985 sold__ NFT (to__ # 36768) for    26.108 $ (0.020 ETH) validUntilTimeBetweenOrders 17689 seconds
+DBG [29837-163] accountId  40985 sold__ NFT (to__ #189206) for     5.805 $ (0.004 ETH) validUntilTimeBetweenOrders 1931207 seconds
+DBG [29853-95 ] accountId  40985 sold__ NFT (to__ #128466) for     5.502 $ (0.004 ETH) validUntilTimeBetweenOrders 67092 seconds
+DBG [29855-26 ] accountId  40985 sold__ NFT (to__ #128466) for     2.637 $ (0.002 ETH) validUntilTimeBetweenOrders 61401 seconds
+DBG [29857-30 ] accountId  40985 sold__ NFT (to__ #128466) for    10.598 $ (0.008 ETH) validUntilTimeBetweenOrders 17202 seconds
+DBG [29859-104] accountId  40985 sold__ NFT (to__ #128466) for     3.941 $ (0.003 ETH) validUntilTimeBetweenOrders 97 seconds
+DBG [29867-367] accountId  40985 sold__ NFT (to__ #143615) for     1.995 $ (0.002 ETH) validUntilTimeBetweenOrders 89 seconds
+DBG [29877-118] accountId  40985 sold__ NFT (to__ #162853) for     2.931 $ (0.002 ETH) validUntilTimeBetweenOrders 102026 seconds
+DBG [29913-251] accountId  40985 bought NFT (from #164906) for   138.883 $ (0.100 ETH) validUntilTimeBetweenOrders 392 seconds
+DBG [29913-291] accountId  40985 sold__ NFT (to__ #162706) for   140.172 $ (0.101 ETH) validUntilTimeBetweenOrders 135 seconds
+DBG [29917-141] accountId  40985 bought NFT (from #128466) for    24.099 $ (0.018 ETH) validUntilTimeBetweenOrders 490 seconds
+DBG [29954-77 ] accountId  40985 bought NFT (from #128466) for     3.217 $ (0.003 ETH) validUntilTimeBetweenOrders 37989 seconds
+DBG [29954-85 ] accountId  40985 bought NFT (from #129927) for    11.580 $ (0.009 ETH) validUntilTimeBetweenOrders 39824 seconds
+DBG [29954-86 ] accountId  40985 bought NFT (from #167278) for    12.840 $ (0.010 ETH) validUntilTimeBetweenOrders 13928 seconds
+DBG [30087-52 ] accountId  40985 sold__ NFT (to__ #146728) for     9.568 $ (0.007 ETH) validUntilTimeBetweenOrders 335852 seconds
+DBG [30128-12 ] accountId  40985 bought NFT (from #128466) for     8.496 $ (0.006 ETH) validUntilTimeBetweenOrders 11929 seconds
+DBG [30412-125] accountId  40985 sold__ NFT (to__ #164320) for     2.992 $ (10.000 LRC) validUntilTimeBetweenOrders 1272364 seconds
+DBG [30430-88 ] accountId  40985 bought NFT (from #179114) for     2.376 $ (8.000 LRC) validUntilTimeBetweenOrders 1275131 seconds
+DBG [30528-35 ] accountId  40985 sold__ NFT (to__ #164906) for     6.195 $ (21.000 LRC) validUntilTimeBetweenOrders 1146305 seconds
+DBG [30528-36 ] accountId  40985 sold__ NFT (to__ #164906) for     6.195 $ (21.000 LRC) validUntilTimeBetweenOrders 1146296 seconds
+DBG [30533-142] accountId  40985 bought NFT (from #113678) for     1.782 $ (5.990 LRC) validUntilTimeBetweenOrders 1253454 seconds
+DBG [30533-143] accountId  40985 bought NFT (from #113678) for     1.782 $ (5.990 LRC) validUntilTimeBetweenOrders 1253434 seconds
+DBG [30533-145] accountId  40985 bought NFT (from #113678) for     1.782 $ (5.990 LRC) validUntilTimeBetweenOrders 1253414 seconds
+DBG [30533-160] accountId  40985 bought NFT (from #113678) for     1.782 $ (5.990 LRC) validUntilTimeBetweenOrders 1253394 seconds
+DBG [30533-202] accountId  40985 bought NFT (from #190289) for     2.037 $ (6.900 LRC) validUntilTimeBetweenOrders 1255888 seconds
+DBG [30533-219] accountId  40985 bought NFT (from #127929) for    13.288 $ (45.000 LRC) validUntilTimeBetweenOrders 1292218 seconds
+DBG [30533-230] accountId  40985 bought NFT (from #167580) for     5.587 $ (19.000 LRC) validUntilTimeBetweenOrders 1256454 seconds
+DBG [30553-123] accountId  40985 bought NFT (from # 95753) for    29.054 $ (100.000 LRC) validUntilTimeBetweenOrders 1289358 seconds
+DBG [30582-22 ] accountId  40985 bought NFT (from #185981) for     1.429 $ (5.000 LRC) validUntilTimeBetweenOrders 1270571 seconds
+DBG [30582-27 ] accountId  40985 bought NFT (from #185981) for     1.429 $ (5.000 LRC) validUntilTimeBetweenOrders 1270547 seconds
+DBG [30582-28 ] accountId  40985 bought NFT (from #155159) for     2.000 $ (7.000 LRC) validUntilTimeBetweenOrders 1263761 seconds
+DBG [30638-127] accountId  40985 bought NFT (from # 97179) for     3.451 $ (12.000 LRC) validUntilTimeBetweenOrders 1185033 seconds
+DBG [30638-128] accountId  40985 bought NFT (from #128967) for     3.307 $ (11.500 LRC) validUntilTimeBetweenOrders 1136618 seconds
+DBG [30648-203] accountId  40985 sold__ NFT (to__ #113678) for     2.875 $ (10.000 LRC) validUntilTimeBetweenOrders 1256794 seconds
+DBG [30687-11 ] accountId  40985 bought NFT (from #128466) for     2.758 $ (9.500 LRC) validUntilTimeBetweenOrders 1024094 seconds
+DBG [30732-39 ] accountId  40985 sold__ NFT (to__ # 82265) for     1.377 $ (5.000 LRC) validUntilTimeBetweenOrders 1012902 seconds
+DBG [30774-135] accountId  40985 bought NFT (from #142284) for     0.801 $ (3.000 LRC) validUntilTimeBetweenOrders 1206963 seconds
+DBG [30827-221] accountId  40985 sold__ NFT (to__ #128466) for     1.329 $ (5.000 LRC) validUntilTimeBetweenOrders 845630 seconds
+DBG [30827-222] accountId  40985 sold__ NFT (to__ #128466) for     1.329 $ (5.000 LRC) validUntilTimeBetweenOrders 845621 seconds
+DBG [30827-223] accountId  40985 sold__ NFT (to__ #128466) for     1.329 $ (5.000 LRC) validUntilTimeBetweenOrders 845611 seconds
+DBG [30827-224] accountId  40985 sold__ NFT (to__ #128466) for     1.329 $ (5.000 LRC) validUntilTimeBetweenOrders 845601 seconds
+DBG [30832-127] accountId  40985 bought NFT (from #131505) for     4.383 $ (16.500 LRC) validUntilTimeBetweenOrders 1124886 seconds
+DBG [30912-11 ] accountId  40985 bought NFT (from #176859) for     1.321 $ (5.000 LRC) validUntilTimeBetweenOrders 1288737 seconds
+DBG [30912-12 ] accountId  40985 bought NFT (from #164858) for     1.454 $ (5.500 LRC) validUntilTimeBetweenOrders 1121630 seconds
+DBG [30930-6  ] accountId  40985 bought NFT (from #124574) for     1.317 $ (5.000 LRC) validUntilTimeBetweenOrders 1242981 seconds
+DBG [30956-355] accountId  40985 bought NFT (from #168875) for     1.653 $ (6.500 LRC) validUntilTimeBetweenOrders 1156504 seconds
+DBG [31094-128] accountId  40985 bought NFT (from #143615) for     1.050 $ (4.000 LRC) validUntilTimeBetweenOrders 1281997 seconds
+DBG [31094-129] accountId  40985 bought NFT (from #143615) for     1.050 $ (4.000 LRC) validUntilTimeBetweenOrders 1281980 seconds
+DBG [31094-130] accountId  40985 bought NFT (from #143615) for     1.050 $ (4.000 LRC) validUntilTimeBetweenOrders 1281963 seconds
+DBG [31094-131] accountId  40985 bought NFT (from #143615) for     1.050 $ (4.000 LRC) validUntilTimeBetweenOrders 1281948 seconds
+DBG [31094-154] accountId  40985 bought NFT (from #143615) for     1.050 $ (4.000 LRC) validUntilTimeBetweenOrders 1281934 seconds
+DBG [31094-155] accountId  40985 bought NFT (from #143615) for     1.050 $ (4.000 LRC) validUntilTimeBetweenOrders 1281920 seconds
+DBG [31094-156] accountId  40985 bought NFT (from #143615) for     1.050 $ (4.000 LRC) validUntilTimeBetweenOrders 1281907 seconds
+DBG [31094-157] accountId  40985 bought NFT (from #143615) for     1.050 $ (4.000 LRC) validUntilTimeBetweenOrders 1281893 seconds
+DBG [31094-158] accountId  40985 bought NFT (from #143615) for     1.050 $ (4.000 LRC) validUntilTimeBetweenOrders 1281862 seconds
+DBG [31094-159] accountId  40985 bought NFT (from #143615) for     1.050 $ (4.000 LRC) validUntilTimeBetweenOrders 1281847 seconds
+DBG [31094-172] accountId  40985 bought NFT (from #162853) for     2.322 $ (8.850 LRC) validUntilTimeBetweenOrders 1209487 seconds
+DBG [31094-185] accountId  40985 bought NFT (from #162853) for     2.322 $ (8.850 LRC) validUntilTimeBetweenOrders 1209462 seconds
+DBG [31097-110] accountId  40985 bought NFT (from # 38136) for     4.349 $ (16.500 LRC) validUntilTimeBetweenOrders 1251049 seconds
+DBG [31107-25 ] accountId  40985 bought NFT (from #128466) for     3.262 $ (12.500 LRC) validUntilTimeBetweenOrders 1257941 seconds
+DBG [31123-337] accountId  40985 bought NFT (from # 80397) for     1.106 $ (4.240 LRC) validUntilTimeBetweenOrders 1266478 seconds
+DBG [31123-369] accountId  40985 bought NFT (from # 80397) for     1.106 $ (4.240 LRC) validUntilTimeBetweenOrders 1266449 seconds
+DBG [31123-370] accountId  40985 bought NFT (from # 80397) for     1.106 $ (4.240 LRC) validUntilTimeBetweenOrders 1266428 seconds
+DBG [31123-371] accountId  40985 bought NFT (from # 80397) for     1.106 $ (4.240 LRC) validUntilTimeBetweenOrders 1266408 seconds
+DBG [31123-372] accountId  40985 bought NFT (from #143615) for     1.043 $ (4.000 LRC) validUntilTimeBetweenOrders 1229084 seconds
+DBG [31123-373] accountId  40985 bought NFT (from #177970) for     1.304 $ (5.000 LRC) validUntilTimeBetweenOrders 1239526 seconds
+DBG [31124-21 ] accountId  40985 bought NFT (from # 38136) for     1.521 $ (5.830 LRC) validUntilTimeBetweenOrders 1204630 seconds
+DBG [31124-23 ] accountId  40985 bought NFT (from #177970) for     1.304 $ (5.000 LRC) validUntilTimeBetweenOrders 1239398 seconds
+DBG [31124-50 ] accountId  40985 bought NFT (from #177970) for     1.304 $ (5.000 LRC) validUntilTimeBetweenOrders 1239378 seconds
+DBG [31124-51 ] accountId  40985 bought NFT (from # 38136) for     1.487 $ (5.700 LRC) validUntilTimeBetweenOrders 1202528 seconds
+DBG [31124-52 ] accountId  40985 bought NFT (from # 38136) for     1.487 $ (5.700 LRC) validUntilTimeBetweenOrders 1202508 seconds
+DBG [31124-75 ] accountId  40985 bought NFT (from # 38136) for     1.252 $ (4.800 LRC) validUntilTimeBetweenOrders 1203328 seconds
+DBG [31124-76 ] accountId  40985 bought NFT (from #128466) for     1.304 $ (5.000 LRC) validUntilTimeBetweenOrders 1237879 seconds
+DBG [31124-105] accountId  40985 bought NFT (from #128466) for     1.304 $ (5.000 LRC) validUntilTimeBetweenOrders 1237853 seconds
+DBG [31124-106] accountId  40985 bought NFT (from # 41270) for     1.174 $ (4.500 LRC) validUntilTimeBetweenOrders 1264857 seconds
+DBG [31151-62 ] accountId  40985 bought NFT (from #128466) for     1.282 $ (5.000 LRC) validUntilTimeBetweenOrders 1263538 seconds
+DBG [31151-83 ] accountId  40985 bought NFT (from #128466) for     1.282 $ (5.000 LRC) validUntilTimeBetweenOrders 1263448 seconds
+DBG [31151-96 ] accountId  40985 bought NFT (from #128466) for     1.280 $ (5.000 LRC) validUntilTimeBetweenOrders 1263397 seconds
+DBG [31151-97 ] accountId  40985 bought NFT (from #128466) for     1.280 $ (5.000 LRC) validUntilTimeBetweenOrders 1263365 seconds
+DBG [31151-107] accountId  40985 bought NFT (from #128466) for     2.430 $ (9.500 LRC) validUntilTimeBetweenOrders 1260123 seconds
+DBG [31151-108] accountId  40985 bought NFT (from #128466) for     2.430 $ (9.500 LRC) validUntilTimeBetweenOrders 1260100 seconds
+DBG [31154-5  ] accountId  40985 bought NFT (from #128466) for     3.460 $ (13.500 LRC) validUntilTimeBetweenOrders 1168321 seconds
+DBG [31154-6  ] accountId  40985 bought NFT (from #128466) for     3.460 $ (13.500 LRC) validUntilTimeBetweenOrders 1168269 seconds
+DBG [31154-21 ] accountId  40985 bought NFT (from # 38136) for     3.127 $ (12.200 LRC) validUntilTimeBetweenOrders 1150546 seconds
+DBG [31194-257] accountId  40985 bought NFT (from #164016) for     1.847 $ (7.500 LRC) validUntilTimeBetweenOrders 1135725 seconds
+DBG [31196-109] accountId  40985 bought NFT (from # 38136) for     2.224 $ (9.000 LRC) validUntilTimeBetweenOrders 1074754 seconds
+DBG [31196-245] accountId  40985 bought NFT (from #128466) for     4.450 $ (18.000 LRC) validUntilTimeBetweenOrders 1181968 seconds
+DBG [31196-246] accountId  40985 bought NFT (from #128466) for     2.966 $ (12.000 LRC) validUntilTimeBetweenOrders 1094229 seconds
+DBG [31196-247] accountId  40985 bought NFT (from #128466) for     2.966 $ (12.000 LRC) validUntilTimeBetweenOrders 1094214 seconds
+DBG [31196-248] accountId  40985 bought NFT (from #128466) for     2.966 $ (12.000 LRC) validUntilTimeBetweenOrders 1094196 seconds
+DBG [31196-268] accountId  40985 bought NFT (from # 39052) for     4.447 $ (17.990 LRC) validUntilTimeBetweenOrders 821990 seconds
+DBG [31197-258] accountId  40985 bought NFT (from # 38136) for     1.233 $ (4.990 LRC) validUntilTimeBetweenOrders 1074019 seconds
+DBG [31197-259] accountId  40985 bought NFT (from # 38136) for     1.233 $ (4.990 LRC) validUntilTimeBetweenOrders 1073998 seconds
+DBG [31197-260] accountId  40985 bought NFT (from # 38136) for     1.233 $ (4.990 LRC) validUntilTimeBetweenOrders 1073979 seconds
+DBG [31197-261] accountId  40985 bought NFT (from # 38136) for     1.233 $ (4.990 LRC) validUntilTimeBetweenOrders 1073964 seconds
+DBG [31197-262] accountId  40985 bought NFT (from # 38136) for     1.233 $ (4.990 LRC) validUntilTimeBetweenOrders 1073941 seconds
+DBG [31198-33 ] accountId  40985 bought NFT (from # 41270) for     1.126 $ (4.550 LRC) validUntilTimeBetweenOrders 1269477 seconds
+DBG [31198-34 ] accountId  40985 bought NFT (from # 41270) for     1.126 $ (4.550 LRC) validUntilTimeBetweenOrders 1269454 seconds
+DBG [31198-104] accountId  40985 bought NFT (from #102062) for     3.464 $ (14.000 LRC) validUntilTimeBetweenOrders 1289349 seconds
+DBG [31198-180] accountId  40985 bought NFT (from # 38136) for     3.005 $ (12.200 LRC) validUntilTimeBetweenOrders 1072922 seconds
+DBG [31198-181] accountId  40985 bought NFT (from # 38136) for     3.005 $ (12.200 LRC) validUntilTimeBetweenOrders 1072885 seconds
+DBG [31205-67 ] accountId  40985 bought NFT (from #128466) for     1.382 $ (5.500 LRC) validUntilTimeBetweenOrders 1166788 seconds
+DBG [31205-84 ] accountId  40985 bought NFT (from #128466) for     1.385 $ (5.500 LRC) validUntilTimeBetweenOrders 1166767 seconds
+DBG [31205-96 ] accountId  40985 bought NFT (from # 38136) for     1.131 $ (4.490 LRC) validUntilTimeBetweenOrders 1059886 seconds
+DBG [31205-123] accountId  40985 bought NFT (from # 80397) for    24.974 $ (99.000 LRC) validUntilTimeBetweenOrders 1281274 seconds
+DBG [31207-37 ] accountId  40985 bought NFT (from #128466) for     7.062 $ (28.000 LRC) validUntilTimeBetweenOrders 1001547 seconds
+DBG [31207-38 ] accountId  40985 bought NFT (from #126810) for     7.541 $ (29.900 LRC) validUntilTimeBetweenOrders 385125 seconds
+DBG [31207-45 ] accountId  40985 bought NFT (from #128967) for     2.396 $ (9.500 LRC) validUntilTimeBetweenOrders 1186943 seconds
+DBG [31207-46 ] accountId  40985 bought NFT (from #128967) for     2.396 $ (9.500 LRC) validUntilTimeBetweenOrders 1186923 seconds
+DBG [31207-50 ] accountId  40985 bought NFT (from #162853) for     3.279 $ (13.000 LRC) validUntilTimeBetweenOrders 1009675 seconds
+DBG [31234-144] accountId  40985 bought NFT (from # 81650) for     0.865 $ (3.500 LRC) validUntilTimeBetweenOrders 1217521 seconds
+DBG [31234-184] accountId  40985 bought NFT (from #127929) for     1.159 $ (4.690 LRC) validUntilTimeBetweenOrders 1282696 seconds
+DBG [31234-185] accountId  40985 bought NFT (from #127929) for     1.159 $ (4.690 LRC) validUntilTimeBetweenOrders 1282674 seconds
+DBG [31330-2  ] accountId  40985 bought NFT (from #190461) for     1.239 $ (5.000 LRC) validUntilTimeBetweenOrders 1225452 seconds
+DBG [31330-18 ] accountId  40985 bought NFT (from # 38136) for     2.278 $ (9.190 LRC) validUntilTimeBetweenOrders 887776 seconds
+DBG [31330-36 ] accountId  40985 bought NFT (from #128466) for     1.237 $ (5.000 LRC) validUntilTimeBetweenOrders 1294779 seconds
+DBG [31330-45 ] accountId  40985 bought NFT (from #122966) for     1.360 $ (5.500 LRC) validUntilTimeBetweenOrders 1249238 seconds
+DBG [31330-46 ] accountId  40985 bought NFT (from #128967) for     1.731 $ (7.000 LRC) validUntilTimeBetweenOrders 1017271 seconds
+DBG [31330-47 ] accountId  40985 bought NFT (from #128967) for     1.731 $ (7.000 LRC) validUntilTimeBetweenOrders 1017244 seconds
+DBG [31330-48 ] accountId  40985 bought NFT (from #128967) for     1.731 $ (7.000 LRC) validUntilTimeBetweenOrders 1017223 seconds
+DBG [31330-60 ] accountId  40985 bought NFT (from #128967) for     1.731 $ (7.000 LRC) validUntilTimeBetweenOrders 1017203 seconds
+DBG [31345-237] accountId  40985 bought NFT (from #125512) for     1.124 $ (4.500 LRC) validUntilTimeBetweenOrders 1163483 seconds
+DBG [31345-238] accountId  40985 bought NFT (from #162773) for     1.124 $ (4.500 LRC) validUntilTimeBetweenOrders 1286889 seconds
+DBG [31345-253] accountId  40985 bought NFT (from #162773) for     1.249 $ (5.000 LRC) validUntilTimeBetweenOrders 1286725 seconds
+DBG [31346-4  ] accountId  40985 bought NFT (from #125512) for     1.124 $ (4.500 LRC) validUntilTimeBetweenOrders 1163805 seconds
+DBG [31346-5  ] accountId  40985 bought NFT (from #125512) for     1.124 $ (4.500 LRC) validUntilTimeBetweenOrders 1163789 seconds
+DBG [31346-15 ] accountId  40985 bought NFT (from #190461) for     1.124 $ (4.500 LRC) validUntilTimeBetweenOrders 1253847 seconds
+DBG [31346-16 ] accountId  40985 bought NFT (from # 38136) for     1.246 $ (4.990 LRC) validUntilTimeBetweenOrders 860124 seconds
+DBG [31346-34 ] accountId  40985 bought NFT (from #109533) for     1.199 $ (4.800 LRC) validUntilTimeBetweenOrders 1278060 seconds
+DBG [31346-35 ] accountId  40985 bought NFT (from #109533) for     1.199 $ (4.800 LRC) validUntilTimeBetweenOrders 1278047 seconds
+DBG [31346-43 ] accountId  40985 bought NFT (from # 38136) for     1.121 $ (4.490 LRC) validUntilTimeBetweenOrders 859899 seconds
+DBG [31346-44 ] accountId  40985 bought NFT (from # 38136) for     1.121 $ (4.490 LRC) validUntilTimeBetweenOrders 859882 seconds
+DBG [31346-57 ] accountId  40985 bought NFT (from #125512) for     1.124 $ (4.500 LRC) validUntilTimeBetweenOrders 1162800 seconds
+DBG [31346-68 ] accountId  40985 bought NFT (from #125512) for     1.124 $ (4.500 LRC) validUntilTimeBetweenOrders 1163411 seconds
+DBG [31346-69 ] accountId  40985 bought NFT (from #125512) for     1.124 $ (4.500 LRC) validUntilTimeBetweenOrders 1163391 seconds
+DBG [31489-195] accountId  40985 sold__ NFT (to__ #154458) for     8.644 $ (35.000 LRC) validUntilTimeBetweenOrders 1283510 seconds
+DBG [31561-243] accountId  40985 bought NFT (from #134315) for     1.054 $ (4.000 LRC) validUntilTimeBetweenOrders 1082847 seconds
+DBG [31561-244] accountId  40985 bought NFT (from #134315) for     1.054 $ (4.000 LRC) validUntilTimeBetweenOrders 1082819 seconds
+DBG [31561-245] accountId  40985 bought NFT (from #134315) for     1.054 $ (4.000 LRC) validUntilTimeBetweenOrders 1082800 seconds
+DBG [31561-274] accountId  40985 bought NFT (from #164723) for     1.318 $ (5.000 LRC) validUntilTimeBetweenOrders 973356 seconds
+DBG [31561-275] accountId  40985 bought NFT (from #164723) for     1.318 $ (5.000 LRC) validUntilTimeBetweenOrders 973378 seconds
+DBG [31964-102] accountId  40985 bought NFT (from #128466) for     2.213 $ (8.000 LRC) validUntilTimeBetweenOrders 1194274 seconds
+DBG [32242-290] accountId  40985 sold__ NFT (to__ # 42110) for     1.369 $ (5.000 LRC) validUntilTimeBetweenOrders 1180211 seconds
+DBG [32242-291] accountId  40985 sold__ NFT (to__ # 42110) for     1.369 $ (5.000 LRC) validUntilTimeBetweenOrders 1180200 seconds
+DBG [32362-33 ] accountId  40985 sold__ NFT (to__ #128466) for     1.825 $ (5.000 LRC) validUntilTimeBetweenOrders 1030487 seconds
+DBG [32362-34 ] accountId  40985 sold__ NFT (to__ #128466) for     1.825 $ (5.000 LRC) validUntilTimeBetweenOrders 1030480 seconds
+DBG [32456-50 ] accountId  40985 bought NFT (from #128466) for     2.276 $ (6.950 LRC) validUntilTimeBetweenOrders 1155312 seconds
+DBG [32456-82 ] accountId  40985 bought NFT (from #128466) for     2.297 $ (6.950 LRC) validUntilTimeBetweenOrders 1155237 seconds
+DBG [33029-14 ] accountId  40985 bought NFT (from #178035) for    10.251 $ (41.000 LRC) validUntilTimeBetweenOrders 1295681 seconds

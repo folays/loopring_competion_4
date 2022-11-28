@@ -1,0 +1,57 @@
+DBG [29501-229] accountId  41426 sold__ NFT (to__ # 58284) for     2.787 $ (9.000 LRC) validUntilTimeBetweenOrders 488822 seconds
+DBG [29503-19 ] accountId  41426 sold__ NFT (to__ # 58284) for    15.467 $ (50.000 LRC) validUntilTimeBetweenOrders 486356 seconds
+DBG [29536-34 ] accountId  41426 sold__ NFT (to__ # 80678) for     2.465 $ (8.000 LRC) validUntilTimeBetweenOrders 424462 seconds
+DBG [29566-30 ] accountId  41426 sold__ NFT (to__ # 42004) for     2.392 $ (8.000 LRC) validUntilTimeBetweenOrders 372326 seconds
+DBG [29627-15 ] accountId  41426 sold__ NFT (to__ # 93897) for     9.185 $ (30.000 LRC) validUntilTimeBetweenOrders 270586 seconds
+DBG [29680-307] accountId  41426 sold__ NFT (to__ #168172) for     3.260 $ (0.003 ETH) validUntilTimeBetweenOrders 2748380 seconds
+DBG [29912-36 ] accountId  41426 sold__ NFT (to__ #162902) for     3.458 $ (0.003 ETH) validUntilTimeBetweenOrders 3108367 seconds
+DBG [30096-121] accountId  41426 bought NFT (from # 92477) for   184.004 $ (0.136 ETH) validUntilTimeBetweenOrders 217 seconds
+DBG [30097-22 ] accountId  41426 bought NFT (from # 92477) for   183.187 $ (0.136 ETH) validUntilTimeBetweenOrders 217 seconds
+DBG [30098-161] accountId  41426 bought NFT (from # 92477) for    45.797 $ (0.034 ETH) validUntilTimeBetweenOrders 217 seconds
+DBG [30099-13 ] accountId  41426 bought NFT (from # 92477) for   183.187 $ (0.136 ETH) validUntilTimeBetweenOrders 217 seconds
+DBG [30100-254] accountId  41426 bought NFT (from # 92477) for   183.187 $ (0.136 ETH) validUntilTimeBetweenOrders 217 seconds
+DBG [30119-122] accountId  41426 bought NFT (from # 92477) for   366.394 $ (0.270 ETH) validUntilTimeBetweenOrders 2174 seconds
+DBG [30119-231] accountId  41426 bought NFT (from # 92477) for   489.233 $ (0.360 ETH) validUntilTimeBetweenOrders 2174 seconds
+DBG [30119-291] accountId  41426 bought NFT (from # 92477) for   489.233 $ (0.360 ETH) validUntilTimeBetweenOrders 2174 seconds
+DBG [30121-98 ] accountId  41426 bought NFT (from # 92477) for   488.602 $ (0.360 ETH) validUntilTimeBetweenOrders 2422 seconds
+DBG [30121-117] accountId  41426 bought NFT (from # 92477) for   488.602 $ (0.360 ETH) validUntilTimeBetweenOrders 2422 seconds
+DBG [30121-193] accountId  41426 bought NFT (from # 92477) for   488.602 $ (0.360 ETH) validUntilTimeBetweenOrders 2422 seconds
+DBG [30121-231] accountId  41426 bought NFT (from # 92477) for   488.602 $ (0.360 ETH) validUntilTimeBetweenOrders 2422 seconds
+DBG [30121-294] accountId  41426 bought NFT (from # 92477) for   488.602 $ (0.360 ETH) validUntilTimeBetweenOrders 2422 seconds
+DBG [30121-370] accountId  41426 bought NFT (from # 92477) for   487.871 $ (0.360 ETH) validUntilTimeBetweenOrders 2422 seconds
+DBG [30163-169] accountId  41426 sold__ NFT (to__ #181340) for   141.185 $ (0.106 ETH) validUntilTimeBetweenOrders 564 seconds
+DBG [30170-55 ] accountId  41426 sold__ NFT (to__ # 36237) for   281.127 $ (0.212 ETH) validUntilTimeBetweenOrders 11121 seconds
+DBG [30186-383] accountId  41426 sold__ NFT (to__ #153432) for   137.936 $ (0.104 ETH) validUntilTimeBetweenOrders 10 seconds
+DBG [30189-75 ] accountId  41426 sold__ NFT (to__ #147923) for   136.832 $ (0.104 ETH) validUntilTimeBetweenOrders 3610 seconds
+DBG [30207-200] accountId  41426 sold__ NFT (to__ #127770) for   129.398 $ (0.099 ETH) validUntilTimeBetweenOrders 1251 seconds
+DBG [30211-178] accountId  41426 sold__ NFT (to__ #143982) for   127.062 $ (0.097 ETH) validUntilTimeBetweenOrders 1524 seconds
+DBG [30212-229] accountId  41426 sold__ NFT (to__ #136554) for   254.189 $ (0.194 ETH) validUntilTimeBetweenOrders 2117 seconds
+DBG [30212-230] accountId  41426 sold__ NFT (to__ # 40412) for   127.095 $ (0.097 ETH) validUntilTimeBetweenOrders 2173 seconds
+DBG [30213-216] accountId  41426 sold__ NFT (to__ #134158) for   640.808 $ (0.489 ETH) validUntilTimeBetweenOrders 277 seconds
+DBG [30219-58 ] accountId  41426 sold__ NFT (to__ #190094) for   128.720 $ (0.098 ETH) validUntilTimeBetweenOrders 189 seconds
+DBG [30233-129] accountId  41426 sold__ NFT (to__ #158474) for    72.096 $ (0.055 ETH) validUntilTimeBetweenOrders 429 seconds
+DBG [30233-152] accountId  41426 sold__ NFT (to__ #158474) for   251.681 $ (0.192 ETH) validUntilTimeBetweenOrders 429 seconds
+DBG [30241-243] accountId  41426 sold__ NFT (to__ #166872) for   126.288 $ (0.096 ETH) validUntilTimeBetweenOrders 6300 seconds
+DBG [30242-113] accountId  41426 sold__ NFT (to__ #146754) for   126.288 $ (0.096 ETH) validUntilTimeBetweenOrders 8759 seconds
+DBG [30245-352] accountId  41426 sold__ NFT (to__ #187656) for   126.296 $ (0.096 ETH) validUntilTimeBetweenOrders 3627 seconds
+DBG [30248-52 ] accountId  41426 sold__ NFT (to__ # 38649) for   499.318 $ (0.384 ETH) validUntilTimeBetweenOrders 7978 seconds
+DBG [30254-123] accountId  41426 sold__ NFT (to__ #161030) for    64.470 $ (0.050 ETH) validUntilTimeBetweenOrders 3657 seconds
+DBG [30257-372] accountId  41426 sold__ NFT (to__ #134685) for    61.891 $ (0.048 ETH) validUntilTimeBetweenOrders 946 seconds
+DBG [30261-357] accountId  41426 sold__ NFT (to__ # 95340) for   124.876 $ (0.096 ETH) validUntilTimeBetweenOrders 4186 seconds
+DBG [30261-359] accountId  41426 sold__ NFT (to__ # 95340) for   195.119 $ (0.150 ETH) validUntilTimeBetweenOrders 9487 seconds
+DBG [30266-16 ] accountId  41426 sold__ NFT (to__ #124854) for   125.433 $ (0.097 ETH) validUntilTimeBetweenOrders 355 seconds
+DBG [30267-185] accountId  41426 sold__ NFT (to__ # 88730) for   124.995 $ (0.097 ETH) validUntilTimeBetweenOrders 4679 seconds
+DBG [30269-64 ] accountId  41426 sold__ NFT (to__ #175479) for   125.512 $ (0.097 ETH) validUntilTimeBetweenOrders 7281 seconds
+DBG [30271-4  ] accountId  41426 sold__ NFT (to__ #126014) for    64.971 $ (0.050 ETH) validUntilTimeBetweenOrders 4574 seconds
+DBG [30274-144] accountId  41426 sold__ NFT (to__ # 60654) for    60.905 $ (0.047 ETH) validUntilTimeBetweenOrders 3828 seconds
+DBG [30275-5  ] accountId  41426 sold__ NFT (to__ #165850) for    60.714 $ (0.047 ETH) validUntilTimeBetweenOrders 3707 seconds
+DBG [30275-144] accountId  41426 sold__ NFT (to__ #166266) for    60.714 $ (0.047 ETH) validUntilTimeBetweenOrders 4905 seconds
+DBG [30298-276] accountId  41426 sold__ NFT (to__ #190243) for    51.601 $ (0.040 ETH) validUntilTimeBetweenOrders 3517524 seconds
+DBG [30299-89 ] accountId  41426 sold__ NFT (to__ #137378) for   118.571 $ (0.092 ETH) validUntilTimeBetweenOrders 721 seconds
+DBG [30302-49 ] accountId  41426 sold__ NFT (to__ # 98266) for   118.139 $ (0.091 ETH) validUntilTimeBetweenOrders 392 seconds
+DBG [30328-76 ] accountId  41426 sold__ NFT (to__ #152485) for   247.248 $ (0.187 ETH) validUntilTimeBetweenOrders 143 seconds
+DBG [30339-287] accountId  41426 sold__ NFT (to__ #137697) for   122.729 $ (0.093 ETH) validUntilTimeBetweenOrders 439 seconds
+DBG [30341-316] accountId  41426 sold__ NFT (to__ #139457) for   122.435 $ (0.093 ETH) validUntilTimeBetweenOrders 61651 seconds
+DBG [30346-356] accountId  41426 sold__ NFT (to__ #126014) for   122.632 $ (0.093 ETH) validUntilTimeBetweenOrders 6676 seconds
+DBG [30415-107] accountId  41426 sold__ NFT (to__ # 69571) for     1.495 $ (5.000 LRC) validUntilTimeBetweenOrders 818294 seconds
+DBG [31020-32 ] accountId  41426 sold__ NFT (to__ #167066) for     3.079 $ (0.002 ETH) validUntilTimeBetweenOrders 4031840 seconds

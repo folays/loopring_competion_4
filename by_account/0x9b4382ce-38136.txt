@@ -1,0 +1,728 @@
+DBG [29463-242] accountId  38136 sold__ NFT (to__ #134042) for   248.218 $ (0.190 ETH) validUntilTimeBetweenOrders 32080 seconds
+DBG [29466-138] accountId  38136 sold__ NFT (to__ #152905) for    12.960 $ (0.010 ETH) validUntilTimeBetweenOrders 895249 seconds
+DBG [29470-84 ] accountId  38136 bought NFT (from # 71867) for    91.361 $ (0.070 ETH) validUntilTimeBetweenOrders 1886 seconds
+DBG [29482-52 ] accountId  38136 sold__ NFT (to__ #124602) for    15.101 $ (0.011 ETH) validUntilTimeBetweenOrders 2566 seconds
+DBG [29482-53 ] accountId  38136 sold__ NFT (to__ #124602) for    16.415 $ (0.013 ETH) validUntilTimeBetweenOrders 2566 seconds
+DBG [29482-83 ] accountId  38136 bought NFT (from #128967) for    19.712 $ (0.015 ETH) validUntilTimeBetweenOrders 13781 seconds
+DBG [29482-128] accountId  38136 bought NFT (from #128466) for     6.475 $ (0.005 ETH) validUntilTimeBetweenOrders 96580 seconds
+DBG [29482-129] accountId  38136 bought NFT (from #128466) for    14.272 $ (0.011 ETH) validUntilTimeBetweenOrders 105645 seconds
+DBG [29482-168] accountId  38136 bought NFT (from #167580) for     4.626 $ (0.004 ETH) validUntilTimeBetweenOrders 239819 seconds
+DBG [29482-208] accountId  38136 bought NFT (from #162902) for    15.873 $ (0.012 ETH) validUntilTimeBetweenOrders 51763 seconds
+DBG [29485-338] accountId  38136 bought NFT (from # 42577) for    17.719 $ (57.000 LRC) validUntilTimeBetweenOrders 1288017 seconds
+DBG [29491-40 ] accountId  38136 sold__ NFT (to__ #164320) for    23.650 $ (0.018 ETH) validUntilTimeBetweenOrders 299171 seconds
+DBG [29491-42 ] accountId  38136 sold__ NFT (to__ #164320) for    87.844 $ (0.065 ETH) validUntilTimeBetweenOrders 638776 seconds
+DBG [29495-75 ] accountId  38136 bought NFT (from #163627) for    14.638 $ (0.011 ETH) validUntilTimeBetweenOrders 11599 seconds
+DBG [29495-105] accountId  38136 bought NFT (from #162902) for     5.882 $ (0.004 ETH) validUntilTimeBetweenOrders 14428 seconds
+DBG [29495-106] accountId  38136 bought NFT (from #128466) for     9.024 $ (0.007 ETH) validUntilTimeBetweenOrders 115202 seconds
+DBG [29495-136] accountId  38136 bought NFT (from #128466) for     6.417 $ (0.005 ETH) validUntilTimeBetweenOrders 44998 seconds
+DBG [29495-137] accountId  38136 bought NFT (from #140650) for     6.604 $ (0.005 ETH) validUntilTimeBetweenOrders 38973 seconds
+DBG [29495-138] accountId  38136 bought NFT (from #157822) for     6.684 $ (0.005 ETH) validUntilTimeBetweenOrders 43528 seconds
+DBG [29495-139] accountId  38136 bought NFT (from # 41243) for     3.342 $ (0.003 ETH) validUntilTimeBetweenOrders 82665 seconds
+DBG [29495-171] accountId  38136 bought NFT (from #157822) for    13.369 $ (0.010 ETH) validUntilTimeBetweenOrders 43528 seconds
+DBG [29495-172] accountId  38136 bought NFT (from #128713) for     3.342 $ (0.003 ETH) validUntilTimeBetweenOrders 13486 seconds
+DBG [29495-173] accountId  38136 bought NFT (from #157822) for     3.342 $ (0.003 ETH) validUntilTimeBetweenOrders 42549 seconds
+DBG [29495-197] accountId  38136 bought NFT (from #162902) for     4.144 $ (0.003 ETH) validUntilTimeBetweenOrders 66730 seconds
+DBG [29495-198] accountId  38136 bought NFT (from #155353) for     4.225 $ (0.003 ETH) validUntilTimeBetweenOrders 109816 seconds
+DBG [29495-199] accountId  38136 bought NFT (from #183576) for    13.596 $ (0.010 ETH) validUntilTimeBetweenOrders 11941 seconds
+DBG [29495-200] accountId  38136 bought NFT (from #185981) for     4.733 $ (0.004 ETH) validUntilTimeBetweenOrders 1900 seconds
+DBG [29495-201] accountId  38136 bought NFT (from #128967) for     9.893 $ (0.007 ETH) validUntilTimeBetweenOrders 32917 seconds
+DBG [29495-260] accountId  38136 bought NFT (from #129927) for     8.028 $ (0.006 ETH) validUntilTimeBetweenOrders 5155 seconds
+DBG [29497-66 ] accountId  38136 bought NFT (from #163627) for     3.105 $ (0.002 ETH) validUntilTimeBetweenOrders 52033 seconds
+DBG [29497-67 ] accountId  38136 bought NFT (from #162902) for     3.119 $ (0.002 ETH) validUntilTimeBetweenOrders 73088 seconds
+DBG [29497-68 ] accountId  38136 bought NFT (from #162902) for     9.763 $ (0.007 ETH) validUntilTimeBetweenOrders 17170 seconds
+DBG [29497-105] accountId  38136 bought NFT (from #186998) for     3.261 $ (0.002 ETH) validUntilTimeBetweenOrders 41304 seconds
+DBG [29497-106] accountId  38136 bought NFT (from #155353) for    13.368 $ (0.010 ETH) validUntilTimeBetweenOrders 92957 seconds
+DBG [29497-126] accountId  38136 bought NFT (from #167580) for    17.661 $ (0.013 ETH) validUntilTimeBetweenOrders 17122 seconds
+DBG [29497-151] accountId  38136 bought NFT (from #128466) for    18.719 $ (0.014 ETH) validUntilTimeBetweenOrders 46062 seconds
+DBG [29497-153] accountId  38136 bought NFT (from # 41243) for     4.084 $ (0.003 ETH) validUntilTimeBetweenOrders 85645 seconds
+DBG [29497-154] accountId  38136 bought NFT (from #147812) for     9.121 $ (0.007 ETH) validUntilTimeBetweenOrders 215236 seconds
+DBG [29497-155] accountId  38136 bought NFT (from #167580) for    13.845 $ (0.010 ETH) validUntilTimeBetweenOrders 271631 seconds
+DBG [29497-156] accountId  38136 bought NFT (from #147812) for    28.588 $ (0.021 ETH) validUntilTimeBetweenOrders 997380 seconds
+DBG [29497-177] accountId  38136 bought NFT (from #158406) for     5.032 $ (0.004 ETH) validUntilTimeBetweenOrders 139812 seconds
+DBG [29497-206] accountId  38136 bought NFT (from # 84790) for   103.662 $ (0.076 ETH) validUntilTimeBetweenOrders 1021816 seconds
+DBG [29497-207] accountId  38136 bought NFT (from # 84790) for    20.732 $ (0.015 ETH) validUntilTimeBetweenOrders 1021905 seconds
+DBG [29497-377] accountId  38136 bought NFT (from # 84790) for    31.051 $ (0.023 ETH) validUntilTimeBetweenOrders 1022618 seconds
+DBG [29498-49 ] accountId  38136 bought NFT (from #163627) for    45.351 $ (0.033 ETH) validUntilTimeBetweenOrders 53628 seconds
+DBG [29498-50 ] accountId  38136 bought NFT (from #150907) for    10.868 $ (0.008 ETH) validUntilTimeBetweenOrders 183829 seconds
+DBG [29498-51 ] accountId  38136 bought NFT (from # 41243) for     5.448 $ (0.004 ETH) validUntilTimeBetweenOrders 87240 seconds
+DBG [29498-52 ] accountId  38136 bought NFT (from #163373) for    12.148 $ (0.009 ETH) validUntilTimeBetweenOrders 261326 seconds
+DBG [29498-111] accountId  38136 bought NFT (from #185981) for     5.518 $ (0.004 ETH) validUntilTimeBetweenOrders 355 seconds
+DBG [29498-126] accountId  38136 bought NFT (from # 36768) for    30.732 $ (0.022 ETH) validUntilTimeBetweenOrders 1086002 seconds
+DBG [29498-128] accountId  38136 bought NFT (from # 36768) for    30.732 $ (0.022 ETH) validUntilTimeBetweenOrders 1086002 seconds
+DBG [29498-130] accountId  38136 bought NFT (from # 36768) for    30.732 $ (0.022 ETH) validUntilTimeBetweenOrders 1086002 seconds
+DBG [29498-167] accountId  38136 bought NFT (from # 36768) for    30.734 $ (0.022 ETH) validUntilTimeBetweenOrders 1086179 seconds
+DBG [29498-174] accountId  38136 bought NFT (from # 36768) for    30.734 $ (0.022 ETH) validUntilTimeBetweenOrders 1086179 seconds
+DBG [29498-176] accountId  38136 bought NFT (from # 36768) for    30.734 $ (0.022 ETH) validUntilTimeBetweenOrders 1086179 seconds
+DBG [29498-177] accountId  38136 bought NFT (from # 36768) for    30.734 $ (0.022 ETH) validUntilTimeBetweenOrders 1086241 seconds
+DBG [29498-178] accountId  38136 bought NFT (from # 36768) for    30.734 $ (0.022 ETH) validUntilTimeBetweenOrders 1086260 seconds
+DBG [29498-205] accountId  38136 bought NFT (from # 36768) for    30.601 $ (0.022 ETH) validUntilTimeBetweenOrders 1086278 seconds
+DBG [29498-208] accountId  38136 bought NFT (from # 36768) for    18.361 $ (0.013 ETH) validUntilTimeBetweenOrders 1086318 seconds
+DBG [29506-105] accountId  38136 sold__ NFT (to__ #170956) for     3.094 $ (10.000 LRC) validUntilTimeBetweenOrders 317473 seconds
+DBG [29538-55 ] accountId  38136 sold__ NFT (to__ # 62231) for    30.349 $ (100.000 LRC) validUntilTimeBetweenOrders 380932 seconds
+DBG [29538-239] accountId  38136 sold__ NFT (to__ # 62231) for    15.175 $ (50.000 LRC) validUntilTimeBetweenOrders 1289122 seconds
+DBG [29541-166] accountId  38136 bought NFT (from #138049) for    41.776 $ (0.031 ETH) validUntilTimeBetweenOrders 4916 seconds
+DBG [29562-42 ] accountId  38136 sold__ NFT (to__ #181689) for   160.483 $ (0.120 ETH) validUntilTimeBetweenOrders 22616 seconds
+DBG [29570-116] accountId  38136 bought NFT (from # 46604) for     4.420 $ (15.000 LRC) validUntilTimeBetweenOrders 1153488 seconds
+DBG [29570-117] accountId  38136 bought NFT (from # 46604) for     4.420 $ (15.000 LRC) validUntilTimeBetweenOrders 1153468 seconds
+DBG [29570-118] accountId  38136 bought NFT (from # 46604) for     4.420 $ (15.000 LRC) validUntilTimeBetweenOrders 1153452 seconds
+DBG [29570-119] accountId  38136 bought NFT (from # 46604) for     4.420 $ (15.000 LRC) validUntilTimeBetweenOrders 1153440 seconds
+DBG [29570-120] accountId  38136 bought NFT (from # 46604) for     4.420 $ (15.000 LRC) validUntilTimeBetweenOrders 1153426 seconds
+DBG [29570-139] accountId  38136 bought NFT (from #188211) for     2.947 $ (10.000 LRC) validUntilTimeBetweenOrders 1180924 seconds
+DBG [29573-40 ] accountId  38136 sold__ NFT (to__ # 42659) for    14.774 $ (50.000 LRC) validUntilTimeBetweenOrders 441559 seconds
+DBG [29580-179] accountId  38136 bought NFT (from #163373) for    33.714 $ (0.025 ETH) validUntilTimeBetweenOrders 142 seconds
+DBG [29580-180] accountId  38136 bought NFT (from #125858) for    33.714 $ (0.025 ETH) validUntilTimeBetweenOrders 687 seconds
+DBG [29580-181] accountId  38136 bought NFT (from #163373) for    40.456 $ (0.030 ETH) validUntilTimeBetweenOrders 167 seconds
+DBG [29583-148] accountId  38136 sold__ NFT (to__ # 62231) for    25.161 $ (85.000 LRC) validUntilTimeBetweenOrders 1271612 seconds
+DBG [29583-261] accountId  38136 sold__ NFT (to__ # 62231) for    28.188 $ (95.000 LRC) validUntilTimeBetweenOrders 1122678 seconds
+DBG [29584-60 ] accountId  38136 bought NFT (from #157701) for     8.722 $ (0.006 ETH) validUntilTimeBetweenOrders 7915 seconds
+DBG [29584-62 ] accountId  38136 bought NFT (from #162853) for     8.735 $ (0.006 ETH) validUntilTimeBetweenOrders 28767 seconds
+DBG [29584-80 ] accountId  38136 bought NFT (from #147812) for    17.760 $ (0.013 ETH) validUntilTimeBetweenOrders 31293 seconds
+DBG [29584-81 ] accountId  38136 bought NFT (from #170990) for     9.014 $ (0.007 ETH) validUntilTimeBetweenOrders 41027 seconds
+DBG [29584-83 ] accountId  38136 bought NFT (from #131589) for    45.678 $ (0.034 ETH) validUntilTimeBetweenOrders 44441 seconds
+DBG [29584-85 ] accountId  38136 bought NFT (from #158406) for     9.136 $ (0.007 ETH) validUntilTimeBetweenOrders 54794 seconds
+DBG [29584-86 ] accountId  38136 bought NFT (from #144127) for     9.149 $ (0.007 ETH) validUntilTimeBetweenOrders 98818 seconds
+DBG [29584-87 ] accountId  38136 bought NFT (from #147812) for    27.851 $ (0.021 ETH) validUntilTimeBetweenOrders 122329 seconds
+DBG [29584-103] accountId  38136 bought NFT (from #139975) for     9.407 $ (0.007 ETH) validUntilTimeBetweenOrders 123880 seconds
+DBG [29584-104] accountId  38136 bought NFT (from #129927) for    47.373 $ (0.035 ETH) validUntilTimeBetweenOrders 128185 seconds
+DBG [29584-105] accountId  38136 bought NFT (from #156232) for    10.094 $ (0.007 ETH) validUntilTimeBetweenOrders 131724 seconds
+DBG [29584-169] accountId  38136 sold__ NFT (to__ #136267) for    10.094 $ (0.007 ETH) validUntilTimeBetweenOrders 347 seconds
+DBG [29584-251] accountId  38136 sold__ NFT (to__ #128466) for    10.103 $ (0.007 ETH) validUntilTimeBetweenOrders 629 seconds
+DBG [29585-110] accountId  38136 sold__ NFT (to__ #136267) for    47.149 $ (0.035 ETH) validUntilTimeBetweenOrders 1140 seconds
+DBG [29586-70 ] accountId  38136 sold__ NFT (to__ #136267) for    10.123 $ (0.007 ETH) validUntilTimeBetweenOrders 2544 seconds
+DBG [29587-6  ] accountId  38136 bought NFT (from #144127) for    10.656 $ (0.008 ETH) validUntilTimeBetweenOrders 150832 seconds
+DBG [29587-7  ] accountId  38136 bought NFT (from #129624) for    43.164 $ (0.032 ETH) validUntilTimeBetweenOrders 4580467 seconds
+DBG [29587-8  ] accountId  38136 bought NFT (from # 71674) for    12.005 $ (0.009 ETH) validUntilTimeBetweenOrders 2366898 seconds
+DBG [29592-135] accountId  38136 bought NFT (from #102062) for    12.634 $ (0.009 ETH) validUntilTimeBetweenOrders 5488 seconds
+DBG [29597-140] accountId  38136 sold__ NFT (to__ #152905) for    12.553 $ (0.009 ETH) validUntilTimeBetweenOrders 12912 seconds
+DBG [29600-21 ] accountId  38136 bought NFT (from #124602) for    51.076 $ (0.040 ETH) validUntilTimeBetweenOrders 6809 seconds
+DBG [29600-70 ] accountId  38136 sold__ NFT (to__ #128466) for    48.147 $ (0.038 ETH) validUntilTimeBetweenOrders 17474 seconds
+DBG [29601-20 ] accountId  38136 sold__ NFT (to__ #128466) for    31.508 $ (0.025 ETH) validUntilTimeBetweenOrders 21788 seconds
+DBG [29607-47 ] accountId  38136 sold__ NFT (to__ #188673) for    74.551 $ (0.060 ETH) validUntilTimeBetweenOrders 1262826 seconds
+DBG [29607-84 ] accountId  38136 sold__ NFT (to__ #130594) for     2.348 $ (0.002 ETH) validUntilTimeBetweenOrders 2993459 seconds
+DBG [29607-146] accountId  38136 sold__ NFT (to__ # 41270) for    74.481 $ (0.060 ETH) validUntilTimeBetweenOrders 1263656 seconds
+DBG [29612-155] accountId  38136 sold__ NFT (to__ #179879) for    75.965 $ (0.060 ETH) validUntilTimeBetweenOrders 1272909 seconds
+DBG [29628-76 ] accountId  38136 bought NFT (from #124602) for     4.530 $ (0.004 ETH) validUntilTimeBetweenOrders 10653 seconds
+DBG [29628-77 ] accountId  38136 bought NFT (from #126376) for    16.464 $ (0.013 ETH) validUntilTimeBetweenOrders 11144 seconds
+DBG [29628-78 ] accountId  38136 bought NFT (from #128967) for    29.123 $ (0.022 ETH) validUntilTimeBetweenOrders 92626 seconds
+DBG [29635-96 ] accountId  38136 sold__ NFT (to__ #162902) for    14.121 $ (0.011 ETH) validUntilTimeBetweenOrders 10062 seconds
+DBG [29637-51 ] accountId  38136 sold__ NFT (to__ #128466) for   139.420 $ (0.110 ETH) validUntilTimeBetweenOrders 893972 seconds
+DBG [29640-142] accountId  38136 sold__ NFT (to__ #167278) for    28.798 $ (0.022 ETH) validUntilTimeBetweenOrders 116168 seconds
+DBG [29643-310] accountId  38136 bought NFT (from #128466) for    33.992 $ (0.026 ETH) validUntilTimeBetweenOrders 5769 seconds
+DBG [29645-36 ] accountId  38136 bought NFT (from #152905) for     3.097 $ (0.002 ETH) validUntilTimeBetweenOrders 12834 seconds
+DBG [29645-37 ] accountId  38136 bought NFT (from #150619) for     3.226 $ (0.003 ETH) validUntilTimeBetweenOrders 517094 seconds
+DBG [29645-38 ] accountId  38136 bought NFT (from #144127) for     3.613 $ (0.003 ETH) validUntilTimeBetweenOrders 780924 seconds
+DBG [29645-61 ] accountId  38136 bought NFT (from #163373) for     7.489 $ (0.006 ETH) validUntilTimeBetweenOrders 829358 seconds
+DBG [29646-160] accountId  38136 bought NFT (from #128466) for    44.421 $ (0.034 ETH) validUntilTimeBetweenOrders 495 seconds
+DBG [29649-212] accountId  38136 bought NFT (from #128466) for    45.079 $ (0.034 ETH) validUntilTimeBetweenOrders 1143 seconds
+DBG [29649-226] accountId  38136 bought NFT (from #170990) for    15.910 $ (0.012 ETH) validUntilTimeBetweenOrders 54697 seconds
+DBG [29650-318] accountId  38136 bought NFT (from #128466) for    23.996 $ (0.018 ETH) validUntilTimeBetweenOrders 675 seconds
+DBG [29651-101] accountId  38136 sold__ NFT (to__ #157775) for    79.919 $ (0.060 ETH) validUntilTimeBetweenOrders 570933 seconds
+DBG [29653-280] accountId  38136 bought NFT (from #186802) for    39.385 $ (0.030 ETH) validUntilTimeBetweenOrders 93 seconds
+DBG [29658-161] accountId  38136 sold__ NFT (to__ #126376) for   905.756 $ (0.680 ETH) validUntilTimeBetweenOrders 10633 seconds
+DBG [29687-164] accountId  38136 sold__ NFT (to__ # 78845) for   100.537 $ (0.077 ETH) validUntilTimeBetweenOrders 973823 seconds
+DBG [29690-145] accountId  38136 bought NFT (from # 57887) for    10.281 $ (0.008 ETH) validUntilTimeBetweenOrders 6874 seconds
+DBG [29694-39 ] accountId  38136 sold__ NFT (to__ #146489) for    32.022 $ (0.025 ETH) validUntilTimeBetweenOrders 3886 seconds
+DBG [29713-188] accountId  38136 sold__ NFT (to__ # 50647) for     0.612 $ (2.000 LRC) validUntilTimeBetweenOrders 654348 seconds
+DBG [29721-223] accountId  38136 sold__ NFT (to__ #136554) for    78.746 $ (0.060 ETH) validUntilTimeBetweenOrders 669037 seconds
+DBG [29734-253] accountId  38136 bought NFT (from # 46448) for     8.735 $ (0.007 ETH) validUntilTimeBetweenOrders 17935 seconds
+DBG [29734-255] accountId  38136 bought NFT (from #172784) for     8.920 $ (0.007 ETH) validUntilTimeBetweenOrders 32810 seconds
+DBG [29744-192] accountId  38136 bought NFT (from # 46448) for    11.825 $ (0.009 ETH) validUntilTimeBetweenOrders 38120 seconds
+DBG [29744-193] accountId  38136 bought NFT (from #125003) for    11.958 $ (0.009 ETH) validUntilTimeBetweenOrders 66492 seconds
+DBG [29744-201] accountId  38136 bought NFT (from #172784) for     8.291 $ (0.006 ETH) validUntilTimeBetweenOrders 10574 seconds
+DBG [29745-84 ] accountId  38136 sold__ NFT (to__ # 36768) for    66.065 $ (0.050 ETH) validUntilTimeBetweenOrders 1494 seconds
+DBG [29760-185] accountId  38136 bought NFT (from #163627) for   302.032 $ (0.225 ETH) validUntilTimeBetweenOrders 12005 seconds
+DBG [29840-262] accountId  38136 bought NFT (from #162853) for    16.170 $ (0.012 ETH) validUntilTimeBetweenOrders 22951 seconds
+DBG [29864-212] accountId  38136 bought NFT (from # 46448) for     5.176 $ (0.004 ETH) validUntilTimeBetweenOrders 14935 seconds
+DBG [29866-46 ] accountId  38136 sold__ NFT (to__ #128466) for     0.665 $ (0.001 ETH) validUntilTimeBetweenOrders 118 seconds
+DBG [29866-293] accountId  38136 sold__ NFT (to__ #173298) for     0.665 $ (0.001 ETH) validUntilTimeBetweenOrders 94 seconds
+DBG [29866-360] accountId  38136 sold__ NFT (to__ #173298) for     0.659 $ (0.001 ETH) validUntilTimeBetweenOrders 11 seconds
+DBG [29867-0  ] accountId  38136 sold__ NFT (to__ #183821) for     0.659 $ (0.001 ETH) validUntilTimeBetweenOrders 122 seconds
+DBG [29867-17 ] accountId  38136 sold__ NFT (to__ #147812) for     1.450 $ (0.001 ETH) validUntilTimeBetweenOrders 182 seconds
+DBG [29867-69 ] accountId  38136 sold__ NFT (to__ # 65597) for     8.340 $ (0.006 ETH) validUntilTimeBetweenOrders 106 seconds
+DBG [29867-223] accountId  38136 sold__ NFT (to__ #143615) for     3.183 $ (0.002 ETH) validUntilTimeBetweenOrders 366 seconds
+DBG [29867-308] accountId  38136 bought NFT (from #129927) for    49.855 $ (0.037 ETH) validUntilTimeBetweenOrders 359 seconds
+DBG [29868-85 ] accountId  38136 sold__ NFT (to__ #143615) for     0.667 $ (0.001 ETH) validUntilTimeBetweenOrders 191 seconds
+DBG [29913-12 ] accountId  38136 bought NFT (from # 36768) for   347.045 $ (0.250 ETH) validUntilTimeBetweenOrders 63 seconds
+DBG [29913-21 ] accountId  38136 bought NFT (from # 36768) for   347.045 $ (0.250 ETH) validUntilTimeBetweenOrders 63 seconds
+DBG [29913-28 ] accountId  38136 bought NFT (from # 36768) for   138.818 $ (0.100 ETH) validUntilTimeBetweenOrders 63 seconds
+DBG [29913-64 ] accountId  38136 sold__ NFT (to__ #143615) for   104.113 $ (0.075 ETH) validUntilTimeBetweenOrders 36 seconds
+DBG [29913-142] accountId  38136 sold__ NFT (to__ #167230) for   124.995 $ (0.090 ETH) validUntilTimeBetweenOrders 299 seconds
+DBG [29913-209] accountId  38136 sold__ NFT (to__ # 47445) for   138.883 $ (0.100 ETH) validUntilTimeBetweenOrders 813 seconds
+DBG [29914-98 ] accountId  38136 sold__ NFT (to__ # 37134) for   144.329 $ (0.105 ETH) validUntilTimeBetweenOrders 544 seconds
+DBG [29914-165] accountId  38136 sold__ NFT (to__ #133493) for   144.258 $ (0.105 ETH) validUntilTimeBetweenOrders 260 seconds
+DBG [29916-303] accountId  38136 sold__ NFT (to__ #185824) for   141.426 $ (0.105 ETH) validUntilTimeBetweenOrders 1339 seconds
+DBG [29928-289] accountId  38136 bought NFT (from #183393) for    55.700 $ (0.042 ETH) validUntilTimeBetweenOrders 1907 seconds
+DBG [29928-377] accountId  38136 bought NFT (from #134042) for   223.912 $ (0.169 ETH) validUntilTimeBetweenOrders 55 seconds
+DBG [29929-261] accountId  38136 bought NFT (from #183393) for    55.455 $ (0.042 ETH) validUntilTimeBetweenOrders 2276 seconds
+DBG [29930-179] accountId  38136 sold__ NFT (to__ #149841) for   528.702 $ (0.400 ETH) validUntilTimeBetweenOrders 357 seconds
+DBG [29932-289] accountId  38136 bought NFT (from #139975) for     2.889 $ (0.002 ETH) validUntilTimeBetweenOrders 105735 seconds
+DBG [29932-290] accountId  38136 bought NFT (from #185981) for     2.942 $ (0.002 ETH) validUntilTimeBetweenOrders 82467 seconds
+DBG [29932-351] accountId  38136 bought NFT (from #177074) for    15.104 $ (0.011 ETH) validUntilTimeBetweenOrders 5536 seconds
+DBG [29933-9  ] accountId  38136 bought NFT (from #131371) for     9.101 $ (0.007 ETH) validUntilTimeBetweenOrders 313263 seconds
+DBG [29933-167] accountId  38136 bought NFT (from #183513) for    66.270 $ (0.050 ETH) validUntilTimeBetweenOrders 3242 seconds
+DBG [29935-120] accountId  38136 bought NFT (from # 82265) for     3.032 $ (0.002 ETH) validUntilTimeBetweenOrders 170306 seconds
+DBG [29935-121] accountId  38136 bought NFT (from # 43591) for     3.032 $ (0.002 ETH) validUntilTimeBetweenOrders 78182 seconds
+DBG [29935-156] accountId  38136 bought NFT (from # 46448) for     3.032 $ (0.002 ETH) validUntilTimeBetweenOrders 412188 seconds
+DBG [29947-199] accountId  38136 sold__ NFT (to__ #113968) for     2.881 $ (10.000 LRC) validUntilTimeBetweenOrders 1054457 seconds
+DBG [29949-178] accountId  38136 sold__ NFT (to__ #141504) for     3.182 $ (0.003 ETH) validUntilTimeBetweenOrders 35540 seconds
+DBG [29950-229] accountId  38136 sold__ NFT (to__ #167017) for   141.047 $ (0.110 ETH) validUntilTimeBetweenOrders 23440 seconds
+DBG [29974-58 ] accountId  38136 bought NFT (from #168766) for    11.747 $ (0.009 ETH) validUntilTimeBetweenOrders 100522 seconds
+DBG [29974-59 ] accountId  38136 bought NFT (from #168766) for    12.822 $ (0.010 ETH) validUntilTimeBetweenOrders 148931 seconds
+DBG [29976-205] accountId  38136 sold__ NFT (to__ #173298) for   159.507 $ (0.120 ETH) validUntilTimeBetweenOrders 25793 seconds
+DBG [29980-184] accountId  38136 sold__ NFT (to__ #139134) for     3.342 $ (0.003 ETH) validUntilTimeBetweenOrders 84440 seconds
+DBG [29988-119] accountId  38136 sold__ NFT (to__ #126200) for     1.861 $ (0.001 ETH) validUntilTimeBetweenOrders 3089 seconds
+DBG [29991-115] accountId  38136 sold__ NFT (to__ # 40837) for     5.395 $ (0.004 ETH) validUntilTimeBetweenOrders 7235 seconds
+DBG [29991-116] accountId  38136 sold__ NFT (to__ # 40837) for     5.395 $ (0.004 ETH) validUntilTimeBetweenOrders 7235 seconds
+DBG [29993-23 ] accountId  38136 bought NFT (from #128466) for    12.118 $ (0.009 ETH) validUntilTimeBetweenOrders 3610 seconds
+DBG [29993-40 ] accountId  38136 bought NFT (from #128466) for    13.465 $ (0.010 ETH) validUntilTimeBetweenOrders 3625 seconds
+DBG [29993-80 ] accountId  38136 bought NFT (from #128466) for     8.752 $ (0.006 ETH) validUntilTimeBetweenOrders 5112 seconds
+DBG [29994-260] accountId  38136 bought NFT (from #162853) for     9.055 $ (0.007 ETH) validUntilTimeBetweenOrders 60693 seconds
+DBG [29994-301] accountId  38136 bought NFT (from #175030) for    10.211 $ (0.008 ETH) validUntilTimeBetweenOrders 114940 seconds
+DBG [29994-339] accountId  38136 bought NFT (from #162567) for     4.445 $ (0.003 ETH) validUntilTimeBetweenOrders 996 seconds
+DBG [29994-340] accountId  38136 bought NFT (from #129268) for     5.118 $ (0.004 ETH) validUntilTimeBetweenOrders 23198 seconds
+DBG [30015-323] accountId  38136 bought NFT (from #128466) for    17.221 $ (0.013 ETH) validUntilTimeBetweenOrders 55698 seconds
+DBG [30016-21 ] accountId  38136 bought NFT (from #137706) for    11.644 $ (0.009 ETH) validUntilTimeBetweenOrders 4683 seconds
+DBG [30016-22 ] accountId  38136 bought NFT (from #147812) for    29.673 $ (0.022 ETH) validUntilTimeBetweenOrders 39520 seconds
+DBG [30016-251] accountId  38136 bought NFT (from #163627) for    19.863 $ (0.015 ETH) validUntilTimeBetweenOrders 4942 seconds
+DBG [30029-147] accountId  38136 bought NFT (from # 78845) for    15.691 $ (0.012 ETH) validUntilTimeBetweenOrders 5372 seconds
+DBG [30080-105] accountId  38136 sold__ NFT (to__ # 75941) for     9.021 $ (30.000 LRC) validUntilTimeBetweenOrders 1110382 seconds
+DBG [30095-53 ] accountId  38136 bought NFT (from # 92477) for   138.003 $ (0.102 ETH) validUntilTimeBetweenOrders 177 seconds
+DBG [30096-247] accountId  38136 bought NFT (from # 92477) for   184.004 $ (0.136 ETH) validUntilTimeBetweenOrders 177 seconds
+DBG [30099-252] accountId  38136 bought NFT (from # 92477) for   242.453 $ (0.180 ETH) validUntilTimeBetweenOrders 327 seconds
+DBG [30102-118] accountId  38136 bought NFT (from # 92477) for    60.561 $ (0.045 ETH) validUntilTimeBetweenOrders 650 seconds
+DBG [30105-313] accountId  38136 bought NFT (from # 92477) for   121.497 $ (0.090 ETH) validUntilTimeBetweenOrders 898 seconds
+DBG [30108-302] accountId  38136 bought NFT (from # 92477) for   152.706 $ (0.113 ETH) validUntilTimeBetweenOrders 123 seconds
+DBG [30110-258] accountId  38136 bought NFT (from # 92477) for    21.605 $ (0.016 ETH) validUntilTimeBetweenOrders 1186 seconds
+DBG [30123-188] accountId  38136 sold__ NFT (to__ #143813) for    94.852 $ (0.070 ETH) validUntilTimeBetweenOrders 276 seconds
+DBG [30139-186] accountId  38136 sold__ NFT (to__ #189748) for     5.300 $ (0.004 ETH) validUntilTimeBetweenOrders 393395 seconds
+DBG [30154-330] accountId  38136 sold__ NFT (to__ #132866) for   331.496 $ (0.249 ETH) validUntilTimeBetweenOrders 708395 seconds
+DBG [30190-76 ] accountId  38136 sold__ NFT (to__ #189976) for     3.312 $ (0.003 ETH) validUntilTimeBetweenOrders 781704 seconds
+DBG [30219-164] accountId  38136 sold__ NFT (to__ # 71276) for     9.165 $ (0.007 ETH) validUntilTimeBetweenOrders 276157 seconds
+DBG [30228-13 ] accountId  38136 sold__ NFT (to__ #128967) for     6.540 $ (0.005 ETH) validUntilTimeBetweenOrders 40653 seconds
+DBG [30321-248] accountId  38136 sold__ NFT (to__ # 71856) for    26.172 $ (90.000 LRC) validUntilTimeBetweenOrders 1294327 seconds
+DBG [30327-141] accountId  38136 sold__ NFT (to__ #128971) for   119.036 $ (0.090 ETH) validUntilTimeBetweenOrders 27992 seconds
+DBG [30327-213] accountId  38136 bought NFT (from #179111) for   363.906 $ (0.276 ETH) validUntilTimeBetweenOrders 573 seconds
+DBG [30327-308] accountId  38136 sold__ NFT (to__ #127669) for   131.967 $ (0.100 ETH) validUntilTimeBetweenOrders 106 seconds
+DBG [30327-351] accountId  38136 sold__ NFT (to__ # 72033) for   145.164 $ (0.110 ETH) validUntilTimeBetweenOrders 191 seconds
+DBG [30327-352] accountId  38136 sold__ NFT (to__ #172187) for   131.954 $ (0.100 ETH) validUntilTimeBetweenOrders 79 seconds
+DBG [30327-353] accountId  38136 sold__ NFT (to__ # 72033) for   138.565 $ (0.105 ETH) validUntilTimeBetweenOrders 120 seconds
+DBG [30329-302] accountId  38136 sold__ NFT (to__ # 82968) for     2.197 $ (7.500 LRC) validUntilTimeBetweenOrders 1267882 seconds
+DBG [30338-111] accountId  38136 bought NFT (from # 95753) for   129.948 $ (0.099 ETH) validUntilTimeBetweenOrders 12 seconds
+DBG [30341-52 ] accountId  38136 sold__ NFT (to__ #136147) for     1.319 $ (0.001 ETH) validUntilTimeBetweenOrders 39275 seconds
+DBG [30342-206] accountId  38136 bought NFT (from #129927) for     4.059 $ (0.003 ETH) validUntilTimeBetweenOrders 11864 seconds
+DBG [30359-63 ] accountId  38136 sold__ NFT (to__ # 40940) for     2.202 $ (7.500 LRC) validUntilTimeBetweenOrders 1240999 seconds
+DBG [30386-152] accountId  38136 sold__ NFT (to__ #127004) for   202.355 $ (0.150 ETH) validUntilTimeBetweenOrders 462633 seconds
+DBG [30388-11 ] accountId  38136 sold__ NFT (to__ #163366) for     4.061 $ (0.003 ETH) validUntilTimeBetweenOrders 110043 seconds
+DBG [30484-341] accountId  38136 sold__ NFT (to__ #168916) for    23.679 $ (0.018 ETH) validUntilTimeBetweenOrders 61 seconds
+DBG [30528-37 ] accountId  38136 sold__ NFT (to__ #164906) for     7.375 $ (25.000 LRC) validUntilTimeBetweenOrders 1220927 seconds
+DBG [30528-38 ] accountId  38136 sold__ NFT (to__ #164906) for     7.375 $ (25.000 LRC) validUntilTimeBetweenOrders 1220917 seconds
+DBG [30528-39 ] accountId  38136 sold__ NFT (to__ #164906) for     7.375 $ (25.000 LRC) validUntilTimeBetweenOrders 1220910 seconds
+DBG [30528-98 ] accountId  38136 sold__ NFT (to__ #102786) for     7.392 $ (25.000 LRC) validUntilTimeBetweenOrders 1220634 seconds
+DBG [30528-233] accountId  38136 sold__ NFT (to__ #181689) for     7.392 $ (25.000 LRC) validUntilTimeBetweenOrders 1220216 seconds
+DBG [30528-258] accountId  38136 sold__ NFT (to__ #188640) for     7.392 $ (25.000 LRC) validUntilTimeBetweenOrders 1220148 seconds
+DBG [30528-260] accountId  38136 sold__ NFT (to__ #162706) for     7.392 $ (25.000 LRC) validUntilTimeBetweenOrders 1220148 seconds
+DBG [30528-261] accountId  38136 sold__ NFT (to__ #102786) for     7.392 $ (25.000 LRC) validUntilTimeBetweenOrders 1220147 seconds
+DBG [30548-149] accountId  38136 sold__ NFT (to__ # 86933) for     1.468 $ (5.000 LRC) validUntilTimeBetweenOrders 1185902 seconds
+DBG [30572-3  ] accountId  38136 sold__ NFT (to__ #167017) for    13.081 $ (45.000 LRC) validUntilTimeBetweenOrders 1150868 seconds
+DBG [30572-179] accountId  38136 sold__ NFT (to__ # 80397) for     7.260 $ (25.000 LRC) validUntilTimeBetweenOrders 1148518 seconds
+DBG [30596-60 ] accountId  38136 sold__ NFT (to__ #137765) for   119.748 $ (0.090 ETH) validUntilTimeBetweenOrders 174951 seconds
+DBG [30617-41 ] accountId  38136 sold__ NFT (to__ #128641) for     2.885 $ (10.000 LRC) validUntilTimeBetweenOrders 885807 seconds
+DBG [30631-10 ] accountId  38136 sold__ NFT (to__ #128380) for    16.704 $ (58.000 LRC) validUntilTimeBetweenOrders 1116627 seconds
+DBG [30631-11 ] accountId  38136 sold__ NFT (to__ #128380) for    18.432 $ (64.000 LRC) validUntilTimeBetweenOrders 1116697 seconds
+DBG [30631-25 ] accountId  38136 sold__ NFT (to__ #128380) for    24.480 $ (85.000 LRC) validUntilTimeBetweenOrders 1116618 seconds
+DBG [30631-26 ] accountId  38136 sold__ NFT (to__ #128380) for    21.600 $ (75.000 LRC) validUntilTimeBetweenOrders 1116409 seconds
+DBG [30655-46 ] accountId  38136 sold__ NFT (to__ #189840) for   230.205 $ (0.175 ETH) validUntilTimeBetweenOrders 288886 seconds
+DBG [30682-290] accountId  38136 sold__ NFT (to__ #173459) for     9.901 $ (0.007 ETH) validUntilTimeBetweenOrders 883774 seconds
+DBG [30698-31 ] accountId  38136 sold__ NFT (to__ #151914) for    14.496 $ (50.000 LRC) validUntilTimeBetweenOrders 716432 seconds
+DBG [30698-43 ] accountId  38136 sold__ NFT (to__ #151914) for    14.496 $ (50.000 LRC) validUntilTimeBetweenOrders 716857 seconds
+DBG [30700-137] accountId  38136 bought NFT (from #170990) for     3.413 $ (12.000 LRC) validUntilTimeBetweenOrders 1191496 seconds
+DBG [30700-144] accountId  38136 bought NFT (from #170990) for     3.399 $ (12.000 LRC) validUntilTimeBetweenOrders 1191467 seconds
+DBG [30700-145] accountId  38136 bought NFT (from #170990) for     3.399 $ (12.000 LRC) validUntilTimeBetweenOrders 1191451 seconds
+DBG [30700-146] accountId  38136 bought NFT (from #170990) for     3.399 $ (12.000 LRC) validUntilTimeBetweenOrders 1191438 seconds
+DBG [30700-147] accountId  38136 bought NFT (from #170990) for     3.399 $ (12.000 LRC) validUntilTimeBetweenOrders 1191423 seconds
+DBG [30700-156] accountId  38136 bought NFT (from #154458) for     5.099 $ (18.000 LRC) validUntilTimeBetweenOrders 1153495 seconds
+DBG [30700-157] accountId  38136 bought NFT (from #154458) for     5.099 $ (18.000 LRC) validUntilTimeBetweenOrders 1153473 seconds
+DBG [30700-158] accountId  38136 bought NFT (from #154458) for     5.099 $ (18.000 LRC) validUntilTimeBetweenOrders 1153461 seconds
+DBG [30700-159] accountId  38136 bought NFT (from #162853) for     6.516 $ (23.000 LRC) validUntilTimeBetweenOrders 1111800 seconds
+DBG [30700-169] accountId  38136 bought NFT (from #162853) for     6.542 $ (23.000 LRC) validUntilTimeBetweenOrders 1111788 seconds
+DBG [30700-170] accountId  38136 bought NFT (from #162853) for     6.542 $ (23.000 LRC) validUntilTimeBetweenOrders 1111775 seconds
+DBG [30700-171] accountId  38136 bought NFT (from #162853) for     6.542 $ (23.000 LRC) validUntilTimeBetweenOrders 1111760 seconds
+DBG [30700-172] accountId  38136 bought NFT (from #162853) for     6.542 $ (23.000 LRC) validUntilTimeBetweenOrders 1111748 seconds
+DBG [30700-173] accountId  38136 bought NFT (from #162853) for     6.542 $ (23.000 LRC) validUntilTimeBetweenOrders 1111734 seconds
+DBG [30700-174] accountId  38136 bought NFT (from #162853) for     6.542 $ (23.000 LRC) validUntilTimeBetweenOrders 1111720 seconds
+DBG [30701-6  ] accountId  38136 bought NFT (from #164906) for     1.991 $ (7.000 LRC) validUntilTimeBetweenOrders 1241225 seconds
+DBG [30701-7  ] accountId  38136 bought NFT (from #164906) for     1.991 $ (7.000 LRC) validUntilTimeBetweenOrders 1241213 seconds
+DBG [30701-8  ] accountId  38136 bought NFT (from #164906) for     1.991 $ (7.000 LRC) validUntilTimeBetweenOrders 1241203 seconds
+DBG [30701-9  ] accountId  38136 bought NFT (from #164906) for     1.991 $ (7.000 LRC) validUntilTimeBetweenOrders 1241188 seconds
+DBG [30701-10 ] accountId  38136 bought NFT (from #164906) for     1.991 $ (7.000 LRC) validUntilTimeBetweenOrders 1241174 seconds
+DBG [30701-11 ] accountId  38136 bought NFT (from #164906) for     1.991 $ (7.000 LRC) validUntilTimeBetweenOrders 1241162 seconds
+DBG [30701-12 ] accountId  38136 bought NFT (from #164906) for     1.991 $ (7.000 LRC) validUntilTimeBetweenOrders 1241151 seconds
+DBG [30701-13 ] accountId  38136 bought NFT (from #164906) for     1.991 $ (7.000 LRC) validUntilTimeBetweenOrders 1241139 seconds
+DBG [30701-19 ] accountId  38136 bought NFT (from #164906) for     1.991 $ (7.000 LRC) validUntilTimeBetweenOrders 1241128 seconds
+DBG [30701-39 ] accountId  38136 bought NFT (from #164906) for     1.990 $ (7.000 LRC) validUntilTimeBetweenOrders 1241112 seconds
+DBG [30701-40 ] accountId  38136 bought NFT (from #164906) for     1.990 $ (7.000 LRC) validUntilTimeBetweenOrders 1241100 seconds
+DBG [30701-41 ] accountId  38136 bought NFT (from #164906) for     1.990 $ (7.000 LRC) validUntilTimeBetweenOrders 1241085 seconds
+DBG [30712-25 ] accountId  38136 sold__ NFT (to__ #128380) for     6.839 $ (24.000 LRC) validUntilTimeBetweenOrders 945607 seconds
+DBG [30712-36 ] accountId  38136 bought NFT (from #183513) for    65.560 $ (0.050 ETH) validUntilTimeBetweenOrders 20494 seconds
+DBG [30712-37 ] accountId  38136 bought NFT (from #183513) for    65.560 $ (0.050 ETH) validUntilTimeBetweenOrders 547196 seconds
+DBG [30712-38 ] accountId  38136 bought NFT (from # 64352) for    75.918 $ (0.058 ETH) validUntilTimeBetweenOrders 4692 seconds
+DBG [30722-49 ] accountId  38136 sold__ NFT (to__ #159407) for   281.087 $ (0.215 ETH) validUntilTimeBetweenOrders 16151 seconds
+DBG [30731-227] accountId  38136 sold__ NFT (to__ #190984) for    25.809 $ (0.020 ETH) validUntilTimeBetweenOrders 25261 seconds
+DBG [30780-188] accountId  38136 sold__ NFT (to__ #106421) for     2.006 $ (7.500 LRC) validUntilTimeBetweenOrders 1154261 seconds
+DBG [30798-55 ] accountId  38136 bought NFT (from # 36566) for    51.730 $ (0.040 ETH) validUntilTimeBetweenOrders 51279 seconds
+DBG [30807-3  ] accountId  38136 sold__ NFT (to__ # 69571) for     6.721 $ (25.000 LRC) validUntilTimeBetweenOrders 1286097 seconds
+DBG [30836-99 ] accountId  38136 sold__ NFT (to__ #183505) for    11.947 $ (45.000 LRC) validUntilTimeBetweenOrders 652374 seconds
+DBG [30863-29 ] accountId  38136 sold__ NFT (to__ #178035) for    11.089 $ (45.000 LRC) validUntilTimeBetweenOrders 609236 seconds
+DBG [30864-33 ] accountId  38136 bought NFT (from #131371) for     3.430 $ (14.000 LRC) validUntilTimeBetweenOrders 1294576 seconds
+DBG [30864-46 ] accountId  38136 bought NFT (from #136267) for     4.655 $ (19.000 LRC) validUntilTimeBetweenOrders 1251101 seconds
+DBG [30864-47 ] accountId  38136 bought NFT (from #136267) for     4.655 $ (19.000 LRC) validUntilTimeBetweenOrders 1251068 seconds
+DBG [30864-48 ] accountId  38136 bought NFT (from #136267) for     4.655 $ (19.000 LRC) validUntilTimeBetweenOrders 1251051 seconds
+DBG [30864-80 ] accountId  38136 bought NFT (from #124752) for     8.601 $ (35.000 LRC) validUntilTimeBetweenOrders 526446 seconds
+DBG [30864-81 ] accountId  38136 bought NFT (from # 80397) for     8.601 $ (35.000 LRC) validUntilTimeBetweenOrders 754345 seconds
+DBG [30864-194] accountId  38136 bought NFT (from #131371) for     2.479 $ (10.000 LRC) validUntilTimeBetweenOrders 1291436 seconds
+DBG [30864-195] accountId  38136 bought NFT (from #128466) for     3.223 $ (13.000 LRC) validUntilTimeBetweenOrders 1286382 seconds
+DBG [30864-196] accountId  38136 bought NFT (from #128466) for     3.223 $ (13.000 LRC) validUntilTimeBetweenOrders 1286368 seconds
+DBG [30864-197] accountId  38136 bought NFT (from #167580) for     3.471 $ (14.000 LRC) validUntilTimeBetweenOrders 1247567 seconds
+DBG [30864-233] accountId  38136 bought NFT (from #163415) for     3.597 $ (14.500 LRC) validUntilTimeBetweenOrders 547810 seconds
+DBG [30864-234] accountId  38136 bought NFT (from #163415) for     3.597 $ (14.500 LRC) validUntilTimeBetweenOrders 547792 seconds
+DBG [30864-235] accountId  38136 bought NFT (from #163415) for     3.597 $ (14.500 LRC) validUntilTimeBetweenOrders 547778 seconds
+DBG [30868-10 ] accountId  38136 sold__ NFT (to__ #154458) for     6.321 $ (25.000 LRC) validUntilTimeBetweenOrders 600905 seconds
+DBG [30868-222] accountId  38136 sold__ NFT (to__ #128466) for     6.363 $ (25.000 LRC) validUntilTimeBetweenOrders 599787 seconds
+DBG [30869-285] accountId  38136 sold__ NFT (to__ #185312) for    57.401 $ (0.045 ETH) validUntilTimeBetweenOrders 8697 seconds
+DBG [30871-22 ] accountId  38136 sold__ NFT (to__ #178035) for     6.381 $ (25.000 LRC) validUntilTimeBetweenOrders 595554 seconds
+DBG [30871-23 ] accountId  38136 sold__ NFT (to__ #178035) for     6.381 $ (25.000 LRC) validUntilTimeBetweenOrders 595544 seconds
+DBG [30871-24 ] accountId  38136 sold__ NFT (to__ #178035) for     6.381 $ (25.000 LRC) validUntilTimeBetweenOrders 595534 seconds
+DBG [30871-25 ] accountId  38136 sold__ NFT (to__ #178035) for     6.381 $ (25.000 LRC) validUntilTimeBetweenOrders 595523 seconds
+DBG [30871-26 ] accountId  38136 sold__ NFT (to__ #178035) for     6.381 $ (25.000 LRC) validUntilTimeBetweenOrders 595506 seconds
+DBG [30871-27 ] accountId  38136 sold__ NFT (to__ #178035) for     6.381 $ (25.000 LRC) validUntilTimeBetweenOrders 595485 seconds
+DBG [30871-47 ] accountId  38136 sold__ NFT (to__ #178035) for     6.377 $ (25.000 LRC) validUntilTimeBetweenOrders 595474 seconds
+DBG [30871-48 ] accountId  38136 sold__ NFT (to__ #178035) for     6.377 $ (25.000 LRC) validUntilTimeBetweenOrders 595466 seconds
+DBG [30871-49 ] accountId  38136 sold__ NFT (to__ #178035) for     6.377 $ (25.000 LRC) validUntilTimeBetweenOrders 595459 seconds
+DBG [30873-5  ] accountId  38136 sold__ NFT (to__ # 83844) for    58.437 $ (0.046 ETH) validUntilTimeBetweenOrders 12879 seconds
+DBG [30874-331] accountId  38136 sold__ NFT (to__ #152905) for    11.529 $ (45.000 LRC) validUntilTimeBetweenOrders 589882 seconds
+DBG [30877-45 ] accountId  38136 bought NFT (from #183393) for   216.976 $ (0.168 ETH) validUntilTimeBetweenOrders 951 seconds
+DBG [30877-189] accountId  38136 bought NFT (from #183393) for   216.976 $ (0.168 ETH) validUntilTimeBetweenOrders 951 seconds
+DBG [30877-191] accountId  38136 sold__ NFT (to__ #144263) for    77.491 $ (0.060 ETH) validUntilTimeBetweenOrders 54 seconds
+DBG [30880-97 ] accountId  38136 sold__ NFT (to__ # 80509) for    90.317 $ (0.070 ETH) validUntilTimeBetweenOrders 79 seconds
+DBG [30881-53 ] accountId  38136 sold__ NFT (to__ # 64619) for   103.220 $ (0.080 ETH) validUntilTimeBetweenOrders 100 seconds
+DBG [30884-271] accountId  38136 bought NFT (from #183393) for    54.088 $ (0.042 ETH) validUntilTimeBetweenOrders 1195 seconds
+DBG [30885-20 ] accountId  38136 bought NFT (from #183393) for    53.913 $ (0.042 ETH) validUntilTimeBetweenOrders 1188 seconds
+DBG [30885-203] accountId  38136 bought NFT (from #183393) for    53.913 $ (0.042 ETH) validUntilTimeBetweenOrders 1190 seconds
+DBG [30885-226] accountId  38136 bought NFT (from #183393) for    53.913 $ (0.042 ETH) validUntilTimeBetweenOrders 1190 seconds
+DBG [30889-227] accountId  38136 sold__ NFT (to__ # 71856) for     1.947 $ (7.500 LRC) validUntilTimeBetweenOrders 1291033 seconds
+DBG [30903-182] accountId  38136 sold__ NFT (to__ #121661) for    16.541 $ (64.000 LRC) validUntilTimeBetweenOrders 649384 seconds
+DBG [30940-136] accountId  38136 sold__ NFT (to__ #152905) for    11.526 $ (45.000 LRC) validUntilTimeBetweenOrders 514196 seconds
+DBG [30943-19 ] accountId  38136 sold__ NFT (to__ # 41218) for    12.497 $ (49.000 LRC) validUntilTimeBetweenOrders 591367 seconds
+DBG [30945-117] accountId  38136 sold__ NFT (to__ # 38259) for    50.756 $ (199.000 LRC) validUntilTimeBetweenOrders 1211790 seconds
+DBG [30949-122] accountId  38136 sold__ NFT (to__ #128466) for    11.485 $ (45.000 LRC) validUntilTimeBetweenOrders 500353 seconds
+DBG [30988-92 ] accountId  38136 sold__ NFT (to__ # 50830) for     2.499 $ (9.690 LRC) validUntilTimeBetweenOrders 1132072 seconds
+DBG [30988-93 ] accountId  38136 sold__ NFT (to__ # 50830) for     2.499 $ (9.690 LRC) validUntilTimeBetweenOrders 1132042 seconds
+DBG [30989-24 ] accountId  38136 sold__ NFT (to__ # 69571) for     2.582 $ (10.000 LRC) validUntilTimeBetweenOrders 254426 seconds
+DBG [30998-109] accountId  38136 sold__ NFT (to__ #178459) for    53.749 $ (0.042 ETH) validUntilTimeBetweenOrders 233139 seconds
+DBG [30998-116] accountId  38136 sold__ NFT (to__ #178459) for    53.749 $ (0.042 ETH) validUntilTimeBetweenOrders 233139 seconds
+DBG [30998-227] accountId  38136 sold__ NFT (to__ #163319) for    57.560 $ (0.045 ETH) validUntilTimeBetweenOrders 3608 seconds
+DBG [31003-21 ] accountId  38136 sold__ NFT (to__ # 94010) for   350.322 $ (0.275 ETH) validUntilTimeBetweenOrders 12643 seconds
+DBG [31007-177] accountId  38136 sold__ NFT (to__ #164474) for    57.569 $ (0.045 ETH) validUntilTimeBetweenOrders 16149 seconds
+DBG [31014-201] accountId  38136 sold__ NFT (to__ # 74395) for     2.488 $ (9.690 LRC) validUntilTimeBetweenOrders 1260761 seconds
+DBG [31015-243] accountId  38136 sold__ NFT (to__ # 77444) for    57.999 $ (0.045 ETH) validUntilTimeBetweenOrders 36921 seconds
+DBG [31030-90 ] accountId  38136 sold__ NFT (to__ #127790) for    53.530 $ (0.042 ETH) validUntilTimeBetweenOrders 69323 seconds
+DBG [31034-68 ] accountId  38136 sold__ NFT (to__ #188077) for    64.313 $ (0.050 ETH) validUntilTimeBetweenOrders 78002 seconds
+DBG [31034-83 ] accountId  38136 sold__ NFT (to__ #164184) for    65.586 $ (0.051 ETH) validUntilTimeBetweenOrders 78457 seconds
+DBG [31035-20 ] accountId  38136 sold__ NFT (to__ #138595) for    65.599 $ (0.051 ETH) validUntilTimeBetweenOrders 79320 seconds
+DBG [31035-32 ] accountId  38136 sold__ NFT (to__ #128797) for    65.972 $ (0.051 ETH) validUntilTimeBetweenOrders 78705 seconds
+DBG [31038-27 ] accountId  38136 sold__ NFT (to__ #143573) for    66.120 $ (0.051 ETH) validUntilTimeBetweenOrders 84304 seconds
+DBG [31049-325] accountId  38136 sold__ NFT (to__ # 41218) for     8.995 $ (35.000 LRC) validUntilTimeBetweenOrders 48858 seconds
+DBG [31069-80 ] accountId  38136 bought NFT (from #128466) for    11.655 $ (45.000 LRC) validUntilTimeBetweenOrders 1244632 seconds
+DBG [31069-81 ] accountId  38136 bought NFT (from # 84059) for    10.360 $ (40.000 LRC) validUntilTimeBetweenOrders 1274756 seconds
+DBG [31069-82 ] accountId  38136 bought NFT (from #128466) for     7.252 $ (28.000 LRC) validUntilTimeBetweenOrders 1244613 seconds
+DBG [31069-93 ] accountId  38136 bought NFT (from #162853) for     8.547 $ (33.000 LRC) validUntilTimeBetweenOrders 1252442 seconds
+DBG [31070-83 ] accountId  38136 bought NFT (from # 84059) for    22.039 $ (84.500 LRC) validUntilTimeBetweenOrders 1272927 seconds
+DBG [31070-84 ] accountId  38136 bought NFT (from #167017) for    87.082 $ (333.880 LRC) validUntilTimeBetweenOrders 1262509 seconds
+DBG [31072-17 ] accountId  38136 sold__ NFT (to__ # 44215) for     8.904 $ (34.000 LRC) validUntilTimeBetweenOrders 1295081 seconds
+DBG [31074-96 ] accountId  38136 sold__ NFT (to__ #133493) for     3.825 $ (14.680 LRC) validUntilTimeBetweenOrders 1289193 seconds
+DBG [31074-97 ] accountId  38136 sold__ NFT (to__ #133493) for     3.825 $ (14.680 LRC) validUntilTimeBetweenOrders 1289156 seconds
+DBG [31074-98 ] accountId  38136 sold__ NFT (to__ #133493) for     3.825 $ (14.680 LRC) validUntilTimeBetweenOrders 1289141 seconds
+DBG [31076-92 ] accountId  38136 sold__ NFT (to__ #167017) for     1.232 $ (4.680 LRC) validUntilTimeBetweenOrders 1286534 seconds
+DBG [31076-93 ] accountId  38136 sold__ NFT (to__ #167017) for     1.263 $ (4.800 LRC) validUntilTimeBetweenOrders 1286198 seconds
+DBG [31076-94 ] accountId  38136 sold__ NFT (to__ #167017) for     1.263 $ (4.800 LRC) validUntilTimeBetweenOrders 1286175 seconds
+DBG [31076-107] accountId  38136 sold__ NFT (to__ #167017) for     1.232 $ (4.680 LRC) validUntilTimeBetweenOrders 1286922 seconds
+DBG [31076-108] accountId  38136 sold__ NFT (to__ #167017) for     1.232 $ (4.680 LRC) validUntilTimeBetweenOrders 1286902 seconds
+DBG [31076-127] accountId  38136 sold__ NFT (to__ #167017) for     1.177 $ (4.490 LRC) validUntilTimeBetweenOrders 1286879 seconds
+DBG [31076-128] accountId  38136 sold__ NFT (to__ #167017) for     1.489 $ (5.680 LRC) validUntilTimeBetweenOrders 1286152 seconds
+DBG [31076-129] accountId  38136 sold__ NFT (to__ #167017) for     3.461 $ (13.200 LRC) validUntilTimeBetweenOrders 1285200 seconds
+DBG [31076-149] accountId  38136 sold__ NFT (to__ #167017) for     1.529 $ (5.830 LRC) validUntilTimeBetweenOrders 1287020 seconds
+DBG [31076-150] accountId  38136 sold__ NFT (to__ #167017) for     1.529 $ (5.830 LRC) validUntilTimeBetweenOrders 1287004 seconds
+DBG [31076-151] accountId  38136 sold__ NFT (to__ #167017) for     1.529 $ (5.830 LRC) validUntilTimeBetweenOrders 1286984 seconds
+DBG [31076-152] accountId  38136 sold__ NFT (to__ #167017) for     1.657 $ (6.320 LRC) validUntilTimeBetweenOrders 1286555 seconds
+DBG [31076-173] accountId  38136 sold__ NFT (to__ #167017) for     2.360 $ (9.000 LRC) validUntilTimeBetweenOrders 1285139 seconds
+DBG [31076-174] accountId  38136 sold__ NFT (to__ #167017) for     2.360 $ (9.000 LRC) validUntilTimeBetweenOrders 1285121 seconds
+DBG [31076-175] accountId  38136 sold__ NFT (to__ #167017) for     1.571 $ (5.990 LRC) validUntilTimeBetweenOrders 1285368 seconds
+DBG [31076-194] accountId  38136 sold__ NFT (to__ #167017) for     3.681 $ (13.990 LRC) validUntilTimeBetweenOrders 1286040 seconds
+DBG [31076-204] accountId  38136 sold__ NFT (to__ #167017) for     2.462 $ (9.400 LRC) validUntilTimeBetweenOrders 1286395 seconds
+DBG [31077-20 ] accountId  38136 sold__ NFT (to__ #167017) for     8.776 $ (33.500 LRC) validUntilTimeBetweenOrders 1285745 seconds
+DBG [31077-35 ] accountId  38136 sold__ NFT (to__ #167017) for     8.782 $ (33.500 LRC) validUntilTimeBetweenOrders 1285691 seconds
+DBG [31077-48 ] accountId  38136 sold__ NFT (to__ #167017) for     2.464 $ (9.400 LRC) validUntilTimeBetweenOrders 1286014 seconds
+DBG [31090-357] accountId  38136 sold__ NFT (to__ #146938) for     3.665 $ (13.990 LRC) validUntilTimeBetweenOrders 1264658 seconds
+DBG [31097-110] accountId  38136 sold__ NFT (to__ # 40985) for     4.349 $ (16.500 LRC) validUntilTimeBetweenOrders 1251049 seconds
+DBG [31106-49 ] accountId  38136 sold__ NFT (to__ #146938) for     1.302 $ (4.990 LRC) validUntilTimeBetweenOrders 1239587 seconds
+DBG [31107-351] accountId  38136 sold__ NFT (to__ # 94477) for     1.334 $ (0.001 ETH) validUntilTimeBetweenOrders 169343 seconds
+DBG [31122-40 ] accountId  38136 bought NFT (from #128380) for    22.383 $ (86.000 LRC) validUntilTimeBetweenOrders 1256213 seconds
+DBG [31122-59 ] accountId  38136 bought NFT (from #128380) for    22.412 $ (86.000 LRC) validUntilTimeBetweenOrders 1256000 seconds
+DBG [31122-60 ] accountId  38136 bought NFT (from # 65797) for    23.454 $ (90.000 LRC) validUntilTimeBetweenOrders 1253734 seconds
+DBG [31122-68 ] accountId  38136 bought NFT (from # 65797) for    23.417 $ (90.000 LRC) validUntilTimeBetweenOrders 1253712 seconds
+DBG [31122-69 ] accountId  38136 bought NFT (from # 65797) for    23.417 $ (90.000 LRC) validUntilTimeBetweenOrders 1253688 seconds
+DBG [31122-70 ] accountId  38136 bought NFT (from #147514) for    31.223 $ (120.000 LRC) validUntilTimeBetweenOrders 26898 seconds
+DBG [31124-21 ] accountId  38136 sold__ NFT (to__ # 40985) for     1.521 $ (5.830 LRC) validUntilTimeBetweenOrders 1204630 seconds
+DBG [31124-51 ] accountId  38136 sold__ NFT (to__ # 40985) for     1.487 $ (5.700 LRC) validUntilTimeBetweenOrders 1202528 seconds
+DBG [31124-52 ] accountId  38136 sold__ NFT (to__ # 40985) for     1.487 $ (5.700 LRC) validUntilTimeBetweenOrders 1202508 seconds
+DBG [31124-75 ] accountId  38136 sold__ NFT (to__ # 40985) for     1.252 $ (4.800 LRC) validUntilTimeBetweenOrders 1203328 seconds
+DBG [31127-98 ] accountId  38136 sold__ NFT (to__ #174600) for    59.589 $ (0.045 ETH) validUntilTimeBetweenOrders 83077 seconds
+DBG [31132-67 ] accountId  38136 sold__ NFT (to__ #150900) for    54.117 $ (0.041 ETH) validUntilTimeBetweenOrders 18369 seconds
+DBG [31133-314] accountId  38136 sold__ NFT (to__ #126014) for     9.787 $ (0.007 ETH) validUntilTimeBetweenOrders 20865 seconds
+DBG [31154-21 ] accountId  38136 sold__ NFT (to__ # 40985) for     3.127 $ (12.200 LRC) validUntilTimeBetweenOrders 1150546 seconds
+DBG [31186-3  ] accountId  38136 sold__ NFT (to__ #126200) for    32.890 $ (130.000 LRC) validUntilTimeBetweenOrders 1184628 seconds
+DBG [31186-212] accountId  38136 sold__ NFT (to__ #167407) for     0.647 $ (0.001 ETH) validUntilTimeBetweenOrders 6737 seconds
+DBG [31187-242] accountId  38136 sold__ NFT (to__ # 97472) for     9.676 $ (0.007 ETH) validUntilTimeBetweenOrders 1561 seconds
+DBG [31193-119] accountId  38136 sold__ NFT (to__ # 97179) for     1.163 $ (4.680 LRC) validUntilTimeBetweenOrders 1081057 seconds
+DBG [31193-120] accountId  38136 sold__ NFT (to__ # 97179) for     1.163 $ (4.680 LRC) validUntilTimeBetweenOrders 1081046 seconds
+DBG [31193-157] accountId  38136 sold__ NFT (to__ # 97179) for     1.163 $ (4.680 LRC) validUntilTimeBetweenOrders 1081498 seconds
+DBG [31193-158] accountId  38136 sold__ NFT (to__ # 97179) for     1.163 $ (4.680 LRC) validUntilTimeBetweenOrders 1081487 seconds
+DBG [31193-159] accountId  38136 sold__ NFT (to__ # 97179) for     1.163 $ (4.680 LRC) validUntilTimeBetweenOrders 1081476 seconds
+DBG [31194-256] accountId  38136 sold__ NFT (to__ #188640) for     3.005 $ (12.200 LRC) validUntilTimeBetweenOrders 1079302 seconds
+DBG [31194-336] accountId  38136 sold__ NFT (to__ #168875) for     1.233 $ (4.990 LRC) validUntilTimeBetweenOrders 1079140 seconds
+DBG [31194-340] accountId  38136 sold__ NFT (to__ #168875) for     1.480 $ (5.990 LRC) validUntilTimeBetweenOrders 1078685 seconds
+DBG [31194-378] accountId  38136 sold__ NFT (to__ # 78845) for    76.591 $ (310.000 LRC) validUntilTimeBetweenOrders 1202244 seconds
+DBG [31195-18 ] accountId  38136 sold__ NFT (to__ #168875) for     2.258 $ (9.140 LRC) validUntilTimeBetweenOrders 1078227 seconds
+DBG [31195-19 ] accountId  38136 sold__ NFT (to__ #168875) for     4.077 $ (16.500 LRC) validUntilTimeBetweenOrders 1078363 seconds
+DBG [31195-57 ] accountId  38136 sold__ NFT (to__ #190289) for     8.471 $ (34.000 LRC) validUntilTimeBetweenOrders 1078953 seconds
+DBG [31195-304] accountId  38136 sold__ NFT (to__ #127929) for     6.223 $ (25.000 LRC) validUntilTimeBetweenOrders 1077354 seconds
+DBG [31196-109] accountId  38136 sold__ NFT (to__ # 40985) for     2.224 $ (9.000 LRC) validUntilTimeBetweenOrders 1074754 seconds
+DBG [31197-258] accountId  38136 sold__ NFT (to__ # 40985) for     1.233 $ (4.990 LRC) validUntilTimeBetweenOrders 1074019 seconds
+DBG [31197-259] accountId  38136 sold__ NFT (to__ # 40985) for     1.233 $ (4.990 LRC) validUntilTimeBetweenOrders 1073998 seconds
+DBG [31197-260] accountId  38136 sold__ NFT (to__ # 40985) for     1.233 $ (4.990 LRC) validUntilTimeBetweenOrders 1073979 seconds
+DBG [31197-261] accountId  38136 sold__ NFT (to__ # 40985) for     1.233 $ (4.990 LRC) validUntilTimeBetweenOrders 1073964 seconds
+DBG [31197-262] accountId  38136 sold__ NFT (to__ # 40985) for     1.233 $ (4.990 LRC) validUntilTimeBetweenOrders 1073941 seconds
+DBG [31198-180] accountId  38136 sold__ NFT (to__ # 40985) for     3.005 $ (12.200 LRC) validUntilTimeBetweenOrders 1072922 seconds
+DBG [31198-181] accountId  38136 sold__ NFT (to__ # 40985) for     3.005 $ (12.200 LRC) validUntilTimeBetweenOrders 1072885 seconds
+DBG [31198-275] accountId  38136 sold__ NFT (to__ #190461) for     1.229 $ (4.990 LRC) validUntilTimeBetweenOrders 1072548 seconds
+DBG [31200-9  ] accountId  38136 sold__ NFT (to__ #152905) for     1.114 $ (4.490 LRC) validUntilTimeBetweenOrders 1069286 seconds
+DBG [31200-104] accountId  38136 sold__ NFT (to__ #152905) for     3.015 $ (12.200 LRC) validUntilTimeBetweenOrders 1067947 seconds
+DBG [31200-120] accountId  38136 sold__ NFT (to__ #152905) for     3.262 $ (13.200 LRC) validUntilTimeBetweenOrders 1066373 seconds
+DBG [31200-121] accountId  38136 sold__ NFT (to__ #152905) for     1.221 $ (4.940 LRC) validUntilTimeBetweenOrders 1066420 seconds
+DBG [31201-20 ] accountId  38136 sold__ NFT (to__ #152905) for     4.448 $ (18.000 LRC) validUntilTimeBetweenOrders 1067680 seconds
+DBG [31201-58 ] accountId  38136 sold__ NFT (to__ #152905) for     3.830 $ (15.500 LRC) validUntilTimeBetweenOrders 1066852 seconds
+DBG [31201-76 ] accountId  38136 sold__ NFT (to__ #152905) for     3.484 $ (14.100 LRC) validUntilTimeBetweenOrders 1067368 seconds
+DBG [31205-96 ] accountId  38136 sold__ NFT (to__ # 40985) for     1.131 $ (4.490 LRC) validUntilTimeBetweenOrders 1059886 seconds
+DBG [31220-7  ] accountId  38136 sold__ NFT (to__ # 78845) for     2.509 $ (10.000 LRC) validUntilTimeBetweenOrders 1029432 seconds
+DBG [31239-311] accountId  38136 sold__ NFT (to__ #125952) for    10.561 $ (0.008 ETH) validUntilTimeBetweenOrders 1279183 seconds
+DBG [31250-73 ] accountId  38136 sold__ NFT (to__ #103514) for   141.427 $ (0.110 ETH) validUntilTimeBetweenOrders 131 seconds
+DBG [31278-218] accountId  38136 sold__ NFT (to__ # 62231) for    16.880 $ (69.000 LRC) validUntilTimeBetweenOrders 415221 seconds
+DBG [31293-208] accountId  38136 sold__ NFT (to__ #136554) for    83.414 $ (0.065 ETH) validUntilTimeBetweenOrders 1904861 seconds
+DBG [31304-176] accountId  38136 sold__ NFT (to__ #126200) for     4.944 $ (20.000 LRC) validUntilTimeBetweenOrders 275183 seconds
+DBG [31324-82 ] accountId  38136 sold__ NFT (to__ #146728) for    10.421 $ (0.008 ETH) validUntilTimeBetweenOrders 100590 seconds
+DBG [31330-18 ] accountId  38136 sold__ NFT (to__ # 40985) for     2.278 $ (9.190 LRC) validUntilTimeBetweenOrders 887776 seconds
+DBG [31343-145] accountId  38136 sold__ NFT (to__ #162706) for     1.416 $ (5.680 LRC) validUntilTimeBetweenOrders 863112 seconds
+DBG [31343-146] accountId  38136 sold__ NFT (to__ #162706) for     1.416 $ (5.680 LRC) validUntilTimeBetweenOrders 863103 seconds
+DBG [31343-147] accountId  38136 sold__ NFT (to__ #162706) for     1.416 $ (5.680 LRC) validUntilTimeBetweenOrders 863092 seconds
+DBG [31346-16 ] accountId  38136 sold__ NFT (to__ # 40985) for     1.246 $ (4.990 LRC) validUntilTimeBetweenOrders 860124 seconds
+DBG [31346-43 ] accountId  38136 sold__ NFT (to__ # 40985) for     1.121 $ (4.490 LRC) validUntilTimeBetweenOrders 859899 seconds
+DBG [31346-44 ] accountId  38136 sold__ NFT (to__ # 40985) for     1.121 $ (4.490 LRC) validUntilTimeBetweenOrders 859882 seconds
+DBG [31349-159] accountId  38136 sold__ NFT (to__ #125956) for     1.248 $ (4.990 LRC) validUntilTimeBetweenOrders 852443 seconds
+DBG [31362-164] accountId  38136 sold__ NFT (to__ #150640) for    59.121 $ (0.045 ETH) validUntilTimeBetweenOrders 3799599 seconds
+DBG [31363-70 ] accountId  38136 sold__ NFT (to__ #183821) for     1.237 $ (4.990 LRC) validUntilTimeBetweenOrders 830566 seconds
+DBG [31372-246] accountId  38136 sold__ NFT (to__ # 86933) for     3.741 $ (15.000 LRC) validUntilTimeBetweenOrders 379943 seconds
+DBG [31384-180] accountId  38136 sold__ NFT (to__ #167580) for     1.201 $ (4.800 LRC) validUntilTimeBetweenOrders 799894 seconds
+DBG [31400-19 ] accountId  38136 sold__ NFT (to__ # 46506) for     4.945 $ (20.000 LRC) validUntilTimeBetweenOrders 427199 seconds
+DBG [31411-201] accountId  38136 sold__ NFT (to__ #152905) for     1.185 $ (4.800 LRC) validUntilTimeBetweenOrders 751408 seconds
+DBG [31411-230] accountId  38136 sold__ NFT (to__ #152905) for     1.155 $ (4.680 LRC) validUntilTimeBetweenOrders 751548 seconds
+DBG [31442-12 ] accountId  38136 sold__ NFT (to__ #159952) for     5.004 $ (20.000 LRC) validUntilTimeBetweenOrders 490096 seconds
+DBG [31458-324] accountId  38136 sold__ NFT (to__ #163373) for    86.412 $ (349.000 LRC) validUntilTimeBetweenOrders 1277058 seconds
+DBG [31477-267] accountId  38136 sold__ NFT (to__ #162706) for     8.093 $ (32.500 LRC) validUntilTimeBetweenOrders 1257370 seconds
+DBG [31486-272] accountId  38136 sold__ NFT (to__ #178035) for     2.817 $ (11.400 LRC) validUntilTimeBetweenOrders 1253016 seconds
+DBG [31494-3  ] accountId  38136 sold__ NFT (to__ # 82474) for     2.463 $ (9.900 LRC) validUntilTimeBetweenOrders 1243353 seconds
+DBG [31494-4  ] accountId  38136 sold__ NFT (to__ # 82474) for     2.463 $ (9.900 LRC) validUntilTimeBetweenOrders 1243342 seconds
+DBG [31494-5  ] accountId  38136 sold__ NFT (to__ # 82474) for     2.463 $ (9.900 LRC) validUntilTimeBetweenOrders 1243324 seconds
+DBG [31494-6  ] accountId  38136 sold__ NFT (to__ # 82474) for     2.463 $ (9.900 LRC) validUntilTimeBetweenOrders 1243306 seconds
+DBG [31500-93 ] accountId  38136 sold__ NFT (to__ #131447) for     2.496 $ (10.000 LRC) validUntilTimeBetweenOrders 567149 seconds
+DBG [31513-260] accountId  38136 bought NFT (from #137614) for   134.946 $ (0.100 ETH) validUntilTimeBetweenOrders 540 seconds
+DBG [31524-26 ] accountId  38136 bought NFT (from #167631) for   353.893 $ (0.256 ETH) validUntilTimeBetweenOrders 154391 seconds
+DBG [31524-39 ] accountId  38136 bought NFT (from #168706) for   178.650 $ (0.129 ETH) validUntilTimeBetweenOrders 324724 seconds
+DBG [31524-59 ] accountId  38136 bought NFT (from #119005) for   180.258 $ (0.130 ETH) validUntilTimeBetweenOrders 307275 seconds
+DBG [31524-192] accountId  38136 sold__ NFT (to__ # 72288) for   207.587 $ (0.150 ETH) validUntilTimeBetweenOrders 21874 seconds
+DBG [31525-130] accountId  38136 sold__ NFT (to__ # 72288) for   241.577 $ (0.175 ETH) validUntilTimeBetweenOrders 2940 seconds
+DBG [31526-50 ] accountId  38136 sold__ NFT (to__ #133493) for     5.697 $ (22.000 LRC) validUntilTimeBetweenOrders 1191590 seconds
+DBG [31532-309] accountId  38136 sold__ NFT (to__ #178035) for    12.544 $ (48.000 LRC) validUntilTimeBetweenOrders 1182206 seconds
+DBG [31533-189] accountId  38136 sold__ NFT (to__ #178035) for     9.221 $ (34.900 LRC) validUntilTimeBetweenOrders 1181386 seconds
+DBG [31535-0  ] accountId  38136 bought NFT (from # 72260) for    94.211 $ (0.064 ETH) validUntilTimeBetweenOrders 169349 seconds
+DBG [31535-281] accountId  38136 bought NFT (from #138657) for   330.946 $ (0.220 ETH) validUntilTimeBetweenOrders 788 seconds
+DBG [31536-174] accountId  38136 sold__ NFT (to__ #185991) for    97.468 $ (0.065 ETH) validUntilTimeBetweenOrders 9160 seconds
+DBG [31543-45 ] accountId  38136 sold__ NFT (to__ # 82474) for     2.571 $ (9.900 LRC) validUntilTimeBetweenOrders 1248526 seconds
+DBG [31552-227] accountId  38136 sold__ NFT (to__ # 36768) for     1.223 $ (4.680 LRC) validUntilTimeBetweenOrders 553466 seconds
+DBG [31552-228] accountId  38136 sold__ NFT (to__ # 36768) for     1.223 $ (4.680 LRC) validUntilTimeBetweenOrders 553457 seconds
+DBG [31552-229] accountId  38136 sold__ NFT (to__ # 36768) for     1.223 $ (4.680 LRC) validUntilTimeBetweenOrders 553449 seconds
+DBG [31552-230] accountId  38136 sold__ NFT (to__ # 36768) for     1.223 $ (4.680 LRC) validUntilTimeBetweenOrders 553439 seconds
+DBG [31552-231] accountId  38136 sold__ NFT (to__ # 36768) for     1.223 $ (4.680 LRC) validUntilTimeBetweenOrders 553431 seconds
+DBG [31552-247] accountId  38136 sold__ NFT (to__ # 36768) for     1.223 $ (4.680 LRC) validUntilTimeBetweenOrders 553373 seconds
+DBG [31552-250] accountId  38136 sold__ NFT (to__ # 36768) for     1.223 $ (4.680 LRC) validUntilTimeBetweenOrders 553356 seconds
+DBG [31553-132] accountId  38136 sold__ NFT (to__ # 36768) for     1.177 $ (4.490 LRC) validUntilTimeBetweenOrders 552231 seconds
+DBG [31553-133] accountId  38136 sold__ NFT (to__ # 36768) for     1.177 $ (4.490 LRC) validUntilTimeBetweenOrders 552207 seconds
+DBG [31553-134] accountId  38136 sold__ NFT (to__ # 36768) for     1.177 $ (4.490 LRC) validUntilTimeBetweenOrders 552187 seconds
+DBG [31553-140] accountId  38136 sold__ NFT (to__ # 36768) for     1.177 $ (4.490 LRC) validUntilTimeBetweenOrders 552159 seconds
+DBG [31553-141] accountId  38136 sold__ NFT (to__ # 36768) for     1.177 $ (4.490 LRC) validUntilTimeBetweenOrders 552139 seconds
+DBG [31556-88 ] accountId  38136 sold__ NFT (to__ # 36768) for     1.307 $ (4.990 LRC) validUntilTimeBetweenOrders 546628 seconds
+DBG [31556-89 ] accountId  38136 sold__ NFT (to__ # 36768) for     1.307 $ (4.990 LRC) validUntilTimeBetweenOrders 546618 seconds
+DBG [31556-90 ] accountId  38136 sold__ NFT (to__ # 36768) for     1.307 $ (4.990 LRC) validUntilTimeBetweenOrders 546608 seconds
+DBG [31556-95 ] accountId  38136 sold__ NFT (to__ # 36768) for     1.307 $ (4.990 LRC) validUntilTimeBetweenOrders 546599 seconds
+DBG [31556-96 ] accountId  38136 sold__ NFT (to__ # 36768) for     1.307 $ (4.990 LRC) validUntilTimeBetweenOrders 546586 seconds
+DBG [31556-97 ] accountId  38136 sold__ NFT (to__ # 36768) for     1.307 $ (4.990 LRC) validUntilTimeBetweenOrders 546571 seconds
+DBG [31559-77 ] accountId  38136 sold__ NFT (to__ #174731) for     1.309 $ (4.990 LRC) validUntilTimeBetweenOrders 544501 seconds
+DBG [31559-78 ] accountId  38136 sold__ NFT (to__ #174731) for     1.309 $ (4.990 LRC) validUntilTimeBetweenOrders 544475 seconds
+DBG [31559-79 ] accountId  38136 sold__ NFT (to__ #174731) for     1.309 $ (4.990 LRC) validUntilTimeBetweenOrders 544454 seconds
+DBG [31559-80 ] accountId  38136 sold__ NFT (to__ #174731) for     1.309 $ (4.990 LRC) validUntilTimeBetweenOrders 544440 seconds
+DBG [31559-81 ] accountId  38136 sold__ NFT (to__ #174731) for     1.309 $ (4.990 LRC) validUntilTimeBetweenOrders 544419 seconds
+DBG [31559-225] accountId  38136 sold__ NFT (to__ #174731) for     1.309 $ (4.990 LRC) validUntilTimeBetweenOrders 544406 seconds
+DBG [31559-226] accountId  38136 sold__ NFT (to__ #174731) for     1.309 $ (4.990 LRC) validUntilTimeBetweenOrders 544392 seconds
+DBG [31559-227] accountId  38136 sold__ NFT (to__ #174731) for     1.309 $ (4.990 LRC) validUntilTimeBetweenOrders 544368 seconds
+DBG [31559-228] accountId  38136 sold__ NFT (to__ #174731) for     1.309 $ (4.990 LRC) validUntilTimeBetweenOrders 544349 seconds
+DBG [31559-229] accountId  38136 sold__ NFT (to__ #174731) for     1.309 $ (4.990 LRC) validUntilTimeBetweenOrders 544334 seconds
+DBG [31559-230] accountId  38136 sold__ NFT (to__ #174731) for     1.309 $ (4.990 LRC) validUntilTimeBetweenOrders 544320 seconds
+DBG [31559-274] accountId  38136 sold__ NFT (to__ #174731) for     1.309 $ (4.990 LRC) validUntilTimeBetweenOrders 544305 seconds
+DBG [31559-275] accountId  38136 sold__ NFT (to__ # 36768) for     1.228 $ (4.680 LRC) validUntilTimeBetweenOrders 545715 seconds
+DBG [31559-335] accountId  38136 sold__ NFT (to__ # 36768) for     1.228 $ (4.680 LRC) validUntilTimeBetweenOrders 545707 seconds
+DBG [31559-337] accountId  38136 sold__ NFT (to__ #174731) for     1.309 $ (4.990 LRC) validUntilTimeBetweenOrders 544291 seconds
+DBG [31559-340] accountId  38136 sold__ NFT (to__ # 36768) for     1.228 $ (4.680 LRC) validUntilTimeBetweenOrders 545698 seconds
+DBG [31559-341] accountId  38136 sold__ NFT (to__ # 36768) for     1.228 $ (4.680 LRC) validUntilTimeBetweenOrders 545689 seconds
+DBG [31559-342] accountId  38136 sold__ NFT (to__ #174731) for     1.309 $ (4.990 LRC) validUntilTimeBetweenOrders 544275 seconds
+DBG [31559-343] accountId  38136 sold__ NFT (to__ # 36768) for     1.228 $ (4.680 LRC) validUntilTimeBetweenOrders 545679 seconds
+DBG [31559-344] accountId  38136 sold__ NFT (to__ #174731) for     1.309 $ (4.990 LRC) validUntilTimeBetweenOrders 544260 seconds
+DBG [31559-345] accountId  38136 sold__ NFT (to__ # 36768) for     1.228 $ (4.680 LRC) validUntilTimeBetweenOrders 545669 seconds
+DBG [31559-346] accountId  38136 sold__ NFT (to__ # 36768) for     1.228 $ (4.680 LRC) validUntilTimeBetweenOrders 545659 seconds
+DBG [31559-348] accountId  38136 sold__ NFT (to__ #174731) for     1.309 $ (4.990 LRC) validUntilTimeBetweenOrders 544240 seconds
+DBG [31559-361] accountId  38136 sold__ NFT (to__ # 36768) for     1.228 $ (4.680 LRC) validUntilTimeBetweenOrders 545645 seconds
+DBG [31559-363] accountId  38136 sold__ NFT (to__ # 36768) for     1.228 $ (4.680 LRC) validUntilTimeBetweenOrders 545636 seconds
+DBG [31559-364] accountId  38136 sold__ NFT (to__ #174731) for     1.309 $ (4.990 LRC) validUntilTimeBetweenOrders 544218 seconds
+DBG [31559-367] accountId  38136 sold__ NFT (to__ #174731) for     1.309 $ (4.990 LRC) validUntilTimeBetweenOrders 544199 seconds
+DBG [31560-4  ] accountId  38136 sold__ NFT (to__ #174731) for     1.309 $ (4.990 LRC) validUntilTimeBetweenOrders 544184 seconds
+DBG [31560-5  ] accountId  38136 sold__ NFT (to__ #174731) for     1.309 $ (4.990 LRC) validUntilTimeBetweenOrders 544165 seconds
+DBG [31560-6  ] accountId  38136 sold__ NFT (to__ #174731) for     1.309 $ (4.990 LRC) validUntilTimeBetweenOrders 544147 seconds
+DBG [31560-7  ] accountId  38136 sold__ NFT (to__ #174731) for     1.309 $ (4.990 LRC) validUntilTimeBetweenOrders 544134 seconds
+DBG [31560-8  ] accountId  38136 sold__ NFT (to__ #174731) for     1.309 $ (4.990 LRC) validUntilTimeBetweenOrders 544121 seconds
+DBG [31560-44 ] accountId  38136 sold__ NFT (to__ #174731) for     1.309 $ (4.990 LRC) validUntilTimeBetweenOrders 544064 seconds
+DBG [31560-45 ] accountId  38136 sold__ NFT (to__ #174731) for     1.309 $ (4.990 LRC) validUntilTimeBetweenOrders 544046 seconds
+DBG [31560-81 ] accountId  38136 sold__ NFT (to__ # 36768) for     1.259 $ (4.800 LRC) validUntilTimeBetweenOrders 545014 seconds
+DBG [31560-82 ] accountId  38136 sold__ NFT (to__ # 36768) for     1.259 $ (4.800 LRC) validUntilTimeBetweenOrders 545005 seconds
+DBG [31560-90 ] accountId  38136 sold__ NFT (to__ # 36768) for     1.259 $ (4.800 LRC) validUntilTimeBetweenOrders 544996 seconds
+DBG [31560-91 ] accountId  38136 sold__ NFT (to__ # 36768) for     1.259 $ (4.800 LRC) validUntilTimeBetweenOrders 544988 seconds
+DBG [31560-92 ] accountId  38136 sold__ NFT (to__ # 36768) for     1.259 $ (4.800 LRC) validUntilTimeBetweenOrders 544979 seconds
+DBG [31560-93 ] accountId  38136 sold__ NFT (to__ # 36768) for     1.259 $ (4.800 LRC) validUntilTimeBetweenOrders 544970 seconds
+DBG [31560-94 ] accountId  38136 sold__ NFT (to__ # 36768) for     1.259 $ (4.800 LRC) validUntilTimeBetweenOrders 544961 seconds
+DBG [31560-98 ] accountId  38136 sold__ NFT (to__ # 36768) for     1.259 $ (4.800 LRC) validUntilTimeBetweenOrders 544953 seconds
+DBG [31560-196] accountId  38136 sold__ NFT (to__ # 36768) for     1.529 $ (5.830 LRC) validUntilTimeBetweenOrders 545555 seconds
+DBG [31560-218] accountId  38136 sold__ NFT (to__ # 36768) for     1.529 $ (5.830 LRC) validUntilTimeBetweenOrders 545545 seconds
+DBG [31560-219] accountId  38136 sold__ NFT (to__ # 36768) for     1.529 $ (5.830 LRC) validUntilTimeBetweenOrders 545535 seconds
+DBG [31560-277] accountId  38136 sold__ NFT (to__ # 36768) for     1.180 $ (4.500 LRC) validUntilTimeBetweenOrders 543210 seconds
+DBG [31560-281] accountId  38136 sold__ NFT (to__ # 36768) for     1.180 $ (4.500 LRC) validUntilTimeBetweenOrders 543201 seconds
+DBG [31560-282] accountId  38136 sold__ NFT (to__ # 36768) for     1.180 $ (4.500 LRC) validUntilTimeBetweenOrders 543191 seconds
+DBG [31560-283] accountId  38136 sold__ NFT (to__ # 36768) for     1.180 $ (4.500 LRC) validUntilTimeBetweenOrders 543179 seconds
+DBG [31569-125] accountId  38136 bought NFT (from #162853) for     1.616 $ (6.450 LRC) validUntilTimeBetweenOrders 1286243 seconds
+DBG [31569-251] accountId  38136 bought NFT (from #162853) for     1.682 $ (6.450 LRC) validUntilTimeBetweenOrders 1286230 seconds
+DBG [31569-252] accountId  38136 bought NFT (from #162853) for     1.682 $ (6.450 LRC) validUntilTimeBetweenOrders 1286217 seconds
+DBG [31569-253] accountId  38136 bought NFT (from #162853) for     1.682 $ (6.450 LRC) validUntilTimeBetweenOrders 1286203 seconds
+DBG [31569-254] accountId  38136 bought NFT (from #162853) for     1.682 $ (6.450 LRC) validUntilTimeBetweenOrders 1286190 seconds
+DBG [31569-255] accountId  38136 bought NFT (from #162853) for     1.682 $ (6.450 LRC) validUntilTimeBetweenOrders 1286177 seconds
+DBG [31569-256] accountId  38136 bought NFT (from #162853) for     1.682 $ (6.450 LRC) validUntilTimeBetweenOrders 1286166 seconds
+DBG [31569-257] accountId  38136 bought NFT (from #162853) for     1.682 $ (6.450 LRC) validUntilTimeBetweenOrders 1286155 seconds
+DBG [31569-258] accountId  38136 bought NFT (from #162853) for     1.682 $ (6.450 LRC) validUntilTimeBetweenOrders 1286145 seconds
+DBG [31569-259] accountId  38136 bought NFT (from #162853) for     1.682 $ (6.450 LRC) validUntilTimeBetweenOrders 1286134 seconds
+DBG [31569-278] accountId  38136 bought NFT (from #162853) for     1.682 $ (6.450 LRC) validUntilTimeBetweenOrders 1286122 seconds
+DBG [31569-279] accountId  38136 bought NFT (from #162853) for     1.682 $ (6.450 LRC) validUntilTimeBetweenOrders 1286111 seconds
+DBG [31569-280] accountId  38136 bought NFT (from #162853) for     1.682 $ (6.450 LRC) validUntilTimeBetweenOrders 1286101 seconds
+DBG [31569-281] accountId  38136 bought NFT (from #162853) for     1.682 $ (6.450 LRC) validUntilTimeBetweenOrders 1286090 seconds
+DBG [31569-282] accountId  38136 bought NFT (from #162853) for     1.682 $ (6.450 LRC) validUntilTimeBetweenOrders 1286080 seconds
+DBG [31569-283] accountId  38136 bought NFT (from #162853) for     1.682 $ (6.450 LRC) validUntilTimeBetweenOrders 1286049 seconds
+DBG [31569-284] accountId  38136 bought NFT (from #162853) for     1.682 $ (6.450 LRC) validUntilTimeBetweenOrders 1286038 seconds
+DBG [31569-285] accountId  38136 bought NFT (from #162853) for     1.682 $ (6.450 LRC) validUntilTimeBetweenOrders 1286028 seconds
+DBG [31569-286] accountId  38136 bought NFT (from #162853) for     1.682 $ (6.450 LRC) validUntilTimeBetweenOrders 1286017 seconds
+DBG [31569-316] accountId  38136 bought NFT (from #162853) for     1.681 $ (6.450 LRC) validUntilTimeBetweenOrders 1286005 seconds
+DBG [31569-317] accountId  38136 bought NFT (from #162853) for     1.681 $ (6.450 LRC) validUntilTimeBetweenOrders 1285994 seconds
+DBG [31569-318] accountId  38136 bought NFT (from #162853) for     1.681 $ (6.450 LRC) validUntilTimeBetweenOrders 1285983 seconds
+DBG [31569-319] accountId  38136 bought NFT (from #162853) for     1.681 $ (6.450 LRC) validUntilTimeBetweenOrders 1285973 seconds
+DBG [31569-320] accountId  38136 bought NFT (from #162853) for     1.681 $ (6.450 LRC) validUntilTimeBetweenOrders 1285963 seconds
+DBG [31569-321] accountId  38136 bought NFT (from #162853) for     1.681 $ (6.450 LRC) validUntilTimeBetweenOrders 1285952 seconds
+DBG [31569-322] accountId  38136 bought NFT (from #162853) for     1.681 $ (6.450 LRC) validUntilTimeBetweenOrders 1285942 seconds
+DBG [31569-323] accountId  38136 bought NFT (from #162853) for     1.681 $ (6.450 LRC) validUntilTimeBetweenOrders 1285932 seconds
+DBG [31569-324] accountId  38136 bought NFT (from #162853) for     1.681 $ (6.450 LRC) validUntilTimeBetweenOrders 1285922 seconds
+DBG [31570-12 ] accountId  38136 bought NFT (from #162853) for     1.680 $ (6.450 LRC) validUntilTimeBetweenOrders 1285879 seconds
+DBG [31570-13 ] accountId  38136 bought NFT (from #162853) for     1.680 $ (6.450 LRC) validUntilTimeBetweenOrders 1285869 seconds
+DBG [31570-14 ] accountId  38136 bought NFT (from # 90825) for     1.772 $ (6.800 LRC) validUntilTimeBetweenOrders 1247871 seconds
+DBG [31570-15 ] accountId  38136 bought NFT (from #128466) for     1.798 $ (6.900 LRC) validUntilTimeBetweenOrders 1244800 seconds
+DBG [31570-16 ] accountId  38136 bought NFT (from #128466) for     1.798 $ (6.900 LRC) validUntilTimeBetweenOrders 1244789 seconds
+DBG [31570-17 ] accountId  38136 bought NFT (from #128466) for     1.798 $ (6.900 LRC) validUntilTimeBetweenOrders 1244779 seconds
+DBG [31570-18 ] accountId  38136 bought NFT (from #128466) for     1.798 $ (6.900 LRC) validUntilTimeBetweenOrders 1244768 seconds
+DBG [31570-19 ] accountId  38136 bought NFT (from # 33739) for     1.824 $ (7.000 LRC) validUntilTimeBetweenOrders 1235100 seconds
+DBG [31570-36 ] accountId  38136 bought NFT (from #133331) for     3.198 $ (12.220 LRC) validUntilTimeBetweenOrders 447503 seconds
+DBG [31570-37 ] accountId  38136 bought NFT (from #133331) for     3.198 $ (12.220 LRC) validUntilTimeBetweenOrders 447491 seconds
+DBG [31570-38 ] accountId  38136 bought NFT (from #133331) for     3.198 $ (12.220 LRC) validUntilTimeBetweenOrders 447482 seconds
+DBG [31584-24 ] accountId  38136 bought NFT (from #171287) for   110.747 $ (0.070 ETH) validUntilTimeBetweenOrders 1786900 seconds
+DBG [31597-70 ] accountId  38136 sold__ NFT (to__ #137420) for     9.120 $ (0.006 ETH) validUntilTimeBetweenOrders 20271 seconds
+DBG [31846-90 ] accountId  38136 sold__ NFT (to__ #125337) for   167.882 $ (0.108 ETH) validUntilTimeBetweenOrders 257129 seconds
+DBG [31936-107] accountId  38136 sold__ NFT (to__ #184255) for    47.969 $ (0.030 ETH) validUntilTimeBetweenOrders 5646 seconds
+DBG [31997-78 ] accountId  38136 sold__ NFT (to__ #178035) for     2.737 $ (10.000 LRC) validUntilTimeBetweenOrders 71380 seconds
+DBG [31997-79 ] accountId  38136 sold__ NFT (to__ #178035) for     2.737 $ (10.000 LRC) validUntilTimeBetweenOrders 71372 seconds
+DBG [31997-80 ] accountId  38136 sold__ NFT (to__ #178035) for     2.737 $ (10.000 LRC) validUntilTimeBetweenOrders 71363 seconds
+DBG [32005-382] accountId  38136 sold__ NFT (to__ #161948) for    12.499 $ (0.008 ETH) validUntilTimeBetweenOrders 1378330 seconds
+DBG [32120-7  ] accountId  38136 sold__ NFT (to__ #128967) for     3.494 $ (13.200 LRC) validUntilTimeBetweenOrders 48413 seconds
+DBG [32125-174] accountId  38136 sold__ NFT (to__ #170137) for     7.902 $ (0.005 ETH) validUntilTimeBetweenOrders 1794485 seconds
+DBG [32128-50 ] accountId  38136 sold__ NFT (to__ #162902) for     7.447 $ (28.000 LRC) validUntilTimeBetweenOrders 540187 seconds
+DBG [32196-291] accountId  38136 sold__ NFT (to__ #154458) for     3.484 $ (13.200 LRC) validUntilTimeBetweenOrders 144849 seconds
+DBG [32196-292] accountId  38136 sold__ NFT (to__ #154458) for     3.484 $ (13.200 LRC) validUntilTimeBetweenOrders 144863 seconds
+DBG [32197-8  ] accountId  38136 sold__ NFT (to__ #154458) for     3.495 $ (13.200 LRC) validUntilTimeBetweenOrders 144916 seconds
+DBG [32203-188] accountId  38136 sold__ NFT (to__ # 42110) for     2.689 $ (9.900 LRC) validUntilTimeBetweenOrders 445471 seconds
+DBG [32203-293] accountId  38136 sold__ NFT (to__ # 42110) for     2.910 $ (10.750 LRC) validUntilTimeBetweenOrders 444782 seconds
+DBG [32209-123] accountId  38136 bought NFT (from #187691) for     1.366 $ (5.000 LRC) validUntilTimeBetweenOrders 1283841 seconds
+DBG [32209-124] accountId  38136 bought NFT (from #163627) for     3.306 $ (12.100 LRC) validUntilTimeBetweenOrders 905633 seconds
+DBG [32209-125] accountId  38136 bought NFT (from #163627) for     3.306 $ (12.100 LRC) validUntilTimeBetweenOrders 905618 seconds
+DBG [32209-148] accountId  38136 bought NFT (from #163627) for     3.298 $ (12.100 LRC) validUntilTimeBetweenOrders 905582 seconds
+DBG [32209-159] accountId  38136 bought NFT (from #126810) for     1.802 $ (6.600 LRC) validUntilTimeBetweenOrders 111494 seconds
+DBG [32209-160] accountId  38136 bought NFT (from #126810) for     1.802 $ (6.600 LRC) validUntilTimeBetweenOrders 111508 seconds
+DBG [32209-161] accountId  38136 bought NFT (from #126810) for     1.802 $ (6.600 LRC) validUntilTimeBetweenOrders 111520 seconds
+DBG [32209-162] accountId  38136 bought NFT (from #126810) for     1.802 $ (6.600 LRC) validUntilTimeBetweenOrders 111533 seconds
+DBG [32209-163] accountId  38136 bought NFT (from #126810) for     1.802 $ (6.600 LRC) validUntilTimeBetweenOrders 111550 seconds
+DBG [32209-164] accountId  38136 bought NFT (from #126810) for     1.802 $ (6.600 LRC) validUntilTimeBetweenOrders 111563 seconds
+DBG [32209-172] accountId  38136 bought NFT (from #126810) for     1.802 $ (6.600 LRC) validUntilTimeBetweenOrders 111576 seconds
+DBG [32209-173] accountId  38136 bought NFT (from #126810) for     1.802 $ (6.600 LRC) validUntilTimeBetweenOrders 111588 seconds
+DBG [32209-174] accountId  38136 bought NFT (from #126810) for     1.802 $ (6.600 LRC) validUntilTimeBetweenOrders 111600 seconds
+DBG [32209-175] accountId  38136 bought NFT (from #126810) for     1.802 $ (6.600 LRC) validUntilTimeBetweenOrders 111612 seconds
+DBG [32209-176] accountId  38136 bought NFT (from #126810) for     1.802 $ (6.600 LRC) validUntilTimeBetweenOrders 111623 seconds
+DBG [32209-186] accountId  38136 bought NFT (from # 42596) for     4.643 $ (17.000 LRC) validUntilTimeBetweenOrders 98554 seconds
+DBG [32209-187] accountId  38136 bought NFT (from # 42596) for     4.643 $ (17.000 LRC) validUntilTimeBetweenOrders 98541 seconds
+DBG [32213-168] accountId  38136 sold__ NFT (to__ #175024) for     7.536 $ (0.005 ETH) validUntilTimeBetweenOrders 9071 seconds
+DBG [32224-18 ] accountId  38136 bought NFT (from # 97179) for     8.704 $ (32.000 LRC) validUntilTimeBetweenOrders 1295809 seconds
+DBG [32234-347] accountId  38136 sold__ NFT (to__ # 42110) for     3.918 $ (14.100 LRC) validUntilTimeBetweenOrders 207076 seconds
+DBG [32234-348] accountId  38136 sold__ NFT (to__ # 42110) for     3.918 $ (14.100 LRC) validUntilTimeBetweenOrders 207085 seconds
+DBG [32234-382] accountId  38136 sold__ NFT (to__ # 42110) for     3.906 $ (14.100 LRC) validUntilTimeBetweenOrders 207108 seconds
+DBG [32234-383] accountId  38136 sold__ NFT (to__ # 42110) for     3.906 $ (14.100 LRC) validUntilTimeBetweenOrders 207116 seconds
+DBG [32235-0  ] accountId  38136 sold__ NFT (to__ # 42110) for     3.906 $ (14.100 LRC) validUntilTimeBetweenOrders 207124 seconds
+DBG [32235-35 ] accountId  38136 sold__ NFT (to__ # 42110) for     3.380 $ (12.200 LRC) validUntilTimeBetweenOrders 207529 seconds
+DBG [32235-36 ] accountId  38136 sold__ NFT (to__ # 42110) for     3.380 $ (12.200 LRC) validUntilTimeBetweenOrders 207540 seconds
+DBG [32254-304] accountId  38136 sold__ NFT (to__ #152905) for     3.795 $ (13.200 LRC) validUntilTimeBetweenOrders 232948 seconds
+DBG [32254-315] accountId  38136 sold__ NFT (to__ #152905) for     3.799 $ (13.200 LRC) validUntilTimeBetweenOrders 232971 seconds
+DBG [32254-316] accountId  38136 sold__ NFT (to__ #152905) for     3.799 $ (13.200 LRC) validUntilTimeBetweenOrders 232987 seconds
+DBG [32254-317] accountId  38136 sold__ NFT (to__ #152905) for     3.799 $ (13.200 LRC) validUntilTimeBetweenOrders 233007 seconds
+DBG [32254-375] accountId  38136 sold__ NFT (to__ #152905) for     7.488 $ (26.000 LRC) validUntilTimeBetweenOrders 367261 seconds
+DBG [32259-76 ] accountId  38136 sold__ NFT (to__ #190289) for     2.513 $ (7.500 LRC) validUntilTimeBetweenOrders 531483 seconds
+DBG [32259-77 ] accountId  38136 sold__ NFT (to__ #190289) for     2.513 $ (7.500 LRC) validUntilTimeBetweenOrders 531468 seconds
+DBG [32282-334] accountId  38136 sold__ NFT (to__ #175024) for     2.228 $ (0.001 ETH) validUntilTimeBetweenOrders 95022 seconds
+DBG [32401-145] accountId  38136 sold__ NFT (to__ #109533) for     0.363 $ (1.000 LRC) validUntilTimeBetweenOrders 1294889 seconds
+DBG [32428-162] accountId  38136 sold__ NFT (to__ #152905) for     4.152 $ (12.200 LRC) validUntilTimeBetweenOrders 483523 seconds
+DBG [32452-93 ] accountId  38136 sold__ NFT (to__ #128967) for     4.350 $ (13.360 LRC) validUntilTimeBetweenOrders 1286610 seconds
+DBG [32454-357] accountId  38136 sold__ NFT (to__ # 42939) for     1.611 $ (4.990 LRC) validUntilTimeBetweenOrders 1295017 seconds
+DBG [32463-145] accountId  38136 sold__ NFT (to__ #161948) for     0.327 $ (0.990 LRC) validUntilTimeBetweenOrders 1272948 seconds
+DBG [32463-170] accountId  38136 sold__ NFT (to__ #161948) for     0.327 $ (0.990 LRC) validUntilTimeBetweenOrders 1272804 seconds
+DBG [32469-211] accountId  38136 sold__ NFT (to__ #152905) for     4.678 $ (14.100 LRC) validUntilTimeBetweenOrders 1260134 seconds
+DBG [32473-223] accountId  38136 sold__ NFT (to__ # 50830) for     9.719 $ (30.000 LRC) validUntilTimeBetweenOrders 1273498 seconds
+DBG [32481-149] accountId  38136 sold__ NFT (to__ # 76841) for    31.221 $ (95.000 LRC) validUntilTimeBetweenOrders 1258480 seconds
+DBG [32494-143] accountId  38136 sold__ NFT (to__ # 91857) for     0.296 $ (0.990 LRC) validUntilTimeBetweenOrders 1232412 seconds
+DBG [32545-157] accountId  38136 sold__ NFT (to__ #170956) for     3.906 $ (15.000 LRC) validUntilTimeBetweenOrders 1182244 seconds
+DBG [32558-222] accountId  38136 sold__ NFT (to__ # 42110) for     3.612 $ (14.100 LRC) validUntilTimeBetweenOrders 1153134 seconds
+DBG [32564-121] accountId  38136 sold__ NFT (to__ #146088) for     0.253 $ (0.990 LRC) validUntilTimeBetweenOrders 1157556 seconds
+DBG [32589-87 ] accountId  38136 sold__ NFT (to__ # 86156) for     1.864 $ (7.500 LRC) validUntilTimeBetweenOrders 1121050 seconds
+DBG [32599-71 ] accountId  38136 bought NFT (from #185981) for     2.356 $ (10.000 LRC) validUntilTimeBetweenOrders 1039191 seconds
+DBG [32608-66 ] accountId  38136 bought NFT (from #167278) for    61.069 $ (285.000 LRC) validUntilTimeBetweenOrders 1026953 seconds
+DBG [32626-196] accountId  38136 sold__ NFT (to__ #178035) for     5.062 $ (20.000 LRC) validUntilTimeBetweenOrders 1218272 seconds
+DBG [32655-238] accountId  38136 sold__ NFT (to__ #109749) for     0.263 $ (0.990 LRC) validUntilTimeBetweenOrders 1018200 seconds
+DBG [32661-264] accountId  38136 sold__ NFT (to__ # 42110) for     2.719 $ (9.900 LRC) validUntilTimeBetweenOrders 1164108 seconds
+DBG [32661-265] accountId  38136 sold__ NFT (to__ # 42110) for     2.719 $ (9.900 LRC) validUntilTimeBetweenOrders 1164093 seconds
+DBG [32662-67 ] accountId  38136 sold__ NFT (to__ #135967) for     5.202 $ (19.000 LRC) validUntilTimeBetweenOrders 1010587 seconds
+DBG [32673-59 ] accountId  38136 sold__ NFT (to__ # 41819) for     5.118 $ (19.000 LRC) validUntilTimeBetweenOrders 995351 seconds
+DBG [32694-38 ] accountId  38136 sold__ NFT (to__ #162706) for     2.680 $ (9.900 LRC) validUntilTimeBetweenOrders 1118162 seconds
+DBG [32694-39 ] accountId  38136 sold__ NFT (to__ #162706) for     2.680 $ (9.900 LRC) validUntilTimeBetweenOrders 1118153 seconds
+DBG [32694-40 ] accountId  38136 sold__ NFT (to__ #162706) for     2.680 $ (9.900 LRC) validUntilTimeBetweenOrders 1118142 seconds
+DBG [32694-52 ] accountId  38136 sold__ NFT (to__ #162706) for     2.667 $ (9.900 LRC) validUntilTimeBetweenOrders 1118132 seconds
+DBG [32694-53 ] accountId  38136 sold__ NFT (to__ #162706) for     2.667 $ (9.900 LRC) validUntilTimeBetweenOrders 1118124 seconds
+DBG [32718-16 ] accountId  38136 sold__ NFT (to__ #157805) for     0.254 $ (0.990 LRC) validUntilTimeBetweenOrders 927003 seconds
+DBG [32718-17 ] accountId  38136 sold__ NFT (to__ #157805) for     0.254 $ (0.990 LRC) validUntilTimeBetweenOrders 918393 seconds
+DBG [32719-147] accountId  38136 sold__ NFT (to__ #157805) for     0.637 $ (2.500 LRC) validUntilTimeBetweenOrders 929418 seconds
+DBG [32719-352] accountId  38136 sold__ NFT (to__ #128466) for     5.050 $ (20.000 LRC) validUntilTimeBetweenOrders 1080962 seconds
+DBG [32747-99 ] accountId  38136 sold__ NFT (to__ #161567) for     2.447 $ (9.900 LRC) validUntilTimeBetweenOrders 1036080 seconds
+DBG [32747-116] accountId  38136 sold__ NFT (to__ #157562) for     2.447 $ (9.900 LRC) validUntilTimeBetweenOrders 1035917 seconds
+DBG [32748-4  ] accountId  38136 sold__ NFT (to__ #120264) for     2.456 $ (9.900 LRC) validUntilTimeBetweenOrders 1035493 seconds
+DBG [32748-46 ] accountId  38136 bought NFT (from #147395) for     2.481 $ (10.000 LRC) validUntilTimeBetweenOrders 1293496 seconds
+DBG [32748-47 ] accountId  38136 bought NFT (from # 42110) for     2.481 $ (10.000 LRC) validUntilTimeBetweenOrders 186929 seconds
+DBG [32748-48 ] accountId  38136 bought NFT (from # 42110) for     2.481 $ (10.000 LRC) validUntilTimeBetweenOrders 186947 seconds
+DBG [32748-49 ] accountId  38136 bought NFT (from # 42110) for     2.481 $ (10.000 LRC) validUntilTimeBetweenOrders 186967 seconds
+DBG [32749-16 ] accountId  38136 sold__ NFT (to__ #188640) for     3.724 $ (15.000 LRC) validUntilTimeBetweenOrders 1295448 seconds
+DBG [32749-17 ] accountId  38136 sold__ NFT (to__ #188640) for     3.724 $ (15.000 LRC) validUntilTimeBetweenOrders 1295439 seconds
+DBG [32749-22 ] accountId  38136 sold__ NFT (to__ #188640) for     3.724 $ (15.000 LRC) validUntilTimeBetweenOrders 1295432 seconds
+DBG [32749-24 ] accountId  38136 sold__ NFT (to__ #120264) for     3.724 $ (15.000 LRC) validUntilTimeBetweenOrders 1295341 seconds
+DBG [32749-56 ] accountId  38136 sold__ NFT (to__ #188640) for     3.352 $ (13.500 LRC) validUntilTimeBetweenOrders 1295909 seconds
+DBG [32753-7  ] accountId  38136 sold__ NFT (to__ #113678) for     2.460 $ (9.900 LRC) validUntilTimeBetweenOrders 1026860 seconds
+DBG [32753-8  ] accountId  38136 sold__ NFT (to__ #113678) for     2.460 $ (9.900 LRC) validUntilTimeBetweenOrders 1026850 seconds
+DBG [32753-12 ] accountId  38136 sold__ NFT (to__ #113678) for     2.460 $ (9.900 LRC) validUntilTimeBetweenOrders 1026841 seconds
+DBG [32753-13 ] accountId  38136 sold__ NFT (to__ #113678) for     2.460 $ (9.900 LRC) validUntilTimeBetweenOrders 1026831 seconds
+DBG [32753-14 ] accountId  38136 sold__ NFT (to__ #113678) for     2.460 $ (9.900 LRC) validUntilTimeBetweenOrders 1026823 seconds
+DBG [32758-75 ] accountId  38136 sold__ NFT (to__ #150464) for     4.929 $ (20.000 LRC) validUntilTimeBetweenOrders 1284203 seconds
+DBG [32765-191] accountId  38136 sold__ NFT (to__ # 37134) for     5.071 $ (20.000 LRC) validUntilTimeBetweenOrders 1274404 seconds
+DBG [32769-71 ] accountId  38136 bought NFT (from #140725) for     3.760 $ (15.000 LRC) validUntilTimeBetweenOrders 1295205 seconds
+DBG [32770-97 ] accountId  38136 bought NFT (from #128466) for    15.080 $ (60.000 LRC) validUntilTimeBetweenOrders 1295982 seconds
+DBG [32795-376] accountId  38136 sold__ NFT (to__ #152905) for     6.011 $ (23.000 LRC) validUntilTimeBetweenOrders 1266147 seconds
+DBG [32796-58 ] accountId  38136 sold__ NFT (to__ #152905) for     5.994 $ (23.000 LRC) validUntilTimeBetweenOrders 1265699 seconds
+DBG [32823-91 ] accountId  38136 bought NFT (from #128466) for    18.697 $ (75.000 LRC) validUntilTimeBetweenOrders 1294263 seconds
+DBG [32829-112] accountId  38136 sold__ NFT (to__ #152905) for     5.700 $ (23.000 LRC) validUntilTimeBetweenOrders 1288220 seconds
+DBG [32829-113] accountId  38136 sold__ NFT (to__ #152905) for     5.700 $ (23.000 LRC) validUntilTimeBetweenOrders 1288206 seconds
+DBG [32829-115] accountId  38136 sold__ NFT (to__ #152905) for     6.195 $ (25.000 LRC) validUntilTimeBetweenOrders 1288116 seconds
+DBG [32829-117] accountId  38136 sold__ NFT (to__ #152905) for     6.195 $ (25.000 LRC) validUntilTimeBetweenOrders 1288103 seconds
+DBG [32847-212] accountId  38136 sold__ NFT (to__ #128967) for     2.182 $ (8.990 LRC) validUntilTimeBetweenOrders 1199989 seconds
+DBG [32854-12 ] accountId  38136 sold__ NFT (to__ #128967) for     2.178 $ (8.990 LRC) validUntilTimeBetweenOrders 1192550 seconds
+DBG [32859-14 ] accountId  38136 sold__ NFT (to__ # 42110) for     2.141 $ (8.990 LRC) validUntilTimeBetweenOrders 1184116 seconds
+DBG [32859-15 ] accountId  38136 sold__ NFT (to__ # 42110) for     2.141 $ (8.990 LRC) validUntilTimeBetweenOrders 1184106 seconds
+DBG [32863-9  ] accountId  38136 sold__ NFT (to__ #156232) for     2.145 $ (8.990 LRC) validUntilTimeBetweenOrders 1179491 seconds
+DBG [32863-11 ] accountId  38136 sold__ NFT (to__ #156232) for     2.145 $ (8.990 LRC) validUntilTimeBetweenOrders 1179468 seconds
+DBG [32863-12 ] accountId  38136 sold__ NFT (to__ #156232) for     2.145 $ (8.990 LRC) validUntilTimeBetweenOrders 1179442 seconds
+DBG [32863-13 ] accountId  38136 sold__ NFT (to__ #156232) for     2.145 $ (8.990 LRC) validUntilTimeBetweenOrders 1179420 seconds
+DBG [32897-65 ] accountId  38136 sold__ NFT (to__ # 42110) for     4.982 $ (20.000 LRC) validUntilTimeBetweenOrders 107748 seconds
+DBG [32897-66 ] accountId  38136 sold__ NFT (to__ # 42110) for     4.982 $ (20.000 LRC) validUntilTimeBetweenOrders 107756 seconds
+DBG [32900-122] accountId  38136 sold__ NFT (to__ #167017) for     5.667 $ (23.000 LRC) validUntilTimeBetweenOrders 1269900 seconds
+DBG [32909-117] accountId  38136 sold__ NFT (to__ #154458) for     2.452 $ (9.900 LRC) validUntilTimeBetweenOrders 1260342 seconds
+DBG [32919-96 ] accountId  38136 sold__ NFT (to__ #127929) for     2.394 $ (9.500 LRC) validUntilTimeBetweenOrders 1244821 seconds
+DBG [32919-97 ] accountId  38136 sold__ NFT (to__ #127929) for     2.394 $ (9.500 LRC) validUntilTimeBetweenOrders 1244812 seconds
+DBG [32919-98 ] accountId  38136 sold__ NFT (to__ #127929) for     2.394 $ (9.500 LRC) validUntilTimeBetweenOrders 1244797 seconds
+DBG [32919-115] accountId  38136 sold__ NFT (to__ #127929) for     2.394 $ (9.500 LRC) validUntilTimeBetweenOrders 1244790 seconds
+DBG [32919-116] accountId  38136 sold__ NFT (to__ #127929) for     2.394 $ (9.500 LRC) validUntilTimeBetweenOrders 1244782 seconds
+DBG [32931-188] accountId  38136 sold__ NFT (to__ #128466) for    12.719 $ (0.010 ETH) validUntilTimeBetweenOrders 5145889 seconds
+DBG [32932-143] accountId  38136 bought NFT (from #128466) for    13.990 $ (55.000 LRC) validUntilTimeBetweenOrders 1295588 seconds
+DBG [32938-144] accountId  38136 sold__ NFT (to__ #163415) for     2.520 $ (9.900 LRC) validUntilTimeBetweenOrders 1213748 seconds
+DBG [32939-7  ] accountId  38136 sold__ NFT (to__ #163415) for     2.520 $ (9.900 LRC) validUntilTimeBetweenOrders 1213732 seconds
+DBG [32939-8  ] accountId  38136 sold__ NFT (to__ #163415) for     2.520 $ (9.900 LRC) validUntilTimeBetweenOrders 1213717 seconds
+DBG [32972-161] accountId  38136 sold__ NFT (to__ #128466) for    13.350 $ (50.000 LRC) validUntilTimeBetweenOrders 1015724 seconds
+DBG [32972-162] accountId  38136 sold__ NFT (to__ #128466) for    13.350 $ (50.000 LRC) validUntilTimeBetweenOrders 1015715 seconds
+DBG [33008-76 ] accountId  38136 sold__ NFT (to__ #153876) for     2.469 $ (9.900 LRC) validUntilTimeBetweenOrders 504770 seconds
+DBG [33015-90 ] accountId  38136 bought NFT (from #155813) for   228.992 $ (0.190 ETH) validUntilTimeBetweenOrders 166 seconds
+DBG [33017-272] accountId  38136 sold__ NFT (to__ # 62231) for     4.731 $ (19.000 LRC) validUntilTimeBetweenOrders 489379 seconds
+DBG [33017-277] accountId  38136 bought NFT (from #155047) for   288.443 $ (0.240 ETH) validUntilTimeBetweenOrders 62 seconds
+DBG [33017-296] accountId  38136 bought NFT (from #131468) for    82.807 $ (0.069 ETH) validUntilTimeBetweenOrders 47 seconds
+DBG [33017-299] accountId  38136 bought NFT (from #162773) for    92.542 $ (0.077 ETH) validUntilTimeBetweenOrders 29 seconds
+DBG [33018-223] accountId  38136 sold__ NFT (to__ #167017) for     5.722 $ (23.000 LRC) validUntilTimeBetweenOrders 1098593 seconds
+DBG [33021-260] accountId  38136 sold__ NFT (to__ #190461) for     5.723 $ (23.000 LRC) validUntilTimeBetweenOrders 1093636 seconds
+DBG [33024-142] accountId  38136 sold__ NFT (to__ #121661) for     0.968 $ (3.900 LRC) validUntilTimeBetweenOrders 488811 seconds
+DBG [33030-188] accountId  38136 sold__ NFT (to__ #170128) for     0.609 $ (0.001 ETH) validUntilTimeBetweenOrders 4302 seconds
+DBG [33066-228] accountId  38136 sold__ NFT (to__ # 54717) for    53.869 $ (0.045 ETH) validUntilTimeBetweenOrders 51428 seconds
+DBG [33066-234] accountId  38136 sold__ NFT (to__ # 54717) for    49.679 $ (0.042 ETH) validUntilTimeBetweenOrders 16066 seconds
+DBG [33080-10 ] accountId  38136 sold__ NFT (to__ #190461) for     2.207 $ (9.000 LRC) validUntilTimeBetweenOrders 1259080 seconds
+DBG [33081-20 ] accountId  38136 sold__ NFT (to__ #125788) for     3.498 $ (0.003 ETH) validUntilTimeBetweenOrders 1283 seconds
+DBG [33084-40 ] accountId  38136 sold__ NFT (to__ #166259) for     1.208 $ (0.001 ETH) validUntilTimeBetweenOrders 7362 seconds
+DBG [33134-34 ] accountId  38136 sold__ NFT (to__ #138049) for     0.119 $ (0.490 LRC) validUntilTimeBetweenOrders 316985 seconds
+DBG [33155-130] accountId  38136 sold__ NFT (to__ # 93836) for    26.522 $ (0.022 ETH) validUntilTimeBetweenOrders 115085 seconds
+DBG [33156-68 ] accountId  38136 sold__ NFT (to__ #134158) for     1.327 $ (0.001 ETH) validUntilTimeBetweenOrders 113524 seconds
+DBG [33162-0  ] accountId  38136 sold__ NFT (to__ #178035) for     4.119 $ (17.000 LRC) validUntilTimeBetweenOrders 975611 seconds
+DBG [33162-1  ] accountId  38136 sold__ NFT (to__ #178035) for     4.119 $ (17.000 LRC) validUntilTimeBetweenOrders 975597 seconds
+DBG [33210-70 ] accountId  38136 sold__ NFT (to__ #151077) for    59.510 $ (0.049 ETH) validUntilTimeBetweenOrders 183636 seconds
+DBG [33234-46 ] accountId  38136 sold__ NFT (to__ #158339) for     5.882 $ (0.005 ETH) validUntilTimeBetweenOrders 316877 seconds
+DBG [33239-50 ] accountId  38136 sold__ NFT (to__ #130105) for     4.353 $ (0.004 ETH) validUntilTimeBetweenOrders 250637 seconds
+DBG [33240-67 ] accountId  38136 sold__ NFT (to__ #130105) for     1.993 $ (0.002 ETH) validUntilTimeBetweenOrders 250637 seconds
+DBG [33250-17 ] accountId  38136 sold__ NFT (to__ #110613) for     5.710 $ (24.000 LRC) validUntilTimeBetweenOrders 908443 seconds
+DBG [33254-126] accountId  38136 sold__ NFT (to__ #164128) for     5.453 $ (23.500 LRC) validUntilTimeBetweenOrders 986445 seconds
+DBG [33254-127] accountId  38136 sold__ NFT (to__ #164128) for     5.453 $ (23.500 LRC) validUntilTimeBetweenOrders 986439 seconds
+DBG [33254-128] accountId  38136 sold__ NFT (to__ #164128) for     5.453 $ (23.500 LRC) validUntilTimeBetweenOrders 986434 seconds
+DBG [33254-129] accountId  38136 sold__ NFT (to__ #164128) for     5.453 $ (23.500 LRC) validUntilTimeBetweenOrders 986430 seconds
+DBG [33254-130] accountId  38136 sold__ NFT (to__ #164128) for     5.453 $ (23.500 LRC) validUntilTimeBetweenOrders 986424 seconds

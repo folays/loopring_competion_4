@@ -1,0 +1,5 @@
+DBG [33030-89 ] accountId 107680 sold__ NFT (to__ #107679) for  2350.669 $ (9500.000 LRC) validUntilTimeBetweenOrders 1295764 seconds
+DBG [33030-90 ] accountId 107680 bought NFT (from #107679) for  2276.438 $ (9200.000 LRC) validUntilTimeBetweenOrders 1295774 seconds
+DBG [33224-113] accountId 107680 bought NFT (from #107712) for   122.881 $ (495.000 LRC) validUntilTimeBetweenOrders 1295343 seconds
+DBG [33224-114] accountId 107680 bought NFT (from #107712) for   122.881 $ (495.000 LRC) validUntilTimeBetweenOrders 1295335 seconds
+DBG [33224-115] accountId 107680 bought NFT (from #107712) for   122.881 $ (495.000 LRC) validUntilTimeBetweenOrders 1295327 seconds

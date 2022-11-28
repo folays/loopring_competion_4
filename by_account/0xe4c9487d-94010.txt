@@ -1,0 +1,70 @@
+DBG [29460-49 ] accountId  94010 sold__ NFT (to__ # 40940) for     0.297 $ (1.000 LRC) validUntilTimeBetweenOrders 447771 seconds
+DBG [29478-24 ] accountId  94010 sold__ NFT (to__ #136617) for     4.703 $ (0.004 ETH) validUntilTimeBetweenOrders 61141 seconds
+DBG [29494-208] accountId  94010 sold__ NFT (to__ #170149) for     8.658 $ (0.006 ETH) validUntilTimeBetweenOrders 61282 seconds
+DBG [29495-72 ] accountId  94010 sold__ NFT (to__ #145289) for    13.368 $ (0.010 ETH) validUntilTimeBetweenOrders 2934407 seconds
+DBG [29565-157] accountId  94010 sold__ NFT (to__ # 42004) for     4.510 $ (15.000 LRC) validUntilTimeBetweenOrders 486459 seconds
+DBG [29565-178] accountId  94010 sold__ NFT (to__ # 42004) for     4.197 $ (14.000 LRC) validUntilTimeBetweenOrders 486152 seconds
+DBG [29677-78 ] accountId  94010 sold__ NFT (to__ # 82622) for    14.463 $ (0.011 ETH) validUntilTimeBetweenOrders 373214 seconds
+DBG [29690-172] accountId  94010 bought NFT (from # 42138) for  2824.404 $ (2.200 ETH) validUntilTimeBetweenOrders 30194 seconds
+DBG [29723-84 ] accountId  94010 bought NFT (from #188749) for   203.808 $ (0.155 ETH) validUntilTimeBetweenOrders 17779 seconds
+DBG [29809-134] accountId  94010 bought NFT (from #175030) for     2.907 $ (0.002 ETH) validUntilTimeBetweenOrders 22553 seconds
+DBG [29880-181] accountId  94010 sold__ NFT (to__ # 42575) for    47.312 $ (160.000 LRC) validUntilTimeBetweenOrders 930226 seconds
+DBG [29941-22 ] accountId  94010 sold__ NFT (to__ #145303) for     5.866 $ (20.000 LRC) validUntilTimeBetweenOrders 92297 seconds
+DBG [29944-79 ] accountId  94010 sold__ NFT (to__ # 64721) for     0.592 $ (2.000 LRC) validUntilTimeBetweenOrders 1210585 seconds
+DBG [29947-234] accountId  94010 sold__ NFT (to__ #113968) for     5.760 $ (20.000 LRC) validUntilTimeBetweenOrders 103563 seconds
+DBG [29947-235] accountId  94010 sold__ NFT (to__ #113968) for     5.760 $ (20.000 LRC) validUntilTimeBetweenOrders 103574 seconds
+DBG [29947-239] accountId  94010 sold__ NFT (to__ #113968) for     5.760 $ (20.000 LRC) validUntilTimeBetweenOrders 103620 seconds
+DBG [29947-240] accountId  94010 sold__ NFT (to__ #113968) for     5.760 $ (20.000 LRC) validUntilTimeBetweenOrders 103634 seconds
+DBG [29947-262] accountId  94010 sold__ NFT (to__ #113968) for     5.760 $ (20.000 LRC) validUntilTimeBetweenOrders 103654 seconds
+DBG [29947-263] accountId  94010 sold__ NFT (to__ #113968) for     5.760 $ (20.000 LRC) validUntilTimeBetweenOrders 103665 seconds
+DBG [29977-80 ] accountId  94010 bought NFT (from #157510) for    53.180 $ (0.040 ETH) validUntilTimeBetweenOrders 63018 seconds
+DBG [29987-133] accountId  94010 sold__ NFT (to__ # 36220) for    24.347 $ (80.000 LRC) validUntilTimeBetweenOrders 682204 seconds
+DBG [30095-348] accountId  94010 bought NFT (from # 92477) for   243.535 $ (0.180 ETH) validUntilTimeBetweenOrders 98 seconds
+DBG [30110-216] accountId  94010 bought NFT (from # 92477) for   305.170 $ (0.226 ETH) validUntilTimeBetweenOrders 52 seconds
+DBG [30123-231] accountId  94010 bought NFT (from # 92477) for    60.985 $ (0.045 ETH) validUntilTimeBetweenOrders 2751 seconds
+DBG [30144-118] accountId  94010 bought NFT (from # 92477) for    79.500 $ (0.060 ETH) validUntilTimeBetweenOrders 22501 seconds
+DBG [30144-211] accountId  94010 bought NFT (from #171251) for    35.511 $ (0.027 ETH) validUntilTimeBetweenOrders 20938 seconds
+DBG [30144-259] accountId  94010 bought NFT (from #133810) for    84.803 $ (0.064 ETH) validUntilTimeBetweenOrders 549 seconds
+DBG [30144-268] accountId  94010 bought NFT (from # 92477) for    59.627 $ (0.045 ETH) validUntilTimeBetweenOrders 24233 seconds
+DBG [30144-308] accountId  94010 bought NFT (from # 92477) for    59.627 $ (0.045 ETH) validUntilTimeBetweenOrders 23543 seconds
+DBG [30152-244] accountId  94010 sold__ NFT (to__ # 62236) for    13.338 $ (0.010 ETH) validUntilTimeBetweenOrders 3290109 seconds
+DBG [30190-58 ] accountId  94010 sold__ NFT (to__ # 55123) for     8.910 $ (30.000 LRC) validUntilTimeBetweenOrders 1137378 seconds
+DBG [30395-139] accountId  94010 bought NFT (from # 81371) for    16.351 $ (55.000 LRC) validUntilTimeBetweenOrders 971872 seconds
+DBG [30471-150] accountId  94010 sold__ NFT (to__ #154136) for     3.525 $ (12.000 LRC) validUntilTimeBetweenOrders 770318 seconds
+DBG [30869-324] accountId  94010 sold__ NFT (to__ #179879) for    38.194 $ (150.000 LRC) validUntilTimeBetweenOrders 1278875 seconds
+DBG [30869-325] accountId  94010 sold__ NFT (to__ #179879) for    38.194 $ (150.000 LRC) validUntilTimeBetweenOrders 1278858 seconds
+DBG [30887-123] accountId  94010 bought NFT (from #183393) for    54.077 $ (0.042 ETH) validUntilTimeBetweenOrders 1568 seconds
+DBG [30888-17 ] accountId  94010 bought NFT (from #129905) for    61.704 $ (0.048 ETH) validUntilTimeBetweenOrders 15 seconds
+DBG [30986-49 ] accountId  94010 sold__ NFT (to__ # 79226) for    77.316 $ (300.000 LRC) validUntilTimeBetweenOrders 1112549 seconds
+DBG [30991-135] accountId  94010 sold__ NFT (to__ #179879) for    64.197 $ (0.050 ETH) validUntilTimeBetweenOrders 23139 seconds
+DBG [30991-153] accountId  94010 sold__ NFT (to__ #179879) for    70.616 $ (0.055 ETH) validUntilTimeBetweenOrders 24059 seconds
+DBG [31003-21 ] accountId  94010 bought NFT (from # 38136) for   350.322 $ (0.275 ETH) validUntilTimeBetweenOrders 12643 seconds
+DBG [31004-96 ] accountId  94010 sold__ NFT (to__ #137765) for    12.777 $ (0.010 ETH) validUntilTimeBetweenOrders 41141 seconds
+DBG [31042-26 ] accountId  94010 bought NFT (from #164232) for    22.208 $ (0.017 ETH) validUntilTimeBetweenOrders 86253 seconds
+DBG [31047-64 ] accountId  94010 bought NFT (from #133331) for    37.357 $ (144.000 LRC) validUntilTimeBetweenOrders 1280999 seconds
+DBG [31047-65 ] accountId  94010 bought NFT (from #133331) for    43.843 $ (169.000 LRC) validUntilTimeBetweenOrders 1280991 seconds
+DBG [31064-362] accountId  94010 sold__ NFT (to__ #171137) for    26.230 $ (0.020 ETH) validUntilTimeBetweenOrders 41803 seconds
+DBG [31241-44 ] accountId  94010 sold__ NFT (to__ #126014) for     5.133 $ (0.004 ETH) validUntilTimeBetweenOrders 688837 seconds
+DBG [31299-55 ] accountId  94010 bought NFT (from #188603) for    25.888 $ (0.020 ETH) validUntilTimeBetweenOrders 1907023 seconds
+DBG [31299-65 ] accountId  94010 bought NFT (from #188603) for    25.888 $ (0.020 ETH) validUntilTimeBetweenOrders 1923476 seconds
+DBG [31408-121] accountId  94010 sold__ NFT (to__ #159970) for     1.227 $ (5.000 LRC) validUntilTimeBetweenOrders 156727 seconds
+DBG [31418-351] accountId  94010 bought NFT (from # 52134) for   240.557 $ (0.180 ETH) validUntilTimeBetweenOrders 7754 seconds
+DBG [31594-371] accountId  94010 sold__ NFT (to__ #175024) for     4.071 $ (0.003 ETH) validUntilTimeBetweenOrders 1199552 seconds
+DBG [31603-103] accountId  94010 sold__ NFT (to__ #133472) for    23.233 $ (0.015 ETH) validUntilTimeBetweenOrders 281 seconds
+DBG [31630-10 ] accountId  94010 sold__ NFT (to__ # 43152) for    12.160 $ (45.000 LRC) validUntilTimeBetweenOrders 1093960 seconds
+DBG [31839-340] accountId  94010 sold__ NFT (to__ #179879) for    60.628 $ (0.039 ETH) validUntilTimeBetweenOrders 155177 seconds
+DBG [32078-165] accountId  94010 bought NFT (from #126733) for     8.006 $ (0.005 ETH) validUntilTimeBetweenOrders 534 seconds
+DBG [32078-171] accountId  94010 bought NFT (from #126733) for     8.006 $ (0.005 ETH) validUntilTimeBetweenOrders 606043 seconds
+DBG [32085-144] accountId  94010 sold__ NFT (to__ #179879) for    55.876 $ (0.035 ETH) validUntilTimeBetweenOrders 488167 seconds
+DBG [32085-164] accountId  94010 sold__ NFT (to__ #179879) for    55.876 $ (0.035 ETH) validUntilTimeBetweenOrders 488269 seconds
+DBG [32232-136] accountId  94010 bought NFT (from #157510) for     6.177 $ (0.004 ETH) validUntilTimeBetweenOrders 5635 seconds
+DBG [32548-338] accountId  94010 sold__ NFT (to__ #225527) for     1.323 $ (0.001 ETH) validUntilTimeBetweenOrders 56603 seconds
+DBG [32781-91 ] accountId  94010 bought NFT (from # 42138) for    62.754 $ (0.050 ETH) validUntilTimeBetweenOrders 970 seconds
+DBG [32781-99 ] accountId  94010 bought NFT (from # 42138) for   125.508 $ (0.100 ETH) validUntilTimeBetweenOrders 971 seconds
+DBG [32781-132] accountId  94010 bought NFT (from # 42138) for   125.508 $ (0.100 ETH) validUntilTimeBetweenOrders 969 seconds
+DBG [32781-171] accountId  94010 bought NFT (from # 42138) for    62.754 $ (0.050 ETH) validUntilTimeBetweenOrders 973 seconds
+DBG [32997-11 ] accountId  94010 sold__ NFT (to__ # 71749) for     0.506 $ (2.000 LRC) validUntilTimeBetweenOrders 1284869 seconds
+DBG [33073-105] accountId  94010 sold__ NFT (to__ #224059) for     0.492 $ (2.000 LRC) validUntilTimeBetweenOrders 1185322 seconds
+DBG [33086-94 ] accountId  94010 sold__ NFT (to__ #224059) for     4.906 $ (20.000 LRC) validUntilTimeBetweenOrders 1162990 seconds
+DBG [33096-122] accountId  94010 sold__ NFT (to__ # 69571) for    74.678 $ (300.000 LRC) validUntilTimeBetweenOrders 1149192 seconds
+DBG [33151-46 ] accountId  94010 sold__ NFT (to__ # 85471) for    24.321 $ (99.000 LRC) validUntilTimeBetweenOrders 1068071 seconds

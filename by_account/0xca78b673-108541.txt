@@ -1,0 +1,4 @@
+DBG [30624-3  ] accountId 108541 sold__ NFT (to__ #190771) for   132.701 $ (0.100 ETH) validUntilTimeBetweenOrders 154612570 seconds
+DBG [30624-73 ] accountId 108541 sold__ NFT (to__ #190773) for   132.620 $ (0.100 ETH) validUntilTimeBetweenOrders 154611323 seconds
+DBG [30656-57 ] accountId 108541 bought NFT (from #108220) for    65.623 $ (0.050 ETH) validUntilTimeBetweenOrders 154532640 seconds
+DBG [30656-66 ] accountId 108541 bought NFT (from #108216) for    65.623 $ (0.050 ETH) validUntilTimeBetweenOrders 154532213 seconds

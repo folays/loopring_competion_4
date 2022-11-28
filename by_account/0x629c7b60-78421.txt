@@ -1,0 +1,116 @@
+DBG [29512-194] accountId  78421 sold__ NFT (to__ #121792) for   449.219 $ (1469.000 LRC) validUntilTimeBetweenOrders 1286347 seconds
+DBG [29524-150] accountId  78421 bought NFT (from #136594) for    67.523 $ (0.050 ETH) validUntilTimeBetweenOrders 14504 seconds
+DBG [29524-166] accountId  78421 bought NFT (from #128466) for     9.725 $ (0.007 ETH) validUntilTimeBetweenOrders 1154 seconds
+DBG [29524-167] accountId  78421 bought NFT (from #124602) for     8.510 $ (0.006 ETH) validUntilTimeBetweenOrders 10446 seconds
+DBG [29524-168] accountId  78421 bought NFT (from #128466) for    13.507 $ (0.010 ETH) validUntilTimeBetweenOrders 8330 seconds
+DBG [29524-182] accountId  78421 bought NFT (from #129927) for    28.473 $ (0.021 ETH) validUntilTimeBetweenOrders 31060 seconds
+DBG [29524-191] accountId  78421 bought NFT (from #166274) for    81.044 $ (0.060 ETH) validUntilTimeBetweenOrders 369951 seconds
+DBG [29524-242] accountId  78421 bought NFT (from #115949) for    40.522 $ (0.030 ETH) validUntilTimeBetweenOrders 4566934 seconds
+DBG [29535-352] accountId  78421 sold__ NFT (to__ # 54717) for   230.111 $ (750.000 LRC) validUntilTimeBetweenOrders 1241494 seconds
+DBG [29549-153] accountId  78421 bought NFT (from #166872) for   201.319 $ (0.149 ETH) validUntilTimeBetweenOrders 28986 seconds
+DBG [29552-11 ] accountId  78421 bought NFT (from # 43184) for    15.081 $ (50.000 LRC) validUntilTimeBetweenOrders 1286355 seconds
+DBG [29552-28 ] accountId  78421 bought NFT (from # 43184) for    15.081 $ (50.000 LRC) validUntilTimeBetweenOrders 1286310 seconds
+DBG [29764-201] accountId  78421 sold__ NFT (to__ #136216) for   120.698 $ (0.090 ETH) validUntilTimeBetweenOrders 24196 seconds
+DBG [29794-62 ] accountId  78421 sold__ NFT (to__ #128466) for    17.232 $ (0.013 ETH) validUntilTimeBetweenOrders 76685 seconds
+DBG [29811-42 ] accountId  78421 sold__ NFT (to__ # 81111) for    10.423 $ (35.000 LRC) validUntilTimeBetweenOrders 1106840 seconds
+DBG [30007-123] accountId  78421 sold__ NFT (to__ #124574) for    51.998 $ (0.039 ETH) validUntilTimeBetweenOrders 528586 seconds
+DBG [30334-258] accountId  78421 sold__ NFT (to__ #126200) for    20.349 $ (70.000 LRC) validUntilTimeBetweenOrders 1188557 seconds
+DBG [30412-59 ] accountId  78421 bought NFT (from #146088) for     1.047 $ (3.500 LRC) validUntilTimeBetweenOrders 193366 seconds
+DBG [30412-74 ] accountId  78421 bought NFT (from #146088) for     1.047 $ (3.500 LRC) validUntilTimeBetweenOrders 131855 seconds
+DBG [30412-75 ] accountId  78421 bought NFT (from # 41398) for     1.197 $ (4.000 LRC) validUntilTimeBetweenOrders 368364 seconds
+DBG [30412-76 ] accountId  78421 bought NFT (from # 41398) for     1.197 $ (4.000 LRC) validUntilTimeBetweenOrders 368389 seconds
+DBG [30412-77 ] accountId  78421 bought NFT (from # 41398) for     1.496 $ (5.000 LRC) validUntilTimeBetweenOrders 367140 seconds
+DBG [30412-96 ] accountId  78421 bought NFT (from #132376) for     0.110 $ (0.369 LRC) validUntilTimeBetweenOrders 1289260 seconds
+DBG [30412-97 ] accountId  78421 bought NFT (from # 71525) for     0.209 $ (0.700 LRC) validUntilTimeBetweenOrders 414066 seconds
+DBG [30412-98 ] accountId  78421 bought NFT (from #129662) for     0.506 $ (1.690 LRC) validUntilTimeBetweenOrders 484930 seconds
+DBG [30412-99 ] accountId  78421 bought NFT (from # 88418) for     0.598 $ (2.000 LRC) validUntilTimeBetweenOrders 791892 seconds
+DBG [30412-118] accountId  78421 bought NFT (from # 77444) for     1.496 $ (5.000 LRC) validUntilTimeBetweenOrders 474711 seconds
+DBG [30412-142] accountId  78421 bought NFT (from # 41398) for     1.496 $ (5.000 LRC) validUntilTimeBetweenOrders 1140941 seconds
+DBG [30412-143] accountId  78421 bought NFT (from # 41398) for     1.496 $ (5.000 LRC) validUntilTimeBetweenOrders 367545 seconds
+DBG [30412-144] accountId  78421 bought NFT (from # 41398) for     1.496 $ (5.000 LRC) validUntilTimeBetweenOrders 1140986 seconds
+DBG [30412-145] accountId  78421 bought NFT (from # 41398) for     1.496 $ (5.000 LRC) validUntilTimeBetweenOrders 1141008 seconds
+DBG [30412-146] accountId  78421 bought NFT (from # 77444) for     1.496 $ (5.000 LRC) validUntilTimeBetweenOrders 474675 seconds
+DBG [30623-363] accountId  78421 sold__ NFT (to__ #146320) for    26.540 $ (0.020 ETH) validUntilTimeBetweenOrders 297531 seconds
+DBG [30626-37 ] accountId  78421 bought NFT (from # 34145) for     1.999 $ (6.900 LRC) validUntilTimeBetweenOrders 1109154 seconds
+DBG [30667-38 ] accountId  78421 bought NFT (from # 77444) for     2.905 $ (10.000 LRC) validUntilTimeBetweenOrders 189966 seconds
+DBG [30703-293] accountId  78421 sold__ NFT (to__ #127223) for    18.405 $ (0.014 ETH) validUntilTimeBetweenOrders 474709 seconds
+DBG [30780-65 ] accountId  78421 bought NFT (from #160753) for     0.532 $ (2.000 LRC) validUntilTimeBetweenOrders 1289322 seconds
+DBG [30780-66 ] accountId  78421 bought NFT (from # 81853) for     0.378 $ (1.420 LRC) validUntilTimeBetweenOrders 921879 seconds
+DBG [30780-67 ] accountId  78421 bought NFT (from #133562) for     0.532 $ (2.000 LRC) validUntilTimeBetweenOrders 819187 seconds
+DBG [30780-78 ] accountId  78421 bought NFT (from #147810) for     0.665 $ (2.500 LRC) validUntilTimeBetweenOrders 363727 seconds
+DBG [30780-79 ] accountId  78421 bought NFT (from # 49941) for     0.532 $ (2.000 LRC) validUntilTimeBetweenOrders 1061332 seconds
+DBG [30780-80 ] accountId  78421 bought NFT (from # 49941) for     0.532 $ (2.000 LRC) validUntilTimeBetweenOrders 1061282 seconds
+DBG [30809-210] accountId  78421 bought NFT (from #170596) for    13.265 $ (50.000 LRC) validUntilTimeBetweenOrders 1239552 seconds
+DBG [30829-166] accountId  78421 bought NFT (from #100706) for     2.400 $ (9.000 LRC) validUntilTimeBetweenOrders 1293895 seconds
+DBG [31196-15 ] accountId  78421 sold__ NFT (to__ #188640) for     7.467 $ (30.000 LRC) validUntilTimeBetweenOrders 1283709 seconds
+DBG [31203-58 ] accountId  78421 bought NFT (from #170244) for     2.473 $ (10.000 LRC) validUntilTimeBetweenOrders 1270934 seconds
+DBG [31203-74 ] accountId  78421 bought NFT (from #170244) for     2.473 $ (10.000 LRC) validUntilTimeBetweenOrders 1270865 seconds
+DBG [31203-79 ] accountId  78421 bought NFT (from #170244) for     2.473 $ (10.000 LRC) validUntilTimeBetweenOrders 1270708 seconds
+DBG [31428-198] accountId  78421 sold__ NFT (to__ #162706) for     6.534 $ (26.000 LRC) validUntilTimeBetweenOrders 1293903 seconds
+DBG [31436-91 ] accountId  78421 sold__ NFT (to__ #190461) for     7.499 $ (30.000 LRC) validUntilTimeBetweenOrders 1281756 seconds
+DBG [31459-74 ] accountId  78421 bought NFT (from #192576) for     1.238 $ (5.000 LRC) validUntilTimeBetweenOrders 1295970 seconds
+DBG [31459-83 ] accountId  78421 bought NFT (from #192576) for     1.238 $ (5.000 LRC) validUntilTimeBetweenOrders 1295961 seconds
+DBG [31461-264] accountId  78421 bought NFT (from #192576) for     1.239 $ (5.000 LRC) validUntilTimeBetweenOrders 1295956 seconds
+DBG [31461-328] accountId  78421 sold__ NFT (to__ #140901) for    24.796 $ (100.000 LRC) validUntilTimeBetweenOrders 1295975 seconds
+DBG [31461-380] accountId  78421 sold__ NFT (to__ #161408) for    28.515 $ (115.000 LRC) validUntilTimeBetweenOrders 1295870 seconds
+DBG [31471-194] accountId  78421 bought NFT (from #192576) for     1.237 $ (5.000 LRC) validUntilTimeBetweenOrders 1295974 seconds
+DBG [31471-335] accountId  78421 sold__ NFT (to__ # 34507) for    27.462 $ (111.000 LRC) validUntilTimeBetweenOrders 1295782 seconds
+DBG [31492-305] accountId  78421 bought NFT (from #192576) for     1.243 $ (5.000 LRC) validUntilTimeBetweenOrders 1295941 seconds
+DBG [31493-131] accountId  78421 bought NFT (from #192576) for     1.244 $ (5.000 LRC) validUntilTimeBetweenOrders 1295965 seconds
+DBG [31495-111] accountId  78421 bought NFT (from #192576) for     1.231 $ (5.000 LRC) validUntilTimeBetweenOrders 1295966 seconds
+DBG [31495-149] accountId  78421 sold__ NFT (to__ #158267) for    46.284 $ (188.000 LRC) validUntilTimeBetweenOrders 1295457 seconds
+DBG [31507-28 ] accountId  78421 sold__ NFT (to__ #167407) for    29.760 $ (119.000 LRC) validUntilTimeBetweenOrders 1279926 seconds
+DBG [31526-208] accountId  78421 bought NFT (from #192576) for     1.300 $ (5.000 LRC) validUntilTimeBetweenOrders 1295934 seconds
+DBG [31526-216] accountId  78421 bought NFT (from #192576) for     1.300 $ (5.000 LRC) validUntilTimeBetweenOrders 1295853 seconds
+DBG [31527-8  ] accountId  78421 sold__ NFT (to__ # 43152) for    57.712 $ (222.000 LRC) validUntilTimeBetweenOrders 1295725 seconds
+DBG [31527-108] accountId  78421 sold__ NFT (to__ # 82045) for    43.004 $ (166.000 LRC) validUntilTimeBetweenOrders 1295263 seconds
+DBG [31546-60 ] accountId  78421 sold__ NFT (to__ #125366) for    55.092 $ (0.038 ETH) validUntilTimeBetweenOrders 15524 seconds
+DBG [31547-186] accountId  78421 bought NFT (from #192576) for     1.300 $ (5.000 LRC) validUntilTimeBetweenOrders 1295872 seconds
+DBG [31548-176] accountId  78421 bought NFT (from #192576) for     1.296 $ (5.000 LRC) validUntilTimeBetweenOrders 1295859 seconds
+DBG [31598-184] accountId  78421 sold__ NFT (to__ #138049) for     6.660 $ (25.000 LRC) validUntilTimeBetweenOrders 801405 seconds
+DBG [31608-94 ] accountId  78421 sold__ NFT (to__ #131447) for    58.882 $ (222.000 LRC) validUntilTimeBetweenOrders 1249067 seconds
+DBG [31614-133] accountId  78421 bought NFT (from #192576) for     1.343 $ (5.000 LRC) validUntilTimeBetweenOrders 1295441 seconds
+DBG [31647-98 ] accountId  78421 sold__ NFT (to__ #140901) for   106.687 $ (388.000 LRC) validUntilTimeBetweenOrders 1287182 seconds
+DBG [31778-303] accountId  78421 sold__ NFT (to__ # 90113) for    16.781 $ (0.011 ETH) validUntilTimeBetweenOrders 82556 seconds
+DBG [31855-225] accountId  78421 bought NFT (from #191909) for    69.961 $ (0.045 ETH) validUntilTimeBetweenOrders 11509 seconds
+DBG [31962-7  ] accountId  78421 sold__ NFT (to__ # 52864) for   109.996 $ (399.000 LRC) validUntilTimeBetweenOrders 1286322 seconds
+DBG [31975-14 ] accountId  78421 sold__ NFT (to__ #168615) for    55.859 $ (200.000 LRC) validUntilTimeBetweenOrders 1266608 seconds
+DBG [32061-24 ] accountId  78421 sold__ NFT (to__ #126675) for    40.995 $ (149.000 LRC) validUntilTimeBetweenOrders 1253174 seconds
+DBG [32080-9  ] accountId  78421 sold__ NFT (to__ #150464) for   152.903 $ (555.000 LRC) validUntilTimeBetweenOrders 1241474 seconds
+DBG [32083-146] accountId  78421 bought NFT (from #178652) for   111.323 $ (0.070 ETH) validUntilTimeBetweenOrders 1919 seconds
+DBG [32095-51 ] accountId  78421 bought NFT (from #182341) for    69.230 $ (0.044 ETH) validUntilTimeBetweenOrders 44650 seconds
+DBG [32110-23 ] accountId  78421 sold__ NFT (to__ #164225) for    48.874 $ (0.031 ETH) validUntilTimeBetweenOrders 1156 seconds
+DBG [32152-346] accountId  78421 sold__ NFT (to__ #139147) for    52.891 $ (0.034 ETH) validUntilTimeBetweenOrders 7016 seconds
+DBG [32175-318] accountId  78421 bought NFT (from # 61647) for   161.206 $ (0.100 ETH) validUntilTimeBetweenOrders 2967 seconds
+DBG [32246-54 ] accountId  78421 bought NFT (from # 39643) for    59.976 $ (0.039 ETH) validUntilTimeBetweenOrders 10604 seconds
+DBG [32307-356] accountId  78421 sold__ NFT (to__ #132582) for   163.309 $ (0.099 ETH) validUntilTimeBetweenOrders 91670 seconds
+DBG [32324-325] accountId  78421 bought NFT (from #183604) for    66.037 $ (0.040 ETH) validUntilTimeBetweenOrders 12305 seconds
+DBG [32329-128] accountId  78421 sold__ NFT (to__ #151278) for    10.078 $ (27.000 LRC) validUntilTimeBetweenOrders 245707 seconds
+DBG [32358-25 ] accountId  78421 sold__ NFT (to__ # 46506) for     6.824 $ (19.000 LRC) validUntilTimeBetweenOrders 201611 seconds
+DBG [32359-17 ] accountId  78421 bought NFT (from # 54508) for     1.813 $ (5.000 LRC) validUntilTimeBetweenOrders 1295971 seconds
+DBG [32359-53 ] accountId  78421 bought NFT (from # 54508) for     1.813 $ (5.000 LRC) validUntilTimeBetweenOrders 1295872 seconds
+DBG [32359-72 ] accountId  78421 sold__ NFT (to__ # 43152) for     7.250 $ (20.000 LRC) validUntilTimeBetweenOrders 1295858 seconds
+DBG [32369-127] accountId  78421 bought NFT (from #188196) for     2.501 $ (6.900 LRC) validUntilTimeBetweenOrders 1294403 seconds
+DBG [32369-134] accountId  78421 bought NFT (from #188196) for     2.501 $ (6.900 LRC) validUntilTimeBetweenOrders 1294310 seconds
+DBG [32369-148] accountId  78421 bought NFT (from #188196) for     2.501 $ (6.900 LRC) validUntilTimeBetweenOrders 1294215 seconds
+DBG [32372-0  ] accountId  78421 bought NFT (from # 54508) for     1.821 $ (5.000 LRC) validUntilTimeBetweenOrders 1295978 seconds
+DBG [32372-5  ] accountId  78421 bought NFT (from # 54508) for     1.821 $ (5.000 LRC) validUntilTimeBetweenOrders 1295968 seconds
+DBG [32372-20 ] accountId  78421 bought NFT (from # 54508) for     1.821 $ (5.000 LRC) validUntilTimeBetweenOrders 1295972 seconds
+DBG [32372-25 ] accountId  78421 bought NFT (from # 54508) for     1.821 $ (5.000 LRC) validUntilTimeBetweenOrders 1295972 seconds
+DBG [32372-49 ] accountId  78421 bought NFT (from # 54508) for     1.821 $ (5.000 LRC) validUntilTimeBetweenOrders 1295902 seconds
+DBG [32423-267] accountId  78421 bought NFT (from #178441) for    11.904 $ (0.008 ETH) validUntilTimeBetweenOrders 49074 seconds
+DBG [32907-179] accountId  78421 sold__ NFT (to__ #170956) for    11.053 $ (45.000 LRC) validUntilTimeBetweenOrders 599118 seconds
+DBG [32952-137] accountId  78421 bought NFT (from #129905) for    69.559 $ (0.055 ETH) validUntilTimeBetweenOrders 101036 seconds
+DBG [32963-50 ] accountId  78421 bought NFT (from #129905) for    79.883 $ (0.064 ETH) validUntilTimeBetweenOrders 115103 seconds
+DBG [33062-129] accountId  78421 sold__ NFT (to__ # 69571) for    14.534 $ (59.000 LRC) validUntilTimeBetweenOrders 1287158 seconds
+DBG [33063-51 ] accountId  78421 sold__ NFT (to__ # 69571) for    54.687 $ (222.000 LRC) validUntilTimeBetweenOrders 1286957 seconds
+DBG [33066-204] accountId  78421 sold__ NFT (to__ #226265) for     1.702 $ (7.000 LRC) validUntilTimeBetweenOrders 1284488 seconds
+DBG [33073-128] accountId  78421 sold__ NFT (to__ #127929) for     1.724 $ (7.000 LRC) validUntilTimeBetweenOrders 1273361 seconds
+DBG [33073-129] accountId  78421 sold__ NFT (to__ #127929) for     1.724 $ (7.000 LRC) validUntilTimeBetweenOrders 1273355 seconds
+DBG [33080-116] accountId  78421 sold__ NFT (to__ #190461) for     2.696 $ (11.000 LRC) validUntilTimeBetweenOrders 1262420 seconds
+DBG [33080-148] accountId  78421 sold__ NFT (to__ #190461) for     2.707 $ (11.000 LRC) validUntilTimeBetweenOrders 1263457 seconds
+DBG [33085-163] accountId  78421 sold__ NFT (to__ #154458) for     2.216 $ (9.000 LRC) validUntilTimeBetweenOrders 1253441 seconds
+DBG [33085-164] accountId  78421 sold__ NFT (to__ #154458) for     2.216 $ (9.000 LRC) validUntilTimeBetweenOrders 1253431 seconds
+DBG [33086-13 ] accountId  78421 sold__ NFT (to__ #139625) for    34.857 $ (0.029 ETH) validUntilTimeBetweenOrders 2910 seconds
+DBG [33086-31 ] accountId  78421 sold__ NFT (to__ #139625) for    32.213 $ (0.027 ETH) validUntilTimeBetweenOrders 2822 seconds
+DBG [33126-120] accountId  78421 sold__ NFT (to__ #167580) for     1.195 $ (4.900 LRC) validUntilTimeBetweenOrders 1295698 seconds

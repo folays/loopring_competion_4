@@ -1,0 +1,129 @@
+DBG [29480-187] accountId 131297 sold__ NFT (to__ #175024) for    26.375 $ (0.020 ETH) validUntilTimeBetweenOrders 819173 seconds
+DBG [29609-97 ] accountId 131297 bought NFT (from # 64352) for    37.536 $ (0.030 ETH) validUntilTimeBetweenOrders 132928 seconds
+DBG [29769-291] accountId 131297 sold__ NFT (to__ # 86988) for     7.517 $ (25.000 LRC) validUntilTimeBetweenOrders 1212367 seconds
+DBG [29813-117] accountId 131297 sold__ NFT (to__ # 82770) for     0.594 $ (2.000 LRC) validUntilTimeBetweenOrders 92175 seconds
+DBG [29954-162] accountId 131297 sold__ NFT (to__ #126376) for     5.775 $ (20.000 LRC) validUntilTimeBetweenOrders 796139 seconds
+DBG [30094-108] accountId 131297 bought NFT (from # 92477) for    43.295 $ (0.032 ETH) validUntilTimeBetweenOrders 1965 seconds
+DBG [30100-158] accountId 131297 bought NFT (from # 92477) for    45.797 $ (0.034 ETH) validUntilTimeBetweenOrders 1965 seconds
+DBG [30121-103] accountId 131297 bought NFT (from # 92477) for   122.151 $ (0.090 ETH) validUntilTimeBetweenOrders 2436 seconds
+DBG [30363-337] accountId 131297 bought NFT (from #188603) for    53.264 $ (0.040 ETH) validUntilTimeBetweenOrders 413021 seconds
+DBG [30363-344] accountId 131297 bought NFT (from #188603) for    26.632 $ (0.020 ETH) validUntilTimeBetweenOrders 412918 seconds
+DBG [30365-186] accountId 131297 bought NFT (from #188603) for    53.264 $ (0.040 ETH) validUntilTimeBetweenOrders 415168 seconds
+DBG [30365-188] accountId 131297 bought NFT (from #188603) for    26.632 $ (0.020 ETH) validUntilTimeBetweenOrders 398613 seconds
+DBG [30365-189] accountId 131297 bought NFT (from #188603) for    26.632 $ (0.020 ETH) validUntilTimeBetweenOrders 415066 seconds
+DBG [30365-367] accountId 131297 bought NFT (from #188603) for    53.264 $ (0.040 ETH) validUntilTimeBetweenOrders 415169 seconds
+DBG [30365-373] accountId 131297 bought NFT (from #188603) for    26.632 $ (0.020 ETH) validUntilTimeBetweenOrders 398613 seconds
+DBG [30366-5  ] accountId 131297 bought NFT (from #188603) for    26.632 $ (0.020 ETH) validUntilTimeBetweenOrders 415067 seconds
+DBG [30366-10 ] accountId 131297 bought NFT (from #188603) for    53.264 $ (0.040 ETH) validUntilTimeBetweenOrders 415168 seconds
+DBG [30534-81 ] accountId 131297 bought NFT (from #188603) for    54.089 $ (0.040 ETH) validUntilTimeBetweenOrders 620642 seconds
+DBG [30534-83 ] accountId 131297 bought NFT (from # 95220) for    27.044 $ (0.020 ETH) validUntilTimeBetweenOrders 7649 seconds
+DBG [30541-145] accountId 131297 sold__ NFT (to__ #162773) for    14.774 $ (50.000 LRC) validUntilTimeBetweenOrders 1295872 seconds
+DBG [30541-294] accountId 131297 bought NFT (from #188603) for    27.313 $ (0.020 ETH) validUntilTimeBetweenOrders 631661 seconds
+DBG [30545-99 ] accountId 131297 sold__ NFT (to__ #178035) for    17.662 $ (60.000 LRC) validUntilTimeBetweenOrders 1289519 seconds
+DBG [30555-111] accountId 131297 sold__ NFT (to__ # 41819) for     1.447 $ (5.000 LRC) validUntilTimeBetweenOrders 1273769 seconds
+DBG [30555-146] accountId 131297 sold__ NFT (to__ # 41819) for     1.447 $ (5.000 LRC) validUntilTimeBetweenOrders 1273218 seconds
+DBG [30558-44 ] accountId 131297 sold__ NFT (to__ # 51382) for    13.026 $ (45.000 LRC) validUntilTimeBetweenOrders 1268715 seconds
+DBG [30569-59 ] accountId 131297 bought NFT (from #188603) for    27.158 $ (0.020 ETH) validUntilTimeBetweenOrders 650262 seconds
+DBG [30570-97 ] accountId 131297 sold__ NFT (to__ # 43095) for   122.196 $ (0.090 ETH) validUntilTimeBetweenOrders 7825 seconds
+DBG [30571-1  ] accountId 131297 sold__ NFT (to__ # 43095) for    36.649 $ (0.027 ETH) validUntilTimeBetweenOrders 9297 seconds
+DBG [30571-20 ] accountId 131297 bought NFT (from #188603) for    54.315 $ (0.040 ETH) validUntilTimeBetweenOrders 666788 seconds
+DBG [30571-21 ] accountId 131297 bought NFT (from #188603) for    27.158 $ (0.020 ETH) validUntilTimeBetweenOrders 650233 seconds
+DBG [30571-25 ] accountId 131297 bought NFT (from #188603) for    27.158 $ (0.020 ETH) validUntilTimeBetweenOrders 650233 seconds
+DBG [30571-30 ] accountId 131297 bought NFT (from #188603) for    27.158 $ (0.020 ETH) validUntilTimeBetweenOrders 650233 seconds
+DBG [30574-46 ] accountId 131297 bought NFT (from #188603) for    54.170 $ (0.040 ETH) validUntilTimeBetweenOrders 666788 seconds
+DBG [30574-47 ] accountId 131297 bought NFT (from #188603) for    27.085 $ (0.020 ETH) validUntilTimeBetweenOrders 650233 seconds
+DBG [30574-50 ] accountId 131297 bought NFT (from #188603) for    27.085 $ (0.020 ETH) validUntilTimeBetweenOrders 666686 seconds
+DBG [30574-53 ] accountId 131297 bought NFT (from #188603) for    54.170 $ (0.040 ETH) validUntilTimeBetweenOrders 666789 seconds
+DBG [30574-56 ] accountId 131297 bought NFT (from #188603) for    54.170 $ (0.040 ETH) validUntilTimeBetweenOrders 666788 seconds
+DBG [30574-73 ] accountId 131297 bought NFT (from #188603) for    27.085 $ (0.020 ETH) validUntilTimeBetweenOrders 666687 seconds
+DBG [30574-82 ] accountId 131297 bought NFT (from #188603) for    27.102 $ (0.020 ETH) validUntilTimeBetweenOrders 666686 seconds
+DBG [30575-237] accountId 131297 sold__ NFT (to__ #168875) for     1.750 $ (6.000 LRC) validUntilTimeBetweenOrders 1243306 seconds
+DBG [30597-195] accountId 131297 sold__ NFT (to__ #138506) for    11.475 $ (40.000 LRC) validUntilTimeBetweenOrders 1196314 seconds
+DBG [30706-85 ] accountId 131297 sold__ NFT (to__ #135263) for    92.213 $ (0.070 ETH) validUntilTimeBetweenOrders 318042 seconds
+DBG [30769-247] accountId 131297 bought NFT (from #165127) for    51.484 $ (0.040 ETH) validUntilTimeBetweenOrders 37527 seconds
+DBG [30769-275] accountId 131297 bought NFT (from #188603) for    25.742 $ (0.020 ETH) validUntilTimeBetweenOrders 1011176 seconds
+DBG [30772-283] accountId 131297 sold__ NFT (to__ #183821) for     1.601 $ (6.000 LRC) validUntilTimeBetweenOrders 1291965 seconds
+DBG [30781-28 ] accountId 131297 sold__ NFT (to__ #127554) for    64.085 $ (0.050 ETH) validUntilTimeBetweenOrders 446671 seconds
+DBG [30785-205] accountId 131297 sold__ NFT (to__ #163207) for    10.263 $ (0.008 ETH) validUntilTimeBetweenOrders 14247 seconds
+DBG [30807-144] accountId 131297 sold__ NFT (to__ #175024) for    23.467 $ (0.018 ETH) validUntilTimeBetweenOrders 19864 seconds
+DBG [30867-210] accountId 131297 sold__ NFT (to__ #190427) for   233.353 $ (0.187 ETH) validUntilTimeBetweenOrders 38199 seconds
+DBG [30868-353] accountId 131297 sold__ NFT (to__ #175024) for    78.067 $ (0.062 ETH) validUntilTimeBetweenOrders 49280 seconds
+DBG [30880-190] accountId 131297 bought NFT (from #183393) for    54.190 $ (0.042 ETH) validUntilTimeBetweenOrders 1047 seconds
+DBG [30914-7  ] accountId 131297 bought NFT (from #134042) for   289.098 $ (0.218 ETH) validUntilTimeBetweenOrders 12432 seconds
+DBG [30914-191] accountId 131297 sold__ NFT (to__ #183102) for    55.650 $ (0.042 ETH) validUntilTimeBetweenOrders 32 seconds
+DBG [30915-21 ] accountId 131297 bought NFT (from #188603) for    26.563 $ (0.020 ETH) validUntilTimeBetweenOrders 1242203 seconds
+DBG [30915-42 ] accountId 131297 bought NFT (from #188603) for    53.127 $ (0.040 ETH) validUntilTimeBetweenOrders 1242304 seconds
+DBG [31048-35 ] accountId 131297 sold__ NFT (to__ # 33390) for    76.962 $ (0.059 ETH) validUntilTimeBetweenOrders 877090 seconds
+DBG [31132-208] accountId 131297 bought NFT (from #138678) for    85.060 $ (0.065 ETH) validUntilTimeBetweenOrders 6442 seconds
+DBG [31179-126] accountId 131297 bought NFT (from #163737) for    65.036 $ (0.050 ETH) validUntilTimeBetweenOrders 252009 seconds
+DBG [31179-147] accountId 131297 bought NFT (from #163057) for    26.020 $ (0.020 ETH) validUntilTimeBetweenOrders 312521 seconds
+DBG [31194-311] accountId 131297 bought NFT (from #188603) for    51.318 $ (0.040 ETH) validUntilTimeBetweenOrders 1777792 seconds
+DBG [31198-130] accountId 131297 bought NFT (from #188603) for    51.174 $ (0.040 ETH) validUntilTimeBetweenOrders 1783749 seconds
+DBG [31198-309] accountId 131297 bought NFT (from #188603) for    51.174 $ (0.040 ETH) validUntilTimeBetweenOrders 1784700 seconds
+DBG [31228-124] accountId 131297 bought NFT (from # 91618) for    25.683 $ (0.020 ETH) validUntilTimeBetweenOrders 3381 seconds
+DBG [31364-10 ] accountId 131297 bought NFT (from #167278) for    36.888 $ (0.028 ETH) validUntilTimeBetweenOrders 193 seconds
+DBG [31364-24 ] accountId 131297 bought NFT (from #133417) for    36.888 $ (0.028 ETH) validUntilTimeBetweenOrders 175 seconds
+DBG [31364-120] accountId 131297 bought NFT (from # 57892) for    42.102 $ (0.032 ETH) validUntilTimeBetweenOrders 808 seconds
+DBG [31385-58 ] accountId 131297 sold__ NFT (to__ #187193) for    10.008 $ (40.000 LRC) validUntilTimeBetweenOrders 130276 seconds
+DBG [31413-24 ] accountId 131297 sold__ NFT (to__ # 38584) for    15.960 $ (0.012 ETH) validUntilTimeBetweenOrders 313 seconds
+DBG [31415-210] accountId 131297 bought NFT (from #148962) for   172.900 $ (0.130 ETH) validUntilTimeBetweenOrders 361134 seconds
+DBG [31415-238] accountId 131297 sold__ NFT (to__ #126122) for     6.650 $ (0.005 ETH) validUntilTimeBetweenOrders 1235 seconds
+DBG [31416-79 ] accountId 131297 bought NFT (from #124602) for   126.211 $ (0.095 ETH) validUntilTimeBetweenOrders 60185 seconds
+DBG [31416-80 ] accountId 131297 bought NFT (from # 41019) for   118.240 $ (0.089 ETH) validUntilTimeBetweenOrders 47627 seconds
+DBG [31425-103] accountId 131297 bought NFT (from #143208) for    49.229 $ (0.036 ETH) validUntilTimeBetweenOrders 10110 seconds
+DBG [31425-104] accountId 131297 bought NFT (from #162977) for    46.494 $ (0.034 ETH) validUntilTimeBetweenOrders 198568 seconds
+DBG [31434-84 ] accountId 131297 bought NFT (from #172546) for   312.313 $ (0.230 ETH) validUntilTimeBetweenOrders 1965579 seconds
+DBG [31434-104] accountId 131297 bought NFT (from #163037) for   165.843 $ (0.123 ETH) validUntilTimeBetweenOrders 1669649 seconds
+DBG [31561-235] accountId 131297 sold__ NFT (to__ #163098) for    89.138 $ (0.060 ETH) validUntilTimeBetweenOrders 360 seconds
+DBG [31599-244] accountId 131297 bought NFT (from # 38900) for    78.283 $ (0.050 ETH) validUntilTimeBetweenOrders 250692 seconds
+DBG [31768-267] accountId 131297 bought NFT (from #170707) for  1518.199 $ (0.999 ETH) validUntilTimeBetweenOrders 455727 seconds
+DBG [31772-285] accountId 131297 bought NFT (from #178517) for   139.476 $ (0.092 ETH) validUntilTimeBetweenOrders 5290016 seconds
+DBG [31773-50 ] accountId 131297 bought NFT (from #159009) for    43.965 $ (0.029 ETH) validUntilTimeBetweenOrders 520 seconds
+DBG [31773-52 ] accountId 131297 bought NFT (from #174175) for    45.481 $ (0.030 ETH) validUntilTimeBetweenOrders 60959 seconds
+DBG [31774-268] accountId 131297 bought NFT (from #137652) for    47.778 $ (0.031 ETH) validUntilTimeBetweenOrders 185235 seconds
+DBG [31774-269] accountId 131297 bought NFT (from #115677) for    59.210 $ (0.039 ETH) validUntilTimeBetweenOrders 29174 seconds
+DBG [31775-253] accountId 131297 bought NFT (from #131468) for   119.280 $ (0.079 ETH) validUntilTimeBetweenOrders 102612 seconds
+DBG [31776-23 ] accountId 131297 bought NFT (from #159679) for    60.437 $ (0.040 ETH) validUntilTimeBetweenOrders 44587 seconds
+DBG [31776-24 ] accountId 131297 bought NFT (from #176678) for    47.698 $ (0.031 ETH) validUntilTimeBetweenOrders 125604 seconds
+DBG [31776-310] accountId 131297 bought NFT (from #127554) for    73.214 $ (0.048 ETH) validUntilTimeBetweenOrders 30538 seconds
+DBG [31776-325] accountId 131297 bought NFT (from #135452) for    48.666 $ (0.032 ETH) validUntilTimeBetweenOrders 114845 seconds
+DBG [31778-24 ] accountId 131297 bought NFT (from #127554) for    50.342 $ (0.033 ETH) validUntilTimeBetweenOrders 9958 seconds
+DBG [31778-63 ] accountId 131297 bought NFT (from #115677) for    70.173 $ (0.046 ETH) validUntilTimeBetweenOrders 29174 seconds
+DBG [31791-314] accountId 131297 sold__ NFT (to__ #171794) for    57.519 $ (0.038 ETH) validUntilTimeBetweenOrders 9200 seconds
+DBG [31792-266] accountId 131297 bought NFT (from #128641) for    53.046 $ (0.035 ETH) validUntilTimeBetweenOrders 73040 seconds
+DBG [31857-219] accountId 131297 bought NFT (from # 43778) for     1.243 $ (0.001 ETH) validUntilTimeBetweenOrders 2846 seconds
+DBG [31866-242] accountId 131297 bought NFT (from #129856) for   172.355 $ (0.110 ETH) validUntilTimeBetweenOrders 145765 seconds
+DBG [31867-47 ] accountId 131297 bought NFT (from #127554) for   110.263 $ (0.070 ETH) validUntilTimeBetweenOrders 48227 seconds
+DBG [31867-66 ] accountId 131297 bought NFT (from #145636) for   126.014 $ (0.080 ETH) validUntilTimeBetweenOrders 98475 seconds
+DBG [31867-107] accountId 131297 bought NFT (from #128078) for    26.778 $ (0.017 ETH) validUntilTimeBetweenOrders 3935280 seconds
+DBG [31867-126] accountId 131297 bought NFT (from # 43778) for     1.260 $ (0.001 ETH) validUntilTimeBetweenOrders 15209 seconds
+DBG [31867-181] accountId 131297 bought NFT (from #193049) for    47.255 $ (0.030 ETH) validUntilTimeBetweenOrders 18623 seconds
+DBG [31871-171] accountId 131297 bought NFT (from #129856) for    55.311 $ (0.035 ETH) validUntilTimeBetweenOrders 150077 seconds
+DBG [31871-192] accountId 131297 bought NFT (from #178652) for    63.213 $ (0.040 ETH) validUntilTimeBetweenOrders 56444 seconds
+DBG [31871-193] accountId 131297 bought NFT (from #178652) for    12.643 $ (0.008 ETH) validUntilTimeBetweenOrders 52398 seconds
+DBG [31872-245] accountId 131297 bought NFT (from #172201) for    58.750 $ (0.037 ETH) validUntilTimeBetweenOrders 87325 seconds
+DBG [31872-246] accountId 131297 bought NFT (from # 53475) for    59.544 $ (0.037 ETH) validUntilTimeBetweenOrders 190971 seconds
+DBG [31902-27 ] accountId 131297 bought NFT (from # 95340) for    28.593 $ (0.018 ETH) validUntilTimeBetweenOrders 108626 seconds
+DBG [31904-8  ] accountId 131297 bought NFT (from #167229) for    12.181 $ (0.007 ETH) validUntilTimeBetweenOrders 162531 seconds
+DBG [31904-11 ] accountId 131297 bought NFT (from #124602) for    20.302 $ (0.013 ETH) validUntilTimeBetweenOrders 44454 seconds
+DBG [31904-12 ] accountId 131297 bought NFT (from #124927) for    23.551 $ (0.015 ETH) validUntilTimeBetweenOrders 147258 seconds
+DBG [31904-38 ] accountId 131297 bought NFT (from #178847) for    10.866 $ (0.007 ETH) validUntilTimeBetweenOrders 134036 seconds
+DBG [31904-45 ] accountId 131297 bought NFT (from # 88623) for    15.261 $ (0.009 ETH) validUntilTimeBetweenOrders 755333 seconds
+DBG [31904-77 ] accountId 131297 bought NFT (from #126957) for    48.606 $ (0.030 ETH) validUntilTimeBetweenOrders 536074 seconds
+DBG [31904-117] accountId 131297 bought NFT (from #134389) for   259.251 $ (0.160 ETH) validUntilTimeBetweenOrders 85645 seconds
+DBG [31911-4  ] accountId 131297 bought NFT (from #126179) for    22.634 $ (0.014 ETH) validUntilTimeBetweenOrders 948246 seconds
+DBG [32240-257] accountId 131297 bought NFT (from # 78845) for  1379.102 $ (0.900 ETH) validUntilTimeBetweenOrders 36155 seconds
+DBG [32241-47 ] accountId 131297 bought NFT (from #173068) for    55.164 $ (0.036 ETH) validUntilTimeBetweenOrders 11395 seconds
+DBG [32241-60 ] accountId 131297 bought NFT (from #143083) for    56.543 $ (0.037 ETH) validUntilTimeBetweenOrders 22487 seconds
+DBG [32242-163] accountId 131297 bought NFT (from #173068) for    45.307 $ (0.029 ETH) validUntilTimeBetweenOrders 10923 seconds
+DBG [32242-187] accountId 131297 bought NFT (from #190795) for    35.062 $ (0.023 ETH) validUntilTimeBetweenOrders 1374 seconds
+DBG [32242-188] accountId 131297 bought NFT (from # 53112) for    46.135 $ (0.030 ETH) validUntilTimeBetweenOrders 505 seconds
+DBG [32242-219] accountId 131297 bought NFT (from # 53112) for    49.394 $ (0.032 ETH) validUntilTimeBetweenOrders 505 seconds
+DBG [32243-58 ] accountId 131297 bought NFT (from #142933) for    10.627 $ (0.007 ETH) validUntilTimeBetweenOrders 160198 seconds
+DBG [32276-344] accountId 131297 sold__ NFT (to__ #166512) for    47.594 $ (0.030 ETH) validUntilTimeBetweenOrders 24369 seconds
+DBG [32701-121] accountId 131297 bought NFT (from # 43862) for   437.533 $ (0.339 ETH) validUntilTimeBetweenOrders 8090 seconds
+DBG [33138-64 ] accountId 131297 bought NFT (from # 33113) for    72.360 $ (0.060 ETH) validUntilTimeBetweenOrders 652528 seconds
+DBG [33138-65 ] accountId 131297 bought NFT (from #187649) for    53.064 $ (0.044 ETH) validUntilTimeBetweenOrders 187840 seconds
+DBG [33138-66 ] accountId 131297 bought NFT (from #133816) for    47.637 $ (0.040 ETH) validUntilTimeBetweenOrders 11969 seconds
+DBG [33138-67 ] accountId 131297 bought NFT (from # 92477) for    54.270 $ (0.045 ETH) validUntilTimeBetweenOrders 4076456 seconds
+DBG [33138-83 ] accountId 131297 bought NFT (from #166442) for    48.240 $ (0.040 ETH) validUntilTimeBetweenOrders 227362 seconds
